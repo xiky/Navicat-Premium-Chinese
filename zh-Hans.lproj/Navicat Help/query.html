@@ -1,0 +1,109 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>关于查询</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>关于查询</h1>
+	<p>查询是根据用户的请求用可读格式显示从数据库中提取的数据。Navicat 提供强大的查询工具：查询编辑器 - 可直接编辑查询文本，查询创建工具、查找创建工具或聚合创建工具 - 视觉化地创建查询。你可以保存查询，用于设置<a href="#/automation">自动运行任务</a>。在主窗口中，点击 <img src="./images/icon_query.png" alt="查询" class="inlineGraphic" height="16" width="16"/>“<span class="term">查询</span>”来打开查询的对象列表。你亦可以在主工具栏点击 <img src="./images/icon_newQueryMain.png" alt="新建查询" class="inlineGraphic" height="16" width="16"/>“<span class="term">新建查询</span>”来创建一个新的查询而不必打开任何连接。</p>
+	<p>若要使用外部编辑器打开查询，请按住 Control 键并点按查询，然后选择“<span class="term">使用外部编辑器打开</span>”。你可以在<a href="#/preferences_env">偏好设置</a>中设置外部编辑器的文件路径。</p>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>查询（.sql 或 .js）保存于<a href="#/con_adv_settings">设置位置</a>。若要打开该文件夹，请按住 Control 键并点按查询，然后选择“<span class="term">在 Finder 中显示</span>”。如果连接已同步到 <a href="#/about_cloud">Navicat Cloud</a>，它的查询会保存在云。</p>
+	</div>
+	<h2>查询设计器</h2>
+	<p>“<span class="term">查询设计器</span>”是一个用于设计查询的 Navicat 基本工具。</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>按钮</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="100%" colspan="2"><p><span class="term">MySQL、Oracle、PostgreSQL、SQLite、SQL Server 和 MariaDB</span></p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_sqlBuilder.png" alt="SQL 创建工具" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>打开 SQL 创建工具来视觉化地创建查询。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_beautify.png" alt="美化 SQL" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>在编辑器中以美化 SQL 选项设置代码的格式。</p></td>
+		</tr>
+		<tr class="tableRoll" >
+			<td width="100%" colspan="2"><p><span class="term">MongoDB</span></p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_findBuilder.png" alt="查找创建工具" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>打开查找创建工具来视觉化地创建查询。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_aggregateBuilder.png" alt="聚合创建工具" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>打开聚合创建工具来视觉化地创建查询。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_beautify.png" alt="美化脚本" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>在编辑器中设置化码格式。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_color.png" alt="类型颜色" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>【网格视图】使用在<a href="#/data_grid_mongodb">类型颜色</a>窗格中设置的特定类型颜色高亮显示单元格。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="100%" colspan="2"><p><span class="term">常规</span></p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_codeSnippet.png" alt="代码段" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>显示代码段窗格。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_text.png" alt="文本" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>启用用于查看和编辑数据的<a href="#/data_assistant_editors">辅助编辑器</a>。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_exportQuery.png" alt="导出结果" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><a href="#/export_wizard">导出</a>查询的结果。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_run.png" alt="运行" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>运行查询：运行、运行当前语句或运行已选择的（当已高亮显示代码）。<br />MongoDB 不支持运行当前语句。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_stop.png" alt="停止" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>停止运行查询。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_explain.png" alt="解释" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>显示查询的查询计划：解释或解释已选择的（当已高亮显示代码）。</p></td>
+		</tr>
+	</table>
+	<p><span class="term">在 Navicat 打开一个外部文件</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在主窗口中，点击 <img src="./images/icon_newQueryMain.png" alt="新建查询" class="inlineGraphic" height="16" width="16"/>“<span class="term">新建查询</span>”。</p></li>
+		<li><p>在查询设计器中，选择“<span class="term">文件</span>”->“<span class="term">打开外部文件</span>”。</p></li>
+		<li><p>选择文件。</p></li>
+		<li><p>点击“<span class="term">打开</span>”。</p></li>
+	</ul>
+	<p><span class="term">保存一个已打开的外部文件为 Navicat 查询</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在查询设计器中，选择“<span class="term">文件</span>”->“<span class="term">另存为 Navicat 查询</span>”。</p></li>
+		<li><p>输入查询名和选择保存路径。</p></li>
+		<li><p>点击“<span class="term">确定</span>”。</p></li>
+	</ul>
+	<p><span class="term">保存一个 Navicat 查询为外部文件</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在查询设计器中，选择“<span class="term">文件</span>”->“<span class="term">另存为外部文件</span>”。</p></li>
+		<li><p>选择保存路径和输入文件名。</p></li>
+		<li><p>点击“<span class="term">存储</span>”。</p></li>
+	</ul>
+</div>

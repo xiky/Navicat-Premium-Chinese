@@ -1,0 +1,10 @@
+
+/* Class = "NSTextFieldCell"; title = "This wizard allows you to specify details of how to export your data. Which export format would you like?"; ObjectID = "TW8-pg-fhy"; */
+"TW8-pg-fhy.title" = "向导可以让你指定导出数据的细节。你要使用哪一种导出格式？";
+
+/* Class = "NSTextFieldCell"; title = "Choose File Format (1/5)"; ObjectID = "p9c-YQ-D0w"; */
+"p9c-YQ-D0w.title" = "Choose File Format (1/5)";
+
+/* Class = "NSBox"; title = "Export Type"; ObjectID = "ry9-T0-hIp"; */
+"ry9-T0-hIp.title" = "导出类型";
+

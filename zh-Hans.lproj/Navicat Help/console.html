@@ -1,0 +1,31 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>命令列界面</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>命令列界面</h1>
+	<p>“<span class="term">命令列界面</span>” 让你使用命令列的界面来处理你的服务器。换言之，它提供一个以文本互动的屏幕，让你输入查询并从数据库输出结果。若要打开命令列界面窗口，请打开连接并从菜单栏选择“<span class="term">工具</span>”->“<span class="term">命令列界面</span>”或按 COMMAND-SHIFT-C。</p>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>你可以打开多个命令列界面窗口，每个窗口都代表不同的连接。</p>
+	</div>
+	<h2>Oracle</h2>
+	<p>对于 Oracle 服务器，你必需有“<span class="term">SQL*Plus</span>”可执行文件。在默认情况下，Navicat 会在客户端文件夹例如：ORACLE_HOME\bin）中查找 SQL*Plus。然而，如果 Navicat 在 <a href="#/preferences_env">SQL*Plus 可执行文件路径</a>中找不到 SQL*Plus，系统会提示你找出可执行文件。</p>
+ 	<div class="alert">
+		<p><span class="note">【注意】</span>SQL*Plus 不支持 Unicode。</p>
+	</div>
+	<h2>MongoDB</h2>
+	<p>对于 MongoDB 服务器，你必需有“<span class="term">Mongo Shell</span>”可执行文件。如果 Navicat 在 <a href="#/preferences_env">Mongo Shell 默认路径</a>中找不到 Mongo Shell，系统会提示你找出可执行文件。</p>
+</div>

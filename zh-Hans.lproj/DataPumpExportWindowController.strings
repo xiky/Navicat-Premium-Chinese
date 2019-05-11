@@ -1,0 +1,28 @@
+
+/* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "5ud-sf-fGv"; */
+"5ud-sf-fGv.title" = "另存为…";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "DJk-OC-nba"; */
+"DJk-OC-nba.title" = "保存";
+
+/* Class = "NSWindow"; title = "Data Pump Export"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "数据泵导出";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "GTV-bO-yYh"; */
+"GTV-bO-yYh.title" = "Menu";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "HeW-Su-Ifo"; */
+"HeW-Su-Ifo.title" = "关闭";
+
+/* Class = "NSButtonCell"; title = "Show Advanced Options"; ObjectID = "f2T-Vz-mtl"; */
+"f2T-Vz-mtl.title" = "显示高级选项";
+
+/* Class = "NSButtonCell"; title = "Start"; ObjectID = "gYW-SU-IeQ"; */
+"gYW-SU-IeQ.title" = "开始";
+
+/* Class = "NSSegmentedCell"; oTj-i6-fuL.ibShadowedLabels[0] = "Save Profile"; ObjectID = "oTj-i6-fuL"; */
+"oTj-i6-fuL.ibShadowedLabels[0]" = "保存配置文件";
+
+/* Class = "NSSegmentedCell"; oTj-i6-fuL.ibShadowedLabels[1] = "▾"; ObjectID = "oTj-i6-fuL"; */
+"oTj-i6-fuL.ibShadowedLabels[1]" = "▾";
+

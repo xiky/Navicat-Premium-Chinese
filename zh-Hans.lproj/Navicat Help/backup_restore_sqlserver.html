@@ -1,0 +1,27 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>关于 SQL Server 备份和还原</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+
+<div class="manual_content_container">
+	<h1>关于 SQL Server 备份和还原（仅适用于非 Essentials 版）</h1>
+	<p>“<span class="term">SQL Server 备份</span>”提供了重要的防护措施，保护你的 SQL Server 数据。在主窗口中，点击 <img src="./images/icon_backup.png" alt="SQL Server 备份" class="inlineGraphic" height="16" width="16"/>“<span class="term">SQL Server 备份</span>”来打开备份的对象列表。</p>
+	<p>如果你想以一个现有的备份文件的设置来备份，你可以按住 Control 键并点按对象选项卡的备份文件，然后选择“<span class="term">从这设置备份</span>”。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>备份文件保存于服务器。</p>
+	</div>
+	<p>如果你想还原一个不在对象选项卡的备份文件，你可以按住 Control 键并点按对象选项卡的任意位置，然后选择“<span class="term">从文件还原</span>”。</p>
+</div>

@@ -1,0 +1,29 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>辅助编辑器</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>辅助编辑器</h1>
+	<p>Navicat 提供强大的辅助编辑器来查看和编辑 TEXT、BLOB、BFile 或动态列字段的内容。编辑器可让你在表或集合中查看、更新、插入或删除数据。在工具栏点击 <img src="./images/icon_text.png" alt="文本" class="inlineGraphic" height="16" width="16"/>“<span class="term">文本</span>”、<img src="./images/icon_hex.png" alt="十六进制" class="inlineGraphic" height="16" width="16"/>“<span class="term">十六进制</span>”、<img src="./images/icon_image.png" alt="图像" class="inlineGraphic" height="16" width="16"/>“<span class="term">图像</span>”、<img src="./images/icon_web.png" alt="网页" class="inlineGraphic" height="16" width="16"/>“<span class="term">网页</span>”和 <img src="./images/icon_dynamic.png" alt="动态列" class="inlineGraphic" height="16" width="16"/>“<span class="term">动态列</span>”来打开相应的查看器或编辑器。</p>
+  	<div class="alert">
+		<p><span class="note">【注意】</span>MongoDB JSON 视图不支持辅助编辑器。Oracle 的 BFile 字段不可以编辑。</p>
+	</div>
+	<p>“<span class="term">文本</span>”窗格让你编辑数据为纯文本。若要更改语法高亮显示，简单地按住 Control 键并点按空白位置，然后选择“<span class="term">语言</span>”。使用导航栏的 <img src="./images/icon_updateRecord.png" alt="应用更改" class="inlineGraphic" height="16" width="16"/> 按钮来更新已更改的记录或文档。</p>
+	<p>“<span class="term">十六进制</span>”窗格让你在十六进制模式中编辑数据。使用导航栏的 <img src="./images/icon_updateRecord.png" alt="应用更改" class="inlineGraphic" height="16" width="16"/> 按钮来更新已更改的记录或文档。</p>
+	<p>“<span class="term">图像</span>”窗格让你显示数据为图像。使用 <img src="./images/icon_loadTextFile.png" alt="加载" class="inlineGraphic" height="16" width="16"/>“<span class="term">加载</span>”、<img src="./images/icon_save.png" alt="保存到磁盘" class="inlineGraphic" height="16" width="16"/>“<span class="term">保存到磁盘</span>”和 <img src="./images/icon_delete.png" alt="清除" class="inlineGraphic" height="16" width="16"/>“<span class="term">清除</span>”按钮来从文件加载或移除图像，或保存图像到一个文件。</p>
+	<p>“<span class="term">网页</span>”窗格让你如在网页浏览器中显示 HTML 代码数据。</p>
+	<p>“<span class="term">动态列</span>”窗格让你编辑 MariaDB 的动态列数据。使用左侧的“<span class="term">+</span>”和“<span class="term">-</span>”按钮来添加和删除值。</p>
+</div>

@@ -1,0 +1,31 @@
+
+/* Class = "NSWindow"; title = "Data Transfer"; ObjectID = "8"; */
+"8.title" = "数据传输";
+
+/* Class = "NSButtonCell"; title = "Next"; ObjectID = "2109"; */
+"2109.title" = "下一步";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "2111"; */
+"2111.title" = "上一步";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "Nar-22-c1R"; */
+"Nar-22-c1R.title" = "保存";
+
+/* Class = "NSTextFieldCell"; title = "Target Database"; ObjectID = "NwI-t5-E29"; */
+"NwI-t5-E29.title" = "目标数据库";
+
+/* Class = "NSMenuItem"; title = "Save As"; ObjectID = "at7-ez-cwY"; */
+"at7-ez-cwY.title" = "另存为";
+
+/* Class = "NSButtonCell"; title = "Load Profile"; ObjectID = "hnH-Re-tuA"; */
+"hnH-Re-tuA.title" = "加载配置文件";
+
+/* Class = "NSTextFieldCell"; title = "Source Database"; ObjectID = "pko-Ps-x7S"; */
+"pko-Ps-x7S.title" = "源数据库";
+
+/* Class = "NSSegmentedCell"; zd5-IY-i7J.ibShadowedLabels[0] = "Save Profile"; ObjectID = "zd5-IY-i7J"; */
+"zd5-IY-i7J.ibShadowedLabels[0]" = "保存配置文件";
+
+/* Class = "NSSegmentedCell"; zd5-IY-i7J.ibShadowedLabels[1] = "▾"; ObjectID = "zd5-IY-i7J"; */
+"zd5-IY-i7J.ibShadowedLabels[1]" = "▾";
+

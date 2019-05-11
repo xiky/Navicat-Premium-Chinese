@@ -1,0 +1,159 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>网格视图</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>网格视图</h1>
+	<p>网格视图是一个类似数据表的视图，将文档和字段显示为行和列。导航栏可让你快速地切换、插入或删除文档。</p>
+	<p><span class="term">使用网格添加一个文档</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>点击现有的记录并在导航栏点击 <img src="./images/icon_insertRecord.png" alt="添加文档" class="inlineGraphic" height="16" width="16"/> 或按 COMMAND-+ 来得到一个空白显示的文档。</p></li>
+		<li><p>输入所需的数据。</p></li>
+		<li><p>请看记录左侧的选择框。它会由指示当前记录的图形符号 <img src="./images/selectCurrentRecord.png" alt="选择文档" class="inlineGraphic" height="19" width="11"/> 变为指示你正在编辑该记录的图形符号 <img src="./images/editCurrentRecord.png" alt="编辑文档" class="inlineGraphic" height="19" width="11"/>。</p></li>
+		<li><p>若要保存文档，只需简单地移动到另一个文档或在导航栏点击 <img src="./images/icon_updateRecord.png" alt="应用更改" class="inlineGraphic" height="16" width="16"/>。</p></li>
+	</ul>
+	<div class="alert">
+		<p><span class="note">【注意】</span>如果你的集合是空的，会弹出一个窗口让你添加文档。</p>
+	</div>
+	<p><span class="term">使用弹出窗口添加一个文档</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>按住 Control 键并点按网格，然后选择“<span class="term">添加文档</span>”。</p></li>
+		<li><p>在弹出窗口中编写文档。</p></li>
+		<li><p>点击“<span class="term">验证</span>”以确保文档正确。</p></li>
+		<li><p>点击“<span class="term">添加</span>”。</p></li>
+	</ul>
+	<p><span class="term">使用网格编辑一个文档</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>点击你要更改的单元格来选择你想编辑的文档。</p></li>
+		<li><p>在该单元格输入新的数据。</p></li>
+		<li><p>只需简单地移动到另一个文档或在导航栏点击 <img src="./images/icon_updateRecord.png" alt="应用更改" class="inlineGraphic" height="16" width="16"/>，新数据就会覆盖之前的数据。</p></li>
+	</ul>
+	<p><span class="term">使用弹出窗口编辑一个文档</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>按住 Control 键并点按你想编辑的文档，然后选择“<span class="term">编辑文档</span>”。</p></li>
+		<li><p>在弹出窗口中编辑文档。</p></li>
+		<li><p>点击“<span class="term">验证</span>”以确保文档正确。</p></li>
+		<li><p>点击“<span class="term">添加</span>”。</p></li>
+	</ul>
+	<div class="alert">
+		<p><span class="note">【注意】</span>关闭表是另一种保存文档的方法。</p>
+	</div>
+	<p><span class="term">删除一个文档</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>选择你想删除的文档。</p></li>
+		<li><p>只需简单地按住 Control 键并点按文档，然后选择“<span class="term">删除文档</span>”或在导航栏点击 <img src="./images/icon_deleteRecord.png" alt="删除文档" class="inlineGraphic" height="16" width="16"/>。</p></li>
+	</ul>
+	<h2>编辑要特殊处理的文档</h2>
+	<p>若要设置单元格值为空白字符串或 NULL，请点击单元格进入编辑模式，按住 Control 键并点按单元格，然后选择“<span class="term">设置为空白字符串</span>”或“<span class="term">设置为 NULL</span>”。</p>
+	<p>若要编辑 DateTime 数据，只需简单地点击 <img src="./images/indexButton.png" alt="省略号按钮" class="inlineGraphic" height="16" width="16"/> 打开编辑器。选择或输入所需的数据。</p>
+	<figure>
+		<a href="./images/editDateTimeMongoDB.png" target="_blank"><img src="./images/editDateTimeMongoDB.png"/></a>
+	</figure>
+	<p>若要更改单元格值的类型，请点击单元格进入编辑模式，按住 Control 键并点按单元格，然后选择“<span class="term">值类型</span>”。然后，选择所需的类型。</p>
+	<h2>从 Navicat 复制数据</h2>	
+	<p>被复制的数据会由 Navicat 复制到的剪贴板，以定位分隔字段和回车键分隔文档。它让你简单地将剪贴板的内容粘贴到你想要的任何应用程序。一般的数据表应用程序会注意到字段之间的定位字符，并会整齐地分开剪贴板中的数据为行和列。</p>
+	<p>使用键盘快捷键选择数据</p>
+	<table>
+		<tr class="tableRoll">
+			<td width="25%"><p>COMMAND-A</p></td>
+			<td width="75%"><p>在数据网格中选择全部行和列。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>SHIFT-UP ARROW</p></td>
+			<td width="75%"><p>在数据网格中向上选择行。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>SHIFT-DOWN ARROW</p></td>
+			<td width="75%"><p>在数据网格中向下选择行。</p></td>
+		</tr>
+	</table> 
+	<p>使用滑鼠操作选择数据</p>
+	<ul class="ListBullet">
+		<li><p>按住 COMMAND 键并同时点选每行来选择所需的文档。</p></li>
+		<li><p>通过点选你要选择的第一行并同时按住 SHIFT 键来移动你的光标到你要选择的最后一行。</p></li>
+	</ul>
+	<div class="alert">
+		<p><span class="note">【注意】</span>当你选择所需的文档后，只需简单地按 COMMAND-C 或选择“<span class="term">编辑</span>”->“<span class="term">复制</span>”。</p>
+	</div>
+	<h2>在 Navicat 粘贴数据</h2>	
+	<p>复制到剪贴板的数据会有以下的格式：</p>
+	<ul class="ListBullet">
+		<li><p>数据编排为行和列。</p></li>
+		<li><p>行和列分别地以回车键或定位分隔。</p></li>
+		<li><p>剪贴板中的列和数据网格中已选择的列有相同的序列。</p></li>
+	</ul>
+	<p>当在 Navicat 粘贴数据时，你可以替换现有文档的内容和追加剪贴板的数据至集合。若要替换集合中现有文档的内容，你必需在数据网格选择要被剪贴板的数据替换内容的单元格。只需简单地按 COMMAND-V 或选择“<span class="term">编辑</span>”->“<span class="term">粘贴</span>”。Navicat 会将剪贴板中的所有内容粘贴到已选择的单元格中。如果你没有启用事务，粘贴动作是不可以还原的。</p>
+	<h2>复制字段名</h2>
+	<p>若要复制字段名为制表符分隔值，请按住 Control 键并点按已选择的字段或文档，然后选择“<span class="term">复制为</span>”->“<span class="term">制表符分隔值 (字段名)</span>”。如果你想复制数据或复制字段名和数据，你可以选择“<span class="term">制表符分隔值 (数据)</span>”或“<span class="term">制表符分隔值 (字段名和数据)</span>”。</p>
+	<h2>筛选文档</h2>
+	<p>请使用以下的方法筛选网格中的数据：</p>
+	<ul class="ListBullet">
+		<li><p>点击单元格进入编辑模式。按住 Control 键并点按单元格，然后选择“<span class="term">筛选</span>”->“<span class="term">字段 xxx 值</span>”来用已选择列当前的值筛选文档。</p></li>
+		<li><p>你还可以使用更复杂的方式自定义你的筛选，在工具栏点击 <img src="./images/icon_filterWizard.png" alt="筛选" class="inlineGraphic" height="16" width="16"/>。筛选向导会出现在网格的上方，你可以看到现有的筛选条件，简易地点击左侧的复选框来启用或禁用它。</p></li>
+	</ul>
+	<h2>设置网格视图格式</h2>
+	<p>使用以下的方法来设置集合网格的格式：</p>
+	<p><span class="term">根据类型高亮显示单元格</span></p>
+	<p>网格视图允许根据数据类型高亮显示单元格，让你易于识别特定的单元格。类型颜色窗格位于网格的右侧。如果网格窗口停靠在 Navicat 主窗口内，你可以点击在信息窗格中的 <img src="./images/icon_objectInfoTypeColor.png" alt="类型颜色" class="inlineGraphic" height="16" width="16"/> 图标来设置颜色。</p>
+	<p>若要应用颜色，请在工具栏点击 <img src="./images/icon_color.png" alt="类型颜色" class="inlineGraphic" height="16" width="16"/> 按钮，或者在类型颜色窗格勾选“<span class="term">启用颜色</span>”选项。</p>
+	<figure>
+		<a href="./images/typeColorMongoDB.png" target="_blank"><img src="./images/typeColorMongoDB.png"/></a>
+	</figure>
+	<p><span class="term">展开或折叠嵌入式文档</span></p>
+	<p>网格视图允许嵌入式文档与其他列一起展开，以便于数据分析。若要展开或开或折叠一个，只需简单地点击嵌入式文档并点击 <img src="./images/icon_expandField.png" alt="展开" class="inlineGraphic" height="16" width="16"/> 或 <img src="./images/icon_collapseField.png" alt="折叠" class="inlineGraphic" height="16" width="16"/>，或按住 Control 键并点按单元格，然后选择“<span class="term">展开</span>”、“<span class="term">折叠</span>”或“<span class="term">折叠全部嵌入式文档</span>”。</p>
+	<figure>
+		<a href="./images/embeddedFieldMongoDB.png" target="_blank"><img src="./images/embeddedFieldMongoDB.png"/></a>
+	</figure>
+	<p><span class="term">展开数组</span></p>
+	<p>网格视图允许显示数组中的所有元素。若要展开数组元素，只需简单地点击有数组元素的单元格并点击 <img src="./images/icon_expandField.png" alt="展开" class="inlineGraphic" height="16" width="16"/>，或按住 Control 键并点按有数组元素的单元格，然后选择“<span class="term">展开</span>”。</p>
+	<figure>
+		<a href="./images/arrayMongoDB.png" target="_blank"><img src="./images/arrayMongoDB.png"/></a>
+	</figure>
+	<p>所有数组元素都显示在新网格上。你可以在此处查看、添加或删除元素。点击集合名以跳回集合网格。</p>
+	<figure>
+		<a href="./images/arrayElementMongoDB.png" target="_blank"><img src="./images/arrayElementMongoDB.png"/></a>
+	</figure>
+	<p><span class="term">移动列</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>用滑鼠的左键按住列标题。</p></li>
+		<li><p>移动滑鼠光标到所需的位置。</p></li>
+		<li><p>释放滑鼠，列将会移动。</p></li>
+	</ul>
+	<figure>
+		<a href="./images/moveColumnMongoDB.png" target="_blank"><img src="./images/moveColumnMongoDB.png"/></a>
+	</figure>
+	<p><span class="term">设置列宽</span></p>
+	<ul class="ListBullet">
+		<li><p>按住列顶部的右边界并拖曳到左或右。</p></li>
+		<li><p>双击列顶部的右边界来调整为最适合列的宽度。</p></li>
+		<li><p>按住 Control 键并点按列，然后选择“<span class="term">设置列宽</span>”或从“<span class="term">查看</span>”菜单选择。然后，在“<span class="term">设置全部列宽</span>”对话框输入列宽。</p></li>
+	</ul>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>结果应用到所有列。</p>
+	</div>
+	<p><span class="term">设置行高</span></p>
+	<p>按住 Control 键并点按集合网格的任意位置，然后选择“<span class="term">设置行高</span>”或从“<span class="term">查看</span>”菜单选择。然后，在“<span class="term">设置行高</span>”对话框输入行高。</p>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>这个动作只能应用到当前的表网格。</p>
+	</div>
+	<p><span class="term">显示或隐藏列</span></p>
+	<p>如果集合中有很多列，而你想在集合网格隐藏其中一些列，只需简单地按住 Control 键并点按集合网格的任意位置，然后选择“<span class="term">显示或隐藏列</span>”或从“<span class="term">查看</span>”菜单选择。然后，选择你想隐藏的列。</p>
+	<p>隐藏列将会从集合网格中消失。</p>
+	<p>若要取消隐藏列，只需简单地按住 Control 键并点按集合网格的任意位置，然后选择“<span class="term">显示或隐藏列</span>”或从“<span class="term">查看</span>”菜单选择。然后，选择你想重新显示的列。</p>
+	<figure>
+		<a href="./images/showHideColumnMongoDB.png" target="_blank"><img src="./images/showHideColumnMongoDB.png"/></a>
+	</figure>
+</div>

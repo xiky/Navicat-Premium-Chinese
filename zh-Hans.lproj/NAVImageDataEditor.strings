@@ -1,0 +1,13 @@
+
+/* Class = "NSButton"; ibShadowedToolTip = "Load"; ObjectID = "JgH-aM-88V"; */
+"JgH-aM-88V.ibShadowedToolTip" = "加载";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Save to disk"; ObjectID = "Z3l-Sm-AgM"; */
+"Z3l-Sm-AgM.ibShadowedToolTip" = "保存到磁盘";
+
+/* Class = "NSTextFieldCell"; title = "No selected BLOB field"; ObjectID = "oyd-5Y-DeL"; */
+"oyd-5Y-DeL.title" = "未选取 BLOB 字段";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Clear"; ObjectID = "urO-Tt-BbM"; */
+"urO-Tt-BbM.ibShadowedToolTip" = "清除";
+

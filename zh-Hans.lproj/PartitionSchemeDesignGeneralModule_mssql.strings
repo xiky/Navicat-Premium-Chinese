@@ -1,0 +1,16 @@
+
+/* Class = "NSTableColumn"; headerCell.title = "Interval"; ObjectID = "7We-aa-tVt"; */
+"7We-aa-tVt.headerCell.title" = "间隔";
+
+/* Class = "NSTableColumn"; headerCell.title = "Partition"; ObjectID = "G9j-4q-IWs"; */
+"G9j-4q-IWs.headerCell.title" = "分区";
+
+/* Class = "NSMenuItem"; title = "Assign all to \"%@\"..."; ObjectID = "JI5-34-i9s"; */
+"JI5-34-i9s.title" = "Assign all to \"%@\"...";
+
+/* Class = "NSTableColumn"; headerCell.title = "Filegroup"; ObjectID = "hPe-C2-kmW"; */
+"hPe-C2-kmW.headerCell.title" = "文件组";
+
+/* Class = "NSTextFieldCell"; title = "Partition Function:"; ObjectID = "raG-qR-lBs"; */
+"raG-qR-lBs.title" = "分区函数:";
+

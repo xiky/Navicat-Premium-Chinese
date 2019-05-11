@@ -1,0 +1,41 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>视图</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>视图</h1>
+	<p>视图是将指定的聚合管道应用于源集合或视图的结果。在主窗口中，点击 <img src="./images/icon_view.png" alt="视图" class="inlineGraphic" height="16" width="16"/>“<span class="term">视图</span>”来打开视图的对象列表。</p>
+	<p>你可以拖出视图以创建一个视图快捷方式。这个快捷方式让你快速直接地打开视图，而无需打开 Navicat 主窗口。</p>
+	<h2>视图设计器</h2>
+	<p>“<span class="term">视图设计器</span>”是一个用于设计视图的 Navicat 基本工具。</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>按钮</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_previewView.png" alt="预览" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>预览视图的数据。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_explain.png" alt="解释" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>显示视图的查询计划。</p></td>
+		</tr>
+	</table>
+	<p>在“ <span class="term">管道</span>”选项卡中，你可以添加、插入或删除聚合管道阶段。在“<span class="term">运算符</span>”列，选择一个表达式运算符。在“<span class="term">表达式</span>”列中会生成表达式范本，你可以修改范本。</p>
+	<h2>视图查看器</h2>
+	<p>当你打开视图时，“<span class="term">视图查看器</span>”以网格显示数据。数据可以用三种模式显示：网格视图、树视图和 JSON 视图。详细信息请参阅<a href="#/data_viewer">数据查看器</a>。</p>
+</div>

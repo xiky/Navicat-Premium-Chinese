@@ -1,0 +1,22 @@
+
+/* Class = "NSTextFieldCell"; title = "Key Block Size:"; ObjectID = "1Tv-MG-2WT"; */
+"1Tv-MG-2WT.title" = "键块大小:";
+
+/* Class = "NSTextFieldCell"; title = "Cardinality:"; ObjectID = "1xV-a0-J41"; */
+"1xV-a0-J41.title" = "基数:";
+
+/* Class = "NSTextFieldCell"; title = "Packed:"; ObjectID = "aaE-y7-5UZ"; */
+"aaE-y7-5UZ.title" = "已封装:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "imq-Ge-Dm1"; */
+"imq-Ge-Dm1.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Parser:"; ObjectID = "p4c-wH-bAc"; */
+"p4c-wH-bAc.title" = "解析器:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "vsj-Dh-De8"; */
+"vsj-Dh-De8.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Collation:"; ObjectID = "zYJ-OD-nEA"; */
+"zYJ-OD-nEA.title" = "排序规则:";
+

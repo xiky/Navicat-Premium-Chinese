@@ -1,0 +1,28 @@
+
+/* Class = "NSMenuItem"; title = "Change Password..."; ObjectID = "50P-nb-mN1"; */
+"50P-nb-mN1.title" = "更改密码...";
+
+/* Class = "NSTextFieldCell"; title = "User Name"; ObjectID = "5UH-cL-qG8"; */
+"5UH-cL-qG8.title" = "用户名";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "B8g-er-3Zh"; */
+"B8g-er-3Zh.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Upgrade message"; ObjectID = "KoC-Dq-mTe"; */
+"KoC-Dq-mTe.title" = "Upgrade message";
+
+/* Class = "NSTextFieldCell"; title = "Usage | Loading"; ObjectID = "a2T-83-spp"; */
+"a2T-83-spp.title" = "Usage | Loading";
+
+/* Class = "NSMenuItem"; title = "email@gmail.com"; ObjectID = "ej9-K3-aqP"; */
+"ej9-K3-aqP.title" = "email@gmail.com";
+
+/* Class = "NSMenuItem"; title = "Sign Out"; ObjectID = "gFh-2H-f5r"; */
+"gFh-2H-f5r.title" = "退出";
+
+/* Class = "NSButtonCell"; title = "Upgrade"; ObjectID = "hOE-oC-qac"; */
+"hOE-oC-qac.title" = "升级";
+
+/* Class = "NSTextFieldCell"; title = "Expiry Date: Nov 17, 2017, 12:12"; ObjectID = "rt6-cm-8Kh"; */
+"rt6-cm-8Kh.title" = "Expiry Date: Nov 17, 2017, 12:12";
+

@@ -1,0 +1,46 @@
+
+/* Class = "NSTextFieldCell"; placeholderString = "10"; ObjectID = "0Fi-8O-QgE"; */
+"0Fi-8O-QgE.placeholderString" = "10";
+
+/* Class = "NSTextFieldCell"; title = "TDS Version:"; ObjectID = "HG5-gJ-2zh"; */
+"HG5-gJ-2zh.title" = "TDS 版本:";
+
+/* Class = "NSTextFieldCell"; title = "Settings Location:"; ObjectID = "HsU-qI-b49"; */
+"HsU-qI-b49.title" = "设置位置:";
+
+/* Class = "NSMenuItem"; title = "7.0"; ObjectID = "Vjj-9f-hDs"; */
+"Vjj-9f-hDs.title" = "7.0";
+
+/* Class = "NSMenuItem"; title = "7.2"; ObjectID = "WFQ-UO-Ivy"; */
+"WFQ-UO-Ivy.title" = "7.2";
+
+/* Class = "NSMenuItem"; title = "5.0"; ObjectID = "clq-t5-Ozj"; */
+"clq-t5-Ozj.title" = "5.0";
+
+/* Class = "NSMenuItem"; title = "4.2"; ObjectID = "faB-kT-Zw6"; */
+"faB-kT-Zw6.title" = "4.2";
+
+/* Class = "NSButtonCell"; title = "Limit connection sessions:"; ObjectID = "g7Y-M8-GhM"; */
+"g7Y-M8-GhM.title" = "限制连接会话:";
+
+/* Class = "NSMenuItem"; title = "7.1"; ObjectID = "hWJ-RT-UKu"; */
+"hWJ-RT-UKu.title" = "7.1";
+
+/* Class = "NSMenuItem"; title = "7.3"; ObjectID = "iRn-Uj-7BL"; */
+"iRn-Uj-7BL.title" = "7.3";
+
+/* Class = "NSButtonCell"; title = "Keepalive interval (sec):"; ObjectID = "ilj-kw-a8s"; */
+"ilj-kw-a8s.title" = "保持连接间隔（秒）:";
+
+/* Class = "NSButtonCell"; title = "Auto connect"; ObjectID = "kQL-Zb-pUA"; */
+"kQL-Zb-pUA.title" = "自动连接";
+
+/* Class = "NSMenuItem"; title = "7.4"; ObjectID = "qCW-72-Ei0"; */
+"qCW-72-Ei0.title" = "7.4";
+
+/* Class = "NSMenuItem"; title = "Auto"; ObjectID = "wbs-Vz-H5d"; */
+"wbs-Vz-H5d.title" = "自动";
+
+/* Class = "NSTextFieldCell"; placeholderString = "240"; ObjectID = "wrS-fo-6Sw"; */
+"wrS-fo-6Sw.placeholderString" = "240";
+

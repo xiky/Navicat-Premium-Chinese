@@ -1,0 +1,10 @@
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "8Ke-cq-Ktv"; */
+"8Ke-cq-Ktv.title" = "关闭";
+
+/* Class = "NSWindow"; title = "Restore Backup"; ObjectID = "J3Z-oE-xby"; */
+"J3Z-oE-xby.title" = "还原备份";
+
+/* Class = "NSButtonCell"; title = "Generate SQL"; ObjectID = "jQj-D2-gcO"; */
+"jQj-D2-gcO.title" = "生成 SQL";
+

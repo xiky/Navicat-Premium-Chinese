@@ -1,0 +1,34 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>查找创建工具</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>查找创建工具（仅适用于非 Essentials 版本）</h1>
+	<p>Navicat 提供查找创建工具让你视觉化地创建查询以选择集合或视图中的文档。它让你不需具有 <i>find</i> 语句的知识就能轻松创建和编辑查询。</p>
+	<p>在查询设计器中，点击 <img src="./images/icon_findBuilder.png" alt="查找创建工具" class="inlineGraphic" height="16" width="16"/> 按钮来打开视觉化的查找创建工具。</p>
+	<figure>
+		<a href="./images/queryFindBuilder.png" target="_blank"><img src="./images/queryFindBuilder.png"/></a>
+	</figure>
+	<p>从“<span class="term">集合或视图</span>”下拉列表中选择要查询的集合或视图的名。</p>
+	<h2>筛选</h2>
+	<p>在此选项卡中，你可以为查询指定选择筛选。符合条件的文档将被返回。如果没有指定筛选，则将返回所有文档。详细信息请参阅<a href="#/data_filter_wizard">筛选向导</a>。</p>
+	<h2>投影</h2>
+	<p>在此选项卡中，你可以选择在返回的文档中包含或排除哪些字段。如果没有指定投影，则将返回所有字段。</p>
+	<h2>排序</h2>
+	<p>在此选项卡中，你可以按字段以升序或降序排序返回的文档。</p>
+	<h2>限制</h2>
+	<p>在此选项卡中，你可以限制要返回的最大文档数，并设置要跳过的文档数。</p>	
+</div>

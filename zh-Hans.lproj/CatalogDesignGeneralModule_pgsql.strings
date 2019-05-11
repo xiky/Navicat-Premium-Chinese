@@ -1,0 +1,31 @@
+
+/* Class = "NSTextFieldCell"; title = "Character Classification:"; ObjectID = "1Go-rS-xuv"; */
+"1Go-rS-xuv.title" = "字符分类:";
+
+/* Class = "NSTextFieldCell"; title = "Connection Limit:"; ObjectID = "762-8Z-etY"; */
+"762-8Z-etY.title" = "连接限制:";
+
+/* Class = "NSTextFieldCell"; title = "Tablespace:"; ObjectID = "7o3-fM-znt"; */
+"7o3-fM-znt.title" = "表空间:";
+
+/* Class = "NSTextFieldCell"; title = "Collation Order:"; ObjectID = "7zu-OP-Myj"; */
+"7zu-OP-Myj.title" = "排序规则排序:";
+
+/* Class = "NSButtonCell"; title = "Allow Connection"; ObjectID = "8pp-mL-aIZ"; */
+"8pp-mL-aIZ.title" = "允许连接";
+
+/* Class = "NSTextFieldCell"; title = "Database Name:"; ObjectID = "D5d-Wa-r3v"; */
+"D5d-Wa-r3v.title" = "数据库名:";
+
+/* Class = "NSTextFieldCell"; title = "Owner:"; ObjectID = "EGG-TC-AwD"; */
+"EGG-TC-AwD.title" = "拥有者:";
+
+/* Class = "NSButtonCell"; title = "Is Template"; ObjectID = "dFg-GK-fw4"; */
+"dFg-GK-fw4.title" = "是范本";
+
+/* Class = "NSTextFieldCell"; title = "Encoding:"; ObjectID = "egl-L5-VpM"; */
+"egl-L5-VpM.title" = "编码:";
+
+/* Class = "NSTextFieldCell"; title = "Template:"; ObjectID = "xbr-13-sVs"; */
+"xbr-13-sVs.title" = "范本:";
+

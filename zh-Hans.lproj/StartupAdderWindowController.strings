@@ -1,0 +1,16 @@
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "4Ol-2k-s9h"; */
+"4Ol-2k-s9h.title" = "取消";
+
+/* Class = "NSWindow"; title = "Add Startup Tabs"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "添加启动画面的选项卡";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "FsM-W5-UpU"; */
+"FsM-W5-UpU.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "Ii8-6r-zBL"; */
+"Ii8-6r-zBL.title" = "确定";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "zdj-ty-lPz"; */
+"zdj-ty-lPz.title" = "Table View Cell";
+

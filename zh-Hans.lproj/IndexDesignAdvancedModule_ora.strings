@@ -1,0 +1,55 @@
+
+/* Class = "NSMenuItem"; title = "VISIBLE"; ObjectID = "4W7-ec-KvF"; */
+"4W7-ec-KvF.title" = "VISIBLE";
+
+/* Class = "NSButtonCell"; title = "Online"; ObjectID = "6XK-qZ-rrw"; */
+"6XK-qZ-rrw.title" = "在线";
+
+/* Class = "NSTextFieldCell"; title = "Create/Build Options"; ObjectID = "EHY-BB-5Yz"; */
+"EHY-BB-5Yz.title" = "创建或构建选项";
+
+/* Class = "NSButtonCell"; title = "Unusable"; ObjectID = "ICR-Ug-kl9"; */
+"ICR-Ug-kl9.title" = "无法使用";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "Jgu-RD-xBF"; */
+"Jgu-RD-xBF.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "INVISIBLE"; ObjectID = "REm-kG-fjx"; */
+"REm-kG-fjx.title" = "INVISIBLE";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "S4Z-lG-IZj"; */
+"S4Z-lG-IZj.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "NOLOGGING"; ObjectID = "W1U-E1-0ji"; */
+"W1U-E1-0ji.title" = "NOLOGGING";
+
+/* Class = "NSButtonCell"; title = "Physical Attributes"; ObjectID = "ZBU-2e-kdK"; */
+"ZBU-2e-kdK.title" = "实体属性";
+
+/* Class = "NSTextFieldCell"; title = "Visibility:"; ObjectID = "ezg-TH-egv"; */
+"ezg-TH-egv.title" = "能见度:";
+
+/* Class = "NSTextFieldCell"; title = "Tablespace:"; ObjectID = "k1y-Xw-AfN"; */
+"k1y-Xw-AfN.title" = "表空间:";
+
+/* Class = "NSButtonCell"; title = "Reverse"; ObjectID = "kun-nN-h8m"; */
+"kun-nN-h8m.title" = "逆向";
+
+/* Class = "NSMenuItem"; title = "LOGGING"; ObjectID = "lCV-5E-OvH"; */
+"lCV-5E-OvH.title" = "LOGGING";
+
+/* Class = "NSButtonCell"; title = "Parallel: "; ObjectID = "ou7-WY-QcX"; */
+"ou7-WY-QcX.title" = "并行:";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "rvC-wP-LO1"; */
+"rvC-wP-LO1.title" = "Item 2";
+
+/* Class = "NSButtonCell"; title = "No Sort"; ObjectID = "sfG-0C-tLX"; */
+"sfG-0C-tLX.title" = "没有排序";
+
+/* Class = "NSButtonCell"; title = "Compress:"; ObjectID = "skI-Cw-TCi"; */
+"skI-Cw-TCi.title" = "压缩:";
+
+/* Class = "NSTextFieldCell"; title = "Logging:"; ObjectID = "suy-53-GYR"; */
+"suy-53-GYR.title" = "记录:";
+

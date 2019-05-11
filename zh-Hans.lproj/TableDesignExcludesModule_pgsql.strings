@@ -1,0 +1,49 @@
+
+/* Class = "NSTextFieldCell"; title = "Deferrable:"; ObjectID = "5XQ-7I-7n7"; */
+"5XQ-7I-7n7.title" = "可延迟:";
+
+/* Class = "NSTextFieldCell"; title = "Deferred:"; ObjectID = "7JY-jM-35u"; */
+"7JY-jM-35u.title" = "延迟:";
+
+/* Class = "NSComboBoxCell"; 9Ed-NP-z6X.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "9Ed-NP-z6X"; */
+"9Ed-NP-z6X.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; 9Ed-NP-z6X.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "9Ed-NP-z6X"; */
+"9Ed-NP-z6X.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; 9Ed-NP-z6X.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "9Ed-NP-z6X"; */
+"9Ed-NP-z6X.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "HZS-EB-vCI"; */
+"HZS-EB-vCI.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "LIv-gZ-idF"; */
+"LIv-gZ-idF.title" = "Table View Cell";
+
+/* Class = "NSComboBoxCell"; O3s-oa-8E1.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "O3s-oa-8E1"; */
+"O3s-oa-8E1.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; O3s-oa-8E1.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "O3s-oa-8E1"; */
+"O3s-oa-8E1.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; O3s-oa-8E1.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "O3s-oa-8E1"; */
+"O3s-oa-8E1.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Where:"; ObjectID = "UOM-MK-Zae"; */
+"UOM-MK-Zae.title" = "位置:";
+
+/* Class = "NSTextFieldCell"; title = "Buffering:"; ObjectID = "aDH-66-Jwa"; */
+"aDH-66-Jwa.title" = "正在缓冲:";
+
+/* Class = "NSTextFieldCell"; title = "Fill Factor (%):"; ObjectID = "fiW-xt-2bT"; */
+"fiW-xt-2bT.title" = "填充因子（%）:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "jbd-jb-3Nr"; */
+"jbd-jb-3Nr.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Tablespace:"; ObjectID = "m5S-Xb-00i"; */
+"m5S-Xb-00i.title" = "表空间:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "wNX-AN-rH4"; */
+"wNX-AN-rH4.title" = "Text Cell";
+

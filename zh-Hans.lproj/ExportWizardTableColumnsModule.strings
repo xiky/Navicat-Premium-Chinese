@@ -1,0 +1,28 @@
+
+/* Class = "NSTextFieldCell"; title = "Source Table:"; ObjectID = "FxC-Fq-41y"; */
+"FxC-Fq-41y.title" = "源表:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Wv4-KM-Jg6"; */
+"Wv4-KM-Jg6.title" = "Text Cell";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "YRm-Oy-MVl"; */
+"YRm-Oy-MVl.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "All fields"; ObjectID = "gQE-7R-R7S"; */
+"gQE-7R-R7S.title" = "全部字段";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "gWi-EC-0x6"; */
+"gWi-EC-0x6.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "You can select the fields to export."; ObjectID = "iB2-c6-jbt"; */
+"iB2-c6-jbt.title" = "你可以选择导出哪些列。";
+
+/* Class = "NSButtonCell"; title = "Deselect All"; ObjectID = "lD5-dR-Ydc"; */
+"lD5-dR-Ydc.title" = "取消全选";
+
+/* Class = "NSButtonCell"; title = "Select All"; ObjectID = "wWi-0j-gdf"; */
+"wWi-0j-gdf.title" = "全选";
+
+/* Class = "NSTextFieldCell"; title = "Choose Table Fields (3/5)"; ObjectID = "xYi-Q8-Vlb"; */
+"xYi-Q8-Vlb.title" = "Choose Table Fields (3/5)";
+

@@ -1,0 +1,22 @@
+
+/* Class = "NSTextFieldCell"; title = "Host:"; ObjectID = "Mkb-4e-z1n"; */
+"Mkb-4e-z1n.title" = "主机:";
+
+/* Class = "NSTextFieldCell"; title = "Confirm Password:"; ObjectID = "a1V-Sc-pbI"; */
+"a1V-Sc-pbI.title" = "确认密码:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Days"; ObjectID = "cmE-fM-CLL"; */
+"cmE-fM-CLL.placeholderString" = "天";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "gce-nw-jeE"; */
+"gce-nw-jeE.title" = "密码:";
+
+/* Class = "NSTextFieldCell"; title = "Plugin:"; ObjectID = "geG-WO-aI5"; */
+"geG-WO-aI5.title" = "插件:";
+
+/* Class = "NSTextFieldCell"; title = "Expire Password Policy:"; ObjectID = "sKZ-48-u4i"; */
+"sKZ-48-u4i.title" = "密码过期策略:";
+
+/* Class = "NSTextFieldCell"; title = "User Name:"; ObjectID = "uv1-1u-hlL"; */
+"uv1-1u-hlL.title" = "用户名:";
+

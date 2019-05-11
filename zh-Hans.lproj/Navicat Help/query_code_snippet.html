@@ -1,0 +1,81 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>代码段</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>代码段（仅适用于非 Essentials 版本）</h1>
+	<p>代码段为在编辑器中工作时将可重用的代码插入到语句或脚本中提供了一种简单的方法。代码段窗格位于编辑器的右侧。如果编辑器窗口停靠在 Navicat 主窗口内，你可以点击在信息窗格中的 <img src="./images/icon_objectInfoCodeSnippet.png" alt="代码段" class="inlineGraphic" height="16" width="16"/> 图标来打开代码段库。</p>
+	<p>代码段库包含所有内置和用户定义的片段。从下拉式菜单中选择一个标签，或在搜索框中输入搜索字符串来筛选代码段列表。如果你想根据数据库类型显示可用的片段，你可以按住 Control 键并点按代码段库的任意位置，然后禁用“<span class="term">显示其他数据库类型的片段</span>”。</p>
+	<figure>
+		<a href="./images/querySnippetList.png" target="_blank"><img src="./images/querySnippetList.png"/></a>
+	</figure>
+	<p>内置的片段是不可编辑的。在代码段库中双击用户定义的片段，然后点击“<span class="term">编辑</span>”来编辑它。如果你想隐藏内置的片段，你可以按住 Control 键并点按代码段库的任意位置，然后禁用“<span class="term">显示默认的片段</span>”。</p>
+	<h2>使用代码段</h2>
+	<p>在编辑器中插入一个代码段有两种方法。</p>
+	<ul class="ListBullet">
+		<li>
+			<p>你可以在编辑器中开始输入代码段的名。智能自动完成代码功能将弹出自动完成单词的建议列表。从列表中选择一个片段名，已保存的代码将被插入到编辑器中。</p>
+			<figure>
+				<a href="./images/querySnippetCodeCompletion.png" target="_blank"><img src="./images/querySnippetCodeCompletion.png"/></a>
+			</figure>
+		</li>
+		<li><p>你可以将代码段库中的代码段拖放到编辑器中。</p></li>
+	</ul>	
+	<p>将帶有占位符的代码段插入编辑器后，你可以轻松地定位到它们，点击其中一个占位符，然后使用 TAB 键并输入信息。</p>
+	<figure>
+		<a href="./images/querySnippetPlaceholder.png" target="_blank"><img src="./images/querySnippetPlaceholder.png"/></a>
+	</figure>
+	<h2>创建代码段</h2>
+	<p>你可以创建自己的代码段并将其加到代码段库中。若要创建一个代码段，请在编辑器中选择所需的代码，按住 Control 键并点按代码，然后选择“<span class="term">创建片段</span>”。你亦可以简单地拖拉已选择的代码到代码段窗格。</p>
+	<p>或者，点击代码段窗格中的 <img src="./images/icon_newCodeSnippet.png" alt="新建片段" class="inlineGraphic" height="16" width="16"/>。如果使用此方法，则必须在新建代码段窗口中手动输入代码，在编辑器中已选择的代码不会自动加到代码框中。</p>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>代码段（.nsnippet）保存于默认的路径，例如：~/Library/Application Support/PremiumSoft CyberTech/Navicat CC/Common/Snippet。</p>
+	</div>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项或按钮</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>未命名的文本框</p></td>
+			<td width="75%"><p>输入在代码段库和自动完成代码列表中显示的片段名。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>数据库类型</p></td>
+			<td width="75%"><p>选择该片段的数据库服务器类型。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>标签</p></td>
+			<td width="75%"><p>为该片段选择一个现有的标签或输入一个新的标签名。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>备註</p></td>
+			<td width="75%"><p>输入代码段库中显示的片段的描述。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>代码</p></td>
+			<td width="75%"><p>	输入代码。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_addPlaceholder.png" alt="添加占位符" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>高亮显示代码中的任何单词并点击此按钮来添加占位符。占位符将以浅绿色高亮显示。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_removePlaceholder.png" alt="移除占位符" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>在代码中高亮显示占位符，然后点击此按钮来移除它。</p></td>
+		</tr>
+	</table>
+</div>

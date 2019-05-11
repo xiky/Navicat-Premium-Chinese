@@ -1,0 +1,40 @@
+
+/* Class = "NSTextFieldCell"; title = "Owner:"; ObjectID = "4Ni-LL-kN8"; */
+"4Ni-LL-kN8.title" = "拥有者:";
+
+/* Class = "NSTextFieldCell"; title = "Owned By Column:"; ObjectID = "77V-qt-OmV"; */
+"77V-qt-OmV.title" = "由列拥有:";
+
+/* Class = "NSTextFieldCell"; title = "Last Value:"; ObjectID = "Hji-eg-H2o"; */
+"Hji-eg-H2o.title" = "Last Value:";
+
+/* Class = "NSButtonCell"; title = "Add owned by"; ObjectID = "RQi-Ko-iMq"; */
+"RQi-Ko-iMq.title" = "添加拥有者";
+
+/* Class = "NSButtonCell"; title = "Cyclic"; ObjectID = "TTi-Jk-hKo"; */
+"TTi-Jk-hKo.title" = "循环";
+
+/* Class = "NSTextFieldCell"; title = "Owned By Table:"; ObjectID = "Uck-Eb-lQC"; */
+"Uck-Eb-lQC.title" = "由表拥有:";
+
+/* Class = "NSTextFieldCell"; title = "Starting Value:"; ObjectID = "bAE-89-tak"; */
+"bAE-89-tak.title" = "开始值:";
+
+/* Class = "NSTextFieldCell"; title = "Minimum Value:"; ObjectID = "dZ4-nk-N2G"; */
+"dZ4-nk-N2G.title" = "最小值:";
+
+/* Class = "NSButtonCell"; title = "No maximum value"; ObjectID = "eC0-CY-hXy"; */
+"eC0-CY-hXy.title" = "没有最大值";
+
+/* Class = "NSButtonCell"; title = "No minimum value"; ObjectID = "hQE-Ne-roa"; */
+"hQE-Ne-roa.title" = "没有最小值";
+
+/* Class = "NSTextFieldCell"; title = "Increment:"; ObjectID = "hnE-2B-6bS"; */
+"hnE-2B-6bS.title" = "递增:";
+
+/* Class = "NSTextFieldCell"; title = "Cache Size:"; ObjectID = "pbm-qj-vUG"; */
+"pbm-qj-vUG.title" = "缓存大小:";
+
+/* Class = "NSTextFieldCell"; title = "Maximum Value:"; ObjectID = "zze-Cd-G1V"; */
+"zze-Cd-G1V.title" = "最大值:";
+

@@ -1,0 +1,44 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>维护用户</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>维护用户</h1>
+	<p>Navicat 为维护 Oracle 用户提供完整的解决方案。</p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在对象选项卡中选择用户。</p></li>
+		<li><p>按住 Control 键并点按已选择的用户。</p></li>
+		<li><p>选择“<span class="term">维护</span>”，然后从弹出式菜单中选择一个维护选项。</p></li>
+	</ul>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>锁定用户</p></td>
+			<td width="75%"><p>锁定用户的帐号和禁用访问。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>解除锁定用户</p></td>
+			<td width="75%"><p>解除锁定用户的帐号和启用访问。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>过期用户</p></td>
+			<td width="75%"><p>设置用户的密码为过期。</p></td>
+		</tr>
+	</table>
+</div>

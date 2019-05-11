@@ -1,0 +1,43 @@
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "4LJ-3L-Wts"; */
+"4LJ-3L-Wts.title" = "确定";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "8cY-qu-JvF"; */
+"8cY-qu-JvF.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "B2r-Lx-1F8"; */
+"B2r-Lx-1F8.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "File"; ObjectID = "Eqo-sF-9p3"; */
+"Eqo-sF-9p3.headerCell.title" = "文件";
+
+/* Class = "NSTextFieldCell"; title = "Database Name:"; ObjectID = "FO0-ep-hqn"; */
+"FO0-ep-hqn.title" = "数据库名:";
+
+/* Class = "NSButtonCell"; title = "Encrypt"; ObjectID = "Fex-IP-oTT"; */
+"Fex-IP-oTT.title" = "加密";
+
+/* Class = "NSTextFieldCell"; title = "Database File:"; ObjectID = "H1T-MG-9FN"; */
+"H1T-MG-9FN.title" = "数据库文件:";
+
+/* Class = "NSTextFieldCell"; title = "* All passwords will not be saved to Navicat Cloud"; ObjectID = "HBx-iv-7SY"; */
+"HBx-iv-7SY.title" = "* 所有密码不会保存到 Navicat Cloud";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "RVu-5f-sQI"; */
+"RVu-5f-sQI.title" = "密码:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Database"; ObjectID = "ZQK-Kd-upn"; */
+"ZQK-Kd-upn.headerCell.title" = "数据库";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Zj8-Uu-e7u"; */
+"Zj8-Uu-e7u.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "aOz-pR-0yF"; */
+"aOz-pR-0yF.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Edit Password:"; ObjectID = "yGX-fp-v32"; */
+"yGX-fp-v32.title" = "编辑密码:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Encrypted"; ObjectID = "yHx-gC-Zwc"; */
+"yHx-gC-Zwc.headerCell.title" = "已加密";
+

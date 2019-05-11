@@ -1,0 +1,116 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>使用导航栏</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>使用导航栏</h1>
+	<p>使用数据查看器的“<span class="term">导航栏</span>”按钮，可以快捷方便地浏览文档或页。</p>
+	<figure>
+		<a href="./images/tableNaviBarMongoDB.png" target="_blank"><img src="./images/tableNaviBarMongoDB.png"/></a>
+	</figure>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>按钮</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_insertRecord.png" alt="添加文档" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">添加文档</span> - 输入一个新的文档。在使用数据查看器的任何时候，点击此按钮来得到一个空白的文档。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_deleteRecord.png" alt="删除文档" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">删除文档</span> - 删除一个现有的文档。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_updateRecord.png" alt="应用更改" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">应用更改</span> - 应用已做的更改。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_cancelRecord.png" alt="放弃更改" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">放弃更改</span> - 移除当前记录的全部编辑。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_refreshRecord.png" alt="刷新" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">刷新</span> - 刷新数据。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_stopRecord.png" alt="停止" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">停止</span> - 当从服务器加载大量数据时，停止加载。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_leftAll.png" alt="第一页" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">第一页</span> - 移动到第一页。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_left.png" alt="上一页" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">上一页</span> - 移动到上一页。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_right.png" alt="下一页" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">下一页</span> - 移动到下一页。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_rightAll.png" alt="最后一页" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">最后一页</span> - 移动到最后一页。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_upAll.png" alt="第一个文档" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">第一个文档</span> - 移动到第一个文档。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_up.png" alt="上一个文档" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">上一个文档</span> - 从当前的文档移动到前一个文档（如果有）。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_down.png" alt="下一个文档" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">下一个文档</span> - 移动到下一个文档。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_downAll.png" alt="最后一个文档" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">最后一个文档</span> - 移动到最后一个文档。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_setting.png" alt="设置" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">设置</span> - 设置每页显示文档的数目。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_gridView.png" alt="网格视图" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">网格视图</span> - 切换到网格视图。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_treeView.png" alt="树视图" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">树视图</span> - 切换到树视图。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_jsonView.png" alt="JSON 视图" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">JSON 视图</span> - 切换到 JSON 视图。</p></td>
+		</tr>
+	</table>
+	<p>使用“<span class="term">设置</span>”<img src="./images/icon_setting.png" alt="限制文档设置" class="inlineGraphic" height="16" width="16"/> 按钮来进入编辑模式。</p>
+	<p><span class="term">限制 <img src="./images/limitEditBox.png" alt="Edit Box" class="inlineGraphic" height="14" width="20" border="1"/> 个文档（每页）</span></p>
+	<p>如果你想限制每页显示文档的数，可勾选这个选项。否则，全部文档将显示在单一页面。以及，在编辑框设置值。这数字代表每页显示文档的数。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>这个设置模式只会影响当前的对象。若要调整全局设置，请参阅<a href="#/preferences_record">偏好设置</a>。</p>
+	</div>
+	<figure>
+		<a href="./images/tableLimitBarMongoDB.png" target="_blank"><img src="./images/tableLimitBarMongoDB.png"/></a>
+	</figure>
+	<p><span class="term">第</span> a <span class="term">个文档（共</span> b <span class="term">个）于第</span> c <span class="term">页</span></p>
+	<p>记录或页指示器显示的数字代表已选择的记录和页数。</p>
+	<p>a - 已选择的记录。</p>
+	<p>b - 当前页的记录数。</p>
+	<p>c - 当前的页数。</p>
+</div>

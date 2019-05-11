@@ -1,0 +1,25 @@
+
+/* Class = "NSTextFieldCell"; title = "Reject Limit:"; ObjectID = "BtM-Bd-XTg"; */
+"BtM-Bd-XTg.title" = "否决限制:";
+
+/* Class = "NSTextFieldCell"; title = "Access Driver Type:"; ObjectID = "CcA-3r-mUM"; */
+"CcA-3r-mUM.title" = "访问驱动程序类型:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Fbh-KQ-dY1"; */
+"Fbh-KQ-dY1.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "H33-xP-wag"; */
+"H33-xP-wag.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "JGW-9I-XXU"; */
+"JGW-9I-XXU.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Default Directory:"; ObjectID = "YS6-S0-03M"; */
+"YS6-S0-03M.title" = "默认目录:";
+
+/* Class = "NSButtonCell"; title = "Parallel with Degree:"; ObjectID = "cm7-fY-YLp"; */
+"cm7-fY-YLp.title" = "与度数并行:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "ggQ-yu-ypr"; */
+"ggQ-yu-ypr.title" = "Table View Cell";
+

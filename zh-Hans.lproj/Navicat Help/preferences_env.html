@@ -1,0 +1,55 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>环境</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>环境</h1>
+	<h2>可执行文件</h2>
+	<p><span class="term">SQL*Plus 可执行文件路径</span>（仅适用于 Oracle）</p>
+	<p>指定用于 Oracle 连接的<a href="#/console">命令列界面</a>的 SQL*Plus 的位置。SQL*Plus 是包含在 Oracle Instant Client。</p>
+	<p><span class="term">MongoShell 可执行文件路径</span>（仅适用于 MongoDB）</p>
+	<p>指定用于 MongoDB 连接的 <a href="#/console">命令列界面</a>的 Mongo Shell 的位置。</p>
+	<p><span class="term">MongoDump 可执行文件路径</span>（仅适用于 MongoDB）</p>
+	<p>指定用于 <a href="#/mongo_dump">MongoDump</a> 的 mongodump 可执行文件的位置。</p>
+	<p><span class="term">MongoRestore 可执行文件路径</span>（仅适用于 MongoDB）</p>
+	<p>指定用于 <a href="#/mongo_restore">MongoRestore</a> 的 mongorestore 可执行文件的位置。</p>
+	<p><span class="term">MongoImport 可执行文件路径</span>（仅适用于 MongoDB）</p>
+	<p>指定用于 <a href="#/mongo_import">MongoImport</a> 的 mongoimport 可执行文件的位置。</p>
+	<p><span class="term">MongoExport 可执行文件路径</span>（仅适用于 MongoDB）</p>
+	<p>指定用于 <a href="#/mongo_export">MongoExport</a> 的 mongoexport 可执行文件的位置。</p>
+	<p><span class="term">SQLite3 Dynamic Library 路径</span></p>
+	<p>指定 SQLite3 Dynamic Library 的路径。</p>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>需要重新启动 Navicat 才生效。</p>
+	</div>
+	<p><span class="term">外部编辑器</span></p>
+	<p>选择用于打开查询的外部编辑器的文件路径。</p>
+	<h2>OCI 环境（仅适用于 Oracle）</h2>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>需要重新启动 Navicat 才生效。</p>
+	</div>
+	<p><span class="term">DYLD_LIBRARY_PATH</span></p>
+	<p>包含 instant client 和 SQL*Plus 的 Oracle 库路径的位置（例如 ORACLE_HOME/lib）。必需的。</p>
+	<p><span class="term">使用 bundled instant client</span></p>
+	<p>“<span class="term">Oracle Instant Client</span>”已包含在 Navicat 安装文件夹。若要使用捆绑在 Navicat 安装文件夹中的一个，例如 /Applications/Navicat Premium.app/Contents/OCI，可勾选这个选项。</p>
+	<p>Oracle Instant Client 是最简单的方法来部署一个以 OCI、OCCI、JDBC-OCI 或 ODBC 驱动器创建的 Oracle 客户端应用程序。它以一套细小的文件，提供必需的 Oracle 客户端库。你也可以透过下面的链接下载 Oracle Instant Client -</p>
+	<p><a href="http://www.oracle.com/technetwork/database/features/instant-client/index-097480.html" target="blank">Oracle Instant Client</a></p> 
+	<p>下载合适你的平台和 CPU 的 Instant Client 包。所有安装需要 Basic 或 Basic Lite 包。解压缩包并设置路径指向它。</p>
+	<p><span class="term">ORACLE_HOME</span></p>
+	<p>完整用戶的 ORACLE_HOME 的位置。Instant client 应留空白。</p>
+	<p><span class="term">TNS_ADMIN</span></p>
+	<p>tnsnames.ora 文件的位置（例如 ORACLE_HOME/network/admin）。这是选择性的。当使用 TNS 连接时需要。</p>
+</div>

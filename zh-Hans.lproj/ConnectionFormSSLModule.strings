@@ -1,0 +1,52 @@
+
+/* Class = "NSBox"; title = "Authentication"; ObjectID = "2Qq-le-cgK"; */
+"2Qq-le-cgK.title" = "验证";
+
+/* Class = "NSMenuItem"; title = "verify-ca"; ObjectID = "79i-Y9-vzq"; */
+"79i-Y9-vzq.title" = "verify-ca";
+
+/* Class = "NSMenuItem"; title = "allow"; ObjectID = "BPl-VF-Se1"; */
+"BPl-VF-Se1.title" = "allow";
+
+/* Class = "NSMenuItem"; title = "require"; ObjectID = "IeH-5v-GLw"; */
+"IeH-5v-GLw.title" = "require";
+
+/* Class = "NSTextFieldCell"; title = "Specified Cipher:"; ObjectID = "KXX-vP-Cn3"; */
+"KXX-vP-Cn3.title" = "指定的 Cipher:";
+
+/* Class = "NSButtonCell"; title = "Use SSL"; ObjectID = "M6O-gB-ijj"; */
+"M6O-gB-ijj.title" = "使用 SSL";
+
+/* Class = "NSTextFieldCell"; title = "SSL Mode:"; ObjectID = "SlK-BK-fz0"; */
+"SlK-BK-fz0.title" = "SSL 模式:";
+
+/* Class = "NSButtonCell"; title = "Use authentication"; ObjectID = "bCH-ho-0KR"; */
+"bCH-ho-0KR.title" = "使用验证";
+
+/* Class = "NSTextFieldCell"; title = "Certificate Revocation List:"; ObjectID = "baI-4m-jah"; */
+"baI-4m-jah.title" = "证书撤消列表:";
+
+/* Class = "NSTextFieldCell"; title = "Client Certificate:"; ObjectID = "cqb-fy-WMy"; */
+"cqb-fy-WMy.title" = "客户端证书:";
+
+/* Class = "NSTextFieldCell"; title = "CA Certificate:"; ObjectID = "hH9-jV-aaS"; */
+"hH9-jV-aaS.title" = "CA 证书:";
+
+/* Class = "NSMenuItem"; title = "prefer"; ObjectID = "lcM-zP-8q0"; */
+"lcM-zP-8q0.title" = "prefer";
+
+/* Class = "NSButtonCell"; title = "Verify server certificate against CA"; ObjectID = "nPh-1U-qUF"; */
+"nPh-1U-qUF.title" = "验证针对 CA 的服务器证书";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Client Key:"; ObjectID = "pPd-PQ-eJO"; */
+"pPd-PQ-eJO.placeholderString" = "客户端密钥:";
+
+/* Class = "NSTextFieldCell"; title = "Client Key:"; ObjectID = "pPd-PQ-eJO"; */
+"pPd-PQ-eJO.title" = "客户端密钥:";
+
+/* Class = "NSMenuItem"; title = "verify-full"; ObjectID = "r7q-C6-Az3"; */
+"r7q-C6-Az3.title" = "verify-full";
+
+/* Class = "NSTextFieldCell"; title = "Root Certificate:"; ObjectID = "u9C-fB-zPm"; */
+"u9C-fB-zPm.title" = "根证书:";
+

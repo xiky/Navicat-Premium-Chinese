@@ -1,0 +1,54 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>维护对象</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>维护对象</h1>
+	<p>Navicat 为维护 MySQL 或 MariaDB 对象提供完整的解决方案。</p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在主窗口的导航窗格中或对象选项卡中选择对象。</p></li>
+		<li><p>按住 Control 键并点按已选择的对象。</p></li>
+		<li><p>选择“<span class="term">维护</span>”，然后从弹出式菜单中选择一个维护选项。</p></li>
+		<li><p>结果显示在弹出的窗口中。</p></li>
+	</ul>
+	<h2>表</h2>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>分析表</p></td>
+			<td width="75%"><p>分析并保存表的键分布。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>检查表</p></td>
+			<td width="75%"><p>检查表是否有错误。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>优化表</p></td>
+			<td width="75%"><p>优化表以减少存储空间并提高 I/O 效率。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>修复表</p></td>
+			<td width="75%"><p>修复可能损坏的表。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>获取行的总数</p></td>
+			<td width="75%"><p>计算表中的行数。</p></td>
+		</tr>
+	</table>
+</div>

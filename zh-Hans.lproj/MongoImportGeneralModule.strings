@@ -1,0 +1,58 @@
+
+/* Class = "NSTextFieldCell"; title = "Server:"; ObjectID = "2hj-ls-jhk"; */
+"2hj-ls-jhk.title" = "服务器:";
+
+/* Class = "NSTextFieldCell"; title = "File Type:"; ObjectID = "5A8-LO-FVX"; */
+"5A8-LO-FVX.title" = "文件类型:";
+
+/* Class = "NSButtonCell"; title = "Import JSON Array"; ObjectID = "9Yu-5G-aMh"; */
+"9Yu-5G-aMh.title" = "导入 JSON 数组";
+
+/* Class = "NSTextFieldCell"; title = "Input:"; ObjectID = "Bhb-fe-EEf"; */
+"Bhb-fe-EEf.title" = "输入:";
+
+/* Class = "NSButtonCell"; title = "Ignore blanks"; ObjectID = "Dca-N7-Lpb"; */
+"Dca-N7-Lpb.title" = "忽略空白";
+
+/* Class = "NSButtonCell"; title = "Columns have types"; ObjectID = "IFa-P0-44p"; */
+"IFa-P0-44p.title" = "列有类型";
+
+/* Class = "NSButtonCell"; title = "Drop before import"; ObjectID = "N5U-eW-oZp"; */
+"N5U-eW-oZp.title" = "导入前删除";
+
+/* Class = "NSTextFieldCell"; title = "Upsert Fields:"; ObjectID = "P0L-dL-Uq8"; */
+"P0L-dL-Uq8.title" = "更新插入字段:";
+
+/* Class = "NSTextFieldCell"; title = "Collection:"; ObjectID = "P1e-CC-KAd"; */
+"P1e-CC-KAd.title" = "集合:";
+
+/* Class = "NSTextFieldCell"; title = "Mode:"; ObjectID = "R6u-a9-hKd"; */
+"R6u-a9-hKd.title" = "模式:";
+
+/* Class = "NSTextFieldCell"; title = "Parse Grace:"; ObjectID = "Rb8-CY-OK6"; */
+"Rb8-CY-OK6.title" = "解析宽限:";
+
+/* Class = "NSComboBoxCell"; TW8-jc-gOc.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "TW8-jc-gOc"; */
+"TW8-jc-gOc.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; TW8-jc-gOc.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "TW8-jc-gOc"; */
+"TW8-jc-gOc.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; TW8-jc-gOc.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "TW8-jc-gOc"; */
+"TW8-jc-gOc.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Value"; ObjectID = "UJI-Px-J4A"; */
+"UJI-Px-J4A.title" = "值";
+
+/* Class = "NSTextFieldCell"; title = "Fields:"; ObjectID = "WEB-sy-z2j"; */
+"WEB-sy-z2j.title" = "字段:";
+
+/* Class = "NSButtonCell"; title = "Use headerline as fields"; ObjectID = "leR-p5-c10"; */
+"leR-p5-c10.title" = "使用标题作为字段";
+
+/* Class = "NSTextFieldCell"; title = "Database:"; ObjectID = "ndl-xH-Gnj"; */
+"ndl-xH-Gnj.title" = "数据库:";
+
+/* Class = "NSTextFieldCell"; title = "Value"; ObjectID = "qOH-rh-SW5"; */
+"qOH-rh-SW5.title" = "值";
+

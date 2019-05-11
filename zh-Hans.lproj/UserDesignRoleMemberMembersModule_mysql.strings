@@ -1,0 +1,16 @@
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1pb-ii-atF"; */
+"1pb-ii-atF.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "DC9-nc-HJe"; */
+"DC9-nc-HJe.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "bKm-uP-Dnz"; */
+"bKm-uP-Dnz.headerCell.title" = "名";
+
+/* Class = "NSTableColumn"; headerCell.title = "Granted"; ObjectID = "cu1-fl-EsE"; */
+"cu1-fl-EsE.headerCell.title" = "授予";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "xQT-Hf-OvZ"; */
+"xQT-Hf-OvZ.title" = "标签";
+

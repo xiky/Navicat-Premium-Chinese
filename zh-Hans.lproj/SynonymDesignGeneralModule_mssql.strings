@@ -1,0 +1,25 @@
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "Smd-L8-Cfp"; */
+"Smd-L8-Cfp.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "Ubj-gD-HZU"; */
+"Ubj-gD-HZU.title" = "Item 2";
+
+/* Class = "NSTextFieldCell"; title = "Schema Name:"; ObjectID = "dJm-PT-e1u"; */
+"dJm-PT-e1u.title" = "模式名:";
+
+/* Class = "NSTextFieldCell"; title = "Object Name:"; ObjectID = "eoz-wE-AJW"; */
+"eoz-wE-AJW.title" = "对象名:";
+
+/* Class = "NSTextFieldCell"; title = "Server Name:"; ObjectID = "fnv-aa-YZQ"; */
+"fnv-aa-YZQ.title" = "服务器名:";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "qny-Ms-FHI"; */
+"qny-Ms-FHI.title" = "Item 1";
+
+/* Class = "NSTextFieldCell"; title = "Object Type:"; ObjectID = "tY1-d3-OXM"; */
+"tY1-d3-OXM.title" = "对象类型:";
+
+/* Class = "NSTextFieldCell"; title = "Database Name:"; ObjectID = "xtl-Jj-pA7"; */
+"xtl-Jj-pA7.title" = "数据库名:";
+

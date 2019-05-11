@@ -1,0 +1,59 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>设置数据视图格式</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>设置数据视图格式</h1>
+	<p>使用以下的方法来设置表的格式：</p>
+	<div class="alert">
+		<p><span class="note">【提示】</span>表单视图仅支持显示或隐藏列。</p>
+	</div>	<p><span class="term">移动列</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>用滑鼠的左键按住列标题。</p></li>
+		<li><p>移动滑鼠光标到所需的位置。</p></li>
+		<li><p>释放滑鼠，列将会移动。</p></li>
+	</ul>
+	<figure>
+		<a href="./images/moveColumn.png" target="_blank"><img src="./images/moveColumn.png"/></a>
+	</figure>
+	<p><span class="term">设置列宽</span></p>
+	<ul class="ListBullet">
+		<li><p>按住列顶部的右边界并拖曳到左或右。</p></li>
+		<li><p>双击列顶部的右边界来调整为最适合列的宽度。</p></li>
+		<li><p>按住 Control 键并点按列，然后选择“<span class="term">设置列宽</span>”或从“<span class="term">查看</span>”菜单选择。然后，在“<span class="term">设置全部列宽</span>”对话框输入列宽。</p></li>
+	</ul>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>结果应用到所有列。</p>
+	</div>
+	<p><span class="term">设置行高</span></p>
+	<p>按住 Control 键并点按表网格的任意位置，然后选择“<span class="term">设置行高</span>”或从“<span class="term">查看</span>”菜单选择。然后，在“<span class="term">设置行高</span>”对话框输入行高。</p>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>这个动作只能应用到当前的表网格。</p>
+	</div>
+	<p><span class="term">显示或隐藏列</span></p>
+	<p>如果表中有很多列，而你想在表网格隐藏其中一些列，只需简单地按住 Control 键并点按网格或表单的任意位置，然后选择“<span class="term">显示或隐藏列</span>”或从“<span class="term">查看</span>”菜单选择。然后，选择你想隐藏的列。</p>
+	<p>隐藏列将会从网格或表单中消失。</p>
+	<p>若要取消隐藏列，只需简单地按住 Control 键并点按网格或表单的任意位置，然后选择“<span class="term">显示或隐藏列</span>”或从“<span class="term">查看</span>”菜单选择。然后，选择你想重新显示的列。</p>
+	<figure>
+		<a href="./images/showHideColumn.png" target="_blank"><img src="./images/showHideColumn.png"/></a>
+	</figure>
+	<p><span class="term">显示或隐藏 ROWID</span></p>
+	<p>如果你想显示或隐藏每行的 rowid（地址），按住 Control 键并点按表网格的任意位置，然后选择“<span class="term">显示或隐藏 ROWID</span>”或从“<span class="term">查看</span>”菜单选择。</p>
+	<p>ROWID 列将显示于最后的列。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>仅适用于 Oracle 和 SQLite。</p>
+	</div>
+</div>

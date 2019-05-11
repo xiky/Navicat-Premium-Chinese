@@ -1,0 +1,32 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>函数</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>函数</h1>
+	<p>函数是模式对象，包含一组保存在服务器上的 SQL 语句。在主窗口中，点击 <img src="./images/icon_function.png" alt="函数" class="inlineGraphic" height="16" width="16"/>“<span class="term">函数</span>”来打开函数的对象列表。</p>
+	<h2>函数设计器</h2>
+	<p>“<span class="term">函数设计器</span> ”是一个用于设计函数的 Navicat 基本工具。你可以在“<span class="term">定义</span>”选项卡中输入有效的 SQL 语句。这可以是一个简单的语句，如 SELECT 或 INSERT，或它可以是一个用 BEGIN 和 END 写的复合语句。复合语句可以包含声明循环和其它控制结构语句。若要自定义编辑器并查看更多 SQL 编辑功能，请参阅 <a href="#/query_editor">SQL 编辑器</a>。</p>
+	<h2>结果</h2>
+	<p>若要运行函数，请在工具栏点击 <img src="./images/icon_run.png" alt="运行" class="inlineGraphic" height="16" width="16"/>。如果 SQL 语句是正确的，该语句将被运行，以及如果该语句应该返回数据，“<span class="term">结果</span>”选项卡会打开显示返回的数据。如果运行函数时发生错误，运行会停止并显示相应的错误信息。如果函数需要输入参数，“<span class="term">输入参数</span>”对话框将弹出。如勾选“<span class="term">原始模式</span>”选项，将不会在传递输入值到函数时添加引号。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>Navicat 支持返回 10 个结果集。</p>
+	</div>
+	<h2>调试（仅适用于非 Essentials 版）</h2>
+	<p>调试 PL/pgSQL 函数前，你需要安装 pldbgapi 扩展或在服务器中手动启用调试器插件。</p>
+	<p>然后，打开一个 PL/pgSQL 函数。你可以在每句语句旁的灰色范围点击 <img src="./images/togBreakPt.png" alt="断点" class="inlineGraphic" height="16" width="16"/> 来为调试添加或移除断点。</p>
+	<p>在工具栏点击 <img src="./images/icon_debug.png" alt="调试" class="inlineGraphic" height="16" width="16"/> 来启动 <a href="#/debugger_postgresql">PostgreSQL 调试器</a>。如有需要，输入参数。</p>
+</div>

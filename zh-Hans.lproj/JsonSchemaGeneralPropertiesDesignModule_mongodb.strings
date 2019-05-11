@@ -1,0 +1,73 @@
+
+/* Class = "NSTextFieldCell"; title = "Min Length:"; ObjectID = "0en-Ro-Bna"; */
+"0en-Ro-Bna.title" = "最小长度:";
+
+/* Class = "NSTextFieldCell"; title = "Required:"; ObjectID = "2dG-l6-bt7"; */
+"2dG-l6-bt7.title" = "必需:";
+
+/* Class = "NSTextFieldCell"; title = "Items:"; ObjectID = "8go-0O-i7K"; */
+"8go-0O-i7K.title" = "项目:";
+
+/* Class = "NSTextFieldCell"; title = "Max Length:"; ObjectID = "AjK-9G-xwB"; */
+"AjK-9G-xwB.title" = "最大长度:";
+
+/* Class = "NSTextFieldCell"; title = "Pattern Properties:"; ObjectID = "PXc-0p-dG4"; */
+"PXc-0p-dG4.title" = "样式属性:";
+
+/* Class = "NSTextFieldCell"; title = "Dependencies:"; ObjectID = "Q7Z-mC-cJd"; */
+"Q7Z-mC-cJd.title" = "依赖性:";
+
+/* Class = "NSButtonCell"; title = "Exclusive Maximum"; ObjectID = "S50-Jj-qVp"; */
+"S50-Jj-qVp.title" = "独占最大值";
+
+/* Class = "NSTextFieldCell"; title = "Additional Items:"; ObjectID = "Xod-NI-pFA"; */
+"Xod-NI-pFA.title" = "附加项目:";
+
+/* Class = "NSTextFieldCell"; title = "Min Properties:"; ObjectID = "Z6x-Sf-t5z"; */
+"Z6x-Sf-t5z.title" = "最小属性:";
+
+/* Class = "NSTextFieldCell"; title = "Min Items:"; ObjectID = "bAJ-37-c3K"; */
+"bAJ-37-c3K.title" = "最小项目:";
+
+/* Class = "NSTextFieldCell"; title = "Maximum:"; ObjectID = "c7j-np-CNY"; */
+"c7j-np-CNY.title" = "最大:";
+
+/* Class = "NSTextFieldCell"; title = "Enum:"; ObjectID = "cMg-MD-4cY"; */
+"cMg-MD-4cY.title" = "枚举:";
+
+/* Class = "NSButtonCell"; title = "Unique Items"; ObjectID = "e4e-KW-H2K"; */
+"e4e-KW-H2K.title" = "唯一项目";
+
+/* Class = "NSTextFieldCell"; title = "Max Items:"; ObjectID = "eqk-m3-SIc"; */
+"eqk-m3-SIc.title" = "最大项目:";
+
+/* Class = "NSTextFieldCell"; title = "Minimum:"; ObjectID = "n0h-MP-Y2B"; */
+"n0h-MP-Y2B.title" = "最小:";
+
+/* Class = "NSTextFieldCell"; title = "Multiple Of:"; ObjectID = "npx-WZ-UM3"; */
+"npx-WZ-UM3.title" = "多个:";
+
+/* Class = "NSTextFieldCell"; title = "Max Properties:"; ObjectID = "olo-0Y-pZY"; */
+"olo-0Y-pZY.title" = "最大属性:";
+
+/* Class = "NSTextFieldCell"; title = "Pattern:"; ObjectID = "pCN-Oq-73D"; */
+"pCN-Oq-73D.title" = "样式:";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "pfl-5J-KuA"; */
+"pfl-5J-KuA.title" = "标题:";
+
+/* Class = "NSTextFieldCell"; title = "BSON Type:"; ObjectID = "qLW-PW-cdi"; */
+"qLW-PW-cdi.title" = "BSON 类型:";
+
+/* Class = "NSTextFieldCell"; title = "Additional Properties:"; ObjectID = "qn9-ds-Dmc"; */
+"qn9-ds-Dmc.title" = "附加属性:";
+
+/* Class = "NSButtonCell"; title = "Exclusive Minimum"; ObjectID = "rLw-qQ-s9F"; */
+"rLw-qQ-s9F.title" = "独占最小值";
+
+/* Class = "NSTextFieldCell"; title = "Properties:"; ObjectID = "sMa-Ma-vag"; */
+"sMa-Ma-vag.title" = "属性:";
+
+/* Class = "NSTextFieldCell"; title = "Description:"; ObjectID = "xkw-hM-NpZ"; */
+"xkw-hM-NpZ.title" = "描述:";
+

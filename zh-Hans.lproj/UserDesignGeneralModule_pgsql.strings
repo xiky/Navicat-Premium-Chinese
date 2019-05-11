@@ -1,0 +1,25 @@
+
+/* Class = "NSButtonCell"; title = "Superuser"; ObjectID = "2Ir-SZ-Vcd"; */
+"2Ir-SZ-Vcd.title" = "超级用户";
+
+/* Class = "NSTextFieldCell"; title = "Confirm Password:"; ObjectID = "33r-5e-p1s"; */
+"33r-5e-p1s.title" = "确认密码:";
+
+/* Class = "NSTextFieldCell"; title = "Expiry Date:"; ObjectID = "5al-xN-YGB"; */
+"5al-xN-YGB.title" = "到期日:";
+
+/* Class = "NSTextFieldCell"; title = "Password Encryption:"; ObjectID = "7XJ-HU-B1A"; */
+"7XJ-HU-B1A.title" = "密码加密:";
+
+/* Class = "NSButtonCell"; title = "Can Create Databases"; ObjectID = "8JL-Lb-FDu"; */
+"8JL-Lb-FDu.title" = "可以创建数据库";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "EKl-vr-voF"; */
+"EKl-vr-voF.title" = "密码:";
+
+/* Class = "NSTextFieldCell"; title = "Role ID:"; ObjectID = "jx5-oP-VrP"; */
+"jx5-oP-VrP.title" = "角色 ID:";
+
+/* Class = "NSTextFieldCell"; title = "User Name:"; ObjectID = "y4h-9q-nqA"; */
+"y4h-9q-nqA.title" = "用户名:";
+

@@ -1,0 +1,22 @@
+
+/* Class = "NSTextFieldCell"; title = "Validation Action:"; ObjectID = "00s-kV-iVf"; */
+"00s-kV-iVf.title" = "验证动作:";
+
+/* Class = "NSTabViewItem"; label = "Query"; ObjectID = "SOH-b8-AVG"; */
+"SOH-b8-AVG.label" = "查询";
+
+/* Class = "NSTextFieldCell"; title = "Validator Type:"; ObjectID = "Zk6-zk-bPd"; */
+"Zk6-zk-bPd.title" = "验证类型:";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "bsG-pF-gFg"; */
+"bsG-pF-gFg.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "hRC-Gm-aWd"; */
+"hRC-Gm-aWd.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "uvl-b0-uTU"; */
+"uvl-b0-uTU.title" = "Item 2";
+
+/* Class = "NSTextFieldCell"; title = "Validation Level:"; ObjectID = "w1m-l8-mxD"; */
+"w1m-l8-mxD.title" = "验证级别:";
+

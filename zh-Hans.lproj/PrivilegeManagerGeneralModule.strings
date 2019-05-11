@@ -1,0 +1,25 @@
+
+/* Class = "NSMenuItem"; title = "Grant Selected With Grant Option"; ObjectID = "5D6-9V-HJq"; */
+"5D6-9V-HJq.title" = "授予已选择的（含授予选项）";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "6DM-G4-2TH"; */
+"6DM-G4-2TH.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "No privilege properties are available on this object"; ObjectID = "Yga-uY-Lis"; */
+"Yga-uY-Lis.title" = "此对象没有可用的权限属性";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "eMk-rl-FK1"; */
+"eMk-rl-FK1.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Revoke Selected"; ObjectID = "gm9-VH-MQz"; */
+"gm9-VH-MQz.title" = "撤消已选择的";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "nRX-mr-ipv"; */
+"nRX-mr-ipv.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "pN4-A5-nPx"; */
+"pN4-A5-nPx.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Grant Selected"; ObjectID = "yf7-S8-jWa"; */
+"yf7-S8-jWa.title" = "授予已选择的";
+

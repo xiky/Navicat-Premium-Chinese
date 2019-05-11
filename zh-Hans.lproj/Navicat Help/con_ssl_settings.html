@@ -1,0 +1,83 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>SSL 设置</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>SSL 设置</h1>
+	<p>Secure Sockets Layer (SSL) 是一个通过网际网络传输私人文件的协定。为了安全连接，首先你需要做的是安装 OpenSSL 库和下载数据库源。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>仅适用于 MySQL、PostgreSQL、MariaDB 和 MongoDB。PostgreSQL 8.4 或以上版本支持。</p>
+	</div>
+	<h2>MySQL 和 MariaDB 连接</h2>
+	<p>若要提供验证信息，启用“<span class="term">使用验证</span>”并填写所需的信息：</p>
+	<p><span class="term">客户端密钥</span></p>
+	<p>用于创建一个安全连接的 PEM 格式的 SSL 密钥文件。</p>
+	<p><span class="term">客户端证书</span></p>
+	<p>用于创建一个安全连接的 PEM 格式的 SSL 证书。</p>
+	<p><span class="term">CA 证书</span></p>
+	<p>包含一个信任的 SSL 证书颁发机构列表的 PEM 格式文件的路径。</p>
+	<p><span class="term">验证针对 CA 的服务器证书</span></p>
+	<p>检查服务器发送给客户端的证书中，服务器的常规名值。</p>
+	<p><span class="term">指定的 Cipher</span></p>
+	<p>用于 SSL 加密的允许的 Cipher 列表。</p>
+	<h2>PostgreSQL 连接</h2>
+	<p>选择“<span class="term">SSL 模式</span>”：</p>
+	<table>
+		<tr class="tableRoll">
+			<td width="25%"><p>allow</p></td>
+			<td width="75%"><p>首先尝试一个非 SSL 连接，如果失败，再尝试一个 SSL 连接。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>prefer</p></td>
+			<td width="75%"><p>首先尝试一个 SSL 连接。如果失败，再尝试一个非 SSL 连接。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>require</p></td>
+			<td width="75%"><p>只尝试 SSL 连接。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>verify-ca</p></td>
+			<td width="75%"><p>只尝试 SSL 连接，并验证服务器证书是由受信任的 CA 发行。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>verify-full</p></td>
+			<td width="75%"><p>只尝试 SSL 连接，验证服务器证书是由受信任的 CA 发行及服务器主机名符合证书内的。</p></td>
+		</tr>
+	</table>
+	<p>若要提供验证信息，启用“<span class="term">使用验证</span>”并填写所需的信息：</p>
+	<p><span class="term">客户端密钥</span></p>
+	<p>客户端私钥的路径。</p>
+	<p><span class="term">客户端证书</span></p>
+	<p>客户端证书的路径。</p>
+	<p><span class="term">根证书</span></p>
+	<p>信任的证书颁发机构路径。</p>
+	<p><span class="term">证书撤消列表</span></p>
+	<p>SSL 证书撤消列表（CRL）的文件路径。</p>
+	<h2>MongoDB 连接</h2>
+	<p>若要提供验证信息，启用“<span class="term">使用验证</span>”并填写所需的信息：</p>
+	<p><span class="term">客户端密钥</span></p>
+	<p>用于创建一个安全连接的 PEM 格式的 SSL 密钥文件。</p>
+	<p><span class="term">客户端密钥密码</span></p>
+	<p>密钥文件的密码。</p>
+	<p><span class="term">弱证书验证</span></p>
+	<p>如果你的 MongoDB 服务器允许弱证书验证，可勾选这个选项。</p>
+	<p><span class="term">CA 证书</span></p>
+	<p>包含一个信任的 SSL 证书颁发机构列表的 PEM 格式文件的路径。</p>
+	<p><span class="term">证书撤消列表</span></p>
+	<p>SSL 证书撤消列表（CRL）的文件路径。</p>
+	<p><span class="term">允许无效的主机名</span></p>
+	<p>勾选这个选项以允许 SSL 证书中的无效的主机名。</p>
+</div>

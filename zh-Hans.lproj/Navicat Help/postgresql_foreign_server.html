@@ -1,0 +1,24 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>外部服务器</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>外部服务器</h1>
+	<p>外部服务器通常封装了外部数据封装器（foreign-data wrapper）用来访问一个外部数据源所需的连接信息。在主窗口中，点击 <img src="./images/icon_others.png" alt="其他" class="inlineGraphic" height="16" width="16"/>“<span class="term">其他</span>”-> <img src="./images/icon_foreignServer.png" alt="外部服务器" class="inlineGraphic" height="16" width="16"/>“<span class="term">外部服务器</span>”来打开外部服务器的对象列表。</p>
+	<p>若要访问外部 PostgreSQL 服务器的数据，你可以安装 postgres_fdw 扩展。按住 Control  键并点按外部服务器对象列表的任意位置，然后选择“<span class="term">安装 postgres_fdw 扩展</span>”。</p>
+	<h2>外部服务器设计器</h2>
+	<p>“<span class="term">外部服务器设计器</span>”是一个用于设计外部服务器的 Navicat 基本工具。你可以创建或编辑外部服务器。</p>
+</div>

@@ -1,0 +1,28 @@
+
+/* Class = "NSTextFieldCell"; title = "Not Null ON CONFLICT:"; ObjectID = "2zm-Zt-QCu"; */
+"2zm-Zt-QCu.title" = "不是 null ON CONFLICT:";
+
+/* Class = "NSTextFieldCell"; title = "Collate:"; ObjectID = "6qj-ol-FnB"; */
+"6qj-ol-FnB.title" = "排序规则:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "7N7-xL-098"; */
+"7N7-xL-098.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Auto Increment"; ObjectID = "GKY-4F-ZfZ"; */
+"GKY-4F-ZfZ.title" = "自动递增";
+
+/* Class = "NSComboBoxCell"; NHr-uR-0rJ.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "NHr-uR-0rJ"; */
+"NHr-uR-0rJ.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; NHr-uR-0rJ.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "NHr-uR-0rJ"; */
+"NHr-uR-0rJ.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; NHr-uR-0rJ.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "NHr-uR-0rJ"; */
+"NHr-uR-0rJ.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "OQO-lO-JQ3"; */
+"OQO-lO-JQ3.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Default Value:"; ObjectID = "mZG-J8-mXK"; */
+"mZG-J8-mXK.title" = "默认值:";
+

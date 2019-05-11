@@ -1,0 +1,96 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>使用图表画布</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>使用图表画布</h1>
+	<p><span class="term">显示网格</span></p>
+	<p>若要在图表画布启用网格，从菜单栏选择“<span class="term">图表</span>”->“<span class="term">显示网格</span>”。</p>
+	<p><span class="term">对齐网格</span></p>
+	<p>若要在画布对齐对象到网格，从菜单栏选择“<span class="term">图表</span>”->“<span class="term">对齐网格</span>”。</p>
+	<p><span class="term">更改图表符号</span></p>
+	<p>若要更改图表的符号，从菜单栏选择“<span class="term">图表</span>”->“<span class="term">图表符号</span>”。</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>默认</p></td>
+			<td width="75%"><p>Navicat 使用的默认符号样式。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>简单</p></td>
+			<td width="75%"><p>一个简单的符号样式。表或视图只显示名。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>IDEF1X</p></td>
+			<td width="75%"><p>ICAM DEFinition 语言信息模型方法。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>UML</p></td>
+			<td width="75%"><p>Universal Modeling Language 样式。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>IE (Crow's Foot)</p></td>
+			<td width="75%"><p>Crow's Foot 符号样式。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>黑白</p></td>
+			<td width="75%"><p>更改图表颜色为黑白。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>显示模式名</p></td>
+			<td width="75%"><p>显示在图表中表和视图的模式名。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>显示视图关系</p></td>
+			<td width="75%"><p>显示在图表中视图的关系线条。</p></td>
+		</tr>
+	</table>
+	<p><span class="term">更改图表维度</span></p>
+	<p>若要更改图表中使用的纸张数，从菜单栏选择“<span class="term">图表</span>”->“<span class="term">图表维度</span>”并设置“<span class="term">宽度</span>”和“<span class="term">高度</span>”。</p>
+	<p><span class="term">对齐对象</span></p>
+	<p>若要在画布对齐对象，选择多个对象（表、视图、笔记、标签、图像或形状），然后按住 Control 键并点按它们，然后选择“<span class="term">对齐</span>”->“<span class="term">左对齐</span>”、“<span class="term">居中</span>”、“<span class="term">右对齐</span>”、“<span class="term">上对齐</span>”、“<span class="term">居中对齐</span>”或“<span class="term">下对齐</span>”。</p>
+	<p><span class="term">更改对象分布</span></p>
+	<p>若要在画布分布对象，选择多个对象（表、视图、笔记、标签、图像或形状），然后按住 Control 键并点按它们，然后选择“<span class="term">分布</span>”->“<span class="term">横向</span>”或“<span class="term">纵向</span>”。</p>
+	<p><span class="term">更改版面设置</span></p>
+	<p>若要更改纸张大小、方向和边界，选择“<span class="term">文件</span>”->“<span class="term">版面设置</span>”。</p>
+	<p><span class="term">应用自动调整版面</span></p>
+	<p>若要自动排列在画布上的对象，点击 <img src="./images/icon_modelAutoLayout.png" alt="自动调整版面" class="inlineGraphic" height="16" width="16"/> 按钮。若要更改自动调整版面，从菜单栏选择“<span class="term">图表</span>”->“<span class="term">自动调整版面选项</span>”并设置以下选项：</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>对象之间的空间</p></td>
+			<td width="75%"><p>在图表中对象之间的距离。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>试验次数</p></td>
+			<td width="75%"><p>自动调整版面输出的品质。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>自动调整维度</p></td>
+			<td width="75%"><p>自动选择合适的图表维度。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>调整适合的表大小</p></td>
+			<td width="75%"><p>自动调整表的大小以适合其内容。</p></td>
+		</tr>
+	</table>
+</div>

@@ -1,0 +1,28 @@
+
+/* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "2mm-th-1Xo"; */
+"2mm-th-1Xo.title" = "另存为…";
+
+/* Class = "NSSegmentedCell"; 5Fs-cL-wuQ.ibShadowedLabels[0] = "Save Profile"; ObjectID = "5Fs-cL-wuQ"; */
+"5Fs-cL-wuQ.ibShadowedLabels[0]" = "保存配置文件";
+
+/* Class = "NSSegmentedCell"; 5Fs-cL-wuQ.ibShadowedLabels[1] = "▾"; ObjectID = "5Fs-cL-wuQ"; */
+"5Fs-cL-wuQ.ibShadowedLabels[1]" = "▾";
+
+/* Class = "NSButtonCell"; title = "Generate SQL"; ObjectID = "8rv-4A-Gyp"; */
+"8rv-4A-Gyp.title" = "生成 SQL";
+
+/* Class = "NSButtonCell"; title = "Show Advanced Options"; ObjectID = "OHY-RW-Kk7"; */
+"OHY-RW-Kk7.title" = "显示高级选项";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "Sdt-SU-pDI"; */
+"Sdt-SU-pDI.title" = "保存";
+
+/* Class = "NSWindow"; title = "Backup"; ObjectID = "bwE-7s-42N"; */
+"bwE-7s-42N.title" = "备份";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "frH-uX-xbx"; */
+"frH-uX-xbx.title" = "Menu";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "nAQ-bL-e70"; */
+"nAQ-bL-e70.title" = "关闭";
+

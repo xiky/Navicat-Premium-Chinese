@@ -1,0 +1,56 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>实体化视图</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>实体化视图</h1>
+	<p>实体化视图是模式对象，可以用来总结、计算、复制和分发数据。在主窗口中，点击 <img src="./images/icon_materializedView.png" alt="实体化视图" class="inlineGraphic" height="16" width="16"/>“<span class="term">实体化视图</span>”来打开实体化视图的对象列表。</p>
+	<p>你可以拖出实体化视图以创建一个实体化视图快捷方式。这个快捷方式让你快速直接地打开实体化视图，而无需打开 Navicat 主窗口。</p>
+	<p>若要重整并完全替换实体化视图的内容，按住 Control 键并点按在对象选项卡中的实体化视图，然后在弹出式菜单中选择“<span class="term">刷新实体化视图与</span>”->“<span class="term">数据</span>”或“<span class="term">没有数据</span>”。</p>
+	<h2>实体化视图设计器</h2>
+	<p>“<span class="term">实体化视图设计器</span>”是一个用于设计实体化视图的 Navicat 基本工具。你可以在“<span class="term">SQL 编辑器</span>”选项卡中编辑视图的定义为 SQL 语句（实作 SELECT 语句）。若要自定义编辑器并查看更多 SQL 编辑功能，请参阅 <a href="#/query_editor">SQL 编辑器</a>。如果你想从 SQL 文件加载 SQL 语句到编辑器，你可以选择“<span class="term">文件</span>”->“<span class="term">导入 SQL</span>”。</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>按钮</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_previewView.png" alt="预览" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>预览实体化视图的数据。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_explain.png" alt="解释" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>显示实体化视图的查询计划。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_stop.png" alt="停止" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>停止预览进程。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_sqlBuilder.png" alt="SQL 创建工具" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>视觉化地创建实体化视图。即使你不认识 SQL，它亦能让你创建和编辑实体化视图。详细信息请参阅 <a href="#/query_builder">SQL 创建工具</a>。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_beautify.png" alt="美化 SQL" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>在编辑器中以美化 SQL 选项设置代码的格式。</p></td>
+		</tr>
+	</table>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>你可以通过选择“<span class="term">查看</span>”->“<span class="term">结果</span>”->“<span class="term">显示在编辑器下面</span>”或“<span class="term">显示在新页</span>”。</p>
+	</div>
+	<h2>实体化视图查看器</h2>
+	<p>当你打开实体化视图时，“<span class="term">实体化视图查看器</span>”以网格显示数据。数据可以用两种模式显示：网格视图和表单视图。详细信息请参阅<a href="#/data_viewer">数据查看器</a>。</p>
+</div>

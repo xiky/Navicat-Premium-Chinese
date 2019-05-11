@@ -1,0 +1,35 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>选择对象和开始数据传输（步骤二）</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>选择对象和开始数据传输（步骤二）</h1>
+	<p>在默认情况下，“<span class="term">数据库对象</span>”列表内的所有数据库对象均已选择。如果您不想传输某些数据库对象，请取消勾选它们。</p>
+	<figure>
+		<a href="./images/dataTransferObjects.png" target="_blank"><img src="./images/dataTransferObjects.png"/></a>
+	</figure>
+	<table>
+		<tr class="tableRoll">
+			<td width="30%"><p><img src="./images/dataTranUnlock.png" alt="没有锁定" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="70%"><p>只传输已勾选的数据库对象。然而，如果在创建数据传输配置文件后，在源数据库和/或模式中添加任何新的数据库对象，新建的数据库对象将不会被传输，除非你手动修改数据库对象列表。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p><img src="./images/dataTranLock.png" alt="锁定" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="70%"><p>所有的数据库对象将传输到目标数据库和/或模式，所有新添加的数据库对象也将会被传输而不必修改数据传输配置文件。</td>
+		</tr>
+	</table>
+	<p>然后，点击“<span class="term">开始</span>”按钮来运行数据传输进程。窗口会显示运行进度、运行时间和成功或失败信息。</p>
+</div>

@@ -1,0 +1,22 @@
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "81f-pK-qOU"; */
+"81f-pK-qOU.title" = "标签";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Cc6-5L-rbF"; */
+"Cc6-5L-rbF.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Grant All"; ObjectID = "Dxy-Vo-GQB"; */
+"Dxy-Vo-GQB.title" = "全部授予";
+
+/* Class = "NSTableColumn"; headerCell.title = "Privilege"; ObjectID = "LHp-EX-X24"; */
+"LHp-EX-X24.headerCell.title" = "权限";
+
+/* Class = "NSMenuItem"; title = "Revoke All"; ObjectID = "UDm-dw-Ydn"; */
+"UDm-dw-Ydn.title" = "全部撤消";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Wdp-Ss-YbL"; */
+"Wdp-Ss-YbL.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Grant"; ObjectID = "myp-kS-gZ7"; */
+"myp-kS-gZ7.headerCell.title" = "授予";
+

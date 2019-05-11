@@ -1,0 +1,44 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>备份</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>备份</h1>
+	<h2>常规属性</h2>
+	<p>在此选项卡，你可以查看服务器和数据库的信息。如有需要，可为备份文件输入一个注释。</p>
+	<h2>对象选择</h2>
+	<p>在此选项卡，选择你想备份的数据库对象。</p>
+	<table>
+		<tr class="tableRoll">
+			<td width="30%"><p><img src="./images/dataTranUnlock.png" alt="没有锁定" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="70%"><p>只备份已勾选的数据库对象。然而，如果在创建备份配置文件后，在数据库和/或模式中添加任何新的数据库对象，新建的数据库对象将不会被备份，除非你手动修改对象列表。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p><img src="./images/dataTranLock.png" alt="锁定" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="70%"><p>所有的数据库对象将会备份，所有新添加的数据库对象也将会被备份而不必修改备份配置文件。</td>
+		</tr>
+	</table>
+	<h2>高级属性</h2>
+	<div class="alert">
+		<p><span class="note">【注意】</span>下列的选项会根据连接的服务器类型而有所不同。</p>
+	</div>
+	<p><span class="term">锁定全部表</span></p>
+	<p>当备份正在进行时，锁定全部对象。</p>
+	<p><span class="term">使用单一事务 (只限 InnoDB)</span></p>
+	<p>如果表使用 InnoDB 存储引擎，可勾选这个选项，Navicat 会在备份进程开始前使用事务。</p>
+	<p><span class="term">使用指定文件名</span></p>
+	<p>为备份定义你的文件名。否则，你的备份文件将会被命名为“YYYYMMDDhhmmss”格式。</p>
+</div>

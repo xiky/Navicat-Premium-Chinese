@@ -1,0 +1,16 @@
+
+/* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "CMk-Ve-7Lx"; */
+"CMk-Ve-7Lx.title" = "类型:";
+
+/* Class = "NSTextFieldCell"; title = "File Path:"; ObjectID = "DtT-30-Xt3"; */
+"DtT-30-Xt3.title" = "文件路径:";
+
+/* Class = "NSTextFieldCell"; title = "Server Filename:"; ObjectID = "XXz-PW-B30"; */
+"XXz-PW-B30.title" = "服务器文件名:";
+
+/* Class = "NSTextFieldCell"; title = "Load From:"; ObjectID = "plg-Yc-2zy"; */
+"plg-Yc-2zy.title" = "加载从:";
+
+/* Class = "NSTextFieldCell"; title = "Directory:"; ObjectID = "zh7-R7-T1Y"; */
+"zh7-R7-T1Y.title" = "目录:";
+

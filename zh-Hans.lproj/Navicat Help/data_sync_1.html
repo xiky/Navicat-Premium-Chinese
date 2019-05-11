@@ -1,0 +1,28 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>选择连接和比对选项（步骤一）</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>选择连接和比对选项（步骤一）</h1>
+	<h2>选择源和目标连接</h2>
+	<p>在“<span class="term">常规</span>”选项卡，为“<span class="term">源数据库</span>”和“<span class="term">目标数据库</span>”定义连接、数据库和/或模式。你可以点击 <img src="./images/icon_swap.png" alt="互换" class="inlineGraphic" height="16" width="16"/> 来交换源和目标的设置。</p>
+	<h2>选择比对选项</h2>
+	<p>在“<span class="term">选项</span>”选项卡，设置比对选项。</p>
+	<p><span class="term">使用事务</span></p>
+	<p>当发生错误时回滚所有数据。</p>
+	<p><span class="term">插入</span>、<span class="term">删除</span>、<span class="term">更新</span></p>
+	<p>勾选这些选项以进行这些动作。</p>
+</div>

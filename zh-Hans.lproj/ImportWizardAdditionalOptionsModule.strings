@@ -1,0 +1,58 @@
+
+/* Class = "NSTextFieldCell"; title = "Date Format:"; ObjectID = "5ad-fY-XnD"; */
+"5ad-fY-XnD.title" = "日期格式:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "6ut-2z-dqp"; */
+"6ut-2z-dqp.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "1"; ObjectID = "75W-yT-7wG"; */
+"75W-yT-7wG.title" = "1";
+
+/* Class = "NSTextFieldCell"; title = "Data Row:"; ObjectID = "7u5-a8-wr9"; */
+"7u5-a8-wr9.title" = "数据行:";
+
+/* Class = "NSBox"; title = "Dates, Times and Numbers"; ObjectID = "Dic-vj-mOV"; */
+"Dic-vj-mOV.title" = "日期、时间和数字";
+
+/* Class = "NSTextFieldCell"; title = "Row"; ObjectID = "Nys-Zs-7vw"; */
+"Nys-Zs-7vw.title" = "行";
+
+/* Class = "NSTextFieldCell"; title = "Date Delimiter:"; ObjectID = "PMk-8g-SdZ"; */
+"PMk-8g-SdZ.title" = "日期分隔符:";
+
+/* Class = "NSTextFieldCell"; title = "~"; ObjectID = "S8q-qU-MCQ"; */
+"S8q-qU-MCQ.title" = "~";
+
+/* Class = "NSButtonCell"; title = "Four Digit Years"; ObjectID = "ZaK-6E-rGD"; */
+"ZaK-6E-rGD.title" = "四位数年份";
+
+/* Class = "NSButtonCell"; title = "Field Name Row:"; ObjectID = "d6g-n6-aTk"; */
+"d6g-n6-aTk.title" = "字段名行:";
+
+/* Class = "NSTextFieldCell"; title = "Row"; ObjectID = "eBf-1e-zx6"; */
+"eBf-1e-zx6.title" = "行";
+
+/* Class = "NSTextFieldCell"; title = "Choose Additional Options (4/8)"; ObjectID = "eDQ-hL-dRL"; */
+"eDQ-hL-dRL.title" = "Choose Additional Options (4/8)";
+
+/* Class = "NSTextFieldCell"; placeholderString = "End of File"; ObjectID = "hhc-eR-NqN"; */
+"hhc-eR-NqN.placeholderString" = "文件结束";
+
+/* Class = "NSTextFieldCell"; title = "You can define some additional options for source."; ObjectID = "kol-6E-47d"; */
+"kol-6E-47d.title" = "你可以为源定义一些附加的选项。";
+
+/* Class = "NSTextFieldCell"; title = "1"; ObjectID = "mIw-VI-uKB"; */
+"mIw-VI-uKB.title" = "1";
+
+/* Class = "NSTextFieldCell"; title = "Row"; ObjectID = "nND-0K-qma"; */
+"nND-0K-qma.title" = "行";
+
+/* Class = "NSTextFieldCell"; title = "Time Delimiter:"; ObjectID = "rJb-fD-4rp"; */
+"rJb-fD-4rp.title" = "时间分隔符:";
+
+/* Class = "NSTextFieldCell"; title = "Thousand Separator:"; ObjectID = "vYk-wV-KXU"; */
+"vYk-wV-KXU.title" = "千位分隔符:";
+
+/* Class = "NSTextFieldCell"; title = "Decimal Symbol:"; ObjectID = "wKD-55-XfR"; */
+"wKD-55-XfR.title" = "小数点符号:";
+

@@ -1,0 +1,43 @@
+
+/* Class = "NSButtonCell"; title = "Has OIDs"; ObjectID = "1Nf-PB-Z0o"; */
+"1Nf-PB-Z0o.title" = "有 OIDs";
+
+/* Class = "NSTextFieldCell"; title = "Foreign Schema:"; ObjectID = "QlP-1D-gkr"; */
+"QlP-1D-gkr.title" = "外部模式:";
+
+/* Class = "NSTextFieldCell"; title = "Inherits From:"; ObjectID = "RbE-BU-xey"; */
+"RbE-BU-xey.title" = "继承自:";
+
+/* Class = "NSTextFieldCell"; title = "Foreign Table:"; ObjectID = "cN3-3D-r2E"; */
+"cN3-3D-r2E.title" = "外部表:";
+
+/* Class = "NSTextFieldCell"; title = "Options:"; ObjectID = "eyi-5H-5eI"; */
+"eyi-5H-5eI.title" = "选项:";
+
+/* Class = "NSTextFieldCell"; title = "Owner:"; ObjectID = "fZb-UG-2ce"; */
+"fZb-UG-2ce.title" = "拥有者:";
+
+/* Class = "NSComboBoxCell"; mw0-17-PKe.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "mw0-17-PKe"; */
+"mw0-17-PKe.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; mw0-17-PKe.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "mw0-17-PKe"; */
+"mw0-17-PKe.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; mw0-17-PKe.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "mw0-17-PKe"; */
+"mw0-17-PKe.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Foreign Server:"; ObjectID = "yRf-VQ-oJE"; */
+"yRf-VQ-oJE.title" = "外部服务器:";
+
+/* Class = "NSComboBoxCell"; z2Q-dk-ilv.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "z2Q-dk-ilv"; */
+"z2Q-dk-ilv.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; z2Q-dk-ilv.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "z2Q-dk-ilv"; */
+"z2Q-dk-ilv.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; z2Q-dk-ilv.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "z2Q-dk-ilv"; */
+"z2Q-dk-ilv.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Foreign Database:"; ObjectID = "zhb-5C-bRT"; */
+"zhb-5C-bRT.title" = "外部数据库:";
+

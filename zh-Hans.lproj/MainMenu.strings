@@ -1,0 +1,241 @@
+
+/* Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "0O4-GX-EB8"; */
+"0O4-GX-EB8.title" = "智能拷贝/粘贴";
+
+/* Class = "NSMenuItem"; title = "Quit Navicat"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Quit Navicat";
+
+/* Class = "NSMenuItem"; title = "Navicat Community"; ObjectID = "5du-xE-VPU"; */
+"5du-xE-VPU.title" = "Navicat Community";
+
+/* Class = "NSMenuItem"; title = "About Navicat"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "关于 Navicat";
+
+/* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "7GF-ge-Kwk"; */
+"7GF-ge-Kwk.title" = "智能引号";
+
+/* Class = "NSMenu"; title = "Substitutions"; ObjectID = "8ap-83-4zZ"; */
+"8ap-83-4zZ.title" = "替换";
+
+/* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "918-d1-naV"; */
+"918-d1-naV.title" = "首字母大写";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "A4k-iD-Lc9"; */
+"A4k-iD-Lc9.title" = "前置全部窗口";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "Ad6-aP-kU3"; */
+"Ad6-aP-kU3.title" = "最小化";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "偏好设置…";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "Bdk-lE-wuf"; */
+"Bdk-lE-wuf.title" = "查找…";
+
+/* Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "CjG-TL-oYZ"; */
+"CjG-TL-oYZ.title" = "智能破折号";
+
+/* Class = "NSMenuItem"; title = "Registration…"; ObjectID = "CoN-u7-S74"; */
+"CoN-u7-S74.title" = "注册…";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "DD3-Zr-VJW"; */
+"DD3-Zr-VJW.title" = "删除";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "DSk-pG-Bah"; */
+"DSk-pG-Bah.title" = "剪切";
+
+/* Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "Dil-55-Zdk"; */
+"Dil-55-Zdk.title" = "变为大写";
+
+/* Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "EEk-BO-CMy"; */
+"EEk-BO-CMy.title" = "显示拼写和语法";
+
+/* Class = "NSMenuItem"; title = "Data Detectors"; ObjectID = "Ehv-hE-R7D"; */
+"Ehv-hE-R7D.title" = "Data Detectors";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "帮助";
+
+/* Class = "NSMenuItem"; title = "Navicat Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "Navicat 帮助";
+
+/* Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "Gku-3Y-MtO"; */
+"Gku-3Y-MtO.title" = "拼写和语法";
+
+/* Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "H1j-W6-Hbl"; */
+"H1j-W6-Hbl.title" = "粘贴并匹配样式";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "HgW-u3-5gy"; */
+"HgW-u3-5gy.title" = "撤消";
+
+/* Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "JA8-58-VcM"; */
+"JA8-58-VcM.title" = "检查拼写和语法";
+
+/* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "JXt-N6-zZi"; */
+"JXt-N6-zZi.title" = "显示替换";
+
+/* Class = "NSMenuItem"; title = "Navicat Cloud Sign Out"; ObjectID = "JuG-VC-PnJ"; */
+"JuG-VC-PnJ.title" = "Navicat Cloud 退出";
+
+/* Class = "NSMenuItem"; title = "View My Account…"; ObjectID = "KY7-53-bPH"; */
+"KY7-53-bPH.title" = "查看我的帐号…";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "全部显示";
+
+/* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "LXI-uB-AI8"; */
+"LXI-uB-AI8.title" = "停止朗读";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "Lm4-2a-fDE"; */
+"Lm4-2a-fDE.title" = "编辑";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "MHG-pc-DQZ"; */
+"MHG-pc-DQZ.title" = "窗口";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "服务";
+
+/* Class = "NSMenuItem"; title = "Hide Navicat"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Hide Navicat";
+
+/* Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "Q08-yR-KQj"; */
+"Q08-yR-KQj.title" = "文本替换";
+
+/* Class = "NSMenuItem"; title = "Navicat Cloud Sign In"; ObjectID = "QKI-L0-FRG"; */
+"QKI-L0-FRG.title" = "Navicat Cloud 登录";
+
+/* Class = "NSMenuItem"; title = "What's New in Navicat 12.1"; ObjectID = "R7B-rC-iif"; */
+"R7B-rC-iif.title" = "Navicat 12.1 的新功能";
+
+/* Class = "NSMenuItem"; title = "Check for Updates…"; ObjectID = "Rnj-I1-EmR"; */
+"Rnj-I1-EmR.title" = "检查更新…";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "RuL-wE-uh7"; */
+"RuL-wE-uh7.title" = "查找下一个";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "SSv-8r-fXR"; */
+"SSv-8r-fXR.title" = "编辑";
+
+/* Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "SwA-bx-gJ1"; */
+"SwA-bx-gJ1.title" = "自动纠正拼写";
+
+/* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "UzN-Bj-Xh0"; */
+"UzN-Bj-Xh0.title" = "开始朗读";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "隐藏其他";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "Wxw-pv-3g1"; */
+"Wxw-pv-3g1.title" = "查找上一个";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "X3K-wi-O2m"; */
+"X3K-wi-O2m.title" = "粘贴";
+
+/* Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "X4g-yn-qB6"; */
+"X4g-yn-qB6.title" = "查找和替换…";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "XNk-aj-pVQ"; */
+"XNk-aj-pVQ.title" = "缩放";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "XqK-4O-OUZ"; */
+"XqK-4O-OUZ.title" = "窗口";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "YPr-Wq-10V"; */
+"YPr-Wq-10V.title" = "查看";
+
+/* Class = "NSMenu"; title = "Speech"; ObjectID = "YzL-Ce-zo8"; */
+"YzL-Ce-zo8.title" = "语音";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "a0U-wW-IJP"; */
+"a0U-wW-IJP.title" = "Main Menu";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "afd-ce-wFz"; */
+"afd-ce-wFz.title" = "关闭";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "ca5-ad-5jO"; */
+"ca5-ad-5jO.title" = "查找";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "d6g-Uq-Nrj"; */
+"d6g-Uq-Nrj.title" = "全选";
+
+/* Class = "NSMenuItem"; title = "Navicat"; ObjectID = "eDi-FN-eH7"; */
+"eDi-FN-eH7.title" = "Navicat";
+
+/* Class = "NSMenuItem"; title = "Unlock Features…"; ObjectID = "g3Q-va-epH"; */
+"g3Q-va-epH.title" = "解除锁定功能…";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "ggC-hX-vWY"; */
+"ggC-hX-vWY.title" = "复制";
+
+/* Class = "NSMenuItem"; title = "Item"; ObjectID = "hF6-mt-dRB"; */
+"hF6-mt-dRB.title" = "项目";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "服务";
+
+/* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "i0G-Y7-zsj"; */
+"i0G-Y7-zsj.title" = "转换";
+
+/* Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "iRZ-Jd-OqC"; */
+"iRZ-Jd-OqC.title" = "变为小写";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "j5n-pI-lej"; */
+"j5n-pI-lej.title" = "进入全屏幕";
+
+/* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "jju-gy-sMa"; */
+"jju-gy-sMa.title" = "替换";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "m0U-5Z-f58"; */
+"m0U-5Z-f58.title" = "文件";
+
+/* Class = "NSMenuItem"; title = "Navicat Customer Center"; ObjectID = "nef-SM-Nny"; */
+"nef-SM-Nny.title" = "Navicat 客户服务中心";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "oT8-RF-DzE"; */
+"oT8-RF-DzE.title" = "跳至所选内容";
+
+/* Class = "NSMenu"; title = "Spelling"; ObjectID = "pXx-sW-GgD"; */
+"pXx-sW-GgD.title" = "拼写";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "pdj-AA-zNN"; */
+"pdj-AA-zNN.title" = "重做";
+
+/* Class = "NSMenuItem"; title = "Provide Navicat Feedback"; ObjectID = "psE-1m-l3l"; */
+"psE-1m-l3l.title" = "提供 Navicat 反馈意见";
+
+/* Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "s2b-hu-V4N"; */
+"s2b-hu-V4N.title" = "显示工具栏";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "sat-bP-pzZ"; */
+"sat-bP-pzZ.title" = "查看";
+
+/* Class = "NSMenuItem"; title = "Show Main Window"; ObjectID = "sbz-OK-b5E"; */
+"sbz-OK-b5E.title" = "Show Main Window";
+
+/* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "t00-8A-s8V"; */
+"t00-8A-s8V.title" = "键入时检查拼写";
+
+/* Class = "NSMenu"; title = "Transformations"; ObjectID = "tDv-Fo-5TZ"; */
+"tDv-Fo-5TZ.title" = "转换";
+
+/* Class = "NSMenu"; title = "Navicat"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Navicat";
+
+/* Class = "NSMenuItem"; title = "Speech"; ObjectID = "uYc-GT-yQM"; */
+"uYc-GT-yQM.title" = "语音";
+
+/* Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "uxI-xb-SW7"; */
+"uxI-xb-SW7.title" = "智能链接";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "vuL-6w-xkz"; */
+"vuL-6w-xkz.title" = "查找";
+
+/* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "wax-WL-fYu"; */
+"wax-WL-fYu.title" = "立即检查文稿";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "yec-ol-jt7"; */
+"yec-ol-jt7.title" = "文件";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "yjg-GH-L40"; */
+"yjg-GH-L40.title" = "查找所选内容";
+

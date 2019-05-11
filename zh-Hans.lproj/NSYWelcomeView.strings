@@ -1,0 +1,22 @@
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "窗口";
+
+/* Class = "NSTextFieldCell"; title = "Sign in with the same Navicat ID you use for\nthe Navicat Customer Center."; ObjectID = "E0u-hd-oNK"; */
+"E0u-hd-oNK.title" = "使用与 Navicat 客户服务中心相同的 Navicat ID 登录。";
+
+/* Class = "NSTextFieldCell"; title = "Get Started"; ObjectID = "FuV-OM-Bmv"; */
+"FuV-OM-Bmv.title" = "开始";
+
+/* Class = "NSTextFieldCell"; title = "Don't have an account?"; ObjectID = "HEz-Dv-lDL"; */
+"HEz-Dv-lDL.title" = "还没有帐号吗？";
+
+/* Class = "NSTextFieldCell"; title = "Welcome to Navicat Cloud"; ObjectID = "VmV-Xq-5xA"; */
+"VmV-Xq-5xA.title" = "欢迎使用 Navicat Cloud";
+
+/* Class = "NSButtonCell"; title = "Create Navicat ID"; ObjectID = "XxE-Ma-yCI"; */
+"XxE-Ma-yCI.title" = "创建 Navicat ID";
+
+/* Class = "NSTextFieldCell"; title = "Whether you're at the office, at a coffee shop or at home,\nconnect to your database with Navicat Cloud."; ObjectID = "w2T-kz-caO"; */
+"w2T-kz-caO.title" = "Whether you're at the office, at a coffee shop or at home,\nconnect to your database with Navicat Cloud.";
+

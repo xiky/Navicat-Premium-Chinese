@@ -1,0 +1,279 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>维护对象</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>维护对象</h1>
+	<p>Navicat 为维护 Oracle 对象提供完整的解决方案。</p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在主窗口的导航窗格中或对象选项卡中选择对象。</p></li>
+		<li><p>按住 Control 键并点按已选择的对象。</p></li>
+		<li><p>选择“<span class="term">维护</span>”，然后从弹出式菜单中选择一个维护选项。</p></li>
+		<li><p>结果显示在弹出的窗口中。</p></li>
+	</ul>
+	<h2>表</h2>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>启用表锁定</p></td>
+			<td width="75%"><p>允许在表进行 DDL 操作。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>禁用表锁定</p></td>
+			<td width="75%"><p>不允许在表进行 DDL 操作。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>启用行移动</p></td>
+			<td width="75%"><p>允许数据库移动一行，从而更改 ROWID。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>禁用行移动</p></td>
+			<td width="75%"><p>不允许数据库移动一行 ，从而防止更改 ROWID。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>缩减空间</p></td>
+			<td width="75%"><p>缩减表中的空间。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>移动</p></td>
+			<td width="75%"><p>重新定位表的数据。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>验证表结构</p></td>
+			<td width="75%"><p>验证表结构的完整性。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>收集统计数据</p></td>
+			<td width="75%"><p>分析表的内容。</p></td>
+		</tr>
+	</table>
+	<h2>视图</h2>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>编译</p></td>
+			<td width="75%"><p>重新编译视图的规格或主体。</p></td>
+		</tr>
+	</table>
+	<h2>过程或函数</h2>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>编译</p></td>
+			<td width="75%"><p>重新编译规格或主体。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>为调试编译</p></td>
+			<td width="75%"><p>重新编译规格或主体。指示 PL/SQL 编译器生成和保存供调试器使用的代码。</p></td>
+		</tr>
+	</table>
+	<h2>索引</h2>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>重建索引</p></td>
+			<td width="75%"><p>重建索引或索引中的一个分区或子分区。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>使索引无法使用</p></td>
+			<td width="75%"><p>使索引无法使用。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>结合索引</p></td>
+			<td width="75%"><p>合併索引块的内容，释放块以便重新使用。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>计算索引统计数据</p></td>
+			<td width="75%"><p>计算索引的统计数据。</p></td>
+		</tr>
+	</table>
+	<h2>Java</h2>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>编译或解析</p></td>
+			<td width="75%"><p>解析主要 Java 类别模式对象。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>设置 AUTHID 当前用户</p></td>
+			<td width="75%"><p>设置启用者权利为 AUTHID CURRENT_USER。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>设置 AUTHID 定义者</p></td>
+			<td width="75%"><p>设置启用者权利为 AUTHID DEFINER。</p></td>
+		</tr>
+	</table>
+	<h2>实体化视图</h2>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>启用行移动</p></td>
+			<td width="75%"><p>允许数据库移动一行，从而更改 ROWID。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>禁用行移动</p></td>
+			<td width="75%"><p>不允许数据库移动一行 ，从而防止更改 ROWID。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>缩减空间</p></td>
+			<td width="75%"><p>压缩实体化视图的片段。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>编译</p></td>
+			<td width="75%"><p>重新核对实体化视图。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>强制刷新</p></td>
+			<td width="75%"><p>整理实体化视图。</p></td>
+		</tr>
+	</table>
+	<h2>实体化视图日志</h2>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>启用行移动</p></td>
+			<td width="75%"><p>允许数据库移动一行，从而更改 ROWID。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>禁用行移动</p></td>
+			<td width="75%"><p>不允许数据库移动一行 ，从而防止更改 ROWID。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>缩减空间</p></td>
+			<td width="75%"><p>压缩实体化视图日志的片段。</p></td>
+		</tr>
+	</table>
+	<h2>包</h2>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>编译</p></td>
+			<td width="75%"><p>重新编译包规格或主体。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>为调试编译</p></td>
+			<td width="75%"><p>重新编译包规格或主体。指示 PL/SQL 编译器生成和保存供调试器使用的代码。</p></td>
+		</tr>
+	</table>
+	<h2>触发器</h2>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>编译</p></td>
+			<td width="75%"><p>重新编译触发器。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>为调试编译</p></td>
+			<td width="75%"><p>重新编译触发器。指示 PL/SQL 编译器生成和保存供调试器使用的代码。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>启用触发器</p></td>
+			<td width="75%"><p>启用触发器。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>禁用触发器</p></td>
+			<td width="75%"><p>禁用触发器。</p></td>
+		</tr>
+	</table>
+	<h2>类型</h2>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>编译</p></td>
+			<td width="75%"><p>重新编译类型规格或主体。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>为调试编译</p></td>
+			<td width="75%"><p>重新编译类型规格或主体。指示 PL/SQL 编译器生成和保存供调试器使用的代码。</p></td>
+		</tr>
+	</table>
+	<h2>XML 模式</h2>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>编译</p></td>
+			<td width="75%"><p>重新编译一个已注册的 XML 模式。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>清除 XML 模式</p></td>
+			<td width="75%"><p>从 Oracle XML DB 完全移除 XML 模式。</p></td>
+		</tr>
+	</table>
+	<h2>表空间</h2>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>只读</p></td>
+			<td width="75%"><p>将表空间置于转换只读模式。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>读写</p></td>
+			<td width="75%"><p>允许在之前只读的表空间进行写入操作。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>在线</p></td>
+			<td width="75%"><p>使表空间在在线。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>离线</p></td>
+			<td width="75%"><p>使表空间离线。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>结合</p></td>
+			<td width="75%"><p>为表空间的每个数据文件结合所有连续的可用扩展区到较大的连续扩展区。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>缩减空间</p></td>
+			<td width="75%"><p>减少表空间使用的空间。</p></td>
+		</tr>
+	</table>
+</div>

@@ -1,0 +1,19 @@
+
+/* Class = "NSButton"; ibShadowedToolTip = "Stop"; ObjectID = "LyR-CW-X5b"; */
+"LyR-CW-X5b.ibShadowedToolTip" = "停止";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Explain"; ObjectID = "UI8-9O-U8l"; */
+"UI8-9O-U8l.ibShadowedToolTip" = "解释";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Save"; ObjectID = "nMH-JM-dnG"; */
+"nMH-JM-dnG.ibShadowedToolTip" = "保存";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Preview"; ObjectID = "vrR-Gk-IMn"; */
+"vrR-Gk-IMn.ibShadowedToolTip" = "预览";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Beautify SQL"; ObjectID = "y3E-Jy-hxV"; */
+"y3E-Jy-hxV.ibShadowedToolTip" = "美化 SQL";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Query Builder"; ObjectID = "yx3-1Z-zaI"; */
+"yx3-1Z-zaI.ibShadowedToolTip" = "查询创建工具";
+

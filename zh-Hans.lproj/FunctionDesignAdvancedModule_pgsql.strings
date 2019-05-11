@@ -1,0 +1,13 @@
+
+/* Class = "NSComboBoxCell"; gSz-y6-sz1.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "gSz-y6-sz1"; */
+"gSz-y6-sz1.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; gSz-y6-sz1.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "gSz-y6-sz1"; */
+"gSz-y6-sz1.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; gSz-y6-sz1.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "gSz-y6-sz1"; */
+"gSz-y6-sz1.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Owner:"; ObjectID = "wtQ-zh-w1s"; */
+"wtQ-zh-w1s.title" = "拥有者:";
+

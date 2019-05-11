@@ -1,0 +1,19 @@
+
+/* Class = "NSMenuItem"; title = "Always On Top"; ObjectID = "7yR-ga-Go0"; */
+"7yR-ga-Go0.title" = "最上层显示";
+
+/* Class = "NSMenuItem"; title = "Cancel All"; ObjectID = "PGB-c6-2IL"; */
+"PGB-c6-2IL.title" = "全部取消";
+
+/* Class = "NSMenuItem"; title = "Set Always On Top"; ObjectID = "jwy-RX-sDf"; */
+"jwy-RX-sDf.title" = "设置最上层显示";
+
+/* Class = "NSMenuItem"; title = "Cancel"; ObjectID = "lhJ-5O-s4T"; */
+"lhJ-5O-s4T.title" = "取消";
+
+/* Class = "NSMenu"; title = "Set Always On Top"; ObjectID = "nTY-2c-BDd"; */
+"nTY-2c-BDd.title" = "设置最上层显示";
+
+/* Class = "NSMenuItem"; title = "End Process…"; ObjectID = "ng3-pq-9IC"; */
+"ng3-pq-9IC.title" = "结束进程…";
+

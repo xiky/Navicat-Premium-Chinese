@@ -1,0 +1,10 @@
+
+/* Class = "NSWindow"; title = "Datetime Picker"; ObjectID = "33D-PF-ICJ"; */
+"33D-PF-ICJ.title" = "Datetime Picker";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "J6d-y1-S08"; */
+"J6d-y1-S08.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "hnC-Sn-KMc"; */
+"hnC-Sn-KMc.title" = "确定";
+

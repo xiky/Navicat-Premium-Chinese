@@ -1,0 +1,55 @@
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "5Ry-Xr-HGF"; */
+"5Ry-Xr-HGF.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "5lg-7d-NZ3"; */
+"5lg-7d-NZ3.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "5yH-aT-Fmn"; */
+"5yH-aT-Fmn.title" = "Item 2";
+
+/* Class = "NSTextFieldCell"; title = "Referencing Old:"; ObjectID = "Dwv-YA-hRb"; */
+"Dwv-YA-hRb.title" = "参考旧的:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "GcG-mk-PE1"; */
+"GcG-mk-PE1.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "UHD-ao-fnt"; */
+"UHD-ao-fnt.title" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "When Clause:"; ObjectID = "VWt-YE-7Pb"; */
+"VWt-YE-7Pb.title" = "当子句:";
+
+/* Class = "NSTabViewItem"; label = "Advanced"; ObjectID = "bKT-m1-rLb"; */
+"bKT-m1-rLb.label" = "高级";
+
+/* Class = "NSTextFieldCell"; title = "Referencing New:"; ObjectID = "cIX-xQ-rOw"; */
+"cIX-xQ-rOw.title" = "参考新的:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "diU-QV-lKn"; */
+"diU-QV-lKn.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "fLT-GP-E0H"; */
+"fLT-GP-E0H.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "jis-7u-JXX"; */
+"jis-7u-JXX.title" = "Item 2";
+
+/* Class = "NSTextFieldCell"; title = "Ordering:"; ObjectID = "kgI-pu-qh9"; */
+"kgI-pu-qh9.title" = "正在排序:";
+
+/* Class = "NSTabViewItem"; label = "Body"; ObjectID = "knJ-HB-B4w"; */
+"knJ-HB-B4w.label" = "主体";
+
+/* Class = "NSTextFieldCell"; title = "Edition:"; ObjectID = "l7O-qN-S1B"; */
+"l7O-qN-S1B.title" = "版本:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "nXw-lU-qQl"; */
+"nXw-lU-qQl.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Ordering References:"; ObjectID = "olW-pG-4Z7"; */
+"olW-pG-4Z7.title" = "正在排序参考:";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "qx0-Jl-IBT"; */
+"qx0-Jl-IBT.title" = "Item 3";
+

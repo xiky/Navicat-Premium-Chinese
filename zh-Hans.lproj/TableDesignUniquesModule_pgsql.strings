@@ -1,0 +1,34 @@
+
+/* Class = "NSComboBoxCell"; 57a-MM-3qP.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "57a-MM-3qP"; */
+"57a-MM-3qP.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; 57a-MM-3qP.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "57a-MM-3qP"; */
+"57a-MM-3qP.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; 57a-MM-3qP.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "57a-MM-3qP"; */
+"57a-MM-3qP.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Fill Factor (%):"; ObjectID = "8Mq-L3-g90"; */
+"8Mq-L3-g90.title" = "填充因子（%）:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "F8c-T6-SiR"; */
+"F8c-T6-SiR.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ghr-6l-6b6"; */
+"Ghr-6l-6b6.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Tablespace:"; ObjectID = "N9h-fA-GOS"; */
+"N9h-fA-GOS.title" = "表空间:";
+
+/* Class = "NSTextFieldCell"; title = "Deferrable:"; ObjectID = "NRV-N6-bgy"; */
+"NRV-N6-bgy.title" = "可延迟:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "YSI-fD-txN"; */
+"YSI-fD-txN.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Deferred:"; ObjectID = "oz8-9n-6U7"; */
+"oz8-9n-6U7.title" = "延迟:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "tIy-GB-GiS"; */
+"tIy-GB-GiS.title" = "Table View Cell";
+

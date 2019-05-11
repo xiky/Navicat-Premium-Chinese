@@ -1,0 +1,46 @@
+
+/* Class = "NSTextFieldCell"; title = "Confirm Password:"; ObjectID = "7CB-tJ-fMD"; */
+"7CB-tJ-fMD.title" = "确认密码:";
+
+/* Class = "NSButtonCell"; title = "Can create roles"; ObjectID = "Bkc-Cc-PIY"; */
+"Bkc-Cc-PIY.title" = "可以创建角色";
+
+/* Class = "NSTextFieldCell"; title = "Password Encryption:"; ObjectID = "ClA-6l-yHr"; */
+"ClA-6l-yHr.title" = "密码加密:";
+
+/* Class = "NSTextFieldCell"; title = "Role ID:"; ObjectID = "Mkb-4e-z1n"; */
+"Mkb-4e-z1n.title" = "角色 ID:";
+
+/* Class = "NSButtonCell"; title = "Inherits rights from parent roles"; ObjectID = "T0a-xo-9il"; */
+"T0a-xo-9il.title" = "从上层角色继承权利";
+
+/* Class = "NSButtonCell"; title = "Superuser"; ObjectID = "UOa-sP-evt"; */
+"UOa-sP-evt.title" = "超级用户";
+
+/* Class = "NSTextFieldCell"; title = "Connection Limit:"; ObjectID = "X27-ph-Ipy"; */
+"X27-ph-Ipy.title" = "连接限制:";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "a1V-Sc-pbI"; */
+"a1V-Sc-pbI.title" = "密码:";
+
+/* Class = "NSButtonCell"; title = "Can bypass RLS"; ObjectID = "a9g-YT-hua"; */
+"a9g-YT-hua.title" = "可以绕过 RLS";
+
+/* Class = "NSButtonCell"; title = "Can Login"; ObjectID = "ahL-ES-MeF"; */
+"ahL-ES-MeF.title" = "可以登录";
+
+/* Class = "NSButtonCell"; title = "Can replicate"; ObjectID = "b2d-Qp-Lks"; */
+"b2d-Qp-Lks.title" = "可以复制";
+
+/* Class = "NSButtonCell"; title = "Can modify catalog directly"; ObjectID = "cRs-Am-Lew"; */
+"cRs-Am-Lew.title" = "可以直接修改目录";
+
+/* Class = "NSTextFieldCell"; title = "Expiry Date:"; ObjectID = "fe7-ta-VlC"; */
+"fe7-ta-VlC.title" = "到期日:";
+
+/* Class = "NSTextFieldCell"; title = "User Name:"; ObjectID = "uv1-1u-hlL"; */
+"uv1-1u-hlL.title" = "用户名:";
+
+/* Class = "NSButtonCell"; title = "Can create databases"; ObjectID = "vRu-sT-bAl"; */
+"vRu-sT-bAl.title" = "可以创建数据库";
+

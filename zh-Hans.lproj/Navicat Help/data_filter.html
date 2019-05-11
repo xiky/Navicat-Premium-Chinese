@@ -1,0 +1,25 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>筛选记录</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>筛选记录</h1>
+	<p>请使用以下的方法筛选网格中的数据：</p>
+	<ul class="ListBullet">
+		<li>点击单元格进入编辑模式。按住 Control 键并点按单元格，然后在弹出式菜单选择“<span class="term">筛选</span>”->“<span class="term">字段 xxx 值</span>”来用当前单元格的值筛选记录。</li>
+		<li><p>你还可以使用更复杂的方式自定义你的筛选，在工具栏点击 <img src="./images/icon_filterWizard.png" alt="筛选" class="inlineGraphic" height="16" width="16"/>。筛选向导会出现在网格的上方，你可以看到现有的筛选条件，简易地点击左侧的复选框来启用或禁用它。</p></li>
+	</ul>
+</div>

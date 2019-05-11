@@ -1,0 +1,10 @@
+
+/* Class = "NSWindow"; title = "Query Builder"; ObjectID = "9U4-BE-o5X"; */
+"9U4-BE-o5X.title" = "查询创建工具";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "dn5-md-Blg"; */
+"dn5-md-Blg.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "nta-ND-od7"; */
+"nta-ND-od7.title" = "确定";
+

@@ -1,0 +1,85 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>还原</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>还原</h1>
+	<p>“<span class="term">还原</span>”功能会先删除数据库已选择的对象，然后根据你的备份创建新的对象。最后，插入数据。</p>
+	<p><span class="term">还原一个备份到现有的数据库或模式</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在主窗口中，打开一个数据库或模式。</p></li>
+		<li><p>点击“<span class="term">备份</span>”并选择一个现有的备份文件。</p></li>
+		<li><p>在对象工具栏点击 <img src="./images/icon_restorebackup.png" alt="还原备份" class="inlineGraphic" height="16" width="16"/>。</p></li>
+		<li><p>选择还原选项并点击“<span class="term">开始</span>”。</p></li>
+	</ul>
+	<p><span class="term">还原一个备份到新的数据库或模式</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>创建并打开一个新的数据库或模式。</p></li>
+		<li><p>点击“<span class="term">备份</span>”。</p></li>
+		<li><p>按住 Control 键并点按对象选项卡的任意位置，然后选择“<span class="term">还原备份从</span>”。</p></li>
+		<li><p>浏览备份文件。</p></li>
+		<li><p>选择还原选项并点击“<span class="term">开始</span>”。</p></li>
+	</ul>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>你也可以还原 Navicat Windows 和 Linux 的备份。</p>
+	</div>
+	<div class="alert">
+		<p><span class="note">【注意】</span>你必需要有创建、删除和插入的权限（<a href="#/security_mysql_user">MySQL/MariaDB</a> 或 <a href="#/security_postgresql_user">PostgreSQL</a>）以运行还原。</p>
+	</div>
+	<h2>常规属性</h2>
+	<p>在此选项卡，你可以查看服务器和数据库的信息，以及备份文件的信息。</p>
+	<h2>对象选择</h2>
+	<p>在此选项卡，选择你想还原的数据库对象。</p>
+	<h2>高级属性</h2>
+	<div class="alert">
+		<p><span class="note">【注意】</span>下列的选项会根据连接的服务器类型、备份文件版本而有所不同。</p>
+	</div>
+	<p><span class="term">遇到错误时继续</span></p>
+	<p>在还原进程中忽略遇到的错误。</p>
+	<p><span class="term">创建索引</span></p>
+	<p>如果勾选了这个选项，将会为还原的表创建索引。</p>
+	<p><span class="term">创建表</span></p>
+	<p>如果勾选了这个选项，将会在还原进程中创建表。</p>
+	<p><span class="term">创建记录</span></p>
+	<p>如果勾选了这个选项，将会在还原进程中还原表记录。否则，只会还原表结构。</p>
+	<p><span class="term">创建触发器</span></p>
+	<p>如果勾选了这个选项，将会为还原的表创建触发器。</p>
+	<p><span class="term">清空表</span></p>
+	<p>删除在数据库或模式的所有表记录。</p>
+	<p><span class="term">锁定表以便写入</span></p>
+	<p>在还原进程中，锁定表以防止用户修改。</p>
+	<p><span class="term">覆盖现有的事件</span></p>
+	<p>覆盖在于数据库或模式中已存在的事件。</p>
+	<p><span class="term">覆盖现有的函数</span></p>
+	<p>覆盖在于数据库或模式中已存在的函数。</p>
+	<p><span class="term">覆盖现有的索引</span></p>
+	<p>覆盖在于数据库或模式中已存在的索引。</p>
+	<p><span class="term">覆盖现有的序列</span></p>
+	<p>覆盖在于数据库或模式中已存在的序列。</p>
+	<p><span class="term">覆盖现有的表</span></p>
+	<p>覆盖在于数据库或模式中已存在的表。</p>
+	<p><span class="term">覆盖现有的触发器</span></p>
+	<p>覆盖在于数据库或模式中已存在的触发器。</p>
+	<p><span class="term">覆盖现有的类型</span></p>
+	<p>覆盖在于数据库或模式中已存在的类型。</p>
+	<p><span class="term">覆盖现有的视图</span></p>
+	<p>覆盖在于数据库或模式中已存在的视图。</p>
+	<p><span class="term">使用扩展插入语句</span></p>
+	<p>如果你想在插入记录时使用扩展插入语法，可勾选这个选项。</p>
+	<p>例如：<i>INSERT INTO `用户` VALUES ('1', '梁明洁', '23'), ('2', '邱礼安', '56'), ('0', '许勤', '23');</i></p>
+	<p><span class="term">使用事务</span></p>
+	<p>如果你想在发生错误时回滚所有数据，可勾选这个选项。</p>
+</div>

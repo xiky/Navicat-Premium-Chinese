@@ -1,0 +1,10 @@
+
+/* Class = "NSTextFieldCell"; title = "Restrict Query:"; ObjectID = "Naa-g6-QNl"; */
+"Naa-g6-QNl.title" = "限制查询:";
+
+/* Class = "NSTextFieldCell"; title = "Constraint Name:"; ObjectID = "XXm-MV-P0s"; */
+"XXm-MV-P0s.title" = "约束名:";
+
+/* Class = "NSButtonCell"; title = "Force on create"; ObjectID = "hU2-wZ-oxA"; */
+"hU2-wZ-oxA.title" = "创建时强制";
+

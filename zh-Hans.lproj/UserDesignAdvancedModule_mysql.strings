@@ -1,0 +1,34 @@
+
+/* Class = "NSTextFieldCell"; title = "Remarks: 0(default) = no limit"; ObjectID = "00d-xm-mzm"; */
+"00d-xm-mzm.title" = "备注：0（默认）= 没有限制";
+
+/* Class = "NSTextFieldCell"; title = "Cipher:"; ObjectID = "7gn-SU-Fmi"; */
+"7gn-SU-Fmi.title" = "Cipher:";
+
+/* Class = "NSButtonCell"; title = "Use OLD_PASSWORD encryption"; ObjectID = "CcI-Me-q8c"; */
+"CcI-Me-q8c.title" = "使用 OLD_PASSWORD 加密";
+
+/* Class = "NSTextFieldCell"; title = "Maximum Queries Per Hour:"; ObjectID = "Fqp-ac-QbL"; */
+"Fqp-ac-QbL.title" = "每小时最多查询数:";
+
+/* Class = "NSTextFieldCell"; title = "SSL"; ObjectID = "PJ8-oz-nsO"; */
+"PJ8-oz-nsO.title" = "SSL";
+
+/* Class = "NSTextFieldCell"; title = "Maximum Connections Per Hour:"; ObjectID = "SXM-ea-jo2"; */
+"SXM-ea-jo2.title" = "每小时最多连接数:";
+
+/* Class = "NSTextFieldCell"; title = "SSL Type:"; ObjectID = "pmT-8v-4ZE"; */
+"pmT-8v-4ZE.title" = "SSL 类型:";
+
+/* Class = "NSTextFieldCell"; title = "Issuer:"; ObjectID = "xHY-dD-P0D"; */
+"xHY-dD-P0D.title" = "发行者:";
+
+/* Class = "NSTextFieldCell"; title = "Subject:"; ObjectID = "yVu-Es-oa8"; */
+"yVu-Es-oa8.title" = "主旨:";
+
+/* Class = "NSTextFieldCell"; title = "Maximum Updates Per Hour:"; ObjectID = "yZb-Sa-bom"; */
+"yZb-Sa-bom.title" = "每小时最多更新数:";
+
+/* Class = "NSTextFieldCell"; title = "Maximum User Connection:"; ObjectID = "zpd-NX-gEy"; */
+"zpd-NX-gEy.title" = "最大用户连接数:";
+

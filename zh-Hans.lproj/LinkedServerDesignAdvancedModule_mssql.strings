@@ -1,0 +1,40 @@
+
+/* Class = "NSTextFieldCell"; title = "Collation:"; ObjectID = "3co-q9-Syv"; */
+"3co-q9-Syv.title" = "排序规则:";
+
+/* Class = "NSTextFieldCell"; title = "Connect Timeout:"; ObjectID = "7mB-a7-fcI"; */
+"7mB-a7-fcI.title" = "连接超时:";
+
+/* Class = "NSButtonCell"; title = "Data Access"; ObjectID = "E71-vd-FP4"; */
+"E71-vd-FP4.title" = "数据访问";
+
+/* Class = "NSButtonCell"; title = "RPC Out"; ObjectID = "M58-UQ-1H1"; */
+"M58-UQ-1H1.title" = "RPC 输出";
+
+/* Class = "NSButtonCell"; title = "Promotion of Distributed Transactions for RPC"; ObjectID = "QnD-np-dt6"; */
+"QnD-np-dt6.title" = "为 RPC 分布式事务处理的升级";
+
+/* Class = "NSButtonCell"; title = "Distributor"; ObjectID = "U8x-ZY-tnG"; */
+"U8x-ZY-tnG.title" = "分发服务器";
+
+/* Class = "NSButtonCell"; title = "Lazy Schema Validation"; ObjectID = "aZg-w7-81V"; */
+"aZg-w7-81V.title" = "懒惰模式验证";
+
+/* Class = "NSButtonCell"; title = "RPC"; ObjectID = "cJe-kT-nYG"; */
+"cJe-kT-nYG.title" = "RPC";
+
+/* Class = "NSButtonCell"; title = "Collation Compatible"; ObjectID = "e7e-fL-oBj"; */
+"e7e-fL-oBj.title" = "排序规则兼容";
+
+/* Class = "NSButtonCell"; title = "Use Remote Collation"; ObjectID = "hmh-43-eEh"; */
+"hmh-43-eEh.title" = "使用远程排序规则";
+
+/* Class = "NSTextFieldCell"; title = "Query Timeout:"; ObjectID = "mMM-p6-jFi"; */
+"mMM-p6-jFi.title" = "查询超时:";
+
+/* Class = "NSButtonCell"; title = "Subscriber"; ObjectID = "pwh-kY-BO5"; */
+"pwh-kY-BO5.title" = "订阅服务器";
+
+/* Class = "NSButtonCell"; title = "Publisher"; ObjectID = "qY6-BG-MHX"; */
+"qY6-BG-MHX.title" = "发布服务器";
+

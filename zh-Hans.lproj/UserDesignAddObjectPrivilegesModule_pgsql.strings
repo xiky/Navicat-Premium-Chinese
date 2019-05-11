@@ -1,0 +1,37 @@
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "3ET-re-exg"; */
+"3ET-re-exg.title" = "取消";
+
+/* Class = "NSTableColumn"; headerCell.title = "Privilege"; ObjectID = "4SD-qr-nCr"; */
+"4SD-qr-nCr.headerCell.title" = "权限";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "8JD-mT-3rK"; */
+"8JD-mT-3rK.title" = "标签";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ajn-IF-Nju"; */
+"Ajn-IF-Nju.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "MKI-tV-qEU"; */
+"MKI-tV-qEU.title" = "确定";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Pow-wF-pLx"; */
+"Pow-wF-pLx.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Grant All With Grant Option"; ObjectID = "Q6b-eX-jib"; */
+"Q6b-eX-jib.title" = "全部授予（含授予选项）";
+
+/* Class = "NSMenuItem"; title = "Revoke All"; ObjectID = "YCa-fT-WmV"; */
+"YCa-fT-WmV.title" = "全部撤消";
+
+/* Class = "NSTableColumn"; headerCell.title = "Grant Option"; ObjectID = "bOG-q2-25E"; */
+"bOG-q2-25E.headerCell.title" = "授予选项";
+
+/* Class = "NSTableColumn"; headerCell.title = "Granted"; ObjectID = "bOP-yz-zAa"; */
+"bOP-yz-zAa.headerCell.title" = "授予";
+
+/* Class = "NSMenuItem"; title = "Grant All"; ObjectID = "eKf-z2-Hpp"; */
+"eKf-z2-Hpp.title" = "全部授予";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "gaf-sf-VsB"; */
+"gaf-sf-VsB.title" = "Text Cell";
+

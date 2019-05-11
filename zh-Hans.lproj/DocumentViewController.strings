@@ -1,0 +1,76 @@
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "0CS-hv-i0O"; */
+"0CS-hv-i0O.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Expand All"; ObjectID = "6GF-8r-pxE"; */
+"6GF-8r-pxE.title" = "全部展开";
+
+/* Class = "NSMenuItem"; title = "Insert Value"; ObjectID = "7Sf-zd-FBZ"; */
+"7Sf-zd-FBZ.title" = "插入值";
+
+/* Class = "NSMenuItem"; title = "Value Type"; ObjectID = "AlD-JX-s3N"; */
+"AlD-JX-s3N.title" = "值类型";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "DUH-Wx-leK"; */
+"DUH-Wx-leK.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "..."; ObjectID = "E9k-iU-wve"; */
+"E9k-iU-wve.title" = "...";
+
+/* Class = "NSMenuItem"; title = "Go to Document..."; ObjectID = "FY6-eH-fIl"; */
+"FY6-eH-fIl.title" = "前往文档...";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "FlK-kk-g4Y"; */
+"FlK-kk-g4Y.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Insert Value"; ObjectID = "K21-AG-MOf"; */
+"K21-AG-MOf.title" = "插入值";
+
+/* Class = "NSMenuItem"; title = "Delete Value"; ObjectID = "Qhd-CF-A3Q"; */
+"Qhd-CF-A3Q.title" = "删除值";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "YQG-On-xsu"; */
+"YQG-On-xsu.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Go to Document..."; ObjectID = "dsE-av-D62"; */
+"dsE-av-D62.title" = "前往文档...";
+
+/* Class = "NSMenuItem"; title = "Expand All"; ObjectID = "eDc-dJ-Z0v"; */
+"eDc-dJ-Z0v.title" = "全部展开";
+
+/* Class = "NSMenuItem"; title = "Add Value"; ObjectID = "fAH-eS-efN"; */
+"fAH-eS-efN.title" = "添加值";
+
+/* Class = "NSMenuItem"; title = "Collapse All"; ObjectID = "gVl-aI-Nmb"; */
+"gVl-aI-Nmb.title" = "全部折叠";
+
+/* Class = "NSMenuItem"; title = "Expand"; ObjectID = "gfG-cr-wES"; */
+"gfG-cr-wES.title" = "展开";
+
+/* Class = "NSTextFieldCell"; title = "Key"; ObjectID = "nzM-HL-DEn"; */
+"nzM-HL-DEn.title" = "键";
+
+/* Class = "NSMenuItem"; title = "Collapse All"; ObjectID = "pHq-mG-qN1"; */
+"pHq-mG-qN1.title" = "全部折叠";
+
+/* Class = "NSMenuItem"; title = "Go to Document..."; ObjectID = "pXn-Ic-bTg"; */
+"pXn-Ic-bTg.title" = "前往文档...";
+
+/* Class = "NSButtonCell"; title = "+"; ObjectID = "r1H-Lf-PzD"; */
+"r1H-Lf-PzD.title" = "+";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "rC7-sK-604"; */
+"rC7-sK-604.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Collapse"; ObjectID = "roq-03-wOY"; */
+"roq-03-wOY.title" = "折叠";
+
+/* Class = "NSTextFieldCell"; title = ":"; ObjectID = "sHN-sf-bvj"; */
+"sHN-sf-bvj.title" = ":";
+
+/* Class = "NSMenuItem"; title = "Set to NULL"; ObjectID = "tgf-1d-7A7"; */
+"tgf-1d-7A7.title" = "设置为 NULL";
+
+/* Class = "NSMenuItem"; title = "Set to Empty String"; ObjectID = "v7K-Gc-Iqi"; */
+"v7K-Gc-Iqi.title" = "设置为空白字符串";
+

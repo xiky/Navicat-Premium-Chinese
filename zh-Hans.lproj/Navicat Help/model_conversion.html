@@ -1,0 +1,23 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>模型转换</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>模型转换</h1>
+	<p>Navicat 让你将你的模型从一种数据库类型转换为另一种数据库类型，例如：转换 MariaDB 10.0 物理模型为 PostgreSQL 9.0 物理模型。</p>
+	<p>在转换过程中，所有数据类型会自动转换。如果从一个数据库类型转换为另一种，转换过程不会更改视图的 SQL 语法。而目标数据库版本是 MySQL 4.0 或以下，所有视图会移除。</p>
+	<p>若要转换一个已打开的模型文件，选择“<span class="term">文件</span>”->“<span class="term">转换模型为</span>”。然后，选择目标的“<span class="term">数据库</span>”、“<span class="term">版本</span>”和/或“<span class="term">版本</span>”。</p>
+</div>

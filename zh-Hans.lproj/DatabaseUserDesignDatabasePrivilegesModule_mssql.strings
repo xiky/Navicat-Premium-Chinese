@@ -1,0 +1,40 @@
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "4Lm-Ky-mKg"; */
+"4Lm-Ky-mKg.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Grant Option"; ObjectID = "5u3-U2-cbv"; */
+"5u3-U2-cbv.headerCell.title" = "授予选项";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "81f-pK-qOU"; */
+"81f-pK-qOU.title" = "标签";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Cc6-5L-rbF"; */
+"Cc6-5L-rbF.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Privilege"; ObjectID = "LHp-EX-X24"; */
+"LHp-EX-X24.headerCell.title" = "权限";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Wdp-Ss-YbL"; */
+"Wdp-Ss-YbL.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Grant All With Admin Option"; ObjectID = "Xdy-Sk-K7U"; */
+"Xdy-Sk-K7U.title" = "全部授予（含管理选项）";
+
+/* Class = "NSMenuItem"; title = "Revoke All"; ObjectID = "e3i-Ft-ZMk"; */
+"e3i-Ft-ZMk.title" = "全部撤消";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "gBk-xC-PZR"; */
+"gBk-xC-PZR.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Grant All"; ObjectID = "h2R-VJ-s6W"; */
+"h2R-VJ-s6W.title" = "全部授予";
+
+/* Class = "NSTableColumn"; headerCell.title = "Deny"; ObjectID = "myp-kS-gZ7"; */
+"myp-kS-gZ7.headerCell.title" = "拒绝";
+
+/* Class = "NSTableColumn"; headerCell.title = "Grant"; ObjectID = "rVN-BC-1fR"; */
+"rVN-BC-1fR.headerCell.title" = "授予";
+
+/* Class = "NSMenuItem"; title = "Deny All"; ObjectID = "s4m-ax-PUv"; */
+"s4m-ax-PUv.title" = "全部拒绝";
+

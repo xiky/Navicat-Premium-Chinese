@@ -1,0 +1,103 @@
+
+/* Class = "NSTableColumn"; headerCell.title = "Field"; ObjectID = "06n-9B-dAI"; */
+"06n-9B-dAI.headerCell.title" = "字段";
+
+/* Class = "NSComboBoxCell"; 0az-xL-Noj.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "0az-xL-Noj"; */
+"0az-xL-Noj.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; 0az-xL-Noj.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "0az-xL-Noj"; */
+"0az-xL-Noj.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; 0az-xL-Noj.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "0az-xL-Noj"; */
+"0az-xL-Noj.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "1E2-OX-7T1"; */
+"1E2-OX-7T1.title" = "Table View Cell";
+
+/* Class = "NSTabViewItem"; label = "Keys"; ObjectID = "2Sf-fF-NuT"; */
+"2Sf-fF-NuT.label" = "键";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "2yU-Sb-XJi"; */
+"2yU-Sb-XJi.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "Drop duplicates"; ObjectID = "3TV-Ix-QNy"; */
+"3TV-Ix-QNy.title" = "Drop duplicates";
+
+/* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "3mo-R9-qFh"; */
+"3mo-R9-qFh.headerCell.title" = "值";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "4nx-UZ-nFE"; */
+"4nx-UZ-nFE.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Field"; ObjectID = "5FY-eo-9io"; */
+"5FY-eo-9io.headerCell.title" = "字段";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "76Z-Os-1zT"; */
+"76Z-Os-1zT.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "AxL-IN-QP1"; */
+"AxL-IN-QP1.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Index Version:"; ObjectID = "B0A-KB-j67"; */
+"B0A-KB-j67.title" = "索引版本:";
+
+/* Class = "NSComboBoxCell"; Fu0-N1-sRu.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "Fu0-N1-sRu"; */
+"Fu0-N1-sRu.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; Fu0-N1-sRu.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "Fu0-N1-sRu"; */
+"Fu0-N1-sRu.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; Fu0-N1-sRu.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "Fu0-N1-sRu"; */
+"Fu0-N1-sRu.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Obv-FX-dx4"; */
+"Obv-FX-dx4.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Collection Name:"; ObjectID = "Qs2-61-KbP"; */
+"Qs2-61-KbP.title" = "集合名:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "VJL-cw-W00"; */
+"VJL-cw-W00.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "VaO-Yj-rgt"; */
+"VaO-Yj-rgt.headerCell.title" = "类型";
+
+/* Class = "NSButtonCell"; title = "Sparse"; ObjectID = "YAJ-G0-2nM"; */
+"YAJ-G0-2nM.title" = "稀疏";
+
+/* Class = "NSButtonCell"; title = "Expire After (Seconds):"; ObjectID = "ZuE-5m-o5w"; */
+"ZuE-5m-o5w.title" = "在此之后过期（秒）:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "bhf-SE-QMd"; */
+"bhf-SE-QMd.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "cbR-u3-QSe"; */
+"cbR-u3-QSe.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "etG-fi-br8"; */
+"etG-fi-br8.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "Background"; ObjectID = "fjC-oa-Z1B"; */
+"fjC-oa-Z1B.title" = "背景";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "fuN-ot-r4N"; */
+"fuN-ot-r4N.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "gtT-wz-U0I"; */
+"gtT-wz-U0I.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "hiV-0B-KMR"; */
+"hiV-0B-KMR.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "oYp-ze-Jbj"; */
+"oYp-ze-Jbj.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Operator"; ObjectID = "sCE-Ys-eLm"; */
+"sCE-Ys-eLm.headerCell.title" = "运算符";
+
+/* Class = "NSButtonCell"; title = "Unique"; ObjectID = "szt-HU-jn4"; */
+"szt-HU-jn4.title" = "唯一键";
+
+/* Class = "NSTabViewItem"; label = "Partial Filters"; ObjectID = "yVk-n7-WEa"; */
+"yVk-n7-WEa.label" = "部分筛选";
+

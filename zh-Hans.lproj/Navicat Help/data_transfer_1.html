@@ -1,0 +1,101 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>选择连接和高级选项（步骤一）</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>选择连接和高级选项（步骤一）</h1>
+	<h2>选择源和目标连接</h2>
+	<p>在“<span class="term">常规</span>”选项卡中，定义“<span class="term">源数据库</span>”和“<span class="term">目标数据库</span>”的连接、数据库和/或模式。你可以点击 <img src="./images/icon_swap.png" alt="互换" class="inlineGraphic" height="16" width="16"/> 来交换源和目标的设置。</p>
+	<p>你亦可以将已选择的数据库对象直接传输到文本文件。选择“<span class="term">文件</span>”选项。然后，选择文件的目标路径、“<span class="term">SQL 格式</span>”和“<span class="term">编码</span>”。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>Navicat Premium 支持在不同的服务器类型之间传输表和数据，例如：从 MySQL 到 Oracle。如果源连接是 MongoDB，Navicat Premium 只能将数据传输到 MongoDB 服务器。</p>
+	</div>
+	<h2>选择高级选项</h2>
+	<p>在“<span class="term">选项</span>”选项卡中，设置高级选项。选项是根据源和目标连接的服务器类型而有所不同。</p>
+	<p><span class="term">遇到错误时继续</span></p>
+	<p>在传输进程中忽略遇到的错误。</p>
+	<p><span class="term">转换对象名为</span></p>
+	<p>如果你需要在进程中转换对象名为“<span class="term">小写</span>”或“<span class="term">大写</span>”，可勾选这个选项。</p>
+	<p><span class="term">创建集合</span></p>
+	<p>如果你想在目标数据库创建集合，可勾选这个选项。假设没有勾选这个选项以及集合已存在于目标数据库，那么所有数据将会追加至目标集合。</p>
+	<p><span class="term">创建表</span></p>
+	<p>如果你想在目标数据库和/或模式创建表，可勾选这个选项。假设没有勾选这个选项以及表已存在于目标数据库或模式，那么所有数据将会追加至目标表。</p>
+	<p><span class="term">创建目标数据库或模式 (如果不存在)</span></p>
+	<p>如果指定的数据库/模式不存在于目标服务器，创建一个新的数据库或模式。</p>
+	<p><span class="term">创建前删除目标对象</span></p>
+	<p>如果数据库对象已存在于目标数据库和/或模式，可勾选这个选项。一旦数据传输开始，目标服务器内的现有对象将会被删除。</p>
+	<p><span class="term">用级联删除</span></p>
+	<p>如果你想级联删除从属的数据库对象，可勾选这个选项。</p>
+	<p><span class="term">包含自动递增</span></p>
+	<p>如果勾选了这个选项，将会在表包含自动递增。</p>
+	<p><span class="term">包含字符集</span></p>
+	<p>如果勾选了这个选项，将会在表包含字符集。</p>
+	<p><span class="term">包含检查</span></p>
+	<p>如果勾选了这个选项，将会在表包含检查。</p>
+	<p><span class="term">包含定义者</span></p>
+	<p>如果勾选了这个选项，将会包含对象的定义者。</p>
+	<p><span class="term">包含引擎或表类型</span></p>
+	<p>如果勾选了这个选项，将会包含表的类型。</p>
+	<p><span class="term">包含排除</span></p>
+	<p>如果勾选了这个选项，将会在表包含排除约束。</p>
+	<p><span class="term">包含外键约束</span></p>
+	<p>如果勾选了这个选项，将会在表包含外键。</p>
+	<p><span class="term">包含索引</span></p>
+	<p>如果勾选了这个选项，将会在表包含索引。</p>
+	<p><span class="term">包含其他集合选项</span></p>
+	<p>如果勾选了这个选项，将会包含集合的其他选项。</p>
+	<p><span class="term">包含其他表选项</span></p>
+	<p>如果勾选了这个选项，将会包含表的其他选项。</p>
+	<p><span class="term">包含拥有者</span></p>
+	<p>如果勾选了这个选项，将会包含对象的拥有者。</p>
+	<p><span class="term">包含规则</span></p>
+	<p>如果勾选了这个选项，将会在表包含规则。</p>
+	<p><span class="term">包含触发器</span></p>
+	<p>如果勾选了这个选项，将会在表包含触发器。</p>
+	<p><span class="term">包含唯一键</span></p>
+	<p>如果勾选了这个选项，将会在表包含唯一键。</p>
+	<p><span class="term">插入记录</span></p>
+	<p>如果你需要将所有记录传输到目标数据库和/或模式，可勾选这个选项。</p>
+	<p><span class="term">锁定源表</span></p>
+	<p>在数据传输进程中，锁定在源数据库和/或模式的表。</p>
+	<p><span class="term">锁定目标表</span></p>
+	<p>在数据传输进程中，锁定在目标数据库和/或模式的表。</p>
+	<p><span class="term">使用完整插入语句</span></p>
+	<p>插入记录时使用完整插入语句。</p>
+	<p>例如：</p>
+	<p><i>INSERT INTO `用户` (`ID 编号`, `用户名`, `年龄`) VALUES ('1', '梁明洁', '23');</i></p>
+	<p><i>INSERT INTO `用户` (`ID 编号`, `用户名`, `年龄`) VALUES ('2', '邱礼安', '56');</i></p>
+	<p><i>INSERT INTO `用户` (`ID 编号`, `用户名`, `年龄`) VALUES ('0', '许勤', '23');</i></p>
+	<p><span class="term">使用 SHOW CREATE TABLE 中的 DDL</span></p>
+	<p>如果勾选了这个选项，将会使用 SHOW CREATE TABLE 中的 DDL。</p>
+	<p><span class="term">使用 sqlite_master 中的 DDL</span></p>
+	<p>如果勾选了这个选项，将会使用 SQLITE_MASTER 表中的 DDL。</p>
+	<p><span class="term">使用延迟插入语句</span></p>
+	<p>插入记录时使用 DELAYED 插入 SQL 语句。</p>
+	<p>例如：</p>
+	<p><i>INSERT DELAYED INTO `用户` VALUES ('1', '梁明洁', '23');</i></p>
+	<p><i>INSERT DELAYED INTO `用户` VALUES ('2', '邱礼安', '56');</i></p>
+	<p><i>INSERT DELAYED INTO `用户` VALUES ('0', '许勤', '23');</i></p>
+	<p><span class="term">使用扩展插入语句</span></p>
+	<p>插入记录时使用扩展插入语句。</p>
+	<p>例如：<i>INSERT INTO `用户` VALUES ('1', '梁明洁', '23'), ('2', '邱礼安', '56'), ('0', '许勤', '23');</i></p>
+	<p><span class="term">为 BLOB 使用十六进制格式</span></p>
+	<p>以十六进制格式插入 BLOB 数据。</p>
+	<p><span class="term">使用单一事务</span></p>
+	<p>如果你想在数据传输进程中使用单一事务，可勾选这个选项。</p>
+	<p><span class="term">使用事务</span></p>
+	<p>如果你想在数据传输进程中使用事务，可勾选这个选项。</p>
+</div>

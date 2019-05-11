@@ -1,0 +1,49 @@
+
+/* Class = "NSTextFieldCell"; title = "--"; ObjectID = "0x8-ZT-9xA"; */
+"0x8-ZT-9xA.title" = "--";
+
+/* Class = "NSTextFieldCell"; title = "Database:"; ObjectID = "2UH-h7-nYj"; */
+"2UH-h7-nYj.title" = "数据库:";
+
+/* Class = "NSTextFieldCell"; title = "Connection Name:"; ObjectID = "7Z2-Hu-Ybz"; */
+"7Z2-Hu-Ybz.title" = "连接名:";
+
+/* Class = "NSTextFieldCell"; title = "--"; ObjectID = "BdH-IY-nfp"; */
+"BdH-IY-nfp.title" = "--";
+
+/* Class = "NSTextFieldCell"; title = "--"; ObjectID = "CgQ-kY-Bxu"; */
+"CgQ-kY-Bxu.title" = "--";
+
+/* Class = "NSTextFieldCell"; title = "Database:"; ObjectID = "JHu-j3-df5"; */
+"JHu-j3-df5.title" = "数据库:";
+
+/* Class = "NSTextFieldCell"; title = "Comment:"; ObjectID = "Oqf-Gz-GCi"; */
+"Oqf-Gz-GCi.title" = "注释:";
+
+/* Class = "NSTextFieldCell"; title = "--"; ObjectID = "YYx-re-bJM"; */
+"YYx-re-bJM.title" = "--";
+
+/* Class = "NSTextFieldCell"; title = "Note: For restoring the backup, you must have Create, Drop and Insert privileges."; ObjectID = "apl-zs-cJT"; */
+"apl-zs-cJT.title" = "注意：要还原备份，你必须具有Create、Drop及Insert的权限";
+
+/* Class = "NSTextFieldCell"; title = "End Time:"; ObjectID = "hpC-Bc-nrn"; */
+"hpC-Bc-nrn.title" = "结束时间:";
+
+/* Class = "NSTextFieldCell"; title = "--"; ObjectID = "nfY-MH-MdX"; */
+"nfY-MH-MdX.title" = "--";
+
+/* Class = "NSTextFieldCell"; title = "--"; ObjectID = "ntZ-ok-DtM"; */
+"ntZ-ok-DtM.title" = "--";
+
+/* Class = "NSTextFieldCell"; title = "Backup Version:"; ObjectID = "p2I-Gc-4Dp"; */
+"p2I-Gc-4Dp.title" = "备份版本:";
+
+/* Class = "NSTextFieldCell"; title = "Start Time:"; ObjectID = "qnD-Z8-SuU"; */
+"qnD-Z8-SuU.title" = "开始时间:";
+
+/* Class = "NSTextFieldCell"; title = "--"; ObjectID = "v9I-rk-7b6"; */
+"v9I-rk-7b6.title" = "--";
+
+/* Class = "NSTextFieldCell"; title = "Database Type:"; ObjectID = "wHh-I0-3cQ"; */
+"wHh-I0-3cQ.title" = "数据库类型:";
+

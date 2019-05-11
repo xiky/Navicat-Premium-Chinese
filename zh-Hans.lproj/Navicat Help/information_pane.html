@@ -1,0 +1,64 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>信息窗格</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>信息窗格</h1>
+	<p>信息窗格显示对象的详细信息、项目活动日志、数据库对象的 DDL、对象相依性、用户或角色的成员资格和预览。如果信息窗格已隐藏，从菜单栏选择“<span class="term">查看</span>”->“<span class="term">信息窗格</span>”->“<span class="term">显示信息窗格</span>”。</p>
+	<p>你可以选择任何连接、对象或项目，然后在信息窗格中选择相应的按钮。</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>按钮</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_objectInfoGen.png" alt="常规" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">常规</span> - 显示对象或项目的常规信息。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_objectInfoPreview.png" alt="预览" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">预览</span> - 显示查询的 SQL 语句。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_objectInfoDDL.png" alt="DDL" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">DDL</span> - 显示对象的 DDL 语句。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_objectInfoUsing.png" alt="使用 / 对象 / 成员属于" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">使用</span> - 显示已选择对象所依赖的对象。<br /><span class="term">对象</span> - 显示表空间里的对象。<br /><span class="term">成员属于</span> - 显示用户或角色被分配到的角色。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_objectInfoUsedBy.png" alt="被使用 / 成员" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">被使用</span> - 显示依赖于已选择对象的对象。<br /><span class="term">成员</span> - 显示角色的成员。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_objectInfoCodeSnippet.png" alt="代码段" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">代码段</span> - 显示所有内置或自定义的<a href="#/query_code_snippet">代码段</a>。<br />（仅适用于非 Essentials 版）</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_objectInfoIdentifiers.png" alt="识别符" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">识别符</span> - 显示已选择的数据库或模式中所有可用的表、集合、视图和字段。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_objectInfoProject.png" alt="项目" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">项目</span> - 显示项目的成员和成员的活动日志。点击“<span class="term">+</span>”来添加成员到项目。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_objectInfoTypeColor.png" alt="类型颜色" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><span class="term">类型颜色</span> - 设置特定类型的颜色以高亮显示<a href="#/data_grid_mongodb">网格视图</a>中的单元格。<br />（仅适用于 MongoDB）</p></td>
+		</tr>
+	</table>
+</div>

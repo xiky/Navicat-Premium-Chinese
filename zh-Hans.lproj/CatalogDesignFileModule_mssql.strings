@@ -1,0 +1,46 @@
+
+/* Class = "NSTextFieldCell"; title = "File Name:"; ObjectID = "1to-3s-CfW"; */
+"1to-3s-CfW.title" = "文件名:";
+
+/* Class = "NSTextFieldCell"; title = "Maximum Size:"; ObjectID = "5OQ-fr-oiS"; */
+"5OQ-fr-oiS.title" = "最大大小:";
+
+/* Class = "NSTextFieldCell"; title = "Growth:"; ObjectID = "8EW-cc-5lX"; */
+"8EW-cc-5lX.title" = "增量:";
+
+/* Class = "NSTextFieldCell"; title = "Files:"; ObjectID = "8uv-68-P6b"; */
+"8uv-68-P6b.title" = "文件:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Fiu-DI-KWP"; */
+"Fiu-DI-KWP.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "Unlimited File Size"; ObjectID = "Jr3-Lu-3V2"; */
+"Jr3-Lu-3V2.title" = "无限制文件大小";
+
+/* Class = "NSTextFieldCell"; title = "Directory:"; ObjectID = "NBO-VW-rZw"; */
+"NBO-VW-rZw.title" = "目录:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Re5-3w-BBM"; */
+"Re5-3w-BBM.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Initial Size:"; ObjectID = "XFT-T8-SJo"; */
+"XFT-T8-SJo.title" = "初始大小:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "bvB-Kw-oXt"; */
+"bvB-Kw-oXt.headerCell.title" = "名";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "dPP-dN-tu2"; */
+"dPP-dN-tu2.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "File Type"; ObjectID = "he3-It-7dX"; */
+"he3-It-7dX.headerCell.title" = "文件类型";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "hj8-jr-dp0"; */
+"hj8-jr-dp0.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Filegroup:"; ObjectID = "kZx-2m-kr6"; */
+"kZx-2m-kr6.title" = "文件组:";
+
+/* Class = "NSButtonCell"; title = "Enable Auto Growth"; ObjectID = "td7-XT-WTU"; */
+"td7-XT-WTU.title" = "启用自动增量";
+

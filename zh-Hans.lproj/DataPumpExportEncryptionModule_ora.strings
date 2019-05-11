@@ -1,0 +1,19 @@
+
+/* Class = "NSTextFieldCell"; title = "Encryption Algorithm:"; ObjectID = "68b-Rg-xH3"; */
+"68b-Rg-xH3.title" = "加密算法:";
+
+/* Class = "NSTextFieldCell"; title = "Encryption Content:"; ObjectID = "9BF-js-yEv"; */
+"9BF-js-yEv.title" = "加密内容:";
+
+/* Class = "NSTextFieldCell"; title = "Encryption Mode:"; ObjectID = "QkF-8Y-3mh"; */
+"QkF-8Y-3mh.title" = "加密模式:";
+
+/* Class = "NSButtonCell"; title = "Enable Encryption"; ObjectID = "TgC-oW-W0y"; */
+"TgC-oW-W0y.title" = "启用加密";
+
+/* Class = "NSTextFieldCell"; title = "Confirm Password:"; ObjectID = "Xbl-eb-gTJ"; */
+"Xbl-eb-gTJ.title" = "确认密码:";
+
+/* Class = "NSTextFieldCell"; title = "Encryption Password:"; ObjectID = "o1Y-B1-GBS"; */
+"o1Y-B1-GBS.title" = "加密密码:";
+

@@ -1,0 +1,69 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>GridFS</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>GridFS</h1>
+	<p>“<span class="term">GridFS</span>”是用于存储和检索文件的规范。在主窗口中，点击 <img src="./images/icon_gridfs.png" alt="GridFS" class="inlineGraphic" height="16" width="16"/>“<span class="term">GridFS</span>”来打开 GridFS 的对象列表。</p>
+	<p>你可以在数据库中创建多个存储桶以存储文件。点击 <img src="./images/icon_newBucket.png" alt="新建存储桶" class="inlineGraphic" height="16" width="16"/>”并输入存储桶的名。</p>
+	<p>若要打开已选择的存储桶，请点击 <img src="./images/icon_openBucket.png" alt="打开存储桶" class="inlineGraphic" height="16" width="16"/>。</p>
+	<h2>存储桶查看器</h2>
+	<p>“<span class="term">存储桶查看器</span>”是一个用于设计 GridFS 存储桶的 Navicat 基本工具。你可以上载，下载和查看存储桶内的 GridFS 文件。</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>按钮</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_openFile.png" alt="打开文件" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>打开已选择的 GridFS 文件。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_deleteFile.png" alt="删除文件" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>删除已选择的 GridFS 文件。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_uploadFile.png" alt="上载文件" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>将文件上载到存储桶中。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_downloadFile.png" alt="下载文件" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>下载已选择的 GridFS 文件。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_filterWizard.png" alt="筛选" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>通过创建和应用筛选条件筛选 GridFS 文件表格。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_previewFile.png" alt="预览" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>预览小于 1 MB 的图像文件。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_progress.png" alt="进度" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>检查文件上载和下载的状态。</p></td>
+		</tr>
+	</table>
+	<h2>文件表格</h2>
+	<p>文件表格显示已上载到存储桶的所有文件。</p>
+	<p>你可以编辑 GridFS 文件的名、内容类型、别名或元数据。在表格中，按住 Control 键并点按文件名，然后选择“<span class="term">修改文件名</span>”、“<span class="term">修改内容类型</span>”、“<span class="term">修改别名</span>”或“<span class="term">修改元数据</span>”。然后，在弹出窗口中输入信息。</p>
+	<h2>筛选窗格</h2>
+	<p>如果你存储桶有许多文件，你可以使用筛选查找匹配的文件。若要切换筛选窗格，请点击 <img src="./images/icon_filterWizard.png" alt="筛选" class="inlineGraphic" height="16" width="16"/>。</p>
+	<h2>进度窗格</h2>
+	<p>进度窗格显示当前窗口中所有文件的上载和下载状态。它支持并行下载和上载。如果关闭窗口，列表会被清除。</p>
+	<p>当文件开始上载或下载时，点击进度栏旁边的相应按钮以暂停、继续和停止该进程。进程完成后，你可以点击 <img src="./images/icon_openFolder.png" alt="在文件夹中显示" class="inlineGraphic" height="16" width="16"/> 打开包含该文件的文件夹，或将鼠标悬停在某个项目上，然后点击 <img src="./images/icon_removeFromList.png" alt="从列表中移除" class="inlineGraphic" height="16" width="16"/> 将其从列表中移除。</p>
+	<p>如果要暂停、继续和停止正在进行的所有项目，请按住 Control 键并点按列表，然后选择相应的选项。</p>
+	<p>若要清除已完成的项目，请按住 Control 键并点按列表，然后选择“<span class="term">清除全部已完成的项目</span>”。</p>
+</div>

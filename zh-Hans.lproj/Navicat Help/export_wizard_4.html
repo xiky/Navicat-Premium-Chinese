@@ -1,0 +1,41 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>选择附加选项</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>选择附加选项</h1>
+	<p>下列选项是根据在第一步选择的文件格式而有所不同。</p>
+	<p><span class="term">包含列的标题</span></p>
+	<p>如果勾选了这个选项，字段名将会包含在导出的文件。</p>
+	<p><span class="term">如果零，留空白</span></p>
+	<p>如果字段内容是 0，留空白。</p>
+	<p><span class="term">追加到输出文件</span></p>
+	<p>将记录追加至现有的文件。</p>
+	<p><span class="term">遇到错误时继续</span></p>
+	<p>在导出进程中忽略遇到的错误。</p>
+	<p><span class="term">记录分隔符</span>、<span class="term">字段分隔符</span>、<span class="term">文本识别符号</span></p>
+	<p>指定记录的分隔符号、字段的分隔符号和用于括住文本值的字符。</p>
+	<p><span class="term">日期排序</span>、<span class="term">日期分隔符</span></p>
+	<p>指定日期的格式和日期的分隔符。</p>
+	<p><span class="term">零填充日期</span></p>
+	<p>如有需要，加上前导零将日期和月份填补至两位数字。</p>
+	<p><span class="term">时间分隔符</span></p>
+	<p>指定时间的分隔符。</p>
+	<p><span class="term">小数点符号</span></p>
+	<p>指定小数数值的小数点分隔符号。</p>
+	<p><span class="term">二进制数据编码</span></p>
+	<p>设置二进制数据是以 Base64 编码或无编码导出。</p>
+</div>

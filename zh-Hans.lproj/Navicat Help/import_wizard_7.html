@@ -1,0 +1,39 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>选择导入模式</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>选择导入模式</h1>
+	<p>选择定义如何导入数据的导入模式。</p>
+	<figure>
+		<a href="./images/importStep7_1.png" target="_blank"><img src="./images/importStep7_1.png"/></a>
+	</figure>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>若要启动余下的选项，你必须在上一步启用主键。</p>
+	</div>
+	<figure>
+		<a href="./images/importStep7_2.png" target="_blank"><img src="./images/importStep7_2.png"/></a>
+	</figure>
+	<p>点击“<span class="term">高级</span>”按钮来进行更多设置。下列选项是根据连接的服务器类型而有所不同。</p>
+	<p><span class="term">在每个运行中运行多个查询</span></p>
+	<p>如果你想在每个运行中运行多个查询，可勾选这个选项。</p>
+	<p><span class="term">使用 NULL 取代空白字符串</span></p>
+	<p>如果源数据字段有空白字符串，就以 NULL 值导入。</p>
+	<p><span class="term">忽略外键约束</span></p>
+	<p>在导入进程中忽略外键约束的检查。</p>
+	<p><span class="term">遇到错误时继续</span></p>
+	<p>在导入进程中忽略遇到的错误。</p>
+</div>

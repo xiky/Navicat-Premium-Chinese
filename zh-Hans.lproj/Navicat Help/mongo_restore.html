@@ -1,0 +1,34 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>MongoRestore</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>MongoRestore</h1>
+	<p>MongoRestore 可以将 MongoDump 创建的二进制数据库转储中的数据加载到 MongoDB 数据库中。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>你必须具有 <a href="#/preferences_env">mongorestore</a> 可执行文件才能使用此功能。</p>
+	</div>
+	<p><span class="term">还原一个数据库</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在主窗口中，按住 Control 键并点按数据库，然后选择“<span class="term">MongoRestore</span>”。</p></li>
+		<li><p>在“<span class="term">常规</span>”和“<span class="term">高级</span>”选项卡，选择输入檔案或目录路径和适当的还原选项。</p></li>
+		<li><p>点击“<span class="term">开始</span>”按钮以开始还原进程。“<span class="term">信息日志</span>”选项卡将显示还原进度、运行时间和成功或失败信息。</p></li>
+	</ul>
+	<p>你可以将设置保存为一个配置文件以供将来使用。若要打开一个已保存的配置文件，请点击“<span class="term">加载配置文件</span>”按钮并从列表中选择。</p>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>配置文件保存于默认的路径，例如：~/Library/Application Support/PremiumSoft CyberTech/Navicat CC/Common/Profiles</p>
+	</div>
+</div>

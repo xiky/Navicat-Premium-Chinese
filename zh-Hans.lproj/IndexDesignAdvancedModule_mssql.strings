@@ -1,0 +1,31 @@
+
+/* Class = "NSTextFieldCell"; title = "Max. degree of parallelism:"; ObjectID = "4h0-fK-wzS"; */
+"4h0-fK-wzS.title" = "并行的最大度数:";
+
+/* Class = "NSButtonCell"; title = "Pad index"; ObjectID = "5RQ-lt-jz0"; */
+"5RQ-lt-jz0.title" = "Pad index";
+
+/* Class = "NSButtonCell"; title = "Ignore duplicate key values"; ObjectID = "BuF-VX-6s7"; */
+"BuF-VX-6s7.title" = "忽略重复的键值";
+
+/* Class = "NSButtonCell"; title = "Recompute statistics"; ObjectID = "XsE-Jh-91J"; */
+"XsE-Jh-91J.title" = "重新计算统计信息";
+
+/* Class = "NSButtonCell"; title = "Sort in tempdb"; ObjectID = "aDt-Me-w74"; */
+"aDt-Me-w74.title" = "在 tempdb 中排序";
+
+/* Class = "NSButtonCell"; title = "Online"; ObjectID = "cqP-Y4-XMn"; */
+"cqP-Y4-XMn.title" = "在线";
+
+/* Class = "NSTextFieldCell"; title = "Create / Rebuild Option"; ObjectID = "iVQ-Sk-9VQ"; */
+"iVQ-Sk-9VQ.title" = "创建或重建选项";
+
+/* Class = "NSButtonCell"; title = "Allow row locks"; ObjectID = "lQN-Sj-AWF"; */
+"lQN-Sj-AWF.title" = "允许行锁";
+
+/* Class = "NSButtonCell"; title = "Allow page locks"; ObjectID = "tuY-gI-47K"; */
+"tuY-gI-47K.title" = "允许页锁";
+
+/* Class = "NSTextFieldCell"; title = "Fill Factor (%):"; ObjectID = "ypO-1e-ojr"; */
+"ypO-1e-ojr.title" = "填充因子（%）:";
+

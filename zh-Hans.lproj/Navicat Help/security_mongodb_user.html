@@ -1,0 +1,43 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>用户设计器</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>用户设计器</h1>
+	<h2>常规属性</h2>
+	<p><span class="term">用户名</span></p>
+	<p>定义用户帐号的名。</p>
+	<p><span class="term">密码</span></p>
+	<p>指定用户的登录密码。</p>
+	<p><span class="term">确认密码</span></p>
+	<p>重新输入登录密码。</p>
+	<p><span class="term">密码摘要</span></p>
+	<p>指示服务器或客户端是否摘要密码。</p>
+	<p><span class="term">机制</span></p>
+	<p>指定用于创建 SCRAM 用户凭据的 SCRAM 机制。</p>
+	<h2>自定义数据</h2>
+	<p>在此选项卡中，你可以输入与此用户关联的任何信息。</p>
+	<h2>内置角色</h2>
+	<p>在列表中，指定此用户成为已选择的内置角色的成员。</p>
+	<h2>用户定义角色</h2>
+	<p>在列表中，指定此用户成为已选择的用户定义角色的成员。</p>
+	<h2>验证限制</h2>
+	<p>若要编辑服务器对用户强制执行的特定验证限制，请点击 <img src="./images/icon_addRestriction.png" alt="添加限制" class="inlineGraphic" height="16" width="16"/>。</p>
+	<p><span class="term">客户端源</span></p>
+	<p>指定 IP 地址或 CIDR 范围列表以限制客户端的 IP 地址。</p>
+	<p><span class="term">服务器地址</span></p>
+	<p>指定客户端可以连接的 IP 地址或 CIDR 范围列表。</p>
+</div>

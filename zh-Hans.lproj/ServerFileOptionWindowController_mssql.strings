@@ -1,0 +1,22 @@
+
+/* Class = "NSButtonCell"; title = "Devices"; ObjectID = "2f2-40-b04"; */
+"2f2-40-b04.title" = "设备";
+
+/* Class = "NSButtonCell"; title = "Disk"; ObjectID = "3br-Js-wJw"; */
+"3br-Js-wJw.title" = "磁盘";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "窗口";
+
+/* Class = "NSTextFieldCell"; title = "HiddenText"; ObjectID = "RWk-KH-75w"; */
+"RWk-KH-75w.title" = "HiddenText";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "Zch-MG-f1l"; */
+"Zch-MG-f1l.title" = "确定";
+
+/* Class = "NSMenuItem"; title = "Loading..."; ObjectID = "bZJ-F3-7ZW"; */
+"bZJ-F3-7ZW.title" = "正在加载...";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "rzZ-eQ-h5X"; */
+"rzZ-eQ-h5X.title" = "取消";
+

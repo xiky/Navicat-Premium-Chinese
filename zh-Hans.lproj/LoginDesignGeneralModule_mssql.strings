@@ -1,0 +1,61 @@
+
+/* Class = "NSTextFieldCell"; title = "User Name:"; ObjectID = "3GP-0Y-YDt"; */
+"3GP-0Y-YDt.title" = "用户名:";
+
+/* Class = "NSTextFieldCell"; title = "Default Language:"; ObjectID = "Jj7-wt-nqJ"; */
+"Jj7-wt-nqJ.title" = "默认语言:";
+
+/* Class = "NSTextFieldCell"; title = "Credential:"; ObjectID = "NPF-T4-UCd"; */
+"NPF-T4-UCd.title" = "凭据:";
+
+/* Class = "NSTextFieldCell"; title = "Asymmetric Key Name:"; ObjectID = "RIo-NW-Vgc"; */
+"RIo-NW-Vgc.title" = "非对称密钥名:";
+
+/* Class = "NSComboBoxCell"; Rl1-Aa-kTW.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "Rl1-Aa-kTW"; */
+"Rl1-Aa-kTW.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; Rl1-Aa-kTW.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "Rl1-Aa-kTW"; */
+"Rl1-Aa-kTW.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; Rl1-Aa-kTW.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "Rl1-Aa-kTW"; */
+"Rl1-Aa-kTW.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Confirm Password:"; ObjectID = "Wul-Qp-362"; */
+"Wul-Qp-362.title" = "确认密码:";
+
+/* Class = "NSTextFieldCell"; title = "Certificate Name:"; ObjectID = "Xiu-Wx-c9t"; */
+"Xiu-Wx-c9t.title" = "证书名:";
+
+/* Class = "NSTextFieldCell"; title = "Authentication Type:"; ObjectID = "Xrl-jw-msp"; */
+"Xrl-jw-msp.title" = "验证类型:";
+
+/* Class = "NSButtonCell"; title = "Specify Old Password:"; ObjectID = "aXv-B0-6D4"; */
+"aXv-B0-6D4.title" = "指定旧密码:";
+
+/* Class = "NSButtonCell"; title = "Enabled"; ObjectID = "dUL-ZK-DdD"; */
+"dUL-ZK-DdD.title" = "已启用";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "dlV-ac-N2V"; */
+"dlV-ac-N2V.title" = "密码:";
+
+/* Class = "NSButtonCell"; title = "Enforce password expiration"; ObjectID = "mDd-qD-8fg"; */
+"mDd-qD-8fg.title" = "强制密码过期";
+
+/* Class = "NSComboBoxCell"; mbb-4D-Wan.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "mbb-4D-Wan"; */
+"mbb-4D-Wan.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; mbb-4D-Wan.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "mbb-4D-Wan"; */
+"mbb-4D-Wan.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; mbb-4D-Wan.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "mbb-4D-Wan"; */
+"mbb-4D-Wan.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSButtonCell"; title = "Enforce password policy"; ObjectID = "oks-XL-Q9u"; */
+"oks-XL-Q9u.title" = "强制密码策略";
+
+/* Class = "NSButtonCell"; title = "User must change password at next login"; ObjectID = "w1y-GI-im7"; */
+"w1y-GI-im7.title" = "用户必须在下次登录时更改密码";
+
+/* Class = "NSTextFieldCell"; title = "Default Database:"; ObjectID = "wMe-9N-du9"; */
+"wMe-9N-du9.title" = "默认数据库:";
+

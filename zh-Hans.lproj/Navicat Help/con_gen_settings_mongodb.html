@@ -1,0 +1,65 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>MongoDB</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>MongoDB</h1>
+	<p>若要成功地创建一个新的连接到本地或远程服务器 - 不管通过 SSL 或 SSH，都要在常规选项卡中设置连接属性。如果你的互联网服务供应商（ISP）不提供直接访问其服务器，安全通道协定（SSH）是另一种解决办法。</p>
+	<p><span class="term">连接名</span></p>
+	<p>输入一个恰当的名描述你的连接。</p>
+	<p><span class="term">添加到</span></p>
+	<p>当你登录 <a href="#/about_cloud">Navicat Cloud</a> 功能后，你可以选择保存连接在我的连接或 Navicat Cloud 的项目中。</p>
+	<p><span class="term">连接</span></p>
+	<p>MongoDB 服务器的类型：Standalone、Shard Cluster 或 Replica Set。</p>
+	<p><span class="term">SRV 记录</span></p>
+	<p>勾选这个选项以使用 SRV 记录连接服务器。</p>
+	<p><span class="term">主机</span></p>
+	<p>服务器的主机名、IP 地址或 UNIX 域套接字。</p>
+	<p><span class="term">端口</span></p>
+	<p>连接到数据库服务器的 TCP/IP 端口。</p>
+	<p><span class="term">成员</span></p>
+	<p>在连接中添加或删除复制集的成员或分片群集的实例。</p>
+	<p><span class="term">读偏好</span></p>
+	<p>选择此连接的复制集读偏好。</p>
+	<p><span class="term">复制集</span></p>
+	<p>复制集的名。</p>
+	<p><span class="term">验证</span></p>
+	<p>选择 MongoDB 用于验证连接的身验证机制。</p>
+	<table>
+		<tr class="tableRoll">
+			<td width="25%"><p>无</p></td>
+			<td width="75%"><p>没有验证。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>密码</p></td>
+			<td width="75%"><p>指定与“<span class="term">用户名</span>”和“<span class="term">密码</span>”关联的“<span class="term">验证数据库</span>”名。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>LDAP</p></td>
+			<td width="75%"><p>指定“<span class="term">用户名</span>”和“<span class="term">密码</span>”。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>Kerberos</p></td>
+			<td width="75%"><p>设置 Kerberos 的“<span class="term">服务名</span>”和用户“<span class="term">主体</span>”。如果你想 Kerberos 服务规范主机名，可启用“<span class="term">使用规范化主机名</span>”。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>X.509</p></td>
+			<td width="75%"><p>x.509 证书验证。</p></td>
+		</tr>
+	</table>
+	<h2>使用 MongoDB URI</h2>
+	<p>你亦可以使用 MongoDB URI 连接你的 MongoDB 服务器。只需点击“<span class="term">URI</span>”按钮并粘贴 URI。Navicat 将自动填写在常规、SSL 和 SSH 选项卡中的选项。</p>
+</div>

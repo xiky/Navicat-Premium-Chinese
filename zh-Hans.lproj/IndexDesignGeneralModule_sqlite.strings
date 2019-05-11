@@ -1,0 +1,31 @@
+
+/* Class = "NSTabViewItem"; label = "Fields"; ObjectID = "5Ry-FZ-g5n"; */
+"5Ry-FZ-g5n.label" = "字段";
+
+/* Class = "NSComboBoxCell"; BAX-RE-0hC.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "BAX-RE-0hC"; */
+"BAX-RE-0hC.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; BAX-RE-0hC.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "BAX-RE-0hC"; */
+"BAX-RE-0hC.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; BAX-RE-0hC.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "BAX-RE-0hC"; */
+"BAX-RE-0hC.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSButtonCell"; title = "Unique"; ObjectID = "BYQ-V7-yCB"; */
+"BYQ-V7-yCB.title" = "唯一键";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Oh9-Mw-3wY"; */
+"Oh9-Mw-3wY.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table Name:"; ObjectID = "a78-pi-SqE"; */
+"a78-pi-SqE.title" = "表名:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "rNP-Wa-Ehs"; */
+"rNP-Wa-Ehs.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "tFi-nl-SY8"; */
+"tFi-nl-SY8.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "vbV-Yo-VuX"; */
+"vbV-Yo-VuX.title" = "Table View Cell";
+

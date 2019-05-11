@@ -1,0 +1,25 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>函数</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>函数</h1>
+	<p>你可以存储 JavaScript 函数以供日后重用。在主窗口中，点击 <img src="./images/icon_function.png" alt="函数" class="inlineGraphic" height="16" width="16"/>“<span class="term">函数</span>”来打开函数的对象列表。</p>
+	<h2>函数设计器</h2>
+	<p>“<span class="term">函数设计器</span>”是一个用于设计过程或函数的 Navicat 基本工具。你可以在“<span class="term">定义</span>”选项卡中输入函数的定义。若要自定义编辑器并查看更多 SQL 编辑功能，请参阅<a href="#/query_script_editor">查询编辑器</a>。</p>
+	<h2>结果</h2>
+	<p>若要运行函数，请在工具栏点击 <img src="./images/icon_run.png" alt="运行" class="inlineGraphic" height="16" width="16"/>。如果脚本正确，一个对话框将弹出。如有必要，输入输入参数，然后点击“<span class="term">OK</span>”。如果函数应该返回数据，“<span class="term">结果</span>”选项卡会打开显示返回的数据。如果运行函数时发生错误，运行会停止并显示相应的错误信息。</p>
+</div>

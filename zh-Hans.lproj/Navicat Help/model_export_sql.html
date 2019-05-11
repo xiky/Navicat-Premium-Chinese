@@ -1,0 +1,62 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>导出 SQL</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>导出 SQL</h1>
+	<p>在你完成模型后，你可以保存模型表结构和关系为一个脚本文件。“<span class="term">导出 SQL</span>”功能为脚本生成一个 SQL 文件。若要开始使用导出 SQL 功能，从菜单栏选择“<span class="term">文件</span>”->“<span class="term">导出 SQL</span>”。</p>
+	<h2>常规属性</h2>
+	<p><span class="term">导出到文件</span></p>
+	<p>设置输出的文件名和位置。</p>
+	<p><span class="term">选择要导出的对象</span></p>
+	<p>选择你想导出的模型对象。</p>
+	<h2>高级属性</h2>
+	<div class="alert">
+		<p><span class="note">【注意】</span>下列选项会根据你所选择的图表数据库类型而有所不同。</p>
+	</div>
+	<p><span class="term">默认模式名</span></p>
+	<p>为没有模式设置的对象设置模式名。</p>
+	<p><span class="term">用级联删除</span></p>
+	<p>如果勾选了这个选项，将会在文件中包含级联选项删除对象的 SQL 语句。</p>
+	<p><span class="term">包含自动递增</span></p>
+	<p>如果勾选了这个选项，将会在文件中包含表自动递增。</p>
+	<p><span class="term">包含字符集</span></p>
+	<p>如果勾选了这个选项，将会在文件中包含表及字段的字符集。</p>
+	<p><span class="term">包含检查</span></p>
+	<p>如果勾选了这个选项，将会在文件中包含检查。</p>
+	<p><span class="term">包含排序规则</span></p>
+	<p>如果勾选了这个选项，将会在文件中包含表的排序规则。</p>
+	<p><span class="term">包含删除 SQL</span></p>
+	<p>如果勾选了这个选项，将会在文件中包含删除对象的 SQL 语句。</p>
+	<p><span class="term">包含排除</span></p>
+	<p>如果勾选了这个选项，将会在文件中包含排除。</p>
+	<p><span class="term">包含外键</span></p>
+	<p>如果勾选了这个选项，将会在文件中包含外键。</p>
+	<p><span class="term">包含索引</span></p>
+	<p>如果勾选了这个选项，将会在文件中包含索引。</p>
+	<p><span class="term">包含主键</span></p>
+	<p>如果勾选了这个选项，将会在文件中包含主键。</p>
+	<p><span class="term">包含规则</span></p>
+	<p>如果勾选了这个选项，将会在文件中包含规则。</p>
+	<p><span class="term">包含模式名</span></p>
+	<p>如果勾选了这个选项，将会在文件中包含模式名。否则，SQL 语句只包含对象名。</p>
+	<p><span class="term">包含触发器</span></p>
+	<p>如果勾选了这个选项，将会在文件中包含触发器。</p>
+	<p><span class="term">包含唯一键</span></p>
+	<p>如果勾选了这个选项，将会在文件中包含唯一键。</p>
+	<p><span class="term">服务器版本</span></p>
+	<p>选择 SQL 文件的服务器版本。</p>
+</div>

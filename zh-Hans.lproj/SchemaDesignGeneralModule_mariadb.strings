@@ -1,0 +1,10 @@
+
+/* Class = "NSTextFieldCell"; title = "Database Name:"; ObjectID = "RAP-GQ-yLg"; */
+"RAP-GQ-yLg.title" = "数据库名:";
+
+/* Class = "NSTextFieldCell"; title = "Character Set:"; ObjectID = "ow2-v2-h8X"; */
+"ow2-v2-h8X.title" = "字符集:";
+
+/* Class = "NSTextFieldCell"; title = "Collation:"; ObjectID = "tQe-UK-goW"; */
+"tQe-UK-goW.title" = "排序规则:";
+

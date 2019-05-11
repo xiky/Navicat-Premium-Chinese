@@ -1,0 +1,61 @@
+
+/* Class = "NSTextFieldCell"; title = "Compression Type:"; ObjectID = "20z-lt-F7C"; */
+"20z-lt-F7C.title" = "压缩类型:";
+
+/* Class = "NSTextFieldCell"; title = "Log File Name:"; ObjectID = "3PM-O4-sk5"; */
+"3PM-O4-sk5.title" = "日志文件名:";
+
+/* Class = "NSTextFieldCell"; title = "Version:"; ObjectID = "4kd-wa-zH9"; */
+"4kd-wa-zH9.title" = "版本:";
+
+/* Class = "NSTextFieldCell"; title = "Thread Number:"; ObjectID = "DeR-69-SsP"; */
+"DeR-69-SsP.title" = "线程数:";
+
+/* Class = "NSTextFieldCell"; title = "Access Method:"; ObjectID = "EFD-dv-bo9"; */
+"EFD-dv-bo9.title" = "访问方法:";
+
+/* Class = "NSTextFieldCell"; title = "Transportable:"; ObjectID = "NVs-X5-5HF"; */
+"NVs-X5-5HF.title" = "可传输:";
+
+/* Class = "NSButtonCell"; title = "Enable Logging"; ObjectID = "PyP-Un-3wy"; */
+"PyP-Un-3wy.title" = "启用记录";
+
+/* Class = "NSButtonCell"; title = "Enable cluster"; ObjectID = "Rbn-w2-GUY"; */
+"Rbn-w2-GUY.title" = "启用群集";
+
+/* Class = "NSButtonCell"; title = "Estimate only"; ObjectID = "Rrz-3N-hdU"; */
+"Rrz-3N-hdU.title" = "仅估计";
+
+/* Class = "NSTextFieldCell"; title = "Compression Algorithm:"; ObjectID = "akd-H7-93M"; */
+"akd-H7-93M.title" = "压缩算法:";
+
+/* Class = "NSButtonCell"; title = "Enable XMLCLOBS"; ObjectID = "c10-eV-aWe"; */
+"c10-eV-aWe.title" = "启用 XMLCLOBS";
+
+/* Class = "NSButtonCell"; title = "Reuse file"; ObjectID = "ddf-6o-r2O"; */
+"ddf-6o-r2O.title" = "重用文件";
+
+/* Class = "NSTextFieldCell"; title = "Source Edition:"; ObjectID = "eag-ot-H6s"; */
+"eag-ot-H6s.title" = "源版本:";
+
+/* Class = "NSButtonCell"; title = "Flashback Time:"; ObjectID = "hWb-gi-s2r"; */
+"hWb-gi-s2r.title" = "闪回时间:";
+
+/* Class = "NSTextFieldCell"; title = "Estimate:"; ObjectID = "iYH-ag-sii"; */
+"iYH-ag-sii.title" = "估计:";
+
+/* Class = "NSButtonCell"; title = "Enable Flashback"; ObjectID = "mLV-ar-yEz"; */
+"mLV-ar-yEz.title" = "启用闪回";
+
+/* Class = "NSTextFieldCell"; title = "Database Link:"; ObjectID = "mig-YD-em1"; */
+"mig-YD-em1.title" = "数据库链接:";
+
+/* Class = "NSTextFieldCell"; title = "Directory:"; ObjectID = "pd2-QR-Mci"; */
+"pd2-QR-Mci.title" = "目录:";
+
+/* Class = "NSTextFieldCell"; title = "Service Name:"; ObjectID = "rUf-Bb-dZy"; */
+"rUf-Bb-dZy.title" = "服务名:";
+
+/* Class = "NSButtonCell"; title = "Flashback SCN:"; ObjectID = "yVj-zz-T2W"; */
+"yVj-zz-T2W.title" = "闪回 SCN:";
+

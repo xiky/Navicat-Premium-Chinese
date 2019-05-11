@@ -1,0 +1,10 @@
+
+/* Class = "NSButtonCell"; title = "Analyze"; ObjectID = "Njr-a4-2tL"; */
+"Njr-a4-2tL.title" = "分析";
+
+/* Class = "NSTextFieldCell"; title = "Please click Run Analysis to visualize your schema data"; ObjectID = "VwU-g5-sRt"; */
+"VwU-g5-sRt.title" = "请点击“运行分析”以可视化查看你的模式数据";
+
+/* Class = "NSTextFieldCell"; title = "Analysing..."; ObjectID = "rKO-PM-5v3"; */
+"rKO-PM-5v3.title" = "Analysing...";
+

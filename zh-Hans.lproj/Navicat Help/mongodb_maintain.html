@@ -1,0 +1,57 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>维护对象</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>维护对象</h1>
+	<p>Navicat 为维护 MongoDB 对象提供完整的解决方案。</p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在主窗口的导航窗格中或对象选项卡中选择对象。</p></li>
+		<li><p>按住 Control 键并点按已选择的对象。</p></li>
+		<li><p>选择“<span class="term">维护</span>”，然后从弹出式菜单中选择一个维护选项。</p></li>
+		<li><p>结果显示在弹出的窗口中。</p></li>
+	</ul>
+	<h2>数据库</h2>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>修复数据库</p></td>
+			<td width="75%"><p>通过放弃无效或损坏的数据来重建数据库和索引。</p></td>
+		</tr>
+	</table>
+	<h2>集合</h2>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>压缩集合</p></td>
+			<td width="75%"><p>对集合中的所有数据和索引进行重写和碎片整理。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>验证集合</p></td>
+			<td width="75%"><p>通过扫描集合的数据和索引来检查命名空间内的结构是否正确。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>重建集合索引</p></td>
+			<td width="75%"><p>删除并重新创建集合的所有索引。</p></td>
+		</tr>
+	</table>
+</div>

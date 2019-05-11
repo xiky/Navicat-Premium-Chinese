@@ -1,0 +1,31 @@
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "0eP-iJ-eOu"; */
+"0eP-iJ-eOu.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Add"; ObjectID = "5fi-tA-CzA"; */
+"5fi-tA-CzA.title" = "添加";
+
+/* Class = "NSButtonCell"; title = "Add Members"; ObjectID = "DZG-hd-BFX"; */
+"DZG-hd-BFX.title" = "添加成员";
+
+/* Class = "NSTextFieldCell"; title = "Add Member(s)"; ObjectID = "bad-S7-gWU"; */
+"bad-S7-gWU.title" = "添加成员";
+
+/* Class = "NSTextFieldCell"; title = "--"; ObjectID = "bhR-dU-OCI"; */
+"bhR-dU-OCI.title" = "--";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "g1y-Ir-Nsm"; */
+"g1y-Ir-Nsm.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Loading members..."; ObjectID = "gjX-yU-Fms"; */
+"gjX-yU-Fms.title" = "正在加载成员...";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "nL0-au-DZZ"; */
+"nL0-au-DZZ.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "s0w-rF-EwV"; */
+"s0w-rF-EwV.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "zf8-bH-Q5U"; */
+"zf8-bH-Q5U.title" = "关闭";
+

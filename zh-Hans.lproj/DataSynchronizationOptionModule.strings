@@ -1,0 +1,16 @@
+
+/* Class = "NSButtonCell"; title = "Use transaction"; ObjectID = "89m-iv-f8Q"; */
+"89m-iv-f8Q.title" = "使用事务";
+
+/* Class = "NSButtonCell"; title = "Delete: Delete extra records from the destination(s)"; ObjectID = "PQx-7b-C7Y"; */
+"PQx-7b-C7Y.title" = "删除：从目标删除额外的记录";
+
+/* Class = "NSButtonCell"; title = "Update: Update the destination if the record is different from the source"; ObjectID = "TDm-c2-2Yn"; */
+"TDm-c2-2Yn.title" = "更新：如果这个记录与源不同，更新目标";
+
+/* Class = "NSButtonCell"; title = "Insert: Insert records if the records do not exist in the destination(s)"; ObjectID = "fjG-yf-rzg"; */
+"fjG-yf-rzg.title" = "插入：如果这个记录不存在目标，插入记录";
+
+/* Class = "NSTextFieldCell"; title = "Options"; ObjectID = "zxE-bj-Q22"; */
+"zxE-bj-Q22.title" = "选项";
+

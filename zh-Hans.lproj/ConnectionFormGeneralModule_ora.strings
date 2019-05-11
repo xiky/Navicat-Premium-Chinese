@@ -1,0 +1,76 @@
+
+/* Class = "NSMenuItem"; title = "Basic"; ObjectID = "1Mv-Yd-pEL"; */
+"1Mv-Yd-pEL.title" = "基本";
+
+/* Class = "NSButtonCell"; title = "Service Name"; ObjectID = "2bO-gc-tNW"; */
+"2bO-gc-tNW.title" = "服务名";
+
+/* Class = "NSTextFieldCell"; title = "Service Name:"; ObjectID = "404-o1-65Y"; */
+"404-o1-65Y.title" = "服务名:";
+
+/* Class = "NSButtonCell"; title = "Save password"; ObjectID = "7QY-Gu-DPb"; */
+"7QY-Gu-DPb.title" = "保存密码";
+
+/* Class = "NSButtonCell"; title = "Edit Password:"; ObjectID = "AGs-2x-E9x"; */
+"AGs-2x-E9x.title" = "编辑密码:";
+
+/* Class = "NSMenuItem"; title = "<New Project...>"; ObjectID = "Amk-ct-cP4"; */
+"Amk-ct-cP4.title" = "<New Project...>";
+
+/* Class = "NSButtonCell"; title = "OS authentication"; ObjectID = "CkG-PX-gof"; */
+"CkG-PX-gof.title" = "操作系统验证";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "CvF-fR-nat"; */
+"CvF-fR-nat.title" = "密码:";
+
+/* Class = "NSTextFieldCell"; title = "Host:"; ObjectID = "H4Z-2K-eLX"; */
+"H4Z-2K-eLX.title" = "主机:";
+
+/* Class = "NSTextFieldCell"; title = "Connection Type:"; ObjectID = "Ib7-nX-fr5"; */
+"Ib7-nX-fr5.title" = "连接类型:";
+
+/* Class = "NSTextFieldCell"; title = "* All passwords will not be saved to Navicat Cloud"; ObjectID = "Nsn-tQ-t3w"; */
+"Nsn-tQ-t3w.title" = "* 所有密码不会保存到 Navicat Cloud";
+
+/* Class = "NSTextFieldCell"; title = "Net Service Name:"; ObjectID = "Wyc-bI-9ET"; */
+"Wyc-bI-9ET.title" = "网络服务名:";
+
+/* Class = "NSButtonCell"; title = "Sync User Name with Navicat Cloud"; ObjectID = "X59-wJ-vE4"; */
+"X59-wJ-vE4.title" = "与 Navicat Cloud 同步用户名";
+
+/* Class = "NSMenuItem"; title = "My Connections"; ObjectID = "ZH7-zf-aMc"; */
+"ZH7-zf-aMc.title" = "我的连接";
+
+/* Class = "NSMenuItem"; title = "TNS"; ObjectID = "Zqt-49-aux"; */
+"Zqt-49-aux.title" = "TNS";
+
+/* Class = "NSMenuItem"; title = "SYSOPER"; ObjectID = "bJB-GC-3wa"; */
+"bJB-GC-3wa.title" = "SYSOPER";
+
+/* Class = "NSTextFieldCell"; title = "Connection Name:"; ObjectID = "cwt-hB-FOc"; */
+"cwt-hB-FOc.title" = "连接名:";
+
+/* Class = "NSButtonCell"; title = "SID"; ObjectID = "dkd-e6-rVG"; */
+"dkd-e6-rVG.title" = "SID";
+
+/* Class = "NSButtonCell"; title = "Service Name"; ObjectID = "hMl-WL-gzU"; */
+"hMl-WL-gzU.title" = "服务名";
+
+/* Class = "NSMenuItem"; title = "Default"; ObjectID = "iHF-mJ-Smk"; */
+"iHF-mJ-Smk.title" = "默认";
+
+/* Class = "NSTextFieldCell"; title = "Role:"; ObjectID = "pWs-a7-MuU"; */
+"pWs-a7-MuU.title" = "角色:";
+
+/* Class = "NSMenuItem"; title = "SYSDBA"; ObjectID = "q8M-qr-35m"; */
+"q8M-qr-35m.title" = "SYSDBA";
+
+/* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "sbM-bW-yOU"; */
+"sbM-bW-yOU.title" = "端口:";
+
+/* Class = "NSTextFieldCell"; title = "Username:"; ObjectID = "uvh-d1-xas"; */
+"uvh-d1-xas.title" = "用户名:";
+
+/* Class = "NSTextFieldCell"; title = "Add to:"; ObjectID = "z1x-j7-v29"; */
+"z1x-j7-v29.title" = "添加到:";
+

@@ -1,0 +1,73 @@
+
+/* Class = "NSWindow"; title = "Profile"; ObjectID = "8"; */
+"8.title" = "剖析";
+
+/* Class = "NSButtonCell"; title = "Load"; ObjectID = "2109"; */
+"2109.title" = "加载";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "2111"; */
+"2111.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1RV-dF-c7x"; */
+"1RV-dF-c7x.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "SQL Format:"; ObjectID = "3Qy-to-j6C"; */
+"3Qy-to-j6C.title" = "SQL 格式:";
+
+/* Class = "NSTextFieldCell"; title = "Target Connection:"; ObjectID = "9eF-9s-A9m"; */
+"9eF-9s-A9m.title" = "目标连接:";
+
+/* Class = "NSTextFieldCell"; title = "Target Database:"; ObjectID = "BAc-Q6-KjO"; */
+"BAc-Q6-KjO.title" = "目标数据库:";
+
+/* Class = "NSTextFieldCell"; title = "Source Connection:"; ObjectID = "CXD-kU-g7i"; */
+"CXD-kU-g7i.title" = "源连接:";
+
+/* Class = "NSTextFieldCell"; title = "Source Schema:"; ObjectID = "EOw-S6-lrG"; */
+"EOw-S6-lrG.title" = "源模式:";
+
+/* Class = "NSTextFieldCell"; title = "Created Date:"; ObjectID = "GzE-hD-D0o"; */
+"GzE-hD-D0o.title" = "创建日期:";
+
+/* Class = "NSButtonCell"; title = "Delete"; ObjectID = "Ibf-qS-bpF"; */
+"Ibf-qS-bpF.title" = "删除";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "L7X-lu-1vH"; */
+"L7X-lu-1vH.title" = "删除";
+
+/* Class = "NSMenuItem"; title = "Load"; ObjectID = "MpM-hp-urc"; */
+"MpM-hp-urc.title" = "加载";
+
+/* Class = "NSTextFieldCell"; title = "Target:"; ObjectID = "VEs-Oh-XHo"; */
+"VEs-Oh-XHo.title" = "目标:";
+
+/* Class = "NSTextFieldCell"; title = "Modified Date:"; ObjectID = "Vwn-dx-eqi"; */
+"Vwn-dx-eqi.title" = "修改日期:";
+
+/* Class = "NSTextFieldCell"; title = "Source Project:"; ObjectID = "WBu-bh-N0I"; */
+"WBu-bh-N0I.title" = "源项目:";
+
+/* Class = "NSTextFieldCell"; title = "Collection:"; ObjectID = "YHa-zm-A1u"; */
+"YHa-zm-A1u.title" = "集合:";
+
+/* Class = "NSTextFieldCell"; title = "Target Schema:"; ObjectID = "gBG-kK-tPl"; */
+"gBG-kK-tPl.title" = "目标模式:";
+
+/* Class = "NSTextFieldCell"; title = "Target Project:"; ObjectID = "h0x-RR-Qnd"; */
+"h0x-RR-Qnd.title" = "目标项目:";
+
+/* Class = "NSTextFieldCell"; title = "Encoding:"; ObjectID = "klu-fr-btK"; */
+"klu-fr-btK.title" = "编码:";
+
+/* Class = "NSTextFieldCell"; title = "Profile Information"; ObjectID = "knV-sp-fDp"; */
+"knV-sp-fDp.title" = "配置文件信息";
+
+/* Class = "NSTextFieldCell"; title = "File"; ObjectID = "kuP-ff-rsn"; */
+"kuP-ff-rsn.title" = "文件";
+
+/* Class = "NSTextFieldCell"; title = "File Path:"; ObjectID = "lXG-XB-h39"; */
+"lXG-XB-h39.title" = "文件路径:";
+
+/* Class = "NSTextFieldCell"; title = "Source Database:"; ObjectID = "pPF-IC-AB9"; */
+"pPF-IC-AB9.title" = "源数据库:";
+

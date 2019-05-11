@@ -1,0 +1,47 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>表</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>表</h1>
+	<p>表是数据库对象，包含数据库中的所有数据。表是由行和列组成，它们的相交点是字段。在主窗口中，点击 <img src="./images/icon_table.png" alt="表" class="inlineGraphic" height="16" width="16"/>“<span class="term">表</span>”来打开表的对象列表。</p>
+	<p>你可以创建“<span class="term">常规</span>”、“<span class="term">外部</span>”或“<span class="term">分区</span>”表。若要创建新的常规表，简单地在对象工具栏点击 <img src="./images/icon_newTable.png" alt="新建表" class="inlineGraphic" height="16" width="16"/>。或者，你可以按住 <img src="./images/icon_newTable.png" alt="新建表" class="inlineGraphic" height="16" width="16"/> 按钮并选择表类型。</p>
+	<p>有两种方法打开一个有图形字段的表。按住 Control 键并点按表，然后选择：</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>打开表</p></td>
+			<td width="75%"><p>打开表时 Navicat 加载全部 BLOB 字段（图片）。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>打开表 (快速)</p></td>
+			<td width="75%"><p>快速打开图形表，BLOB 字段（图片）将不会被加载直至你点击该单元格。（默认情况下不显示，直至你在选择弹出式菜单时按住 OPTION 键。）</p></td>
+		</tr>
+	</table>
+	<p>你可以拖出表以创建一个表快捷方式。这个快捷方式让你快速直接地打开表来输入数据，而无需打开 Navicat 主窗口。</p>
+	<p>若要清空一个表，按住 Control 键并点按已选择的表，然后在弹出式菜单中选择“<span class="term">清空表</span>”。此选项仅适用于清除全部现有记录但不重置自动递增值。如果你想清除表时重置自动递增值，请使用“<span class="term">截断表</span>”。</p>
+	<h2>表设计器</h2>
+	<p>“<span class="term">表设计器</span>”是一个用于设计表的 Navicat 基本工具，能让你创建、编辑或删除表字段、索引、外键，以及更多。</p>
+	<p>在“<span class="term">字段</span>”选项卡中，你可以搜索一个字段名，选择“<span class="term">编辑</span>”->“<span class="term">查找</span>”->“<span class="term">查找</span>”，或按 COMMAND-F。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>设计器中的选项卡和选项会根据服务器类型和版本而有所不同。</p>
+	</div>
+	<h2>表查看器</h2>
+	<p>当你打开表时，“<span class="term">表查看器</span>”以网格显示数据。数据可以用两种模式显示：网格视图和表单视图。详细信息请参阅<a href="#/data_viewer">数据查看器</a>。</p>
+</div>

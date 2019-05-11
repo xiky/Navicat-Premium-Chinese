@@ -1,0 +1,22 @@
+
+/* Class = "NSButtonCell"; title = "Edit Password:"; ObjectID = "7QO-e3-7gl"; */
+"7QO-e3-7gl.title" = "编辑密码:";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "9G5-Bg-0AZ"; */
+"9G5-Bg-0AZ.title" = "密码:";
+
+/* Class = "NSTextFieldCell"; title = "* All passwords will not be saved to Navicat Cloud"; ObjectID = "Cza-y3-GUo"; */
+"Cza-y3-GUo.title" = "* 所有密码不会保存到 Navicat Cloud";
+
+/* Class = "NSTextFieldCell"; title = "Settings Location:"; ObjectID = "Y6f-ed-cFy"; */
+"Y6f-ed-cFy.title" = "设置位置:";
+
+/* Class = "NSButtonCell"; title = "Save password"; ObjectID = "Z4E-LG-aEn"; */
+"Z4E-LG-aEn.title" = "保存密码";
+
+/* Class = "NSButtonCell"; title = "Encrypt"; ObjectID = "i0k-lj-n2A"; */
+"i0k-lj-n2A.title" = "加密";
+
+/* Class = "NSButtonCell"; title = "Auto connect"; ObjectID = "rdZ-FD-OzY"; */
+"rdZ-FD-OzY.title" = "自动连接";
+

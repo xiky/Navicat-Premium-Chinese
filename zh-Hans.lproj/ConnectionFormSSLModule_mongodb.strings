@@ -1,0 +1,43 @@
+
+/* Class = "NSButtonCell"; title = "Use SSL"; ObjectID = "2XD-Xz-MHI"; */
+"2XD-Xz-MHI.title" = "使用 SSL";
+
+/* Class = "NSButtonCell"; title = "Allow invalid host names"; ObjectID = "B64-dx-hq9"; */
+"B64-dx-hq9.title" = "允许无效的主机名";
+
+/* Class = "NSTextFieldCell"; title = "Client Key Password:"; ObjectID = "LZ4-Pk-9Aq"; */
+"LZ4-Pk-9Aq.title" = "客户端密钥密码:";
+
+/* Class = "NSButtonCell"; title = "Edit Client Key Password:"; ObjectID = "Pj9-p8-BZG"; */
+"Pj9-p8-BZG.title" = "编辑客户端密钥密码:";
+
+/* Class = "NSButtonCell"; title = "Weak certificate validation"; ObjectID = "ZtN-8P-F56"; */
+"ZtN-8P-F56.title" = "弱证书验证";
+
+/* Class = "NSTextFieldCell"; title = "Subject Name:"; ObjectID = "do1-P8-k0R"; */
+"do1-P8-k0R.title" = "主题名:";
+
+/* Class = "NSBox"; title = "Authentication"; ObjectID = "f4M-vR-LnM"; */
+"f4M-vR-LnM.title" = "验证";
+
+/* Class = "NSButtonCell"; title = "Use authentication"; ObjectID = "gvP-U5-iAL"; */
+"gvP-U5-iAL.title" = "使用验证";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Client Key:"; ObjectID = "j2I-fL-oP0"; */
+"j2I-fL-oP0.placeholderString" = "客户端密钥:";
+
+/* Class = "NSTextFieldCell"; title = "Client Key:"; ObjectID = "j2I-fL-oP0"; */
+"j2I-fL-oP0.title" = "客户端密钥:";
+
+/* Class = "NSTextFieldCell"; title = "Certificate Revocation List:"; ObjectID = "qQO-P8-aFD"; */
+"qQO-P8-aFD.title" = "证书撤消列表:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "CA Certificate:"; ObjectID = "r0e-f9-mAr"; */
+"r0e-f9-mAr.placeholderString" = "CA 证书:";
+
+/* Class = "NSTextFieldCell"; title = "CA Certificate:"; ObjectID = "r0e-f9-mAr"; */
+"r0e-f9-mAr.title" = "CA 证书:";
+
+/* Class = "NSButtonCell"; title = "Save password"; ObjectID = "uDm-x1-2kL"; */
+"uDm-x1-2kL.title" = "保存密码";
+

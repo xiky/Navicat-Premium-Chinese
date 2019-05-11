@@ -1,0 +1,25 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>预览和打印模型</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>预览和打印模型</h1>
+	<p>若要预览打印前的页面，简单地点击 <img src="./images/icon_printPreviewModel.png" alt="打印预览" class="inlineGraphic" height="16" width="16"/> 按钮。你可以打印模型到打印机或各种文件格式。</p>
+	<p><span class="term">打印到打印机</span></p>
+	<p>选择“<span class="term">文件</span>”->“<span class="term">打印</span>”来直接发送你的图表到打印机。你可以在弹出的窗口设置打印机选项。</p>
+	<p><span class="term">打印到文件</span></p>
+	<p>选择“<span class="term">文件</span>”->“<span class="term">打印为</span>”并选择文件格式，为你的图表创建 PDF、PNG 或 SVG 文件。</p>
+</div>

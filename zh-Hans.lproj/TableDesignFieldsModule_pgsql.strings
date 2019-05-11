@@ -1,0 +1,28 @@
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "2Y6-m6-hCa"; */
+"2Y6-m6-hCa.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Foreign Column Name:"; ObjectID = "2c2-xc-pTv"; */
+"2c2-xc-pTv.title" = "外部列名:";
+
+/* Class = "NSTextFieldCell"; title = "Default Value:"; ObjectID = "6Xm-Mr-Qdj"; */
+"6Xm-Mr-Qdj.title" = "默认值:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "9sf-oV-bvU"; */
+"9sf-oV-bvU.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Collation:"; ObjectID = "dvl-Fr-l6j"; */
+"dvl-Fr-l6j.title" = "排序规则:";
+
+/* Class = "NSTextFieldCell"; title = "Dimension:"; ObjectID = "k3B-lp-jQS"; */
+"k3B-lp-jQS.title" = "维度:";
+
+/* Class = "NSButtonCell"; title = "Identity:"; ObjectID = "l8E-lD-Jto"; */
+"l8E-lD-Jto.title" = "标识:";
+
+/* Class = "NSTextFieldCell"; title = "Options:"; ObjectID = "qFU-oz-FMc"; */
+"qFU-oz-FMc.title" = "选项:";
+
+/* Class = "NSTextFieldCell"; title = "Object Type:"; ObjectID = "uwA-pJ-f0g"; */
+"uwA-pJ-f0g.title" = "对象类型:";
+

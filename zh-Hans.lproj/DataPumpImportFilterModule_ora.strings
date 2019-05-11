@@ -1,0 +1,25 @@
+
+/* Class = "NSButtonCell"; title = "Exclude"; ObjectID = "6u5-5h-AWM"; */
+"6u5-5h-AWM.title" = "排除";
+
+/* Class = "NSButtonCell"; title = "Include"; ObjectID = "PQZ-VT-CnF"; */
+"PQZ-VT-CnF.title" = "包含";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "UVO-BG-cF6"; */
+"UVO-BG-cF6.title" = "Table View Cell";
+
+/* Class = "NSBox"; title = "Include/Exclude"; ObjectID = "gSw-lf-bfH"; */
+"gSw-lf-bfH.title" = "包含或排除";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "j5G-Fo-dr9"; */
+"j5G-Fo-dr9.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "kj1-Nx-l6C"; */
+"kj1-Nx-l6C.title" = "Text Cell";
+
+/* Class = "NSBox"; title = "Query"; ObjectID = "qZw-9C-dA5"; */
+"qZw-9C-dA5.title" = "查询";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "xr5-Tx-n5G"; */
+"xr5-Tx-n5G.title" = "Text Cell";
+

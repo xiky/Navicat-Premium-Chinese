@@ -1,0 +1,22 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>选择表或集合映射（步骤二）</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>选择表或集合映射（步骤二）</h1>
+	<p>这个步骤，在默认情况下，只有源和目标之间含有相同名的表或集合会在列表中映射。如果你不想同步某些表或集合，只需从下拉式菜单手动禁用它们。</p>
+	<p>对于 MongoDB，相同名的键和字段也会映射。你可以在“<span class="term">键映射</span>”和“<span class="term">字段映射</span>”列中更改映射。</p>
+</div>

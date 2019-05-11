@@ -1,0 +1,13 @@
+
+/* Class = "NSButton"; ibShadowedToolTip = "Save"; ObjectID = "RDP-h0-rcj"; */
+"RDP-h0-rcj.ibShadowedToolTip" = "保存";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Debug"; ObjectID = "dqi-h9-f2W"; */
+"dqi-h9-f2W.ibShadowedToolTip" = "调试";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Run"; ObjectID = "lbF-W0-rlP"; */
+"lbF-W0-rlP.ibShadowedToolTip" = "运行";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Stop"; ObjectID = "xnH-sS-FZ6"; */
+"xnH-sS-FZ6.ibShadowedToolTip" = "停止";
+

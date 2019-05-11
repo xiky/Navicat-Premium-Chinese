@@ -1,0 +1,64 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>添加图像</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>添加图像</h1>
+	<p>若要添加一个新的图像，点击工具栏的 <img src="./images/icon_modelAddImage.png" alt="新建图像" class="inlineGraphic" height="16" width="16"/> 按钮，并点击画布的任意位置。然后，在打开对话框中选择图像。</p>
+	<p>在画布中图像对象的弹出式菜单选项包括：</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>重置大小</p></td>
+			<td width="75%"><p>重新设置图像的大小为它的原始大小。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>重置高宽比率</p></td>
+			<td width="75%"><p>保持图像的原始宽度与高度的比率。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>剪切</p></td>
+			<td width="75%"><p>从图表移除图像并放它在剪贴板。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>复制</p></td>
+			<td width="75%"><p>从图表复制图像到剪贴板。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>粘贴</p></td>
+			<td width="75%"><p>将剪贴板的内容贴到图表。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>选择全部图像</p></td>
+			<td width="75%"><p>在图表中选择全部图像。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>删除</p></td>
+			<td width="75%"><p>从图表中删除图像。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>置于顶层</p></td>
+			<td width="75%"><p>将图像提到顶层。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>置于底层</p></td>
+			<td width="75%"><p>移动图像到底层。</p></td>
+		</tr>
+	</table>
+</div>

@@ -1,0 +1,40 @@
+
+/* Class = "NSTextFieldCell"; title = "Boundary Value On:"; ObjectID = "4H3-Ni-q2P"; */
+"4H3-Ni-q2P.title" = "Boundary Value On:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Interval"; ObjectID = "Gvn-3A-uoW"; */
+"Gvn-3A-uoW.headerCell.title" = "间隔";
+
+/* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "J8D-LS-9WH"; */
+"J8D-LS-9WH.headerCell.title" = "值";
+
+/* Class = "NSTextFieldCell"; title = "Scale: "; ObjectID = "Mv1-jH-Hm9"; */
+"Mv1-jH-Hm9.title" = "比例:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "O0u-Cs-CmM"; */
+"O0u-Cs-CmM.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Size: "; ObjectID = "QSZ-Y9-VJB"; */
+"QSZ-Y9-VJB.title" = "大小:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Partition"; ObjectID = "YoV-E4-VjG"; */
+"YoV-E4-VjG.headerCell.title" = "分区";
+
+/* Class = "NSTextFieldCell"; title = "Type: "; ObjectID = "cUq-TO-Fxs"; */
+"cUq-TO-Fxs.title" = "类型:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "h0a-vg-Bz5"; */
+"h0a-vg-Bz5.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "linkedscheme_i"; ObjectID = "ljA-Qf-Jso"; */
+"ljA-Qf-Jso.headerCell.title" = "linkedscheme_i";
+
+/* Class = "NSTextFieldCell"; title = "Collation: "; ObjectID = "p2R-ic-thN"; */
+"p2R-ic-thN.title" = "排序规则:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "qpb-OC-yIn"; */
+"qpb-OC-yIn.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "tjK-Un-Ii3"; */
+"tjK-Un-Ii3.title" = "Text Cell";
+

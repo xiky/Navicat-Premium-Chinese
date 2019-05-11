@@ -1,0 +1,94 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>RDBMS</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>RDBMS</h1>
+	<p>若要成功地创建一个新的连接到本地或远程服务器 - 不管通过 SSL、SSH 或 HTTP，都要在常规选项卡中设置连接属性。如果你的互联网服务供应商（ISP）不提供直接访问其服务器，安全通道协定（SSH）或 HTTP 是另一种解决办法。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>下列的选项会根据连接的服务器类型而有所不同。</p>
+	</div>
+	<p><span class="term">添加到</span></p>
+	<p>当你登录 <a href="#/about_cloud">Navicat Cloud</a> 功能后，你可以选择保存连接在我的连接或 Navicat Cloud 的项目中。</p>
+	<p><span class="term">验证</span></p>
+	<table>
+		<tr class="tableRoll">
+			<td width="25%"><p>SQL Server 验证</p></td>
+			<td width="75%"><p>使用登录记录来验证连接。用户必须提供他们的服务器登录：“<span class="term">用户名</span>”和“<span class="term">密码</span>”。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>Windows 验证</p></td>
+			<td width="75%">
+				<p>当用户通过一个 Windows 用户帐号连接，SQL Server 会使用操作系统中 Windows 主要代符来验证帐号名和密码。</p>
+			</td>
+		</tr>
+	</table>
+	<p><span class="term">连接名</span></p>
+	<p>输入一个恰当的名描述你的连接。</p>
+	<p><span class="term">连接类型</span></p>
+	<table>
+		<tr class="tableRoll">
+			<td width="25%"><p>基本</p></td>
+			<td width="75%"><p>在基本（Basic）模式中，它通过 Oracle Call Interface (OCI) 连接到 Oracle。输入“<span class="term">主机</span>”和“<span class="term">端口</span>”。设置用户连接时用的“<span class="term">服务名或 SID</span>” 并选择相应的选项按钮。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>TNS</p></td>
+			<td width="75%">
+				<p>在 TNS 模式中，它使用 tnsnames.ora 文件中的别名项目通过 Oracle Call Interface (OCI) 连接到 Oracle 服务器。用户需要提供“<span class="term">网络服务名</span>”。</p>
+			</td>
+		</tr>
+	</table>
+	<p>OCI 是一个应用程序界面，让程序开发人员使用第三代语言原有过程或函数调用来访问 Oracle 数据库及控制全部 SQL 语句运行的阶段。OCI 是一个标准数据库访问的库和动态链接库形式检索函数。请参阅：<a href="#/preferences_env">环境</a></p>
+	<p><span class="term">数据库文件</span></p>
+	<p>指定初始数据库文件。如果启用了 HTTP 通道，你需要输入数据库在你网络服务器的绝对文件路径。</p>
+	<p><span class="term">终端节点</span></p>
+	<p>用于连接到 Amazon Web Services 实例的终端节点。</p>
+	<p><span class="term">主机</span></p>
+	<p>数据库所在的主机名或服务器的 IP 地址。</p>
+	<p><span class="term">初始数据库</span></p>
+	<p>设置用户连接到服务器时的初始数据库。</p>
+	<p><span class="term">操作系统验证</span></p>
+	<p>使用操作系统用户登录凭据来验证数据库用户。</p>
+	<p><span class="term">密码</span></p>
+	<p>连接到数据库服务器的密码。</p>
+	<p><span class="term">端口</span></p>
+	<p>连接到数据库服务器的 TCP/IP 端口。</p>
+	<p><span class="term">角色</span></p>
+	<p>指示数据库用户用默认、SYSOPER 或 SYSDBA 系统权限连接。</p>
+	<p><span class="term">与 Navicat Cloud 同步用户名</span></p>
+	<p>当编辑 Navicat Cloud 中的连接时，你可以选择同步用户名。</p>
+	<p><span class="term">类型</span></p>
+	<table>
+		<tr class="tableRoll">
+			<td width="25%"><p>现有的数据库文件</p></td>
+			<td width="75%"><p>连接到在“<span class="term">数据库文件</span>”的现有数据库。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>新建 SQLite 3</p></td>
+			<td width="75%">
+				<p>在“<span class="term">数据库文件</span>”创建新的 SQLite 3 数据库。</p>
+			</td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>新建 SQLite 2</p></td>
+			<td width="75%">
+				<p>在“<span class="term">数据库文件</span>”创建新的 SQLite 2 数据库。</p>
+			</td>
+		</tr>
+	</table>
+	<p><span class="term">用户名</span></p>
+	<p>连接到数据库服务器的用户名。</p>
+</div>

@@ -1,0 +1,28 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>关于备份和还原</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+
+<div class="manual_content_container">
+	<h1>关于备份和还原</h1>
+	<p>一个安全和可靠的服务器是与定期运行备份有密切的关系，因为由攻击、硬体故障、人为错误、电力中断等引致的错误有可能随时发生。</p>
+	<p>Navicat 为用户提供一个<a href="#/build_in_backup_restore">内置备份和还原工具</a>用于备份或还原 MySQL、PostgreSQL、SQLite 和 MariaDB 数据库对象。对于 Oracle、SQL Server 和 MongoDB，用户可以使用以下的功能。</p>
+	<ul class="ListBullet">
+		<li><p><a href="#/oracle_data_pump">Oracle 数据泵</a></p></li>
+		<li><p><a href="#/backup_restore_sqlserver">SQL Server 备份和还原</a></p></li>
+		<li><p><a href="#/mongo_dump_restore">MongoDump 和 MongoRestore</a></p></li>
+	</ul>
+</div>

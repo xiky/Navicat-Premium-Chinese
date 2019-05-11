@@ -1,0 +1,31 @@
+
+/* Class = "NSTextFieldCell"; title = "Field:"; ObjectID = "1SA-oH-9mn"; */
+"1SA-oH-9mn.title" = "字段:";
+
+/* Class = "NSTextFieldCell"; title = "Current:"; ObjectID = "DdD-c9-zpV"; */
+"DdD-c9-zpV.title" = "当前:";
+
+/* Class = "NSButtonCell"; title = "Not for Replication"; ObjectID = "Evd-Gy-xx3"; */
+"Evd-Gy-xx3.title" = "不适用于复制";
+
+/* Class = "NSTextFieldCell"; title = "Lock Escalation:"; ObjectID = "aWI-kc-gBF"; */
+"aWI-kc-gBF.title" = "锁升级:";
+
+/* Class = "NSTextFieldCell"; title = "Increment:"; ObjectID = "bnI-D3-7ub"; */
+"bnI-D3-7ub.title" = "递增:";
+
+/* Class = "NSButtonCell"; title = "Change Tracking"; ObjectID = "c1X-vA-c9r"; */
+"c1X-vA-c9r.title" = "更改跟踪";
+
+/* Class = "NSTextFieldCell"; title = "Seed:"; ObjectID = "hTg-KF-AKG"; */
+"hTg-KF-AKG.title" = "种子:";
+
+/* Class = "NSBox"; title = "Identity"; ObjectID = "iyx-HG-4vY"; */
+"iyx-HG-4vY.title" = "标识";
+
+/* Class = "NSButtonCell"; title = "Track Columns Updated"; ObjectID = "n5k-x0-b2d"; */
+"n5k-x0-b2d.title" = "跟踪列已更新";
+
+/* Class = "NSBox"; title = "Change Tracking"; ObjectID = "yMo-rO-KqE"; */
+"yMo-rO-KqE.title" = "更改跟踪";
+

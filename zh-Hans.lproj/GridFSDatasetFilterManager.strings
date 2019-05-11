@@ -1,0 +1,25 @@
+
+/* Class = "NSMenu"; title = "Delete Profile"; ObjectID = "Bo4-0X-lQQ"; */
+"Bo4-0X-lQQ.title" = "删除配置文件";
+
+/* Class = "NSButtonCell"; title = "Clear"; ObjectID = "Cqt-FH-rcd"; */
+"Cqt-FH-rcd.title" = "清除";
+
+/* Class = "NSMenu"; title = "Save Profile"; ObjectID = "Hxd-ps-Cyd"; */
+"Hxd-ps-Cyd.title" = "保存配置文件";
+
+/* Class = "NSMenuItem"; title = "Load Profile"; ObjectID = "Uco-Iq-xrb"; */
+"Uco-Iq-xrb.title" = "加载配置文件";
+
+/* Class = "NSButtonCell"; title = "Apply"; ObjectID = "VSe-Zd-W5m"; */
+"VSe-Zd-W5m.title" = "应用";
+
+/* Class = "NSMenuItem"; title = "Save Profile"; ObjectID = "VwQ-z8-CEa"; */
+"VwQ-z8-CEa.title" = "保存配置文件";
+
+/* Class = "NSMenuItem"; title = "Delete Profile"; ObjectID = "vii-O8-fjp"; */
+"vii-O8-fjp.title" = "删除配置文件";
+
+/* Class = "NSMenuItem"; title = "Save Profile As…"; ObjectID = "zKB-Lb-liy"; */
+"zKB-Lb-liy.title" = "另存配置文件为…";
+

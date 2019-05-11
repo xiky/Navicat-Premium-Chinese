@@ -1,0 +1,58 @@
+
+/* Class = "NSButtonCell"; title = "Recompare"; ObjectID = "2aJ-P5-GjI"; */
+"2aJ-P5-GjI.title" = "重新比对";
+
+/* Class = "NSMenuItem"; title = "Group by Object Type"; ObjectID = "96m-Ex-fK4"; */
+"96m-Ex-fK4.title" = "按对象类型分组";
+
+/* Class = "NSTextFieldCell"; title = "Target Database"; ObjectID = "AOj-mN-gIX"; */
+"AOj-mN-gIX.title" = "目标数据库";
+
+/* Class = "NSMenuItem"; title = "Group by Operation"; ObjectID = "Dj8-qI-q78"; */
+"Dj8-qI-q78.title" = "按操作分组";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "窗口";
+
+/* Class = "NSMenuItem"; title = "Save As"; ObjectID = "Fgd-rO-pbs"; */
+"Fgd-rO-pbs.title" = "另存为";
+
+/* Class = "NSButtonCell"; title = "Stop"; ObjectID = "GCD-mB-Ncd"; */
+"GCD-mB-Ncd.title" = "停止";
+
+/* Class = "NSTextFieldCell"; title = "Source Database"; ObjectID = "JFN-Ln-DdW"; */
+"JFN-Ln-DdW.title" = "源数据库";
+
+/* Class = "NSButtonCell"; title = "Load Profile"; ObjectID = "WbI-AR-o3a"; */
+"WbI-AR-o3a.title" = "加载配置文件";
+
+/* Class = "NSMenuItem"; title = "Open in Query Editor"; ObjectID = "Z5w-MQ-EqZ"; */
+"Z5w-MQ-EqZ.title" = "在查询编辑器打开";
+
+/* Class = "NSSegmentedCell"; al5-9a-HuX.ibShadowedLabels[0] = "Deployment Script"; ObjectID = "al5-9a-HuX"; */
+"al5-9a-HuX.ibShadowedLabels[0]" = "部署脚本";
+
+/* Class = "NSSegmentedCell"; al5-9a-HuX.ibShadowedLabels[1] = "▾"; ObjectID = "al5-9a-HuX"; */
+"al5-9a-HuX.ibShadowedLabels[1]" = "▾";
+
+/* Class = "NSSegmentedCell"; bXc-C8-35q.ibShadowedLabels[0] = "Save Profile"; ObjectID = "bXc-C8-35q"; */
+"bXc-C8-35q.ibShadowedLabels[0]" = "保存配置文件";
+
+/* Class = "NSSegmentedCell"; bXc-C8-35q.ibShadowedLabels[1] = "▾"; ObjectID = "bXc-C8-35q"; */
+"bXc-C8-35q.ibShadowedLabels[1]" = "▾";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "iBD-E0-yOI"; */
+"iBD-E0-yOI.title" = "上一步";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "u36-q0-cn9"; */
+"u36-q0-cn9.title" = "编辑";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "uLe-j5-slI"; */
+"uLe-j5-slI.title" = "保存";
+
+/* Class = "NSButtonCell"; title = "Compare"; ObjectID = "utj-2C-S6q"; */
+"utj-2C-S6q.title" = "比对";
+
+/* Class = "NSButtonCell"; title = "Pause"; ObjectID = "vUA-SG-n48"; */
+"vUA-SG-n48.title" = "暂停";
+

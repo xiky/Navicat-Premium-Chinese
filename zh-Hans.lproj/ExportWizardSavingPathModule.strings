@@ -1,0 +1,49 @@
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "0SE-WS-221"; */
+"0SE-WS-221.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Deselect All"; ObjectID = "3DF-Wu-VMB"; */
+"3DF-Wu-VMB.title" = "取消全选";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "4xe-A4-ard"; */
+"4xe-A4-ard.title" = "Menu";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "5be-zZ-VDZ"; */
+"5be-zZ-VDZ.title" = "全选";
+
+/* Class = "NSMenuItem"; title = "Export Selected to Same File"; ObjectID = "Fn7-iI-3g7"; */
+"Fn7-iI-3g7.title" = "导出已选择的到相同文件";
+
+/* Class = "NSButtonCell"; title = "Add timestamp:"; ObjectID = "LVt-oW-mY6"; */
+"LVt-oW-mY6.title" = "添加时间戳:";
+
+/* Class = "NSTextFieldCell"; title = "Encoding:"; ObjectID = "MWR-vt-wis"; */
+"MWR-vt-wis.title" = "编码:";
+
+/* Class = "NSTextFieldCell"; title = "You can specify the export file(s) name."; ObjectID = "UZe-0Y-T7v"; */
+"UZe-0Y-T7v.title" = "你可以指定导出文件名。";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "VQ1-ul-P3o"; */
+"VQ1-ul-P3o.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "WzX-HU-SWD"; */
+"WzX-HU-SWD.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Xnm-ep-fNu"; */
+"Xnm-ep-fNu.title" = "Table View Cell";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "XoB-AX-6h5"; */
+"XoB-AX-6h5.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Choose Saving Path (2/5)"; ObjectID = "cRa-MJ-Kw0"; */
+"cRa-MJ-Kw0.title" = "Choose Saving Path (2/5)";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "p1m-NI-tR0"; */
+"p1m-NI-tR0.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Change…"; ObjectID = "tQW-a6-6vn"; */
+"tQW-a6-6vn.title" = "更改…";
+
+/* Class = "NSTextFieldCell"; title = "Default Folder:"; ObjectID = "zjd-Tl-mN0"; */
+"zjd-Tl-mN0.title" = "默认文件夹:";
+

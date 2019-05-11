@@ -1,0 +1,31 @@
+
+/* Class = "NSTableColumn"; headerCell.title = "Default Schema"; ObjectID = "47a-eF-jDk"; */
+"47a-eF-jDk.headerCell.title" = "默认模式";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Odc-cF-5kq"; */
+"Odc-cF-5kq.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "PxH-3m-Oao"; */
+"PxH-3m-Oao.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "TMl-9M-q8X"; */
+"TMl-9M-q8X.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Database"; ObjectID = "TWR-CB-hcs"; */
+"TWR-CB-hcs.headerCell.title" = "数据库";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Tkj-Jo-671"; */
+"Tkj-Jo-671.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "aDm-3r-PeC"; */
+"aDm-3r-PeC.title" = "标签";
+
+/* Class = "NSTableColumn"; headerCell.title = "User"; ObjectID = "hfs-T2-P6u"; */
+"hfs-T2-P6u.headerCell.title" = "用户";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "pMh-lR-tdp"; */
+"pMh-lR-tdp.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "w9L-is-ia1"; */
+"w9L-is-ia1.title" = "Table View Cell";
+

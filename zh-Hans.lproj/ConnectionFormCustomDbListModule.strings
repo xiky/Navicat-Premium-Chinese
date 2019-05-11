@@ -1,0 +1,19 @@
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "4ej-Hf-aYJ"; */
+"4ej-Hf-aYJ.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "TTn-TR-SZY"; */
+"TTn-TR-SZY.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Auto Open"; ObjectID = "UBj-S3-Ct7"; */
+"UBj-S3-Ct7.headerCell.title" = "自动打开";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "ZQK-Kd-upn"; */
+"ZQK-Kd-upn.headerCell.title" = "名";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Zj8-Uu-e7u"; */
+"Zj8-Uu-e7u.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Use custom database list"; ObjectID = "l2b-gq-5MY"; */
+"l2b-gq-5MY.title" = "使用自定义数据库列表";
+

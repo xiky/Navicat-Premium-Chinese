@@ -1,0 +1,28 @@
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "2xA-7F-bol"; */
+"2xA-7F-bol.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; placeholderString = "[AssemblyName].[AssemblyClassName].[AssemblyMethodName]"; ObjectID = "3TL-c3-0Gm"; */
+"3TL-c3-0Gm.placeholderString" = "[AssemblyName].[AssemblyClassName].[AssemblyMethodName]";
+
+/* Class = "NSButtonCell"; title = "Enable"; ObjectID = "7m6-go-Soq"; */
+"7m6-go-Soq.title" = "启用";
+
+/* Class = "NSTextFieldCell"; title = "Trigger Type:"; ObjectID = "BJs-SI-Ixr"; */
+"BJs-SI-Ixr.title" = "触发器类型:";
+
+/* Class = "NSTextFieldCell"; title = "Definition Type:"; ObjectID = "PkI-de-I6g"; */
+"PkI-de-I6g.title" = "定义类型:";
+
+/* Class = "NSButtonCell"; title = "SQL Statement"; ObjectID = "RC2-Fk-kQ1"; */
+"RC2-Fk-kQ1.title" = "SQL 语句";
+
+/* Class = "NSTextFieldCell"; title = "Events:"; ObjectID = "UNR-8O-1cL"; */
+"UNR-8O-1cL.title" = "事件:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "VnY-tm-P1B"; */
+"VnY-tm-P1B.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Assembly"; ObjectID = "YNO-oE-hZU"; */
+"YNO-oE-hZU.title" = "程序集";
+

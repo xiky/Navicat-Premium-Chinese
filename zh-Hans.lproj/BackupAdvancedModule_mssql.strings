@@ -1,0 +1,70 @@
+
+/* Class = "NSButtonCell"; title = "Expire after:"; ObjectID = "1ol-LO-dRF"; */
+"1ol-LO-dRF.title" = "在此之后过期:";
+
+/* Class = "NSButtonCell"; title = "Never expire"; ObjectID = "2w7-cF-sbk"; */
+"2w7-cF-sbk.title" = "永不过期";
+
+/* Class = "NSButtonCell"; title = "Expire on:"; ObjectID = "6oa-YR-qfT"; */
+"6oa-YR-qfT.title" = "在此过期:";
+
+/* Class = "NSButtonCell"; title = "Check media name and backup set expiration"; ObjectID = "Cgf-yM-fcr"; */
+"Cgf-yM-fcr.title" = "检查介质名和备份集是否过期";
+
+/* Class = "NSMenuItem"; title = "DEFAULT"; ObjectID = "DKE-Tq-9Or"; */
+"DKE-Tq-9Or.title" = "DEFAULT";
+
+/* Class = "NSButtonCell"; title = "Truncate the transaction log"; ObjectID = "F7b-Ro-qTd"; */
+"F7b-Ro-qTd.title" = "截断事务日志";
+
+/* Class = "NSTextFieldCell"; title = "Compression"; ObjectID = "GDF-bi-dwU"; */
+"GDF-bi-dwU.title" = "压缩";
+
+/* Class = "NSTextFieldCell"; title = "Media Set Name"; ObjectID = "Ijc-Ow-gUe"; */
+"Ijc-Ow-gUe.title" = "介质集名";
+
+/* Class = "NSButtonCell"; title = "Format media set"; ObjectID = "LUU-dU-Ga1"; */
+"LUU-dU-Ga1.title" = "格式化介质集";
+
+/* Class = "NSTextFieldCell"; title = "Transaction Log"; ObjectID = "N3U-ZU-Rkq"; */
+"N3U-ZU-Rkq.title" = "事务日志";
+
+/* Class = "NSTextFieldCell"; title = "Media Set"; ObjectID = "Ock-6Q-upZ"; */
+"Ock-6Q-upZ.title" = "介质集";
+
+/* Class = "NSTextFieldCell"; title = "New Name:"; ObjectID = "TyJ-DQ-s4u"; */
+"TyJ-DQ-s4u.title" = "新建名:";
+
+/* Class = "NSButtonCell"; title = "Perform checksum"; ObjectID = "crL-AV-Hxa"; */
+"crL-AV-Hxa.title" = "执行校验和";
+
+/* Class = "NSButtonCell"; title = "Back up the tail of the log and leave the database in the restoring state"; ObjectID = "eEr-Iu-BEX"; */
+"eEr-Iu-BEX.title" = "备份日志尾部并使数据库处于还原状态";
+
+/* Class = "NSButtonCell"; title = "Password"; ObjectID = "ePb-G8-Nfc"; */
+"ePb-G8-Nfc.title" = "密码";
+
+/* Class = "NSButtonCell"; title = "Verify backup"; ObjectID = "gi6-ao-4tm"; */
+"gi6-ao-4tm.title" = "验证备份";
+
+/* Class = "NSButtonCell"; title = "Overwrite all backups"; ObjectID = "gu2-2A-E23"; */
+"gu2-2A-E23.title" = "覆盖全部备份";
+
+/* Class = "NSButtonCell"; title = "Continue on error"; ObjectID = "mrX-lW-GTd"; */
+"mrX-lW-GTd.title" = "遇到错误时继续";
+
+/* Class = "NSTextFieldCell"; title = "Error Management"; ObjectID = "ofA-e6-tau"; */
+"ofA-e6-tau.title" = "错误管理";
+
+/* Class = "NSTextFieldCell"; title = "Description:"; ObjectID = "tOk-qc-fFg"; */
+"tOk-qc-fFg.title" = "描述:";
+
+/* Class = "NSButtonCell"; title = "Password"; ObjectID = "ttA-FV-fFl"; */
+"ttA-FV-fFl.title" = "密码";
+
+/* Class = "NSTextFieldCell"; title = "Backup Set"; ObjectID = "uq6-vM-9r4"; */
+"uq6-vM-9r4.title" = "备份集";
+
+/* Class = "NSTextFieldCell"; title = "Days"; ObjectID = "xdl-ly-8iy"; */
+"xdl-ly-8iy.title" = "天";
+

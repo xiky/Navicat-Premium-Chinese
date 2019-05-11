@@ -1,0 +1,38 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>映射字段</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>映射字段</h1>
+	<p>Navicat 会依源表或集合对字段类型和長度作出假设。你可以从下拉式菜单选择你所需的类型。</p>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>导入多个表或集合时，你可以从下拉式菜单选择其他表或集合。</p>
+	</div>
+	<figure>
+		<a href="./images/importStep6_1.png" target="_blank"><img src="./images/importStep6_1.png"/></a>
+	</figure>
+	<p>如果你导入数据到现有的表或集合，你则需要手动映射源字段名到目标，或按住 Control 键并点按字段，然后选择“<span class="term">智慧匹配全部字段</span>”、“<span class="term">按次序匹配全部字段</span>”和“<span class="term">全部取消匹配</span>”来进行快速匹配。</p>
+	<figure>
+		<a href="./images/importStep6_2.png" target="_blank"><img src="./images/importStep6_2.png"/></a>
+	</figure>
+	<figure>
+		<a href="./images/importStep6_3.png" target="_blank"><img src="./images/importStep6_3.png"/></a>
+	</figure>
+	<p>如果你透过 ODBC 导入，“<span class="term">条件式查询</span>”按钮会打开“<span class="term">WHERE</span>”对话框，让你指定一个 <i>WHERE</i> 子句来导入源内的某些行。换句话说，只导入符合你设置的准则的行。</p>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>不要在子句包含 <i>WHERE</i> 单词。</p>
+	</div>
+</div>

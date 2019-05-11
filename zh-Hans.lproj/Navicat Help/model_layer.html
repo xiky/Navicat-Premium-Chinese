@@ -1,0 +1,64 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>添加层</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>添加层</h1>
+	<p>层是用于帮助组织在画布上的对象（例如：表、笔记、图像等）。你可以添加全部关联的对象到同一层。例如，你可以选择添加全部有关于销售的表到一层。若要创建一个新的层，点击工具栏的 <img src="./images/icon_modelAddLayer.png" alt="新建层" class="inlineGraphic" height="16" width="16"/> 按钮，并点击画布的任意位置。</p>
+	<p>在画布中层对象的弹出式菜单选项包括：</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>剪切</p></td>
+			<td width="75%"><p>从图表移除层并放它在剪贴板。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>复制</p></td>
+			<td width="75%"><p>从图表复制层到剪贴板。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>粘贴</p></td>
+			<td width="75%"><p>将剪贴板的内容贴到图表。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>选择全部层</p></td>
+			<td width="75%"><p>在图表中选择全部层。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>删除</p></td>
+			<td width="75%"><p>从图表中删除层。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>颜色</p></td>
+			<td width="75%"><p>更改层的颜色。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>调整适合大小</p></td>
+			<td width="75%"><p>自动调整层的大小以适合其内容。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>置于顶层</p></td>
+			<td width="75%"><p>将层提到顶层。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>置于底层</p></td>
+			<td width="75%"><p>移动层到底层。</p></td>
+		</tr>
+	</table>
+</div>

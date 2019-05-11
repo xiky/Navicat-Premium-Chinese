@@ -1,0 +1,55 @@
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "CIf-Kc-Sv8"; */
+"CIf-Kc-Sv8.title" = "确定";
+
+/* Class = "NSToolbarItem"; label = "Records"; ObjectID = "I38-5L-XcQ"; */
+"I38-5L-XcQ.label" = "记录";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Records"; ObjectID = "I38-5L-XcQ"; */
+"I38-5L-XcQ.paletteLabel" = "记录";
+
+/* Class = "NSToolbarItem"; label = "Environment"; ObjectID = "JnQ-T6-3Fm"; */
+"JnQ-T6-3Fm.label" = "环境";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Environment"; ObjectID = "JnQ-T6-3Fm"; */
+"JnQ-T6-3Fm.paletteLabel" = "环境";
+
+/* Class = "NSToolbarItem"; label = "General"; ObjectID = "LiT-Dl-2AV"; */
+"LiT-Dl-2AV.label" = "常规";
+
+/* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "LiT-Dl-2AV"; */
+"LiT-Dl-2AV.paletteLabel" = "常规";
+
+/* Class = "NSButtonCell"; title = "Default Preferences"; ObjectID = "Xrh-wv-hg4"; */
+"Xrh-wv-hg4.title" = "Default Preferences";
+
+/* Class = "NSToolbarItem"; label = "Logs"; ObjectID = "aUw-Yq-bFY"; */
+"aUw-Yq-bFY.label" = "日志文件";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Logs"; ObjectID = "aUw-Yq-bFY"; */
+"aUw-Yq-bFY.paletteLabel" = "日志文件";
+
+/* Class = "NSWindow"; title = "Preferences"; ObjectID = "bhl-x0-szz"; */
+"bhl-x0-szz.title" = "偏好设置";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "cB4-NX-tLd"; */
+"cB4-NX-tLd.title" = "取消";
+
+/* Class = "NSToolbarItem"; label = "Models"; ObjectID = "nGV-8e-zQr"; */
+"nGV-8e-zQr.label" = "模型";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Models"; ObjectID = "nGV-8e-zQr"; */
+"nGV-8e-zQr.paletteLabel" = "模型";
+
+/* Class = "NSToolbarItem"; label = "Editor"; ObjectID = "nSt-dc-UWh"; */
+"nSt-dc-UWh.label" = "编辑器";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Editor"; ObjectID = "nSt-dc-UWh"; */
+"nSt-dc-UWh.paletteLabel" = "编辑器";
+
+/* Class = "NSToolbarItem"; label = "Tabs"; ObjectID = "oco-HO-Q6u"; */
+"oco-HO-Q6u.label" = "选项卡";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Tabs"; ObjectID = "oco-HO-Q6u"; */
+"oco-HO-Q6u.paletteLabel" = "选项卡";
+

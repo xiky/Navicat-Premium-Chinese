@@ -1,0 +1,34 @@
+
+/* Class = "NSTextFieldCell"; title = "Maximum Updates Per Hour:"; ObjectID = "1bZ-YO-ZPD"; */
+"1bZ-YO-ZPD.title" = "每小时最多更新数:";
+
+/* Class = "NSTextFieldCell"; title = "SSL"; ObjectID = "4kr-ED-T7W"; */
+"4kr-ED-T7W.title" = "SSL";
+
+/* Class = "NSTextFieldCell"; title = "Issuer:"; ObjectID = "5j6-oq-dga"; */
+"5j6-oq-dga.title" = "发行者:";
+
+/* Class = "NSTextFieldCell"; title = "Subject:"; ObjectID = "6MM-Ak-wHX"; */
+"6MM-Ak-wHX.title" = "主旨:";
+
+/* Class = "NSTextFieldCell"; title = "Remarks: 0(default) = no limit"; ObjectID = "7mQ-c0-OMJ"; */
+"7mQ-c0-OMJ.title" = "备注：0（默认）= 没有限制";
+
+/* Class = "NSTextFieldCell"; title = "Maximum Connections Per Hour:"; ObjectID = "9iL-rs-YNO"; */
+"9iL-rs-YNO.title" = "每小时最多连接数:";
+
+/* Class = "NSTextFieldCell"; title = "Maximum User Connection:"; ObjectID = "Jyc-aD-vpL"; */
+"Jyc-aD-vpL.title" = "最大用户连接数:";
+
+/* Class = "NSTextFieldCell"; title = "Maximum Queries Per Hour:"; ObjectID = "Uip-oO-u6A"; */
+"Uip-oO-u6A.title" = "每小时最多查询数:";
+
+/* Class = "NSTextFieldCell"; title = "Cipher:"; ObjectID = "V9C-7s-Mqz"; */
+"V9C-7s-Mqz.title" = "Cipher:";
+
+/* Class = "NSTextFieldCell"; title = "SSL Type:"; ObjectID = "dYv-10-WUS"; */
+"dYv-10-WUS.title" = "SSL 类型:";
+
+/* Class = "NSButtonCell"; title = "Use OLD_PASSWORD encryption"; ObjectID = "zZA-PD-sN6"; */
+"zZA-PD-sN6.title" = "使用 OLD_PASSWORD 加密";
+

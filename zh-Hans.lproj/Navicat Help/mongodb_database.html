@@ -1,0 +1,26 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>数据库</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>数据库</h1>
+	<p>若要开始使用服务器对象，你应该创建并打开一个连接。如果服务器中没有任何对象，你需要创建一个新的数据库。</p>
+	<p><span class="term">创建一个新的数据库</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在导航窗格中，按住 Control 键并点按连接，然后选择“<span class="term">新建数据库</span>”。</p></li>
+		<li><p>在弹出的窗口中输入数据库的属性。</p></li>
+	</ul>
+</div>

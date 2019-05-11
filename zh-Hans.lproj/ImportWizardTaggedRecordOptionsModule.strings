@@ -1,0 +1,16 @@
+
+/* Class = "NSMenuItem"; title = "<Custom...>"; ObjectID = "0ia-eO-whU"; */
+"0ia-eO-whU.title" = "<Custom...>";
+
+/* Class = "NSTextFieldCell"; title = "Please choose the options that best describe your file."; ObjectID = "UnK-Qs-HrJ"; */
+"UnK-Qs-HrJ.title" = "请选择最能描述你的文件的选项。";
+
+/* Class = "NSTextFieldCell"; title = "Choose File Options (3/8)"; ObjectID = "oLo-xg-wB8"; */
+"oLo-xg-wB8.title" = "Choose File Options (3/8)";
+
+/* Class = "NSButtonCell"; title = "Consider tag attributes as table field"; ObjectID = "tPK-zd-kg2"; */
+"tPK-zd-kg2.title" = "将标签的属性视为表字段";
+
+/* Class = "NSTextFieldCell"; title = "Tag that identifies a table row:"; ObjectID = "wZ7-7k-Prj"; */
+"wZ7-7k-Prj.title" = "表示一个表行的标签:";
+

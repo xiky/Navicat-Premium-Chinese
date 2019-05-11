@@ -1,0 +1,10 @@
+
+/* Class = "NSTextFieldCell"; title = "Status:"; ObjectID = "g2S-FO-Ryx"; */
+"g2S-FO-Ryx.title" = "状态:";
+
+/* Class = "NSTextFieldCell"; title = "On Completion:"; ObjectID = "jMf-eW-6Hl"; */
+"jMf-eW-6Hl.title" = "退出时:";
+
+/* Class = "NSTextFieldCell"; title = "Definer:"; ObjectID = "z6Z-QM-MOt"; */
+"z6Z-QM-MOt.title" = "定义者:";
+

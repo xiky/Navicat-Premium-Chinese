@@ -1,0 +1,52 @@
+
+/* Class = "NSTextFieldCell"; title = "Loading..."; ObjectID = "0KF-Az-MEq"; */
+"0KF-Az-MEq.title" = "正在加载...";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "2Su-5E-nEg"; */
+"2Su-5E-nEg.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "D0B-yL-EdW"; */
+"D0B-yL-EdW.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Backup Type:"; ObjectID = "FfZ-9z-sSf"; */
+"FfZ-9z-sSf.title" = "备份类型:";
+
+/* Class = "NSMenuItem"; title = "Loading …"; ObjectID = "K0q-5Y-Wgo"; */
+"K0q-5Y-Wgo.title" = "正在加载…";
+
+/* Class = "NSTextFieldCell"; title = "Recovery Model:"; ObjectID = "Mi4-Bc-CNd"; */
+"Mi4-Bc-CNd.title" = "恢复模式:";
+
+/* Class = "NSButtonCell"; title = "New media set"; ObjectID = "N2I-ly-dhO"; */
+"N2I-ly-dhO.title" = "新介质集";
+
+/* Class = "NSTextFieldCell"; title = "Backup Set Name:"; ObjectID = "NcB-eb-Xbf"; */
+"NcB-eb-Xbf.title" = "备份集名:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "OcU-py-Maz"; */
+"OcU-py-Maz.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "TGi-ff-17d"; */
+"TGi-ff-17d.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Loading..."; ObjectID = "TlL-Sn-19z"; */
+"TlL-Sn-19z.title" = "正在加载...";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "WDP-XY-pcJ"; */
+"WDP-XY-pcJ.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Media Set"; ObjectID = "YcC-vA-ua9"; */
+"YcC-vA-ua9.title" = "介质集";
+
+/* Class = "NSTextFieldCell"; title = "Description:"; ObjectID = "ber-Tc-Ou7"; */
+"ber-Tc-Ou7.title" = "描述:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "mym-WU-FMl"; */
+"mym-WU-FMl.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Existing media set:"; ObjectID = "nFA-dV-KbU"; */
+"nFA-dV-KbU.title" = "现有的介质集:";
+
+/* Class = "NSButtonCell"; title = "Copy-only"; ObjectID = "v3a-QK-Uqa"; */
+"v3a-QK-Uqa.title" = "仅复制";
+

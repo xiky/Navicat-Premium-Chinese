@@ -1,0 +1,158 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>筛选向导</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>筛选向导</h1>
+	<p>筛选向导让你快捷地为你的数据网格创建及应用指定的筛选条件。此外，它更可让你保存筛选条件到一个配置文件以备日后使用。在工具栏点击 <img src="./images/icon_filterWizard.png" alt="筛选" class="inlineGraphic" height="16" width="16"/> 来启用筛选。</p>
+	<figure>
+		<a href="./images/filterWizard.png" target="_blank"><img src="./images/filterWizard.png"/></a>
+	</figure>
+	<h2>创建筛选</h2>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>若要添加一个新的条件到准则，只需简单地点击 <img src="./images/icon_addCondition.png" alt="添加条件" class="inlineGraphic" height="16" width="16"/>。如果你需要在括号内添加条件，点击 <img src="./images/icon_addParentheses.png" alt="添加括号" class="inlineGraphic" height="16" width="16"/>。</p>
+		<div class="alert">
+			<p><span class="hint">【提示】</span>若要在现有的条件添加括号，只需简单地按住 Control 键并点按已选择的条件，然后选择“<span class="term">使用括号分组</span>”。若要移除括号，请右击括号并选择“<span class="term">删除括号</span>”或“<span class="term">删除括号和条件</span>”。</p>
+		</div>
+		</li>
+		<li><p>点击字段名（复选框旁）并从列表中选择一个字段。</p></li>
+		<li>
+			<p>点击运算符（字段名旁）并选择一个筛选运算符。你可以从列表中选择“<span class="term">[自定义]</span>”来手动输入准则。</p>
+			<table>
+				<tr class="tableHeadingRoll">
+					<td width="25%"><p>筛选运算符</p></td>
+					<td width="75%"><p>结果</p></td>
+				</tr>
+				<tr class="tableRoll">
+					<td width="25%"><p>=</p></td>
+					<td width="75%"><p>字段等于“值”。</p></td>
+				</tr>
+				<tr class="tableRoll">
+					<td width="25%"><p>!=</p></td>
+					<td width="75%"><p>字段不等于“值”。</p></td>
+				</tr>
+				<tr class="tableRoll">
+					<td width="25%"><p>&lt;</p></td>
+					<td width="75%"><p>字段小于“值”。</p></td>
+				</tr>
+				<tr class="tableRoll">
+					<td width="25%"><p>&lt;=</p></td>
+					<td width="75%"><p>字段小于或等于“值”。</p></td>
+				</tr>
+				<tr class="tableRoll">
+					<td width="25%"><p>&gt;</p></td>
+					<td width="75%"><p>字段大于“值”。</p></td>
+				</tr>
+				<tr class="tableRoll">
+					<td width="25%"><p>&gt;=</p></td>
+					<td width="75%"><p>字段大于或等于“值”。</p></td>
+				</tr>
+				<tr class="tableRoll">
+					<td width="25%"><p>包含</p></td>
+					<td width="75%"><p>字段包含“值”。</p></td>
+				</tr>
+				<tr class="tableRoll">
+					<td width="25%"><p>包含（不区分大小写）</p></td>
+					<td width="75%"><p>字段包含“值”（不区分大小写）。<br />仅适用于 PostgreSQL。</p></td>
+				</tr>
+				<tr class="tableRoll">
+					<td width="25%"><p>不包含</p></td>
+					<td width="75%"><p>字段不包含“值”。</p></td>
+				</tr>
+				<tr class="tableRoll">
+					<td width="25%"><p>不包含（不区分大小写）</p></td>
+					<td width="75%"><p>字段不包含“值”（不区分大小写）。<br />仅适用于 PostgreSQL。</p></td>
+				</tr>
+				<tr class="tableRoll">
+					<td width="25%"><p>开始以</p></td>
+					<td width="75%"><p>字段以“值”开头。</p></td>
+				</tr>
+				<tr class="tableRoll">
+					<td width="25%"><p>开始不是以</p></td>
+					<td width="75%"><p>字段不以“值”开头。</p></td>
+				</tr>
+				<tr class="tableRoll">
+					<td width="25%"><p>结束以</p></td>
+					<td width="75%"><p>字段以“值”结尾。</p></td>
+				</tr>
+				<tr class="tableRoll">
+					<td width="25%"><p>结束不是以</p></td>
+					<td width="75%"><p>字段不以“值”结尾。</p></td>
+				</tr>
+				<tr class="tableRoll">
+					<td width="25%"><p>是 null</p></td>
+					<td width="75%"><p>字段是 NULL。</p></td>
+				</tr>
+				<tr class="tableRoll">
+					<td width="25%"><p>不是 null</p></td>
+					<td width="75%"><p>字段是 NOT NULL。</p></td>
+				</tr>
+				<tr class="tableRoll">
+					<td width="25%"><p>是空的</p></td>
+					<td width="75%"><p>字段是空的。</p></td>
+				</tr>
+				<tr class="tableRoll">
+					<td width="25%"><p>不是空的</p></td>
+					<td width="75%"><p>字段不是空的。</p></td>
+				</tr>
+				<tr class="tableRoll">
+					<td width="25%"><p>介于</p></td>
+					<td width="75%"><p>字段在“值1”和“值2”之间。</p></td>
+				</tr>
+				<tr class="tableRoll">
+					<td width="25%"><p>不介于</p></td>
+					<td width="75%"><p>字段不在“值1”和“值2”之间。</p></td>
+				</tr>
+				<tr class="tableRoll">
+					<td width="25%"><p>在列表</p></td>
+					<td width="75%"><p>字段在（“值1”、“值2”、...）列表中。</p></td>
+				</tr>
+				<tr class="tableRoll">
+					<td width="25%"><p>不在列表</p></td>
+					<td width="75%"><p>字段不在（“值1”、“值2”、...）列表中。</p></td>
+				</tr>
+				<tr class="tableRoll">
+					<td width="25%"><p>存在</p></td>
+					<td width="75%"><p>字段是存在。<br />仅适用于 MongoDB。</p></td>
+				</tr>
+				<tr class="tableRoll">
+					<td width="25%"><p>不存在</p></td>
+					<td width="75%"><p>字段不存在。<br />仅适用于 MongoDB。</p></td>
+				</tr>
+				<tr class="tableRoll">
+					<td width="25%"><p>是字段类型</p></td>
+					<td width="75%"><p>字段类型是“值”。<br />仅适用于 MongoDB。</p></td>
+				</tr>
+				<tr class="tableRoll">
+					<td width="25%"><p>不是字段类型</p></td>
+					<td width="75%"><p>字段类型不是“值”。<br />仅适用于 MongoDB。</p></td>
+				</tr>
+			</table>
+		</li>
+		<li><p>点击“<span class="term">?</span>”来打开适当的编辑器并输入准则值。准则值框使用的编辑器是由字段的数据类型决定。</p>
+		<div class="alert">
+			<p><span class="hint">【提示】</span>对于 MongoDB，你可以在准则值框中更改编辑器类型。</p>
+		</div>
+		<li><p>点击逻辑运算符框（准则值旁）并选择“<span class="term">and</span>”或“<span class="term">or</span>”。</p></li>
+		<li><p>重复步骤 1-5 来添加另一个新条件。</p></li>
+		<li><p>点击 <img src="./images/icon_applyFilter.png" alt="应用筛选" class="inlineGraphic" height="16" width="16"/> 来看筛选结果。</p></li>
+	</ul>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>如果要反转条件的含义，简单地按住 Control 键并点按已选择的条件，然后选择“<span class="term">切换否定符</span>”。</p>
+	</div>
+	<h2>保存配置文件</h2>
+	<p>你可以保存筛选准则到配置文件以备日后使用。只需简单地按住 Control 键并点按筛选向导，然后选择“<span class="term">加载配置文件</span>”、“<span class="term">删除配置文件</span>”、“<span class="term">保存配置文件</span>”或“<span class="term">另存配置文件为</span>”。</p>
+</div>

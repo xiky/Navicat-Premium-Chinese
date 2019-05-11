@@ -1,0 +1,40 @@
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1c7-f8-Vh0"; */
+"1c7-f8-Vh0.title" = "窗口";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "DZZ-Cd-Aie"; */
+"DZZ-Cd-Aie.title" = "全选";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "G2u-et-OUG"; */
+"G2u-et-OUG.title" = "取消";
+
+/* Class = "NSMenuItem"; title = "Invert Selection"; ObjectID = "GZd-Sh-CnL"; */
+"GZd-Sh-CnL.title" = "反转选择";
+
+/* Class = "NSTextFieldCell"; title = "Please select which one to import."; ObjectID = "JcV-wy-NLG"; */
+"JcV-wy-NLG.title" = "请选择要导入哪一个。";
+
+/* Class = "NSTableColumn"; headerCell.title = "Sheet/Table"; ObjectID = "JuR-kj-hDX"; */
+"JuR-kj-hDX.headerCell.title" = "Sheet/Table";
+
+/* Class = "NSTextFieldCell"; title = "Query:"; ObjectID = "P1r-UX-C1G"; */
+"P1r-UX-C1G.title" = "查询:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "THI-k1-Awd"; */
+"THI-k1-Awd.title" = "确定";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "WEw-g7-0ya"; */
+"WEw-g7-0ya.title" = "名:";
+
+/* Class = "NSButtonCell"; title = "Add Query…"; ObjectID = "eFk-gE-4Qe"; */
+"eFk-gE-4Qe.title" = "添加查询…";
+
+/* Class = "NSMenuItem"; title = "Deselect All"; ObjectID = "fHT-1b-WEN"; */
+"fHT-1b-WEN.title" = "取消全选";
+
+/* Class = "NSTableColumn"; headerCell.title = "Source"; ObjectID = "mfd-Wl-jPN"; */
+"mfd-Wl-jPN.headerCell.title" = "源";
+
+/* Class = "NSTextFieldCell"; title = "Choose File Options (3/8)"; ObjectID = "uH5-s0-9hA"; */
+"uH5-s0-9hA.title" = "Choose File Options (3/8)";
+

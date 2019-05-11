@@ -1,0 +1,25 @@
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Ohc-H9-npX"; */
+"Ohc-H9-npX.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "PuB-99-pl7"; */
+"PuB-99-pl7.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Deny Selected"; ObjectID = "Q6b-eX-jib"; */
+"Q6b-eX-jib.title" = "拒绝已选择的";
+
+/* Class = "NSMenuItem"; title = "Grant Selected With Grant Option"; ObjectID = "e2f-nJ-omQ"; */
+"e2f-nJ-omQ.title" = "授予已选择的（含授予选项）";
+
+/* Class = "NSMenuItem"; title = "Grant Selected"; ObjectID = "eKf-z2-Hpp"; */
+"eKf-z2-Hpp.title" = "授予已选择的";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "pum-tf-nip"; */
+"pum-tf-nip.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "rbP-as-ND7"; */
+"rbP-as-ND7.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Revoke Selected"; ObjectID = "vRe-Uh-fMW"; */
+"vRe-Uh-fMW.title" = "撤消已选择的";
+

@@ -1,0 +1,118 @@
+
+/* Class = "NSButtonCell"; title = "File"; ObjectID = "2H1-0y-9rj"; */
+"2H1-0y-9rj.title" = "文件";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "2xh-Id-jmJ"; */
+"2xh-Id-jmJ.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "5IE-gs-dfI"; */
+"5IE-gs-dfI.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "6HP-LR-hbH"; */
+"6HP-LR-hbH.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "9zD-UJ-nqc"; */
+"9zD-UJ-nqc.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "BDx-tW-qJ2"; */
+"BDx-tW-qJ2.title" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Encoding"; ObjectID = "Hvx-61-PqP"; */
+"Hvx-61-PqP.title" = "编码";
+
+/* Class = "NSTextFieldCell"; title = "Database"; ObjectID = "HwO-BH-miz"; */
+"HwO-BH-miz.title" = "数据库";
+
+/* Class = "NSTextFieldCell"; title = "Connection"; ObjectID = "I65-vJ-2c2"; */
+"I65-vJ-2c2.title" = "连接";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "Lrl-zU-xqp"; */
+"Lrl-zU-xqp.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "MRa-ec-AJE"; */
+"MRa-ec-AJE.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "MXI-ji-Rif"; */
+"MXI-ji-Rif.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "Qvp-B7-XL0"; */
+"Qvp-B7-XL0.title" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Target"; ObjectID = "TEs-UM-N74"; */
+"TEs-UM-N74.title" = "目标";
+
+/* Class = "NSTextFieldCell"; title = "Schema"; ObjectID = "UkY-0j-uNt"; */
+"UkY-0j-uNt.title" = "模式";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "YiL-IV-99d"; */
+"YiL-IV-99d.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "ZLT-eQ-5hS"; */
+"ZLT-eQ-5hS.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "b9v-lu-H6q"; */
+"b9v-lu-H6q.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "fUF-Yg-qtm"; */
+"fUF-Yg-qtm.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "g1W-QI-Hy0"; */
+"g1W-QI-Hy0.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "h2U-hg-djx"; */
+"h2U-hg-djx.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "hTK-1a-oG9"; */
+"hTK-1a-oG9.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "iGb-nx-jmX"; */
+"iGb-nx-jmX.title" = "Item 1";
+
+/* Class = "NSTextFieldCell"; title = "SQL Format"; ObjectID = "jWH-4k-nRe"; */
+"jWH-4k-nRe.title" = "SQL 格式";
+
+/* Class = "NSTextFieldCell"; title = "Schema"; ObjectID = "k2g-O0-5Kj"; */
+"k2g-O0-5Kj.title" = "模式";
+
+/* Class = "NSTextFieldCell"; title = "Information"; ObjectID = "ld0-SF-IrH"; */
+"ld0-SF-IrH.title" = "信息";
+
+/* Class = "NSButtonCell"; title = "Connection"; ObjectID = "lli-ke-1sU"; */
+"lli-ke-1sU.title" = "连接";
+
+/* Class = "NSTextFieldCell"; title = "Database"; ObjectID = "mHi-jW-FpZ"; */
+"mHi-jW-FpZ.title" = "数据库";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "muT-ee-fIV"; */
+"muT-ee-fIV.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "oKk-TJ-uPQ"; */
+"oKk-TJ-uPQ.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "q3v-k7-tWh"; */
+"q3v-k7-tWh.title" = "Item 2";
+
+/* Class = "NSTextFieldCell"; title = "Source"; ObjectID = "qV6-IH-P2T"; */
+"qV6-IH-P2T.title" = "源";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "rSg-Yd-vjg"; */
+"rSg-Yd-vjg.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "tqS-iJ-Shu"; */
+"tqS-iJ-Shu.title" = "Item 1";
+
+/* Class = "NSTextFieldCell"; title = "Information"; ObjectID = "uTW-2q-Bo9"; */
+"uTW-2q-Bo9.title" = "信息";
+
+/* Class = "NSTabViewItem"; label = "Connection"; ObjectID = "yMO-bi-pF6"; */
+"yMO-bi-pF6.label" = "连接";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "yv9-Un-kMK"; */
+"yv9-Un-kMK.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "zIH-nb-2ly"; */
+"zIH-nb-2ly.title" = "Item 1";
+
+/* Class = "NSTabViewItem"; label = "File"; ObjectID = "zZN-fa-k1R"; */
+"zZN-fa-k1R.label" = "文件";
+

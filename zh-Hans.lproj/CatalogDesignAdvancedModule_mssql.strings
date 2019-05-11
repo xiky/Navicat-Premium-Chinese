@@ -1,0 +1,118 @@
+
+/* Class = "NSButtonCell"; title = "Database Read-Only"; ObjectID = "1Z6-jb-kxg"; */
+"1Z6-jb-kxg.title" = "数据库只读";
+
+/* Class = "NSTextFieldCell"; title = "Database State:"; ObjectID = "47V-hF-Yw2"; */
+"47V-hF-Yw2.title" = "数据库状态:";
+
+/* Class = "NSTextFieldCell"; title = "SQL"; ObjectID = "4vH-t8-hOX"; */
+"4vH-t8-hOX.title" = "SQL";
+
+/* Class = "NSButtonCell"; title = "Encryption Enabled"; ObjectID = "5mn-q9-jC4"; */
+"5mn-q9-jC4.title" = "加密已启用";
+
+/* Class = "NSButtonCell"; title = "Cross-Database Ownership Chaining Enabled"; ObjectID = "75W-uL-yzC"; */
+"75W-uL-yzC.title" = "跨数据库所有权链接已启用";
+
+/* Class = "NSButtonCell"; title = "Broker Enabled"; ObjectID = "9Oz-hU-onl"; */
+"9Oz-hU-onl.title" = "Broker 已启用";
+
+/* Class = "NSTextFieldCell"; title = "Cursor"; ObjectID = "ACt-LE-c5h"; */
+"ACt-LE-c5h.title" = "光标";
+
+/* Class = "NSButtonCell"; title = "Auto Create Statistics"; ObjectID = "AeN-DB-BRX"; */
+"AeN-DB-BRX.title" = "自动创建统计信息";
+
+/* Class = "NSButtonCell"; title = "Change Tracking"; ObjectID = "BFM-B8-4E2"; */
+"BFM-B8-4E2.title" = "更改跟踪";
+
+/* Class = "NSButtonCell"; title = "Trustworthy"; ObjectID = "DhF-DJ-16k"; */
+"DhF-DJ-16k.title" = "可信";
+
+/* Class = "NSButtonCell"; title = "ANSI Null Default"; ObjectID = "F9h-yb-cem"; */
+"F9h-yb-cem.title" = "ANSI Null 默认值";
+
+/* Class = "NSButtonCell"; title = "Auto Close"; ObjectID = "IxU-Lb-AzT"; */
+"IxU-Lb-AzT.title" = "自动关闭";
+
+/* Class = "NSButtonCell"; title = "ANSI Warnings Enabled"; ObjectID = "JUo-7V-nSu"; */
+"JUo-7V-nSu.title" = "ANSI 警告已启用";
+
+/* Class = "NSButtonCell"; title = "VarDecimal Storage Format Enabled"; ObjectID = "Jjk-YT-uh3"; */
+"Jjk-YT-uh3.title" = "VarDecimal 存储格式已启用";
+
+/* Class = "NSTextFieldCell"; title = "Retention Period:"; ObjectID = "KjI-yD-OWf"; */
+"KjI-yD-OWf.title" = "保留週期:";
+
+/* Class = "NSTextFieldCell"; title = "Change Tracking"; ObjectID = "Msa-EM-hl3"; */
+"Msa-EM-hl3.title" = "更改跟踪";
+
+/* Class = "NSButtonCell"; title = "Quoted Identifiers Enabled"; ObjectID = "NW9-yI-DUh"; */
+"NW9-yI-DUh.title" = "允许带引号的识别符";
+
+/* Class = "NSButtonCell"; title = "Recursive Triggers Enabled"; ObjectID = "OZ7-Bl-jUO"; */
+"OZ7-Bl-jUO.title" = "递归触发器已启用";
+
+/* Class = "NSButtonCell"; title = "Date Correlation Optimization Enabled"; ObjectID = "Q19-6C-qfA"; */
+"Q19-6C-qfA.title" = "日期相关性优化已启用";
+
+/* Class = "NSTextFieldCell"; title = "State"; ObjectID = "QgD-RB-bYe"; */
+"QgD-RB-bYe.title" = "状态";
+
+/* Class = "NSButtonCell"; title = "Numeric Round-Abort"; ObjectID = "Qrk-l6-Ahu"; */
+"Qrk-l6-Ahu.title" = "数值舍入中止";
+
+/* Class = "NSTextFieldCell"; title = "Automatic"; ObjectID = "Ubr-QA-dv3"; */
+"Ubr-QA-dv3.title" = "自动";
+
+/* Class = "NSTextFieldCell"; title = "Restrict Access:"; ObjectID = "YQW-ih-fyP"; */
+"YQW-ih-fyP.title" = "限制访问:";
+
+/* Class = "NSButtonCell"; title = "Honor Broker Priority"; ObjectID = "aao-Lm-cFL"; */
+"aao-Lm-cFL.title" = "Honor Broker 优先权";
+
+/* Class = "NSButtonCell"; title = "Close Cursor On Commit Enabled"; ObjectID = "ai9-TO-Seq"; */
+"ai9-TO-Seq.title" = "提交时关闭游标功能已启用";
+
+/* Class = "NSTextFieldCell"; title = "Recovery"; ObjectID = "bCC-hu-Hpg"; */
+"bCC-hu-Hpg.title" = "恢复";
+
+/* Class = "NSTextFieldCell"; title = "Parameterization:"; ObjectID = "dkb-fy-QHk"; */
+"dkb-fy-QHk.title" = "参数化:";
+
+/* Class = "NSButtonCell"; title = "Auto Shrink"; ObjectID = "dxk-ir-X0x"; */
+"dxk-ir-X0x.title" = "自动收缩";
+
+/* Class = "NSButtonCell"; title = "Auto Update Statistics Asynchronously"; ObjectID = "fSx-3d-i2o"; */
+"fSx-3d-i2o.title" = "自动异步更新统计信息";
+
+/* Class = "NSTextFieldCell"; title = "Page Verify:"; ObjectID = "g1D-7i-FoL"; */
+"g1D-7i-FoL.title" = "页验证:";
+
+/* Class = "NSButtonCell"; title = "ANSI Padding Enabled"; ObjectID = "guu-Cx-d9I"; */
+"guu-Cx-d9I.title" = "ANSI 填充已启用";
+
+/* Class = "NSButtonCell"; title = "Concatenate Null Yields Null"; ObjectID = "hIv-la-UPr"; */
+"hIv-la-UPr.title" = "串联的 Null 结果为 Null";
+
+/* Class = "NSTextFieldCell"; title = "Service Broker"; ObjectID = "hL0-AZ-o77"; */
+"hL0-AZ-o77.title" = "Service Broker";
+
+/* Class = "NSTextFieldCell"; title = "Miscellaneous"; ObjectID = "n0E-u7-qLG"; */
+"n0E-u7-qLG.title" = "其他";
+
+/* Class = "NSButtonCell"; title = "ANSI Nulls Enabled"; ObjectID = "odY-ye-sB2"; */
+"odY-ye-sB2.title" = "ANSI Nulls 已启用";
+
+/* Class = "NSButtonCell"; title = "Arithmetic Abort Enabled"; ObjectID = "qWw-fe-XZn"; */
+"qWw-fe-XZn.title" = "算术中止已启用";
+
+/* Class = "NSButtonCell"; title = "Auto Update Statistics"; ObjectID = "toJ-YR-V2j"; */
+"toJ-YR-V2j.title" = "自动更新统计信息";
+
+/* Class = "NSButtonCell"; title = "Auto Clean Up"; ObjectID = "wsu-vB-qeH"; */
+"wsu-vB-qeH.title" = "自动删除";
+
+/* Class = "NSTextFieldCell"; title = "Default Cursor:"; ObjectID = "yPb-j9-ED5"; */
+"yPb-j9-ED5.title" = "默认游标:";
+

@@ -1,0 +1,28 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>导航窗格</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>导航窗格</h1>
+	<p>导航窗格采用树状结构设计，可让你透过弹出式菜单快捷及方便地处理数据库和它们的对象。如果<a href="#/preferences_gen">偏好设置</a>窗口中的“<span class="term">在导航窗格中的模式下显示对象</span>”选项已勾选，所有数据库对象会显示在此窗格。若要连接到一个数据库或模式，简单地在此窗格中双击它。</p>
+	<p>在登录 <a href="#/about_cloud">Navicat Cloud</a> 功能后，导航窗格会分为“<span class="term">Navicat Cloud</span>”和“<span class="term">我的连接</span>”两部分。</p>
+	<figure>
+		<a href="./images/navigationPane.png" target="_blank"><img src="./images/navigationPane.png"/></a>
+	</figure>
+	<p>你可以在“<span class="term">搜索</span>”文本框输入搜索字符串来筛选树。若要只显示已打开的对象，点击 <img src="./images/icon_openObjects.png" alt="仅显示活跃​​对象" class="inlineGraphic" height="16" width="16"/> 按钮，或，从菜单栏选择“<span class="term">查看</span>”->“<span class="term">导航窗格</span>”->“<span class="term">仅显示活跃​​对象</span>”。</p>
+	<p>如果你想隐藏导航窗格中的组结构，选择“<span class="term">查看</span>”->“<span class="term">导航窗格</span>”->“<span class="term">隐藏连接组</span>”。</p>
+	<p>如果导航窗格已隐藏，选择“<span class="term">查看</span>”->“<span class="term">导航窗格</span>”->“<span class="term">显示导航窗格</span>”。</p>	
+</div>

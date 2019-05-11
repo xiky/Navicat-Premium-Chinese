@@ -1,0 +1,50 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>编辑器</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>编辑器</h1>
+	<p><span class="term">如果 SQL 大于此值时，禁用语法高亮显示和自动完成代码: <img src="./images/limitEditBox.png" alt="编辑框" class="inlineGraphic" height="14" width="20" border="1"/> MB</span></p>
+	<p>你可以设置最大的文件大小（例如：10）来语法高亮显示和自动完成代码功能，以提高性能。</p>
+	<h2>显示</h2>
+	<p><span class="term">显示行号</span></p>
+	<p>在编辑器左侧显示行号以方便参考。</p>
+	<p><span class="term">使用代码折叠</span></p>
+	<p>代码折叠让代码在编辑器折叠成一个块并只显示第一行。</p>
+	<p><span class="term">使用括号高亮显示</span></p>
+	<p>当你的光标移动到其中一个括号时，高亮显示该对括号以方便参考。</p>
+	<p><span class="term">使用语法高亮显示</span></p>
+	<p>语法高亮显示帮助查看代码。根据代码所属的类别，代码会在编辑器中以不同的颜色和字体高亮显示。</p>
+	<h2>文本版面</h2>
+	<p><span class="term">定位宽度:</span> <img src="./images/limitEditBox.png" alt="编辑框" class="inlineGraphic" height="14" width="20" border="1"/> <span class="term">个空格</span></p>
+	<p>输入一个定位佔用的字符数，例如：5。</p>
+	<p><span class="term">使用自动换行</span></p>
+	<p>在编辑器中启用自动换行模式。</p>
+	<h2>自动完成代码</h2>
+	<p><span class="term">使用自动完成代码</span>（仅适用于非 Essentials 版）</p>
+	<p>当你在对象名之间输入 . (dot) 符号或一个字符时，SQL 编辑器会提供一个弹出式列表显示一些建议字让你可以完成代码。</p>
+	<p><span class="term">自动更新自动完成代码的信息</span>（仅适用于非 Essentials 版）</p>
+	<p>如果勾选了这个选项，Navicat 将会在打开数据库或模式时，自动从服务器获取自动完成代码的最新数据库信息。否则，你需要在查询窗口中手动更新。</p>
+	<p>请参阅：<a href="#/query_editor">SQL 编辑器</a>或<a href="#/query_script_editor">脚本编辑器</a>。</p>
+	<h2>字体和颜色</h2>
+	<p><span class="term">字体</span></p>
+	<p>定义编辑器使用的字体和字体大小。</p>
+	<p><span class="term">使用默认字体</span></p>
+	<p>若要使用默认的字体设置，可勾选这个选项。</p>
+	<p><span class="term">语法颜色</span></p>
+	<p>在编辑器内以颜色语法高亮显示设置查询的格式，为你的查询提高可读性。设置字体颜色来分别不同的文本：常规、关键字、字符串、数字、注释和背景。只需点击颜色框并从颜色对话窗口中选择你想要的颜色。</p>
+</p>
+</div>

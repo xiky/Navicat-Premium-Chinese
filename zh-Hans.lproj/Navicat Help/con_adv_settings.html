@@ -1,0 +1,230 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>高级设置</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>高级设置</h1>
+	<div class="alert">
+		<p><span class="note">【注意】</span>下列的选项会根据连接的服务器类型而有所不同。</p>
+	</div>
+	<p><span class="term">自动连接</span></p>
+	<p>当程式启动时自动打开连接。</p>
+	<p><span class="term">客户端字符集</span></p>
+	<p>选择 Navicat 使用的会话客户端字符集。</p>
+	<p><span class="term">编码</span></p>
+	<p>选择一个代码页来转换数据以显示于 Navicat 界面。</p>
+	<p><span class="term">加密</span></p>
+	<p>当连接到已加密的 SQLite 数据库，启用这个选项并提供“<span class="term">密码</span>”。</p>
+	<p><span class="term">保持连接间隔 (秒)</span></p>
+	<p>通过 ping 来保持连接。你可以在编辑框中设置 ping 与 ping 之间的间隔。</p>
+	<p><span class="term">限制连接会话</span></p>
+	<p>指定服务器允许的最大可同时连接的数。</p>
+	<p><span class="term">设置位置</span></p>
+	<p>当创建一个新的连接时，Navicat 将在设置位置创建一个子文件夹。大部分文件都保存在该子文件夹中：</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="30%"><p>设置位居中的文件</p></td>
+			<td width="30%"><p>服务器类型</p></td>
+			<td width="40%"><p>扩展名</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>备份</p></td>
+			<td width="30%"><p>MySQL、PostgreSQL、SQLite 和 MariaDB</p></td>
+			<td width="40%"><p>.nb3</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"  rowspan="5"><p>备份配置文件</p></td>
+			<td width="30%"><p>MySQL</p></td>
+			<td width="40%"><p>.nbakmysql</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>PostgreSQL</p></td>
+			<td width="40%"><p>.nbakpgsql</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>SQLite</p></td>
+			<td width="40%"><p>.nbaksqlite</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>SQL Server</p></td>
+			<td width="40%"><p>.nbakmssql</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>MariaDB</p></td>
+			<td width="40%"><p>.nbakmariadb</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>数据泵导出配置文件</p></td>
+			<td width="30%"><p>Oracle</p></td>
+			<td width="40%"><p>.nbakora</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>ER 图表文件</p></td>
+			<td width="30%"><p>MySQL、Oracle、PostgreSQL、SQLite、SQL Server 和 MariaDB</p></td>
+			<td width="40%"><p>.ned</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"  rowspan="2"><p>导出实体化视图配置文件</p></td>
+			<td width="30%"><p>Oracle</p></td>
+			<td width="40%"><p>.nexpmora</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>PostgreSQL</p></td>
+			<td width="40%"><p>.nexpmpgsql</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"  rowspan="7"><p>导出查询结果配置文件</p></td>
+			<td width="30%"><p>MySQL</p></td>
+			<td width="40%"><p>.nexpqmysql</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>Oracle</p></td>
+			<td width="40%"><p>.nexpqora</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>PostgreSQL</p></td>
+			<td width="40%"><p>.nexpqpgsql</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>SQLite</p></td>
+			<td width="40%"><p>.nexpqsqlite</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>SQL Server</p></td>
+			<td width="40%"><p>.nexpqmssql</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>MariaDB</p></td>
+			<td width="40%"><p>.nexpqmariadb</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>MongoDB</p></td>
+			<td width="40%"><p>.nexpqmongodb</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"  rowspan="7"><p>导出表或集合配置文件</p></td>
+			<td width="30%"><p>MySQL</p></td>
+			<td width="40%"><p>.nexptmysql</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>Oracle</p></td>
+			<td width="40%"><p>.nexptora</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>PostgreSQL</p></td>
+			<td width="40%"><p>.nexptpgsql</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>SQLite</p></td>
+			<td width="40%"><p>.nexptsqlite</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>SQL Server</p></td>
+			<td width="40%"><p>.nexptmssql</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>MariaDB</p></td>
+			<td width="40%"><p>.nexptmariadb</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>MongoDB</p></td>
+			<td width="40%"><p>.nexptmongodb</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"  rowspan="7"><p>导出视图结果配置文件</p></td>
+			<td width="30%"><p>MySQL</p></td>
+			<td width="40%"><p>.nexpvmysql</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>Oracle</p></td>
+			<td width="40%"><p>.nexpvora</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>PostgreSQL</p></td>
+			<td width="40%"><p>.nexpvpgsql</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>SQLite</p></td>
+			<td width="40%"><p>.nexpvsqlite</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>SQL Server</p></td>
+			<td width="40%"><p>.nexpvmssql</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>MariaDB</p></td>
+			<td width="40%"><p>.nexpvmariadb</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>MongoDB</p></td>
+			<td width="40%"><p>.nexptmongodb</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"  rowspan="7"><p>导入表或集合配置文件</p></td>
+			<td width="30%"><p>MySQL</p></td>
+			<td width="40%"><p>.nimpmysql</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>Oracle</p></td>
+			<td width="40%"><p>.nimpora</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>PostgreSQL</p></td>
+			<td width="40%"><p>.nimppgsql</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>SQLite</p></td>
+			<td width="40%"><p>.nimpsqlite</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>SQL Server</p></td>
+			<td width="40%"><p>.nimpmssql</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>MariaDB</p></td>
+			<td width="40%"><p>.nimpmariadb</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>MongoDB</p></td>
+			<td width="40%"><p>.nimpmongodb</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>MapReduce</p></td>
+			<td width="30%"><p>MongoDB</p></td>
+			<td width="40%"><p>.mapreduce</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"  rowspan="2"><p>查询</p></td>
+			<td width="30%"><p>MySQL、Oracle、PostgreSQL、SQLite、SQL Server 和 MariaDB</p></td>
+			<td width="40%"><p>.sql</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>MongoDB</p></td>
+			<td width="40%"><p>.js</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>查询创建工具</p></td>
+			<td width="30%"><p>MySQL、Oracle、PostgreSQL、SQLite、SQL Server 和 MariaDB</p></td>
+			<td width="40%"><p>.qbs - 保存在查询创建工具中对象的版面。</p></td>
+		</tr>
+	</table>
+	<p><span class="term">TDS 版本</span></p>
+	<p>如果连接不兼容，选择擇你的服务器支持的 TDS 通讯协定版本。</p>
+	<p><span class="term">使用压缩</span></p>
+	<p>使用压缩通讯协定。使用它当客户端和服务器支持 zlib 压缩，以及客户端需要压缩。</p>
+	<p><span class="term">使用通讯端文件</span></p>
+	<p>使用本地连接的通讯端文件。</p>
+</div>

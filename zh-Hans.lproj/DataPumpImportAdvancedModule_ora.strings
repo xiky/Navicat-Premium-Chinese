@@ -1,0 +1,67 @@
+
+/* Class = "NSTextFieldCell"; title = "PCTSpace:"; ObjectID = "1yi-v7-qVM"; */
+"1yi-v7-qVM.title" = "PCTSpace:";
+
+/* Class = "NSButtonCell"; title = "OID:"; ObjectID = "6wP-xu-PAw"; */
+"6wP-xu-PAw.title" = "OID:";
+
+/* Class = "NSTextFieldCell"; title = "Service Name:"; ObjectID = "6xX-Ne-I4A"; */
+"6xX-Ne-I4A.title" = "服务名:";
+
+/* Class = "NSButtonCell"; title = "Disable append hint"; ObjectID = "F5U-a5-84W"; */
+"F5U-a5-84W.title" = "禁用追加提示";
+
+/* Class = "NSButtonCell"; title = "Cluster"; ObjectID = "Gab-q1-hHA"; */
+"Gab-q1-hHA.title" = "群集";
+
+/* Class = "NSTextFieldCell"; title = "Thread Number:"; ObjectID = "PHH-2Z-rG4"; */
+"PHH-2Z-rG4.title" = "线程数:";
+
+/* Class = "NSTextFieldCell"; title = "Directory:"; ObjectID = "VlU-jw-Eod"; */
+"VlU-jw-Eod.title" = "目录:";
+
+/* Class = "NSTextFieldCell"; title = "Partition Options:"; ObjectID = "XfJ-wc-Vvk"; */
+"XfJ-wc-Vvk.title" = "分区选项:";
+
+/* Class = "NSButtonCell"; title = "Encryption Password:"; ObjectID = "d0x-og-81b"; */
+"d0x-og-81b.title" = "加密密码:";
+
+/* Class = "NSButtonCell"; title = "Streams configuration"; ObjectID = "dkD-JX-4uC"; */
+"dkD-JX-4uC.title" = "流配置";
+
+/* Class = "NSButtonCell"; title = "Segment Creation:"; ObjectID = "gYA-9t-fSj"; */
+"gYA-9t-fSj.title" = "段创建:";
+
+/* Class = "NSTextFieldCell"; title = "Target Edition:"; ObjectID = "hwH-oh-b7l"; */
+"hwH-oh-b7l.title" = "目标版本:";
+
+/* Class = "NSButtonCell"; title = "Skip const error"; ObjectID = "kYJ-Fp-Kbm"; */
+"kYJ-Fp-Kbm.title" = "跳过约束错误";
+
+/* Class = "NSButtonCell"; title = "Reuse datafiles"; ObjectID = "kd3-v9-w3p"; */
+"kd3-v9-w3p.title" = "重用数据文件";
+
+/* Class = "NSBox"; title = "Transform"; ObjectID = "mHL-nn-BYN"; */
+"mHL-nn-BYN.title" = "转换";
+
+/* Class = "NSTextFieldCell"; title = "Version:"; ObjectID = "o7t-1v-nxz"; */
+"o7t-1v-nxz.title" = "版本:";
+
+/* Class = "NSButtonCell"; title = "Storage:"; ObjectID = "oQi-uN-pdW"; */
+"oQi-uN-pdW.title" = "存储:";
+
+/* Class = "NSButtonCell"; title = "Skip unusable indexes"; ObjectID = "per-gU-BeT"; */
+"per-gU-BeT.title" = "跳过不可用的索引";
+
+/* Class = "NSButtonCell"; title = "Segment Attributes:"; ObjectID = "r2d-cK-OfA"; */
+"r2d-cK-OfA.title" = "段属性:";
+
+/* Class = "NSButtonCell"; title = "Enable Logging"; ObjectID = "rGC-3Z-4A2"; */
+"rGC-3Z-4A2.title" = "启用记录";
+
+/* Class = "NSTextFieldCell"; title = "Log File Name:"; ObjectID = "wnY-2W-8IA"; */
+"wnY-2W-8IA.title" = "日志文件名:";
+
+/* Class = "NSTextFieldCell"; title = "Access Method:"; ObjectID = "xxC-CZ-lUb"; */
+"xxC-CZ-lUb.title" = "访问方法:";
+

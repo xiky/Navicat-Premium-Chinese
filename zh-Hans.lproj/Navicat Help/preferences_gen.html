@@ -1,0 +1,45 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>常规</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>常规</h1>
+	<h2>主窗口</h2>
+	<p><span class="term">在导航窗格中的模式下显示对象</span></p>
+	<p>在导航窗格使用树状结构显示数据库对象。若要展开節點，简单地双击它。</p>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>需要重新打开数据库或模式才生效。</p>
+	</div>
+	<p><span class="term">字体</span></p>
+	<p>定义对象列表使用的字体和字体大小。</p>
+	<p><span class="term">使用默认字体</span></p>
+	<p>若要使用默认的字体设置，可勾选这个选项。</p>
+	<h2>查询</h2>
+	<p><span class="term">自动保存已修改的查询</span></p>
+	<p>通过定义间隔（例如：30 秒），在查询编辑器中修改后自动保存。</p>
+	<p><span class="term">在关闭前提示保存新建的查询或配置文件</span></p>
+	<p>如果勾选了这个选项，Navicat 将会在你每次退出相关的子窗口时提示你要保存新的查询或配置文件。</p>
+	<h2>数据库项目</h2>
+	<p><span class="term">如果表没有主键，则发出警告</span></p>
+	<p>当打开没有设置主键的表时，如果你需要通知，可勾选这个选项。</p>
+	<p><span class="term">显示自动索引 (SQLite)</span></p>
+	<p>如果你想在索引的对象选项卡内显示为 SQLite 表自动生成的索引，可勾选这个选项。</p>
+	<h2>更新</h2>
+	<p><span class="term">自动检查更新</span></p>
+	<p>如果你想允许 Navicat 在一个已选择的时间检查是否有新的版本，可勾选这个选项。</p>
+	<p><span class="term">包括匿名的系统配置文件</span></p>
+	<p>如果你想在 Navicat 检查更新时，发送你的系统信息（如你的 macOS 版本）用于改进 Navicat，可勾选这个选项。</p>
+</div>

@@ -1,0 +1,26 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>搜索筛选</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>搜索筛选</h1>
+	<p>Navicat 提供筛选功能，让你在导航窗格、对象选项卡、模型设计器和其他树状结构搜索对象。</p>
+	<p>简单地在“<span class="term">搜索</span>”文本框里直接输入搜索字符串。如果导航窗格中的连接已打开，筛选也会同时应用到连接中的数据库对象。</p>
+	<p>你只需删除搜索字符串就可移除筛选。</p>
+	<figure>
+		<a href="./images/searchFilter.png" target="_blank"><img src="./images/searchFilter.png"/></a>
+	</figure>
+</div>

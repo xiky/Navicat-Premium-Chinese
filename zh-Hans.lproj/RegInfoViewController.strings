@@ -1,0 +1,28 @@
+
+/* Class = "NSTextFieldCell"; title = "Perpetual License"; ObjectID = "7PS-4U-fNy"; */
+"7PS-4U-fNy.title" = "永久许可证";
+
+/* Class = "NSTextFieldCell"; title = "Expiry Date:"; ObjectID = "Bju-bL-jN4"; */
+"Bju-bL-jN4.title" = "到期日:";
+
+/* Class = "NSButtonCell"; title = "Deactivate"; ObjectID = "C96-kA-udY"; */
+"C96-kA-udY.title" = "取消激活";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "LlJ-fg-vkX"; */
+"LlJ-fg-vkX.title" = "名:";
+
+/* Class = "NSTextFieldCell"; title = "Email:"; ObjectID = "MLl-yh-tV7"; */
+"MLl-yh-tV7.title" = "电子邮箱:";
+
+/* Class = "NSTextFieldCell"; title = "Key:"; ObjectID = "PQZ-73-xdm"; */
+"PQZ-73-xdm.title" = "键:";
+
+/* Class = "NSTextFieldCell"; title = "Organization:"; ObjectID = "QIe-1u-SCe"; */
+"QIe-1u-SCe.title" = "组织:";
+
+/* Class = "NSTextFieldCell"; title = "What to do if I want to use subscription plan?"; ObjectID = "TuP-Ls-0dZ"; */
+"TuP-Ls-0dZ.title" = "如果我想使用订阅方案该怎么办？";
+
+/* Class = "NSTextFieldCell"; title = "Register and activate with license key."; ObjectID = "iMV-UP-p9m"; */
+"iMV-UP-p9m.title" = "使用许可证密钥注册并激活。";
+

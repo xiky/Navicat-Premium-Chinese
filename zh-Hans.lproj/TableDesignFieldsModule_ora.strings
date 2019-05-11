@@ -1,0 +1,31 @@
+
+/* Class = "NSTextFieldCell"; title = "Default Value:"; ObjectID = "080-ma-dwM"; */
+"080-ma-dwM.title" = "默认值:";
+
+/* Class = "NSComboBoxCell"; placeholderString = "Schema"; ObjectID = "09M-ct-inD"; */
+"09M-ct-inD.placeholderString" = "模式";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "AMa-F2-S8l"; */
+"AMa-F2-S8l.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Year Precision:"; ObjectID = "AUA-Bk-FgY"; */
+"AUA-Bk-FgY.title" = "年份精度:";
+
+/* Class = "NSTextFieldCell"; title = "Fractional Seconds Precision:"; ObjectID = "IEg-0X-8ID"; */
+"IEg-0X-8ID.title" = "分数秒精度:";
+
+/* Class = "NSTextFieldCell"; title = "Unit:"; ObjectID = "PuC-9r-9CI"; */
+"PuC-9r-9CI.title" = "单位:";
+
+/* Class = "NSTextFieldCell"; title = "Day Precision:"; ObjectID = "XDa-Od-suT"; */
+"XDa-Od-suT.title" = "日子精度:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "pDa-hm-kMd"; */
+"pDa-hm-kMd.title" = "Text Cell";
+
+/* Class = "NSComboBoxCell"; placeholderString = "Type"; ObjectID = "quk-9o-VeS"; */
+"quk-9o-VeS.placeholderString" = "类型";
+
+/* Class = "NSTextFieldCell"; title = "User-defined Type:"; ObjectID = "zbf-3O-GoE"; */
+"zbf-3O-GoE.title" = "用户定义类型:";
+

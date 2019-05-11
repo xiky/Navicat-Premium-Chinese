@@ -1,0 +1,31 @@
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "81f-pK-qOU"; */
+"81f-pK-qOU.title" = "标签";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Cc6-5L-rbF"; */
+"Cc6-5L-rbF.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Quota"; ObjectID = "JNn-ae-YaD"; */
+"JNn-ae-YaD.headerCell.title" = "配额";
+
+/* Class = "NSTableColumn"; headerCell.title = "Role Name"; ObjectID = "LHp-EX-X24"; */
+"LHp-EX-X24.headerCell.title" = "角色名";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Nh1-By-9ME"; */
+"Nh1-By-9ME.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "V18-dJ-BGZ"; */
+"V18-dJ-BGZ.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Wdp-Ss-YbL"; */
+"Wdp-Ss-YbL.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Unlimited"; ObjectID = "myp-kS-gZ7"; */
+"myp-kS-gZ7.headerCell.title" = "无限制";
+
+/* Class = "NSTableColumn"; headerCell.title = "Unit"; ObjectID = "nyE-G7-BaL"; */
+"nyE-G7-BaL.headerCell.title" = "单位";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "wYz-uy-Ukm"; */
+"wYz-uy-Ukm.title" = "Text Cell";
+

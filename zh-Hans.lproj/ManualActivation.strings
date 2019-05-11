@@ -1,0 +1,19 @@
+
+/* Class = "NSTextFieldCell"; title = "Enter the Request Code at https://customer.navicat.com/manual_activate.php using a computer with an internet connection to get an Activation Code instantly. Insert your activation code into the Activation Code field and click the Activate button."; ObjectID = "5ft-sZ-uuH"; */
+"5ft-sZ-uuH.title" = "请在有互联网连接的电脑前往 https://customer.navicat.com/cn/manual_activate.php，输入请求码来即时获取激活码。然后，在激活码字段输入你的激活码并点击激活按钮。";
+
+/* Class = "NSWindow"; title = "Manual Activation"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "手动激活";
+
+/* Class = "NSButtonCell"; title = "Activate"; ObjectID = "QDT-eF-ZY7"; */
+"QDT-eF-ZY7.title" = "激活";
+
+/* Class = "NSTextFieldCell"; title = "Activation Code:"; ObjectID = "U3R-2m-KDT"; */
+"U3R-2m-KDT.title" = "激活码:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "fk1-ff-CYi"; */
+"fk1-ff-CYi.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Request Code:"; ObjectID = "gUI-NQ-kqb"; */
+"gUI-NQ-kqb.title" = "请求码:";
+

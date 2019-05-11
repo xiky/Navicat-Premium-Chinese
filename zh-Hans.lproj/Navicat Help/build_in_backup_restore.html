@@ -1,0 +1,28 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>关于内置备份和还原工具</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+
+<div class="manual_content_container">
+	<h1>关于内置备份和还原工具（仅适用于非 Essentials 版）</h1>
+	<p>内置备份和还原工具让你备份或还原你数据库内的对象。你可以将设置保存为一个配置文件以供将来使用或用作设置<a href="#/automation">自动运行任务</a>。在主窗口中，点击 <img src="./images/icon_backup.png" alt="备份" class="inlineGraphic" height="16" width="16"/>“<span class="term">备份</span>”来打开备份的对象列表。</p>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>备份文件保存于<a href="#/con_adv_settings">设置位置</a>。若要打开该文件夹，请按住 Control 键并点按备份文件，然后选择“<span class="term">在 Finder 中显示</span>”。</p>
+	</div>
+	<div class="alert">
+		<p><span class="note">【注意】</span>仅适用于 MySQL、PostgreSQL、SQLite 和 MariaDB。</p>
+	</div>
+</div>

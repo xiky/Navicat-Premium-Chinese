@@ -1,0 +1,76 @@
+
+/* Class = "NSMenuItem"; title = "Show Status Bar"; ObjectID = "1sq-he-L42"; */
+"1sq-he-L42.title" = "显示状态栏";
+
+/* Class = "NSMenu"; title = "Information Pane"; ObjectID = "A9d-M8-IXx"; */
+"A9d-M8-IXx.title" = "信息窗格";
+
+/* Class = "NSMenuItem"; title = "Show Information Pane"; ObjectID = "Bf7-lh-4gX"; */
+"Bf7-lh-4gX.title" = "显示信息窗格";
+
+/* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "Djh-xt-SOR"; */
+"Djh-xt-SOR.title" = "打开最近使用過的";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "窗口";
+
+/* Class = "NSMenuItem"; title = "Export Connections…"; ObjectID = "KDR-eW-8Cj"; */
+"KDR-eW-8Cj.title" = "导出连接…";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "MlL-3R-p7d"; */
+"MlL-3R-p7d.title" = "查看";
+
+/* Class = "NSMenuItem"; title = "New Connection…"; ObjectID = "N5Q-2G-oIS"; */
+"N5Q-2G-oIS.title" = "新建连接…";
+
+/* Class = "NSMenuItem"; title = "Show Navigation Pane"; ObjectID = "P4N-ik-fvr"; */
+"P4N-ik-fvr.title" = "显示导航窗格";
+
+/* Class = "NSMenuItem"; title = "Information Pane"; ObjectID = "Pc3-qr-LFC"; */
+"Pc3-qr-LFC.title" = "信息窗格";
+
+/* Class = "NSMenuItem"; title = "Flatten Connection"; ObjectID = "Qtj-P2-UVT"; */
+"Qtj-P2-UVT.title" = "隐藏连接组";
+
+/* Class = "NSMenuItem"; title = "Show Only Active Objects"; ObjectID = "ST7-PB-R6Y"; */
+"ST7-PB-R6Y.title" = "仅显示活跃​​对象";
+
+/* Class = "NSMenuItem"; title = "Import Connections…"; ObjectID = "SsI-6b-kqZ"; */
+"SsI-6b-kqZ.title" = "导入连接…";
+
+/* Class = "NSMenuItem"; title = "New…"; ObjectID = "UA0-JJ-GPD"; */
+"UA0-JJ-GPD.title" = "新建…";
+
+/* Class = "NSMenuItem"; title = "Close Window"; ObjectID = "Xdr-70-0OF"; */
+"Xdr-70-0OF.title" = "关闭窗口";
+
+/* Class = "NSMenuItem"; title = "Clear"; ObjectID = "aQz-yC-YV1"; */
+"aQz-yC-YV1.title" = "清除";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "afy-vb-sLm"; */
+"afy-vb-sLm.title" = "文件";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "bFg-1K-Bbp"; */
+"bFg-1K-Bbp.title" = "进入全屏幕";
+
+/* Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "cvT-ip-Wx8"; */
+"cvT-ip-Wx8.title" = "显示工具栏";
+
+/* Class = "NSMenuItem"; title = "Navigation Pane"; ObjectID = "f4M-Fv-AfT"; */
+"f4M-Fv-AfT.title" = "导航窗格";
+
+/* Class = "NSMenuItem"; title = "New Project"; ObjectID = "jmV-EL-ZPm"; */
+"jmV-EL-ZPm.title" = "新建项目";
+
+/* Class = "NSMenu"; title = "Navigation Pane"; ObjectID = "qf4-Dj-aUk"; */
+"qf4-Dj-aUk.title" = "导航窗格";
+
+/* Class = "NSMenu"; title = "New…"; ObjectID = "rRz-Rf-NQA"; */
+"rRz-Rf-NQA.title" = "新建…";
+
+/* Class = "NSMenu"; title = "Open Recent"; ObjectID = "t9g-Kj-s4l"; */
+"t9g-Kj-s4l.title" = "打开最近使用過的";
+
+/* Class = "NSMenuItem"; title = "Close Tab"; ObjectID = "tUp-tJ-F0U"; */
+"tUp-tJ-F0U.title" = "关闭选项卡";
+

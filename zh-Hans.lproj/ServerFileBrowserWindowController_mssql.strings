@@ -1,0 +1,28 @@
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "0vv-tv-ZdX"; */
+"0vv-tv-ZdX.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Save As:"; ObjectID = "4F1-I4-VIb"; */
+"4F1-I4-VIb.title" = "另存为:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "6b8-1I-MXW"; */
+"6b8-1I-MXW.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "8DM-a4-kk4"; */
+"8DM-a4-kk4.title" = "取消";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "Jxl-mV-88S"; */
+"Jxl-mV-88S.title" = "OtherViews";
+
+/* Class = "NSTabViewItem"; label = "Outline"; ObjectID = "Kr6-R3-gFA"; */
+"Kr6-R3-gFA.label" = "大纲";
+
+/* Class = "NSTabViewItem"; label = "Browse"; ObjectID = "OD3-vd-CX8"; */
+"OD3-vd-CX8.label" = "浏览";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ODF-ZI-XFF"; */
+"ODF-ZI-XFF.title" = "Text Cell";
+
+/* Class = "NSWindow"; title = "Choose Directory"; ObjectID = "sk7-QP-w08"; */
+"sk7-QP-w08.title" = "选择目录";
+

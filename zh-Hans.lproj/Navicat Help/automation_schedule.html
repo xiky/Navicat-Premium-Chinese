@@ -1,0 +1,32 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>计划批处理作业（步骤二）</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>计划批处理作业（步骤二）</h1>
+	<p>你可以点击 <img src="./images/icon_setSchedule.png" alt="设置任务计划" class="inlineGraphic" height="16" width="16"/> 来为一个批处理作业设置计划和点击 <img src="./images/icon_deleteSchedule.png" alt="删除任务计划" class="inlineGraphic" height="16" width="16"/> 来移除计划。</p>
+	<p>“小时”和“分”字段必需指定。如果字段没有任何值，将会使用全部值。例如，如果“星期”字段是空的，系统会视为这个字段被输入“0, 1, 2, 3, 4, 5, 6”。使用逗号以分隔值。例如，0, 1, 3, 6。使用连字号 (-)，不含空格以指示值。例如，0-4。</p>
+	<p>例子：批处理作业将会在每个工作日下午 6:30 运行。</p>
+	<figure>
+		<a href="./images/schedule.png" target="_blank"><img src="./images/schedule.png"/></a>
+	</figure>
+	<div class="alert">
+		<p><span class="note">【注意】</span>请在设置计划之前保存批处理作业。在运行计划之前，在<a href="#/connection">连接</a>窗口内的密码必须保存。</p>
+	</div>
+	<figure>
+		<a href="./images/scheduleConPass.png" target="_blank"><img src="./images/scheduleConPass.png"/ border="1"></a>
+	</figure>
+</div>

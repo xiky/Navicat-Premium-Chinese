@@ -1,0 +1,25 @@
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Moc-PD-BbA"; */
+"Moc-PD-BbA.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Unselect All"; ObjectID = "N3M-uj-yfp"; */
+"N3M-uj-yfp.title" = "取消全选";
+
+/* Class = "NSTextFieldCell"; title = "Backup Components"; ObjectID = "aEf-HQ-8kb"; */
+"aEf-HQ-8kb.title" = "备份组件";
+
+/* Class = "NSButtonCell"; title = "Specify files and filegroups"; ObjectID = "eVt-YA-rm1"; */
+"eVt-YA-rm1.title" = "指定文件和文件组";
+
+/* Class = "NSButtonCell"; title = "Partial backup"; ObjectID = "lel-58-iGQ"; */
+"lel-58-iGQ.title" = "部分备份";
+
+/* Class = "NSButtonCell"; title = "Select All"; ObjectID = "tsQ-Qe-TNd"; */
+"tsQ-Qe-TNd.title" = "全选";
+
+/* Class = "NSButtonCell"; title = "Full database backup"; ObjectID = "w0U-4s-XWh"; */
+"w0U-4s-XWh.title" = "完整数据库备份";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "yKz-Ng-GNp"; */
+"yKz-Ng-GNp.title" = "Table View Cell";
+

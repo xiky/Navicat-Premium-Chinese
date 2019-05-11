@@ -1,0 +1,46 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>选择记录格式或文件选项</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>选择记录格式或文件选项</h1>
+	<h2>TXT、CSV</h2>
+	<p><span class="term">字段分隔符</span></p>
+	<p>指定字段的分隔符。</p>
+	<p><span class="term">记录分隔符</span></p>
+	<p>指定文件的记录分隔符。</p>
+	<p><span class="term">文本识别符号</span></p>
+	<p>指定用于括住文本值的字符。</p>
+	<h2>XML</h2>
+	<p><span class="term">表示一个表行的标签</span>或<span class="term">表示一个集合行的标签</span></p>
+	<p>定义一个标签以识别表或集合行。</p>
+	<p><span class="term">将标签的属性视为表字段</span>或<span class="term">将标签的属性视为集合字段</span></p>
+	<p>例如：</p>
+	<i> 
+		<p>&lt;row age="17"&gt;</p>
+		<p>&lt;id&gt;1&lt;/id&gt;</p>
+		<p>&lt;name&gt;sze&lt;/name&gt;</p>
+		<p>&lt;/row&gt;</p>
+	</i> 
+	<p>如果勾选了这个选项，Navicat 将会把“age”连同“id”和“name”识别为字段，否则，只有“id”和“name”将会被导入作为字段。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>Navicat 不支持多层的 XML 文件。</p>
+	</div>
+	<h2>Excel</h2>
+	<p>工作表将会显示在列表中。</p>
+	<h2>ODBC、Access</h2>
+	<p>“<span class="term">添加查询</span>”按钮让你创建查询来导入源表内的某些行。换句话说，即是只导入符合你设置的准则的行。表和查询会显示在列表中。</p>
+</div>

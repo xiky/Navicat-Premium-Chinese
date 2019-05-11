@@ -1,0 +1,43 @@
+
+/* Class = "NSTextFieldCell"; title = "Collection:"; ObjectID = "32k-gA-QqM"; */
+"32k-gA-QqM.title" = "集合:";
+
+/* Class = "NSTextFieldCell"; title = "Value"; ObjectID = "Egg-2Q-0zX"; */
+"Egg-2Q-0zX.title" = "值";
+
+/* Class = "NSTextFieldCell"; title = "Server:"; ObjectID = "Wl7-6k-4nP"; */
+"Wl7-6k-4nP.title" = "服务器:";
+
+/* Class = "NSTextFieldCell"; title = "Fields:"; ObjectID = "XDX-YE-fG4"; */
+"XDX-YE-fG4.title" = "字段:";
+
+/* Class = "NSTextFieldCell"; title = "File Type:"; ObjectID = "XGT-mT-igf"; */
+"XGT-mT-igf.title" = "文件类型:";
+
+/* Class = "NSTextFieldCell"; title = "Database:"; ObjectID = "XcN-Pc-y9v"; */
+"XcN-Pc-y9v.title" = "数据库:";
+
+/* Class = "NSTextFieldCell"; title = "Value"; ObjectID = "at9-5e-jjb"; */
+"at9-5e-jjb.title" = "值";
+
+/* Class = "NSButtonCell"; title = "No Headerline"; ObjectID = "dWH-Y1-V8F"; */
+"dWH-Y1-V8F.title" = "没有标题";
+
+/* Class = "NSTextFieldCell"; title = "Output:"; ObjectID = "f8Z-No-oVq"; */
+"f8Z-No-oVq.title" = "输出:";
+
+/* Class = "NSButtonCell"; title = "Export JSON Array"; ObjectID = "oCG-nL-pmR"; */
+"oCG-nL-pmR.title" = "导出 JSON 数组";
+
+/* Class = "NSComboBoxCell"; op0-ND-Znw.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "op0-ND-Znw"; */
+"op0-ND-Znw.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; op0-ND-Znw.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "op0-ND-Znw"; */
+"op0-ND-Znw.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; op0-ND-Znw.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "op0-ND-Znw"; */
+"op0-ND-Znw.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSButtonCell"; title = "Pretty JSON"; ObjectID = "wPg-AR-fcf"; */
+"wPg-AR-fcf.title" = "漂亮的 JSON";
+

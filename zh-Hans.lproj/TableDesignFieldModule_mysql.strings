@@ -1,0 +1,88 @@
+
+/* Class = "NSButtonCell"; title = "Zerofill"; ObjectID = "3H3-Le-gjv"; */
+"3H3-Le-gjv.title" = "填充零";
+
+/* Class = "NSTextFieldCell"; title = "Storage:"; ObjectID = "CYL-mI-6bc"; */
+"CYL-mI-6bc.title" = "存储:";
+
+/* Class = "NSTextFieldCell"; title = "Collation:"; ObjectID = "D1W-2v-LEr"; */
+"D1W-2v-LEr.title" = "排序规则:";
+
+/* Class = "NSTextFieldCell"; title = "Virtual Type:"; ObjectID = "DIU-zT-dzo"; */
+"DIU-zT-dzo.title" = "虚拟类型:";
+
+/* Class = "NSTextFieldCell"; title = "Column Format:"; ObjectID = "Hb3-LP-zHo"; */
+"Hb3-LP-zHo.title" = "列格式:";
+
+/* Class = "NSButtonCell"; title = "On Update Current_Timestamp"; ObjectID = "Mcq-KD-3tO"; */
+"Mcq-KD-3tO.title" = "根据当前时间戳更新";
+
+/* Class = "NSTextFieldCell"; title = "Character Set:"; ObjectID = "Nlf-MS-lxg"; */
+"Nlf-MS-lxg.title" = "字符集:";
+
+/* Class = "NSTextFieldCell"; title = "Key Length:"; ObjectID = "Q35-Ka-iDa"; */
+"Q35-Ka-iDa.title" = "键长度:";
+
+/* Class = "NSButtonCell"; title = "Unsigned"; ObjectID = "R3c-Ru-GZT"; */
+"R3c-Ru-GZT.title" = "无符号";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Vbo-ge-Upc"; */
+"Vbo-ge-Upc.title" = "Table View Cell";
+
+/* Class = "NSComboBoxCell"; WNJ-lJ-ZLd.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "WNJ-lJ-ZLd"; */
+"WNJ-lJ-ZLd.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; WNJ-lJ-ZLd.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "WNJ-lJ-ZLd"; */
+"WNJ-lJ-ZLd.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; WNJ-lJ-ZLd.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "WNJ-lJ-ZLd"; */
+"WNJ-lJ-ZLd.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSComboBoxCell"; WTM-3V-Equ.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "WTM-3V-Equ"; */
+"WTM-3V-Equ.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; WTM-3V-Equ.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "WTM-3V-Equ"; */
+"WTM-3V-Equ.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; WTM-3V-Equ.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "WTM-3V-Equ"; */
+"WTM-3V-Equ.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "YRh-7s-CCo"; */
+"YRh-7s-CCo.title" = "Text Cell";
+
+/* Class = "NSComboBoxCell"; c75-k6-93G.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "c75-k6-93G"; */
+"c75-k6-93G.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; c75-k6-93G.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "c75-k6-93G"; */
+"c75-k6-93G.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; c75-k6-93G.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "c75-k6-93G"; */
+"c75-k6-93G.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Expression:"; ObjectID = "fSf-Lv-cRb"; */
+"fSf-Lv-cRb.title" = "表达式:";
+
+/* Class = "NSButtonCell"; title = "Auto Increment"; ObjectID = "fcD-Yv-Lya"; */
+"fcD-Yv-Lya.title" = "自动递增";
+
+/* Class = "NSTextFieldCell"; title = "Enum Value:"; ObjectID = "iu1-8C-kSf"; */
+"iu1-8C-kSf.title" = "枚举值:";
+
+/* Class = "NSComboBoxCell"; lfc-Cv-9e6.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "lfc-Cv-9e6"; */
+"lfc-Cv-9e6.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; lfc-Cv-9e6.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "lfc-Cv-9e6"; */
+"lfc-Cv-9e6.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; lfc-Cv-9e6.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "lfc-Cv-9e6"; */
+"lfc-Cv-9e6.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Default Value:"; ObjectID = "me3-3S-yVc"; */
+"me3-3S-yVc.title" = "默认值:";
+
+/* Class = "NSButtonCell"; title = "Generated Always"; ObjectID = "mzu-90-NZz"; */
+"mzu-90-NZz.title" = "永远生成";
+
+/* Class = "NSButtonCell"; title = "Binary"; ObjectID = "nU5-hs-rOt"; */
+"nU5-hs-rOt.title" = "二进制";
+

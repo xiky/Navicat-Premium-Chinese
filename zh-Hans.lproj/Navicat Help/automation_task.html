@@ -1,0 +1,52 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>创建批处理作业（步骤一）</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>创建批处理作业（步骤一）</h1>
+	<h2>添加工作到批处理作业</h2>
+	<p>在“<span class="term">常规</span>”选项卡的底部窗格中，选择工作类型，然后如有需要浏览连接、数据库和/或模式以找出你想运行的工作。</p>
+	<figure>
+		<a href="./images/automationLocateJob.png" target="_blank"><img src="./images/automationLocateJob.png"/></a>
+	</figure>
+	<p>你可以点击 <img src="./images/icon_select.png" alt="选择" class="inlineGraphic" height="16" width="16"/> 或 <img src="./images/icon_selectAll.png" alt="全选" class="inlineGraphic" height="16" width="16"/> 来将已选择的工作或所有工作从“<span class="term">可用的工作</span>”列表移动到“<span class="term">已选择的工作</span>”列表。若要从已选择的工作列表删除已选择工作或所有工作，请点击 <img src="./images/icon_unselect.png" alt="取消选择" class="inlineGraphic" height="16" width="16"/> 或 <img src="./images/icon_unselectAll.png" alt="取消全选" class="inlineGraphic" height="16" width="16"/>。你可以在一个批处理作业中运行来自不同服务器的配置文件。</p>
+	<p>若要重新排序工作的序列，可在已选择的工作列表中拖拉工作到所需的位置。</p>
+	<p>如果你想备份整个服务器，你可以选择连接并选择“<span class="term">Backup Server xxx</span>”。</p>
+	<p>导出的文件可以添加到批处理作业作为邮件附件。在已选择的工作列表选择工作并点击 <img src="./images/icon_addAttachment.png" alt="添加附件" class="inlineGraphic" height="16" width="16"/> 或 <img src="./images/icon_removeAttachment.png" alt="移除附件" class="inlineGraphic" height="16" width="16"/> 以添加或移除邮件附件。</p>
+	<h2>设置电子邮件通知</h2>
+	<p>Navicat 让你生成并发送具有计划返回的结果的个人电子邮件。结果可以发送到多个收件者。在“<span class="term">高级</span>”选项卡中勾选“<span class="term">发送邮件</span>”选项并输入所需的信息。</p>
+	<p><span class="term">发件人</span></p>
+	<p>指定发件人的电子邮箱。例如：someone@navicat.com。</p>
+	<p><span class="term">收件人, 副本</span></p>
+	<p>指定每一个收件人的电子邮箱，以逗号或分号 (;) 分隔。</p>
+	<p><span class="term">主旨</span></p>
+	<p>以自定义格式指定电子邮件的主旨。</p>
+	<p><span class="term">主体</span></p>
+	<p>填写电子邮件的内容。</p>
+	<p><span class="term">主机 (SMTP 服务器)</span></p>
+	<p>为出去的信息输入简单邮件传输协定（SMTP）服务器。</p>
+	<p><span class="term">端口</span></p>
+	<p>输入连接出去的电子邮件（SMTP）服务器的端口号。</p>
+	<p><span class="term">使用验证</span></p>
+	<p>如果你的 SMTP 服务器需要验证以发送电子邮件，可勾选这个选项，并输入“<span class="term">用户名</span>”和“<span class="term">密码</span>”。</p>
+	<p><span class="term">安全连接</span></p>
+	<p>指定连接使用“<span class="term">TLS</span>”、“<span class="term">SSL</span>”安全连接或“<span class="term">永不</span>”。</p>
+	<p><span class="term">发送测试邮件</span></p>
+	<p>Navicat 将会发送一个测试邮件给你显示是成功或失败。</p>
+	<h2>保存或运行批处理作业</h2>
+	<p>在设置计划前，点击 <img src="./images/icon_save.png" alt="保存" class="inlineGraphic" height="16" width="16"/> 按钮来保存批处理作业。</p>
+	<p>你可以点击 <img src="./images/icon_startJob.png" alt="开始" class="inlineGraphic" height="16" width="16"/> 按钮来手动运行批处理作业。“<span class="term">信息日志</span>”显示运行进度、运行时间和成功或失败信息。</p>
+</div>

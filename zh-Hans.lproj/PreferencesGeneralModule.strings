@@ -1,0 +1,67 @@
+
+/* Class = "NSButtonCell"; title = "Show auto index (SQLite)"; ObjectID = "24u-1N-oH5"; */
+"24u-1N-oH5.title" = "Show auto index (SQLite)";
+
+/* Class = "NSMenuItem"; title = "Every 5 minutes"; ObjectID = "3AD-c2-aSf"; */
+"3AD-c2-aSf.title" = "每 5 分钟";
+
+/* Class = "NSMenuItem"; title = "Every minute"; ObjectID = "71k-6l-tqK"; */
+"71k-6l-tqK.title" = "每分钟";
+
+/* Class = "NSButtonCell"; title = "Ask to save new queries/profiles before closing"; ObjectID = "7Se-rx-lYE"; */
+"7Se-rx-lYE.title" = "在关闭前提示保存新建的查询或配置文件";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "BmV-9v-Kqk"; */
+"BmV-9v-Kqk.title" = "永不";
+
+/* Class = "NSMenuItem"; title = "Every 30 seconds"; ObjectID = "CaW-lY-kFR"; */
+"CaW-lY-kFR.title" = "每 30 秒";
+
+/* Class = "NSMenuItem"; title = "Every 15 seconds"; ObjectID = "EfY-qS-eqB"; */
+"EfY-qS-eqB.title" = "每 15 秒";
+
+/* Class = "NSTextFieldCell"; title = "Update:"; ObjectID = "Fuy-BX-mr6"; */
+"Fuy-BX-mr6.title" = "更新:";
+
+/* Class = "NSTextFieldCell"; title = "Database Items:"; ObjectID = "InN-Ob-ARZ"; */
+"InN-Ob-ARZ.title" = "数据库项目:";
+
+/* Class = "NSButtonCell"; title = "Includes anonymous system profile"; ObjectID = "K5g-VU-Kqu"; */
+"K5g-VU-Kqu.title" = "包含匿名的系统配置文件";
+
+/* Class = "NSTextFieldCell"; title = "Autosave modified queries:"; ObjectID = "Nnt-3o-wkT"; */
+"Nnt-3o-wkT.title" = "自动保存已修改的查询:";
+
+/* Class = "NSMenuItem"; title = "Daily"; ObjectID = "TUG-VS-Tds"; */
+"TUG-VS-Tds.title" = "每天";
+
+/* Class = "NSMenuItem"; title = "Monthly"; ObjectID = "Thd-cp-hmG"; */
+"Thd-cp-hmG.title" = "每月";
+
+/* Class = "NSButtonCell"; title = "Warn if no primary keys found in table"; ObjectID = "Ukq-d5-73q"; */
+"Ukq-d5-73q.title" = "如果表没有主键，则发出警告";
+
+/* Class = "NSBox"; title = "Object List Font"; ObjectID = "YLF-oE-M4x"; */
+"YLF-oE-M4x.title" = "对象列表字体";
+
+/* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "e54-qZ-ozK"; */
+"e54-qZ-ozK.title" = "自动检查更新";
+
+/* Class = "NSButtonCell"; title = "Show objects under schema in navigation pane"; ObjectID = "iuC-OO-avL"; */
+"iuC-OO-avL.title" = "在导航窗格中的模式下显示对象";
+
+/* Class = "NSButtonCell"; title = "Use default font"; ObjectID = "la9-Sl-eTs"; */
+"la9-Sl-eTs.title" = "使用默认字体";
+
+/* Class = "NSTextFieldCell"; title = "Queries:"; ObjectID = "m4z-6X-Bg9"; */
+"m4z-6X-Bg9.title" = "查询:";
+
+/* Class = "NSTextFieldCell"; title = "Font:"; ObjectID = "ss3-RX-x8U"; */
+"ss3-RX-x8U.title" = "字体:";
+
+/* Class = "NSMenuItem"; title = "Weekly"; ObjectID = "usY-7m-gms"; */
+"usY-7m-gms.title" = "每周";
+
+/* Class = "NSTextFieldCell"; title = "Main Window:"; ObjectID = "y94-Yy-WeV"; */
+"y94-Yy-WeV.title" = "主窗口:";
+

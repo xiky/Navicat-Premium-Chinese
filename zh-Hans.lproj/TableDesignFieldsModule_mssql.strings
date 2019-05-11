@@ -1,0 +1,52 @@
+
+/* Class = "NSTextFieldCell"; title = "Default Value:"; ObjectID = "5XA-dY-YQs"; */
+"5XA-dY-YQs.title" = "默认值:";
+
+/* Class = "NSButtonCell"; title = "Sparse"; ObjectID = "BBa-iZ-chj"; */
+"BBa-iZ-chj.title" = "稀疏";
+
+/* Class = "NSTextFieldCell"; title = "Expression:"; ObjectID = "Cfg-EC-9DS"; */
+"Cfg-EC-9DS.title" = "表达式:";
+
+/* Class = "NSComboBoxCell"; placeholderString = "Type"; ObjectID = "J26-Vb-Dlb"; */
+"J26-Vb-Dlb.placeholderString" = "类型";
+
+/* Class = "NSButtonCell"; title = "File Stream"; ObjectID = "JzX-qB-wNs"; */
+"JzX-qB-wNs.title" = "文件流";
+
+/* Class = "NSButtonCell"; title = "With Values"; ObjectID = "L7q-Sl-xWT"; */
+"L7q-Sl-xWT.title" = "与值";
+
+/* Class = "NSTextFieldCell"; title = "Collate:"; ObjectID = "UP8-tv-mly"; */
+"UP8-tv-mly.title" = "排序规则:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Xhs-hN-brN"; */
+"Xhs-hN-brN.title" = "Text Cell";
+
+/* Class = "NSComboBoxCell"; placeholderString = "Schema"; ObjectID = "dQY-ez-o7E"; */
+"dQY-ez-o7E.placeholderString" = "模式";
+
+/* Class = "NSButtonCell"; title = "Persisted"; ObjectID = "duc-Jg-kkH"; */
+"duc-Jg-kkH.title" = "坚持";
+
+/* Class = "NSButtonCell"; title = "Row GUID Column"; ObjectID = "e7n-QB-VPd"; */
+"e7n-QB-VPd.title" = "行 GUID 列";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "fKL-5n-NXR"; */
+"fKL-5n-NXR.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "User-defined Type:"; ObjectID = "i1T-AN-fr4"; */
+"i1T-AN-fr4.title" = "用户定义类型:";
+
+/* Class = "NSButtonCell"; title = "Column Set"; ObjectID = "khw-Ec-CdN"; */
+"khw-Ec-CdN.title" = "列集";
+
+/* Class = "NSComboBoxCell"; vUd-r0-zGf.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "vUd-r0-zGf"; */
+"vUd-r0-zGf.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; vUd-r0-zGf.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "vUd-r0-zGf"; */
+"vUd-r0-zGf.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; vUd-r0-zGf.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "vUd-r0-zGf"; */
+"vUd-r0-zGf.ibShadowedObjectValues[2]" = "Item 3";
+

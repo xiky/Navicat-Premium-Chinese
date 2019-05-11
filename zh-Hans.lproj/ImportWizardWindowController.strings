@@ -1,0 +1,28 @@
+
+/* Class = "NSWindow"; title = "Import Wizard"; ObjectID = "7GG-LJ-RXT"; */
+"7GG-LJ-RXT.title" = "导入向导";
+
+/* Class = "NSSegmentedCell"; AZT-6n-Cfe.ibShadowedLabels[0] = "Save Profile"; ObjectID = "AZT-6n-Cfe"; */
+"AZT-6n-Cfe.ibShadowedLabels[0]" = "保存配置文件";
+
+/* Class = "NSSegmentedCell"; AZT-6n-Cfe.ibShadowedLabels[1] = "▾"; ObjectID = "AZT-6n-Cfe"; */
+"AZT-6n-Cfe.ibShadowedLabels[1]" = "▾";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "GyU-LP-53d"; */
+"GyU-LP-53d.title" = "继续";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "ICl-tM-w05"; */
+"ICl-tM-w05.title" = "保存";
+
+/* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "KD0-An-AeA"; */
+"KD0-An-AeA.title" = "另存为…";
+
+/* Class = "NSButtonCell"; title = "Start"; ObjectID = "KsK-rK-4Fo"; */
+"KsK-rK-4Fo.title" = "开始";
+
+/* Class = "NSButtonCell"; title = "Go Back"; ObjectID = "Upd-5U-vlP"; */
+"Upd-5U-vlP.title" = "返回";
+
+/* Class = "NSButtonCell"; title = "Stop"; ObjectID = "YTy-kl-xc2"; */
+"YTy-kl-xc2.title" = "停止";
+

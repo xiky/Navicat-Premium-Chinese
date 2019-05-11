@@ -1,0 +1,34 @@
+
+/* Class = "NSMenuItem"; title = "Find Column"; ObjectID = "1Dj-Ub-pVG"; */
+"1Dj-Ub-pVG.title" = "查找列";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "2e9-og-9al"; */
+"2e9-og-9al.title" = "完成";
+
+/* Class = "NSButtonCell"; title = "Replace"; ObjectID = "BCl-PV-Tjo"; */
+"BCl-PV-Tjo.title" = "替换";
+
+/* Class = "NSMenuItem"; title = "Find Data"; ObjectID = "G3T-Ry-sPv"; */
+"G3T-Ry-sPv.title" = "查找数据";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "JTP-fi-dQB"; */
+"JTP-fi-dQB.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Replace"; ObjectID = "mCS-dr-atg"; */
+"mCS-dr-atg.title" = "替换";
+
+/* Class = "NSMenuItem"; title = "Incremental Search"; ObjectID = "mhH-Gq-byd"; */
+"mhH-Gq-byd.title" = "递增搜索";
+
+/* Class = "NSMenuItem"; title = "Highlight Matched Cells "; ObjectID = "qaf-XD-dFC"; */
+"qaf-XD-dFC.title" = "高亮显示符合的单元格";
+
+/* Class = "NSButtonCell"; title = "Replace All"; ObjectID = "tkU-om-aaN"; */
+"tkU-om-aaN.title" = "全部替换";
+
+/* Class = "NSMenuItem"; title = "Match Case"; ObjectID = "vwM-w2-lA7"; */
+"vwM-w2-lA7.title" = "大小写符合";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "zKH-ku-ktq"; */
+"zKH-ku-ktq.title" = "查找";
+

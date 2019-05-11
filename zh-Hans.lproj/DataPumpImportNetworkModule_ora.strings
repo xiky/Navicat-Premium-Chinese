@@ -1,0 +1,34 @@
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "39G-SF-rnn"; */
+"39G-SF-rnn.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Flashback Time:"; ObjectID = "ASZ-gf-DcQ"; */
+"ASZ-gf-DcQ.title" = "闪回时间:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Enh-0F-wjj"; */
+"Enh-0F-wjj.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "JNG-gr-lhX"; */
+"JNG-gr-lhX.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Transportable:"; ObjectID = "KxZ-Mt-qqR"; */
+"KxZ-Mt-qqR.title" = "可传输:";
+
+/* Class = "NSTextFieldCell"; title = "Estimate:"; ObjectID = "Lvu-9j-qkV"; */
+"Lvu-9j-qkV.title" = "估计:";
+
+/* Class = "NSTextFieldCell"; title = "Database Link:"; ObjectID = "PDZ-bG-EFA"; */
+"PDZ-bG-EFA.title" = "数据库链接:";
+
+/* Class = "NSButtonCell"; title = "Flashback SCN:"; ObjectID = "RU4-8o-ME1"; */
+"RU4-8o-ME1.title" = "闪回 SCN:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "fZW-ud-dUN"; */
+"fZW-ud-dUN.title" = "Table View Cell";
+
+/* Class = "NSBox"; title = "Transport"; ObjectID = "jbT-Ea-xs4"; */
+"jbT-Ea-xs4.title" = "传输";
+
+/* Class = "NSButtonCell"; title = "Enable Flashback"; ObjectID = "qmD-hP-tpe"; */
+"qmD-hP-tpe.title" = "启用闪回";
+

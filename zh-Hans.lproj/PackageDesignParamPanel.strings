@@ -1,0 +1,22 @@
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "BBP-Ux-bF8"; */
+"BBP-Ux-bF8.title" = "Item 1";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "IN3-Tr-9I3"; */
+"IN3-Tr-9I3.title" = "取消";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "K1z-US-SMl"; */
+"K1z-US-SMl.title" = "Item 2";
+
+/* Class = "NSTextFieldCell"; title = "Target:"; ObjectID = "ULh-Rt-5jc"; */
+"ULh-Rt-5jc.title" = "目标:";
+
+/* Class = "NSWindow"; title = "Input Parameters"; ObjectID = "g8b-gY-MAz"; */
+"g8b-gY-MAz.title" = "输入参数";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "pTQ-uQ-svq"; */
+"pTQ-uQ-svq.title" = "Item 3";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "q4U-oj-hHb"; */
+"q4U-oj-hHb.title" = "确定";
+

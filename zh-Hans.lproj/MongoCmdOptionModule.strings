@@ -1,0 +1,40 @@
+
+/* Class = "NSButtonCell"; title = "Show more details in message log"; ObjectID = "0rR-h3-Wxi"; */
+"0rR-h3-Wxi.title" = "在信息日志中显示更多详细信息";
+
+/* Class = "NSButtonCell"; title = "Skip the message log"; ObjectID = "4G9-LA-nNj"; */
+"4G9-LA-nNj.title" = "跳过信息日志";
+
+/* Class = "NSButtonCell"; title = "Stop on error"; ObjectID = "4iS-RF-6vj"; */
+"4iS-RF-6vj.title" = "发生错误时停止";
+
+/* Class = "NSButtonCell"; title = "Set the number of parallel export"; ObjectID = "80M-EQ-jMR"; */
+"80M-EQ-jMR.title" = "设置并行导出数";
+
+/* Class = "NSButtonCell"; title = "Test run without actually restore"; ObjectID = "F5k-fd-2U0"; */
+"F5k-fd-2U0.title" = "没有实际还原的测试运行";
+
+/* Class = "NSButtonCell"; title = "Validate before insert"; ObjectID = "Gwi-B5-aPG"; */
+"Gwi-B5-aPG.title" = "插入前验证";
+
+/* Class = "NSButtonCell"; title = "Upgrade the index to the latest version"; ObjectID = "MQQ-sA-LzL"; */
+"MQQ-sA-LzL.title" = "将索引升级到最新版本";
+
+/* Class = "NSButtonCell"; title = "Skip restoring and building indexes"; ObjectID = "PAg-EU-aXT"; */
+"PAg-EU-aXT.title" = "跳过还原和构建索引";
+
+/* Class = "NSButtonCell"; title = "Skip restoring collection options"; ObjectID = "a0Y-wN-m87"; */
+"a0Y-wN-m87.title" = "跳过还原集合选项";
+
+/* Class = "NSButtonCell"; title = "Set the number of insertion workers"; ObjectID = "c0R-mA-0T8"; */
+"c0R-mA-0T8.title" = "设置插入工作进程数";
+
+/* Class = "NSButtonCell"; title = "Restore user and role definitions for database"; ObjectID = "tWv-90-Vou"; */
+"tWv-90-Vou.title" = "还原数据库的用户和角色定义";
+
+/* Class = "NSButtonCell"; title = "Bypass document validation"; ObjectID = "vhM-NN-Al9"; */
+"vhM-NN-Al9.title" = "绕过文档验证";
+
+/* Class = "NSButtonCell"; title = "Inserts documents in the same order as input source"; ObjectID = "vr0-bJ-eWQ"; */
+"vr0-bJ-eWQ.title" = "以与输入源相同的之排序插入文档";
+

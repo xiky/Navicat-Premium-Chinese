@@ -1,0 +1,40 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>选择格式选项</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>选择格式选项</h1>
+	<p>下列的选项会根据你在第一步选择的文件格式而有所不同。</p>
+	<p><span class="term">字段名行</span></p>
+	<p>Navicat 识别哪一行为字段名。</p>
+	<p><span class="term">数据列</span></p>
+	<p>Navicat 在哪一行开始和停止读取实际数据。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>如果在文件中没有字段名，请取消勾选字段名行选项。</p>
+	</div>
+	<p><span class="term">日期格式</span></p>
+	<p>指定日期的格式。</p>
+	<p><span class="term">四位数年份</span></p>
+	<p>若要以四位数显示年份，可勾选这个选项。</p>
+	<p><span class="term">日期分隔符</span></p>
+	<p>指定日期的分隔符。</p>
+	<p><span class="term">时间分隔符</span></p>
+	<p>指定时间的分隔符。</p>
+	<p><span class="term">小数点符号</span></p>
+	<p>指定小数数值的小数点分隔符。</p>
+	<p><span class="term">千位分隔符</span></p>
+	<p>指定数字的千位分隔符。</p>
+</div>

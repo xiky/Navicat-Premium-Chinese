@@ -1,0 +1,31 @@
+
+/* Class = "NSTextFieldCell"; title = "Method:"; ObjectID = "5Yr-yG-dMO"; */
+"5Yr-yG-dMO.title" = "方法:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "FN4-Rg-xYP"; */
+"FN4-Rg-xYP.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "PPA-Nv-Mb9"; */
+"PPA-Nv-Mb9.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "Unique"; ObjectID = "QPO-I2-xCa"; */
+"QPO-I2-xCa.title" = "唯一键";
+
+/* Class = "NSTextFieldCell"; title = "Table Name:"; ObjectID = "X6M-AA-cmn"; */
+"X6M-AA-cmn.title" = "表名:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "XYY-dm-8HG"; */
+"XYY-dm-8HG.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "bSx-6f-dCa"; */
+"bSx-6f-dCa.title" = "Text Cell";
+
+/* Class = "NSComboBoxCell"; hGV-R7-5er.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "hGV-R7-5er"; */
+"hGV-R7-5er.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; hGV-R7-5er.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "hGV-R7-5er"; */
+"hGV-R7-5er.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; hGV-R7-5er.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "hGV-R7-5er"; */
+"hGV-R7-5er.ibShadowedObjectValues[2]" = "Item 3";
+

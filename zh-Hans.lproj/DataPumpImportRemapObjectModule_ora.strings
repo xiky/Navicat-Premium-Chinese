@@ -1,0 +1,28 @@
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "3lp-i9-htE"; */
+"3lp-i9-htE.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Awl-hn-ZHf"; */
+"Awl-hn-ZHf.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "BcK-W1-a0g"; */
+"BcK-W1-a0g.title" = "Table View Cell";
+
+/* Class = "NSBox"; title = "Remap Tables"; ObjectID = "CHm-mO-Yhm"; */
+"CHm-mO-Yhm.title" = "重新映射表";
+
+/* Class = "NSBox"; title = "Remap Schemas"; ObjectID = "Gmi-rA-Po6"; */
+"Gmi-rA-Po6.title" = "重新映射模式";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "JRJ-lf-u8p"; */
+"JRJ-lf-u8p.title" = "Table View Cell";
+
+/* Class = "NSBox"; title = "Remap Tablespaces"; ObjectID = "seC-sW-k0U"; */
+"seC-sW-k0U.title" = "重新映射表空间";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "ufF-7m-y5E"; */
+"ufF-7m-y5E.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "yGt-XP-P0F"; */
+"yGt-XP-P0F.title" = "Text Cell";
+

@@ -1,0 +1,16 @@
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "b8r-kI-vrb"; */
+"b8r-kI-vrb.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "bLq-bs-x1d"; */
+"bLq-bs-x1d.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "fWj-AL-YRR"; */
+"fWj-AL-YRR.title" = "Text Cell";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "o5Y-cE-dox"; */
+"o5Y-cE-dox.title" = "窗口";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "w7W-5e-rxo"; */
+"w7W-5e-rxo.title" = "Table View Cell";
+

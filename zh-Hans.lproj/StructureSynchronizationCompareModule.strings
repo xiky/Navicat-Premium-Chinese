@@ -1,0 +1,34 @@
+
+/* Class = "NSTabViewItem"; label = "Tab"; ObjectID = "46Y-XN-2aG"; */
+"46Y-XN-2aG.label" = "定位";
+
+/* Class = "NSTableColumn"; headerCell.title = "Operation"; ObjectID = "6vj-gu-KnU"; */
+"6vj-gu-KnU.headerCell.title" = "操作";
+
+/* Class = "NSMenuItem"; title = "Deselect All"; ObjectID = "HYX-4b-prv"; */
+"HYX-4b-prv.title" = "取消全选";
+
+/* Class = "NSTabViewItem"; label = "View"; ObjectID = "K4S-u2-DXd"; */
+"K4S-u2-DXd.label" = "查看";
+
+/* Class = "NSTableColumn"; headerCell.title = "Target Object"; ObjectID = "TBK-9F-zmO"; */
+"TBK-9F-zmO.headerCell.title" = "目标对象";
+
+/* Class = "NSButtonCell"; title = "DDL Comparison"; ObjectID = "XbZ-fo-xgF"; */
+"XbZ-fo-xgF.title" = "DDL 比对";
+
+/* Class = "NSButtonCell"; title = "Deployment Script"; ObjectID = "avK-Cf-Uen"; */
+"avK-Cf-Uen.title" = "部署脚本";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "hdP-1l-cIE"; */
+"hdP-1l-cIE.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "ho3-yY-HtI"; */
+"ho3-yY-HtI.title" = "全选";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "m3Q-p4-9Sz"; */
+"m3Q-p4-9Sz.title" = "检查";
+
+/* Class = "NSTableColumn"; headerCell.title = "Source Object"; ObjectID = "mH1-1f-pVS"; */
+"mH1-1f-pVS.headerCell.title" = "源对象";
+

@@ -1,0 +1,178 @@
+
+/* Class = "NSMenuItem"; title = "Remove All Variables"; ObjectID = "07y-Os-hLd"; */
+"07y-Os-hLd.title" = "移除全部变量";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "1rb-MI-p7t"; */
+"1rb-MI-p7t.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2H4-7m-Ud6"; */
+"2H4-7m-Ud6.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2n6-UN-D8c"; */
+"2n6-UN-D8c.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "2vX-f9-xB7"; */
+"2vX-f9-xB7.headerCell.title" = "名";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "3PG-75-GI9"; */
+"3PG-75-GI9.title" = "确定";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "5Dj-l5-Omf"; */
+"5Dj-l5-Omf.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "5gW-cs-j07"; */
+"5gW-cs-j07.title" = "Table View Cell";
+
+/* Class = "NSMenu"; title = "Parameters Table View Menu"; ObjectID = "7Tc-gf-0H6"; */
+"7Tc-gf-0H6.title" = "Parameters Table View Menu";
+
+/* Class = "NSMenuItem"; title = "Add Variable"; ObjectID = "7aB-5D-ove"; */
+"7aB-5D-ove.title" = "添加变量";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "7j8-61-fDN"; */
+"7j8-61-fDN.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "8Dn-J7-8pd"; */
+"8Dn-J7-8pd.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Function Name"; ObjectID = "9MX-YE-OgV"; */
+"9MX-YE-OgV.headerCell.title" = "函数名";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "A0m-mX-RYe"; */
+"A0m-mX-RYe.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Add to Watch List"; ObjectID = "A9X-xK-o8I"; */
+"A9X-xK-o8I.title" = "添加到监看列表";
+
+/* Class = "NSTabViewItem"; label = "Watch List"; ObjectID = "AD1-u1-mDv"; */
+"AD1-u1-mDv.label" = "监看列表";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "BWx-O1-emB"; */
+"BWx-O1-emB.title" = "Text Cell";
+
+/* Class = "NSWindow"; title = "Debugger"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "调试器";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "FzW-sc-m8z"; */
+"FzW-sc-m8z.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Remove Variable"; ObjectID = "H1x-HH-IZx"; */
+"H1x-HH-IZx.title" = "移除变量";
+
+/* Class = "NSTabViewItem"; label = "Local Variables"; ObjectID = "J0f-hS-Ggw"; */
+"J0f-hS-Ggw.label" = "本地变量";
+
+/* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "Khj-ku-4to"; */
+"Khj-ku-4to.headerCell.title" = "值";
+
+/* Class = "NSMenu"; title = "Watch List Table View Menu"; ObjectID = "LhF-rH-3tV"; */
+"LhF-rH-3tV.title" = "Watch List Table View Menu";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "M7o-2O-cbh"; */
+"M7o-2O-cbh.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "MIE-oI-aRJ"; */
+"MIE-oI-aRJ.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Og6-4c-B6K"; */
+"Og6-4c-B6K.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "OpI-8d-p3b"; */
+"OpI-8d-p3b.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "P85-lm-uwO"; */
+"P85-lm-uwO.headerCell.title" = "名";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "PBH-nw-XqM"; */
+"PBH-nw-XqM.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Q3t-nY-4Gk"; */
+"Q3t-nY-4Gk.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "QBY-0T-RyN"; */
+"QBY-0T-RyN.title" = "Table View Cell";
+
+/* Class = "NSTabViewItem"; label = "Parameters"; ObjectID = "QW0-NB-bMu"; */
+"QW0-NB-bMu.label" = "参数";
+
+/* Class = "NSMenu"; title = "Call Stack Table View Menu"; ObjectID = "RhU-kI-ZKI"; */
+"RhU-kI-ZKI.title" = "Call Stack Table View Menu";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ujb-QP-jAR"; */
+"Ujb-QP-jAR.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Jump to"; ObjectID = "VhK-P1-6yq"; */
+"VhK-P1-6yq.title" = "跳至";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "X80-TI-cTa"; */
+"X80-TI-cTa.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Add to Watch List"; ObjectID = "XhP-v8-XE6"; */
+"XhP-v8-XE6.title" = "添加到监看列表";
+
+/* Class = "NSTableColumn"; headerCell.title = "Line Number"; ObjectID = "Yhb-Wj-0kh"; */
+"Yhb-Wj-0kh.headerCell.title" = "行号";
+
+/* Class = "NSTabViewItem"; label = "Breakpoints"; ObjectID = "aIt-XM-Esf"; */
+"aIt-XM-Esf.label" = "断点";
+
+/* Class = "NSTableColumn"; headerCell.title = "Line Number"; ObjectID = "aab-yV-XhF"; */
+"aab-yV-XhF.headerCell.title" = "行号";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "aqZ-wT-Hk9"; */
+"aqZ-wT-Hk9.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "bZI-i6-IHj"; */
+"bZI-i6-IHj.title" = "取消";
+
+/* Class = "NSTabViewItem"; label = "Call Stack"; ObjectID = "c3Y-X0-Dqq"; */
+"c3Y-X0-Dqq.label" = "调用堆栈";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "e0X-xj-ULg"; */
+"e0X-xj-ULg.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "ehM-tT-XPl"; */
+"ehM-tT-XPl.headerCell.title" = "值";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "f2J-oU-X7N"; */
+"f2J-oU-X7N.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "faZ-bG-ah6"; */
+"faZ-bG-ah6.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "fzS-q8-IAu"; */
+"fzS-q8-IAu.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Set Value"; ObjectID = "jEd-35-sEA"; */
+"jEd-35-sEA.title" = "设置值";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "mCV-z0-fDe"; */
+"mCV-z0-fDe.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "q0H-bM-33F"; */
+"q0H-bM-33F.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "s2G-PL-EuV"; */
+"s2G-PL-EuV.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "srl-Uu-p2o"; */
+"srl-Uu-p2o.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ss4-cI-EYu"; */
+"ss4-cI-EYu.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "tLA-pJ-SID"; */
+"tLA-pJ-SID.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "tQu-qi-JRX"; */
+"tQu-qi-JRX.headerCell.title" = "值";
+
+/* Class = "NSTableColumn"; headerCell.title = "Function Name"; ObjectID = "up3-US-YJt"; */
+"up3-US-YJt.headerCell.title" = "函数名";
+
+/* Class = "NSMenu"; title = "Local Variables Table View Menu"; ObjectID = "yGc-aE-tut"; */
+"yGc-aE-tut.title" = "Local Variables Table View Menu";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "yRh-g2-SvI"; */
+"yRh-g2-SvI.headerCell.title" = "名";
+

@@ -1,0 +1,37 @@
+
+/* Class = "NSComboBoxCell"; 2gJ-bp-P6K.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "2gJ-bp-P6K"; */
+"2gJ-bp-P6K.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; 2gJ-bp-P6K.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "2gJ-bp-P6K"; */
+"2gJ-bp-P6K.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; 2gJ-bp-P6K.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "2gJ-bp-P6K"; */
+"2gJ-bp-P6K.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "FFm-pU-a3M"; */
+"FFm-pU-a3M.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Tablespace:"; ObjectID = "L5q-B9-VKB"; */
+"L5q-B9-VKB.title" = "表空间:";
+
+/* Class = "NSTextFieldCell"; title = "Constraint:"; ObjectID = "Nrs-Xq-M46"; */
+"Nrs-Xq-M46.title" = "约束:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "PO4-bn-i2m"; */
+"PO4-bn-i2m.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Fast Update:"; ObjectID = "TIH-yR-h1H"; */
+"TIH-yR-h1H.title" = "快速更新:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Z1q-jT-Q0N"; */
+"Z1q-jT-Q0N.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Buffering:"; ObjectID = "ff1-v3-RTq"; */
+"ff1-v3-RTq.title" = "正在缓冲:";
+
+/* Class = "NSTextFieldCell"; title = "Fill Factor (%):"; ObjectID = "h4Z-sM-Gel"; */
+"h4Z-sM-Gel.title" = "填充因子（%）:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "y1F-6g-LtR"; */
+"y1F-6g-LtR.title" = "Text Cell";
+

@@ -1,0 +1,76 @@
+
+/* Class = "NSButtonCell"; title = "Use default font"; ObjectID = "2mn-ie-xi1"; */
+"2mn-ie-xi1.title" = "使用默认字体";
+
+/* Class = "NSTextFieldCell"; title = "Code Completion:"; ObjectID = "3lx-n3-dkY"; */
+"3lx-n3-dkY.title" = "自动完成代码:";
+
+/* Class = "NSTextFieldCell"; title = "Font:"; ObjectID = "4P1-4a-v8H"; */
+"4P1-4a-v8H.title" = "字体:";
+
+/* Class = "NSTextFieldCell"; title = "MB"; ObjectID = "7sF-nY-Mdr"; */
+"7sF-nY-Mdr.title" = "MB";
+
+/* Class = "NSTextFieldCell"; title = "Show:"; ObjectID = "9jp-5z-xyh"; */
+"9jp-5z-xyh.title" = "显示:";
+
+/* Class = "NSTextFieldCell"; title = "Tab Width:"; ObjectID = "BxR-ob-PUL"; */
+"BxR-ob-PUL.title" = "定位宽度:";
+
+/* Class = "NSTextFieldCell"; title = "Common"; ObjectID = "Cbg-W5-8Q6"; */
+"Cbg-W5-8Q6.title" = "常规";
+
+/* Class = "NSButtonCell"; title = "Use syntax highlighting"; ObjectID = "DJv-bb-8ix"; */
+"DJv-bb-8ix.title" = "使用语法高亮显示";
+
+/* Class = "NSBox"; title = "Syntax Colors"; ObjectID = "J6B-JR-4h2"; */
+"J6B-JR-4h2.title" = "语法颜色";
+
+/* Class = "NSBox"; title = "Editor Font"; ObjectID = "MEf-Kj-WUx"; */
+"MEf-Kj-WUx.title" = "编辑器字体";
+
+/* Class = "NSTextFieldCell"; title = "Preview"; ObjectID = "OZP-KF-E2v"; */
+"OZP-KF-E2v.title" = "预览";
+
+/* Class = "NSButtonCell"; title = "Show line number"; ObjectID = "Pwj-j7-mkK"; */
+"Pwj-j7-mkK.title" = "显示行号";
+
+/* Class = "NSTextFieldCell"; title = "Keyword"; ObjectID = "TDn-on-fBn"; */
+"TDn-on-fBn.title" = "关键字";
+
+/* Class = "NSTextFieldCell"; title = "String"; ObjectID = "ULu-qJ-taP"; */
+"ULu-qJ-taP.title" = "字符串";
+
+/* Class = "NSButtonCell"; title = "Use code completion"; ObjectID = "WAB-Xv-iqB"; */
+"WAB-Xv-iqB.title" = "使用自动完成代码";
+
+/* Class = "NSButtonCell"; title = "Use code folding"; ObjectID = "X4q-oZ-ShF"; */
+"X4q-oZ-ShF.title" = "使用代码折叠";
+
+/* Class = "NSTextFieldCell"; title = "Font and Colors:"; ObjectID = "dfP-6I-glB"; */
+"dfP-6I-glB.title" = "字体和颜色:";
+
+/* Class = "NSTextFieldCell"; title = "Disable syntax highlight and code completion if SQL larger than:"; ObjectID = "eG8-hV-Ymz"; */
+"eG8-hV-Ymz.title" = "如果 SQL 大于此值时，禁用语法高亮显示和自动完成代码:";
+
+/* Class = "NSTextFieldCell"; title = "spaces"; ObjectID = "jO2-1u-QVh"; */
+"jO2-1u-QVh.title" = "个空格";
+
+/* Class = "NSTextFieldCell"; title = "Background"; ObjectID = "krm-R6-Weo"; */
+"krm-R6-Weo.title" = "背景";
+
+/* Class = "NSButtonCell"; title = "Use brace highlighting"; ObjectID = "lKh-Ew-TiQ"; */
+"lKh-Ew-TiQ.title" = "使用括号高亮显示";
+
+/* Class = "NSTextFieldCell"; title = "Number"; ObjectID = "pJJ-9n-KmU"; */
+"pJJ-9n-KmU.title" = "数字";
+
+/* Class = "NSTextFieldCell"; title = "Text Layout:"; ObjectID = "qOH-0s-Jp5"; */
+"qOH-0s-Jp5.title" = "文本版面:";
+
+/* Class = "NSButtonCell"; title = "Use word wrap"; ObjectID = "qgF-bE-QpW"; */
+"qgF-bE-QpW.title" = "使用自动换行";
+
+/* Class = "NSTextFieldCell"; title = "Comment"; ObjectID = "xol-kZ-sCF"; */
+"xol-kZ-sCF.title" = "注释";
+

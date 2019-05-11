@@ -1,0 +1,52 @@
+
+/* Class = "NSButtonCell"; title = "Create tables"; ObjectID = "1rK-YD-XbT"; */
+"1rK-YD-XbT.title" = "创建表";
+
+/* Class = "NSButtonCell"; title = "Continue on error"; ObjectID = "67O-4J-UGp"; */
+"67O-4J-UGp.title" = "遇到错误时继续";
+
+/* Class = "NSButtonCell"; title = "Overwrite existing types"; ObjectID = "79Y-e6-bLR"; */
+"79Y-e6-bLR.title" = "覆盖现有的类型";
+
+/* Class = "NSButtonCell"; title = "Create records"; ObjectID = "KPN-fO-e3l"; */
+"KPN-fO-e3l.title" = "创建记录";
+
+/* Class = "NSButtonCell"; title = "Overwrite existing tables"; ObjectID = "LDH-WR-rMn"; */
+"LDH-WR-rMn.title" = "覆盖现有的表";
+
+/* Class = "NSButtonCell"; title = "Create primary key and indexes"; ObjectID = "M4y-JW-kpC"; */
+"M4y-JW-kpC.title" = "Create primary key and indexes";
+
+/* Class = "NSButtonCell"; title = "Overwrite existing triggers"; ObjectID = "api-rk-Jv7"; */
+"api-rk-Jv7.title" = "覆盖现有的触发器";
+
+/* Class = "NSButtonCell"; title = "Overwrite existing sequences"; ObjectID = "dtg-rx-Zdw"; */
+"dtg-rx-Zdw.title" = "覆盖现有的序列";
+
+/* Class = "NSButtonCell"; title = "Empty table"; ObjectID = "gec-Rf-fhi"; */
+"gec-Rf-fhi.title" = "清空表";
+
+/* Class = "NSButtonCell"; title = "Overwrite existing functions"; ObjectID = "jb5-j2-CVe"; */
+"jb5-j2-CVe.title" = "覆盖现有的函数";
+
+/* Class = "NSButtonCell"; title = "Use transaction"; ObjectID = "lpD-XO-Y88"; */
+"lpD-XO-Y88.title" = "使用事务";
+
+/* Class = "NSButtonCell"; title = "Overwrite existing views"; ObjectID = "mne-5m-ebz"; */
+"mne-5m-ebz.title" = "覆盖现有的视图";
+
+/* Class = "NSButtonCell"; title = "Overwrite existing events"; ObjectID = "nsY-pl-del"; */
+"nsY-pl-del.title" = "覆盖现有的事件";
+
+/* Class = "NSButtonCell"; title = "Use extended insert statements"; ObjectID = "sVi-iZ-qv6"; */
+"sVi-iZ-qv6.title" = "使用扩展插入语句";
+
+/* Class = "NSButtonCell"; title = "Lock tables for write"; ObjectID = "tw9-MQ-don"; */
+"tw9-MQ-don.title" = "锁定表以便写入";
+
+/* Class = "NSButtonCell"; title = "Create triggers"; ObjectID = "vDd-4D-9Mf"; */
+"vDd-4D-9Mf.title" = "创建触发器";
+
+/* Class = "NSButtonCell"; title = "Overwrite existing indexes"; ObjectID = "xbl-5y-4xW"; */
+"xbl-5y-4xW.title" = "覆盖现有的索引";
+

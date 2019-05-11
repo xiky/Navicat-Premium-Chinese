@@ -1,0 +1,37 @@
+
+/* Class = "NSTextFieldCell"; title = "Schema:"; ObjectID = "2iO-mM-Dvv"; */
+"2iO-mM-Dvv.title" = "模式:";
+
+/* Class = "NSTextFieldCell"; title = "Job Name:"; ObjectID = "KFM-n7-Opg"; */
+"KFM-n7-Opg.title" = "工作名:";
+
+/* Class = "NSButtonCell"; title = "Select All"; ObjectID = "L3L-DY-bx2"; */
+"L3L-DY-bx2.title" = "全选";
+
+/* Class = "NSTextFieldCell"; title = "Content:"; ObjectID = "Szp-CF-BKR"; */
+"Szp-CF-BKR.title" = "内容:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "W2P-Sb-gYl"; */
+"W2P-Sb-gYl.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "W5N-bE-5Ct"; */
+"W5N-bE-5Ct.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Deselect All"; ObjectID = "diA-6u-NUu"; */
+"diA-6u-NUu.title" = "取消全选";
+
+/* Class = "NSBox"; title = "Export Data"; ObjectID = "gP1-rr-HzA"; */
+"gP1-rr-HzA.title" = "导出数据";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "sG4-i6-wVL"; */
+"sG4-i6-wVL.title" = "Table View Cell";
+
+/* Class = "NSBox"; title = "Dump Files"; ObjectID = "ugT-wa-KuD"; */
+"ugT-wa-KuD.title" = "转储文件";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "us2-8g-R9h"; */
+"us2-8g-R9h.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Mode:"; ObjectID = "yaX-G5-rtn"; */
+"yaX-G5-rtn.title" = "模式:";
+

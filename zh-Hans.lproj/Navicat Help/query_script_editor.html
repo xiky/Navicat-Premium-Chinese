@@ -1,0 +1,109 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>脚本编辑器</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>脚本编辑器</h1>
+	<p>脚本编辑器让你创建和编辑脚本，准备和运行已选择的脚本。拖放或双击右侧的“<span class="term">识别符</span>”窗格的一个识别符来将它添加到编辑器中。</p>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>当你使用查找创建工具或聚合创建工具创建查询时，脚本将会在脚本编辑器中自动生成。</p>
+	</div>
+	<p>Navicat 提供广泛的高级功能，例如：编辑代码功能、智能自动完成代码、设置脚本格式及更多。</p>
+	<h2>设置脚本格式</h2>
+	<p>若要更改脚本格式，简单地从“<span class="term">格式</span>”菜单选择 - </p>
+	<p><span class="term">缩进</span></p>
+	<p>为已选择的代码行增加或减少缩进。</p>
+	<p><span class="term">注释</span></p>
+	<p>为已选择的代码行加上注释或取消注释。</p>
+	<p><span class="term">美化脚本</span>（仅适用于非 Essentials 版本）</p>
+	<p>设置已选择的代码的格式。</p>
+	<h2>自动完成代码（仅适用于非 Essentials 版本）</h2>
+	<p>在编辑器中输入脚本时，Navicat 的自动完成代码功能会弹出一个建议列表。它以数据库名、集合名、视图名、文档字段名和 Shell 方法加上其相应的图标来协助你完成语句。你可以更新代码建议，选择“<span class="term">编辑</span>”->“<span class="term">自动完成代码</span>”->“<span class="term">更新自动完成代码的信息</span>”。</p>
+	<p>你可以通过键入一点“.”、一个字符，或按 ESC 来使用自动完成代码。</p>
+	<figure>
+		<a href="./images/queryCodeMongo.png" target="_blank"><img src="./images/queryCodeMongo.png"/></a>
+	</figure>
+	<p>当建议列表出现时，按 TAB 插入第一个项目。你还可以使用上箭头或下箭头选择所需的项目，然后按 TAB 或 ENTER。</p>
+	<p>如果你从列表中选择一个代码段的名，已保存的代码会插入到编辑器中。</p>
+	<figure>
+		<a href="./images/queryScript.png" target="_blank"><img src="./images/queryScript.png"/></a>
+	</figure>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>拖动建议列表的右下角来调整其大小。</p>
+	</div>
+	<p>你可以在<a href="#/preferences_editor">偏好设置</a>中启用或禁用自动完成代码功能。</p>
+	<h2>代码折叠</h2>
+	<p>代码折叠功能让你折叠代码，代码块只会显示代码的第一行在脚本编辑器中。</p>
+	<p>可以折叠的代码块标示此图标 <img src="./images/icon_foldMinus.png" alt="折叠" class="inlineGraphic" height="16" width="16"/> 在代码块的第一行的左侧。有一条垂直线由图标延伸到可折叠代码的底部。相反，一个已折叠的代码块标示此图标 <img src="./images/icon_foldPlus.png" alt="取消折叠" class="inlineGraphic" height="16" width="16"/> 在代码块的左侧。你可以点击 <img src="./images/icon_foldMinus.png" alt="折叠" class="inlineGraphic" height="16" width="16"/> 来折叠代码块或点击 <img src="./images/icon_foldPlus.png" alt="取消折叠" class="inlineGraphic" height="16" width="16"/> 来展开代码块。</p>
+	<figure>
+		<a href="./images/queryCodeFoldingMongo.png" target="_blank"><img src="./images/queryCodeFoldingMongo.png"/></a>
+	</figure>
+	<h2>括号高亮显示</h2>
+	<p>Navicat 支持在编辑器中高亮显示成对的括号，即 ()。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>光标必须在括号上才能显示高亮显示。</p>
+	</div>
+	<figure>
+		<a href="./images/queryBraceMongo.png" target="_blank"><img src="./images/queryBraceMongo.png"/></a>
+	</figure>
+	<h2>查找和替换</h2>
+	<p><span class="term">查找</span></p>
+	<p>查找栏能在编辑器中快速搜索文本。只需简单地从菜单栏选择“<span class="term">编辑</span>”->“<span class="term">查找</span>”->“<span class="term">查找</span>”或按 COMMAND-F，然后输入搜索字符串。</p>
+	<p>这里使用递增搜索。在你输入时，就能找到符合的文本并即时高亮显示。这样可以节省你输入整个字的时间。</p>
+	<figure>
+		<a href="./images/queryFindMongo.png" target="_blank"><img src="./images/queryFindMongo.png"/></a>
+	</figure>
+	<p>搜索会在光标的当前位置开始直到文件的结尾。</p>
+	<p>若要查找下一个相符项目，只需简单地点击 <img src="./images/icon_findPrevious.png" alt="查找上一个" class="inlineGraphic" height="16" width="16"/> 或 <img src="./images/icon_findNext.png" alt="查找下一个" class="inlineGraphic" height="16" width="16"/>。</p>
+	<p><span class="term">替换</span></p>
+	<p>若要打开替换栏，简单地在菜单栏选择“<span class="term">编辑</span>”->“<span class="term">查找</span>”->“<span class="term">查找和替换</span>”或按 OPTION-COMMAND-F。然后，输入你想搜索和替换的文本。</p>
+	<p>点击“<span class="term">替换</span>”按钮来替换第一个相符项目。</p>
+	<p>点击“<span class="term">全部替换</span>”按钮来自动替换全部相符项目。</p>
+	<figure>
+		<a href="./images/queryReplaceMongo.png" target="_blank"><img src="./images/queryReplaceMongo.png"/></a>
+	</figure>
+	<p>查找和替换还有一些额外的选项，点击 <img src="./images/icon_search.png" alt="查找" class="inlineGraphic" height="16" width="16"/>:</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>大小写符合</p></td>
+			<td width="75%"><p>启用大小写相关的搜索。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>正则表达式</p></td>
+			<td width="75%"><p>搜索正则表达式。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>整个字</p></td>
+			<td width="75%"><p>返回符合搜索字符串整个单词的对象。</p></td>
+		</tr>
+	</table>
+	<h2>含引号复制</h2>
+	<p>若要复制脚本时包含引号，只需简单地在按住 Control 键并点按高亮显示的脚本。然后，选择“<span class="term">含引号复制</span>”并选择格式。</p>
+	<h2>自动换行</h2>
+	<p>在自动换行模式中，水平滚动条会被移除。超出编辑器窗口大小的脚本自动在下一行显示。若要启用自动换行，请选择“<span class="term">查看</span>”->“<span class="term">自动换行</span>”。</p>
+	<h2>放大或缩小</h2>
+	<p>Navicat 有放大或缩小编辑器中的脚本的功能。缩放选项在“<span class="term">查看</span>”菜单。键盘快捷键亦可达到同样的效果。</p>
+	<p>放大：[COMMAND-+]</p>
+	<p>缩小：[COMMAND--]</p>
+	<p>重置：[COMMAND-0]</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>在不同选项卡或窗口打开的编辑器不会受缩放影响。</p>
+	</div>
+</div>

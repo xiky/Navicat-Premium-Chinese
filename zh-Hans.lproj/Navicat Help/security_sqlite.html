@@ -1,0 +1,32 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>SQLite 用户管理</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>SQLite 用户管理</h1>
+	<div class="alert">
+		<p><span class="note">【注意】</span>在默认情况下，一个 SQLite 数据库不需要用户身份验证（不需要验证的数据库）。在你创建一个用户后，该数据库将被标记为需要验证（需要验证的数据库）。然后，当连接到该数据库文件时，用户要提供用户名和密码。</p>
+	</div>
+	<h2>常规属性</h2>
+	<p><span class="term">用户名</span></p>
+	<p>定义用户帐号的名。</p>
+	<p><span class="term">密码</span></p>
+	<p>指定用户的登录密码。</p>
+	<p><span class="term">确认密码</span></p>
+	<p>重新输入登录密码。</p>
+	<p><span class="term">管理员</span></p>
+	<p>如果你想给予用户管理权限，可勾选这个选项。</p>
+</div>

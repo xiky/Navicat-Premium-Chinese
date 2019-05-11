@@ -1,0 +1,22 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>调试 Oracle 查询</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>调试 Oracle 查询（仅适用于非 Essentials 版本）</h1>
+	<p>若要调试 Oracle 查询，请在工具栏点击 <img src="./images/icon_debug.png" alt="调试" class="inlineGraphic" height="16" width="16"/> 来启动 <a href="#/debugger_oracle">Oracle 调试器</a>。</p>
+	<p>如果查询设有输入参数，请先输入参数。</p>
+</div>

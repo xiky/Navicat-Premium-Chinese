@@ -1,0 +1,43 @@
+
+/* Class = "NSTextFieldCell"; title = "User Name:"; ObjectID = "4kJ-XY-azu"; */
+"4kJ-XY-azu.title" = "用户名:";
+
+/* Class = "NSButtonCell"; title = "Edit Password:"; ObjectID = "8eb-95-cpI"; */
+"8eb-95-cpI.title" = "编辑密码:";
+
+/* Class = "NSButtonCell"; title = "Save password"; ObjectID = "Cp8-fS-Cb5"; */
+"Cp8-fS-Cb5.title" = "保存密码";
+
+/* Class = "NSButtonCell"; title = "Sync User Name with Navicat Cloud"; ObjectID = "DVO-nC-1OO"; */
+"DVO-nC-1OO.title" = "与 Navicat Cloud 同步用户名";
+
+/* Class = "NSMenuItem"; title = "<New Project...>"; ObjectID = "FOZ-c0-hGh"; */
+"FOZ-c0-hGh.title" = "<New Project...>";
+
+/* Class = "NSTextFieldCell"; placeholderString = "3306"; ObjectID = "IVr-AN-eoS"; */
+"IVr-AN-eoS.placeholderString" = "3306";
+
+/* Class = "NSMenuItem"; title = "My Connections"; ObjectID = "JVa-9F-KMq"; */
+"JVa-9F-KMq.title" = "我的连接";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "WWU-0q-LMb"; */
+"WWU-0q-LMb.title" = "密码:";
+
+/* Class = "NSTextFieldCell"; title = "* All passwords will not be saved to Navicat Cloud"; ObjectID = "Y3R-Ns-kcG"; */
+"Y3R-Ns-kcG.title" = "* 所有密码不会保存到 Navicat Cloud";
+
+/* Class = "NSTextFieldCell"; title = "Initial Database:"; ObjectID = "aCq-zi-WUe"; */
+"aCq-zi-WUe.title" = "初始数据库:";
+
+/* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "bZn-zx-KmI"; */
+"bZn-zx-KmI.title" = "端口:";
+
+/* Class = "NSTextFieldCell"; title = "Connection Name:"; ObjectID = "cnC-8e-J11"; */
+"cnC-8e-J11.title" = "连接名:";
+
+/* Class = "NSTextFieldCell"; title = "Host:"; ObjectID = "sbI-QT-ZY7"; */
+"sbI-QT-ZY7.title" = "主机:";
+
+/* Class = "NSTextFieldCell"; title = "Add To:"; ObjectID = "xoh-qP-KG7"; */
+"xoh-qP-KG7.title" = "添加到:";
+

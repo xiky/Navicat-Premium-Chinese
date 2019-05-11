@@ -1,0 +1,35 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>关于模型</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>关于模型（仅适用于 Navicat Premium 和企业版）</h1>
+	<p>“<span class="term">模型</span>”是一个用于创建和操作物理数据库模型的强大工具。在主窗口中，点击 <img src="./images/icon_model.png" alt="模型" class="inlineGraphic" height="16" width="16"/>“<span class="term">模型</span>”来打开模型的对象列表。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>仅适用于 MySQL、Oracle、PostgreSQL、SQLite、SQL Server 和 MariaDB。</p>
+	</div>
+	<p>一些主要的功能如下：</p>
+	<ul class="ListBullet">
+		<li><p>图形化创建和操作一个物理模型。</p></li>
+		<li><p>逆向工程，将一个数据库/模式、表或视图转为物理模型。</p></li>
+		<li><p>正向工程，将一个物理模型转为 SQL 文件或数据库/模式。</p></li>
+		<li><p>直接创建和编辑表结构。</p></li>
+	</ul>
+	<p>若要创建一个模型，请在对象工具栏点击 <img src="./images/icon_newModel.png" alt="新建模型" class="inlineGraphic" height="16" width="16"/>。新建模型窗口会弹出让你选择“<span class="term">数据库</span>”、“<span class="term">版本</span>”和/或“<span class="term">版本</span>”。</p>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>模型文件（.ndm）保存于默认的路径，例如：~/Library/Application Support/PremiumSoft CyberTech/Navicat CC/Navicat Premium/Profiles。若要打开该文件夹，请按住 Control 键并点按查询，然后选择“<span class="term">在 Finder 中显示</span>”。如果模型已同步到 <a href="#/about_cloud">Navicat Cloud</a>，它会保存在云。</p>
+	</div>
+</div>

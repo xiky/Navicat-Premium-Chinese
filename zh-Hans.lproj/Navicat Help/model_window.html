@@ -1,0 +1,168 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>模型窗口</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>模型窗口</h1>
+	<p>模型窗口是由一个工具栏、几个窗格和图表画布所组成，让你设计模型。一个模型文件可以有多个图表。在模型中，每一个图表是由一个选项卡来表示。若要创建一个新图表，从菜单栏选择“<span class="term">图表</span>”->“<span class="term">新建图表</span>”。</p>
+	<figure>
+		<a href="./images/modelWindow.png" target="_blank"><img src="./images/modelWindow.png"/></a>
+	</figure>
+	<p><img src="./images/area1.png" alt="编号 1" class="inlineGraphic" height="16" width="16"/> <span class="term">工具栏</span></p>
+	<p>工具栏位于模型窗口的顶部。你可以使用工具栏来做一些基本的工作，例如：添加表或视图，应用自动调整版面等。</p>
+	<p><img src="./images/area2.png" alt="编号 2" class="inlineGraphic" height="16" width="16"/> <span class="term">浏览器窗格</span></p>
+	<p>浏览器窗格有两个选项卡：<img src="./images/icon_modelModel.png" alt="模型" class="inlineGraphic" height="16" width="16"/>“<span class="term">模型</span>”和 <img src="./images/icon_modelDiagram.png" alt="图表" class="inlineGraphic" height="16" width="16"/>“<span class="term">活跃​​图表</span>”。模型选项卡显示模型中的所有表或视图，包括在每个独立图表中的。你可以简单地从模型选项卡拖放一个对象到活跃​​图表画布。活跃​​图表选项卡显示在活跃​​图表中的所有已添加的对象（表、视图、外键、层、笔记、图像等）。如果浏览器窗格已隐藏，从菜单栏选择“<span class="term">查看</span>”->“<span class="term">显示浏览器</span>”。</p>
+	<p><img src="./images/area3.png" alt="编号 3" class="inlineGraphic" height="16" width="16"/> <span class="term">历史窗格</span></p>
+	<p>历史窗格记录了你已採取的所有行动。只要简单地点击一个行动来还原到该状态。如果历史窗格已隐藏，从菜单栏选择“<span class="term">查看</span>”->“<span class="term">显示浏览器</span>”和“<span class="term">显示历史</span>”。</p>
+	<p><img src="./images/area4.png" alt="编号 4" class="inlineGraphic" height="16" width="16"/> <span class="term">属性窗格</span></p>
+	<p>属性窗格包含 <img src="./images/icon_modelModel.png" alt="模型" class="inlineGraphic" height="16" width="16"/>“<span class="term">模型</span>”、<img src="./images/icon_modelDiagram.png" alt="图表" class="inlineGraphic" height="16" width="16"/>“<span class="term">图表</span>”和 <img src="./images/icon_modelObject.png" alt="对象" class="inlineGraphic" height="16" width="16"/>“<span class="term">对象</span>”选项卡，让你设置你的模型的默认属性。你可以快捷地编辑模型、活跃​​图表和已选择对象的属性设置。如果属性窗格已隐藏，从菜单栏选择“<span class="term">查看</span>”->“<span class="term">显示属性</span>”。</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>开始样式</p></td>
+			<td width="75%"><p>箭头后端的样式。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>黑白</p></td>
+			<td width="75%"><p>勾选这框来更改图表颜色为黑白。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>粗体</p></td>
+			<td width="75%"><p>勾选这框或按 COMMAND-B 来设置表、视图、外键或形状为粗体。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>边界颜色</p></td>
+			<td width="75%"><p>形状边界的颜色。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>端点样式</p></td>
+			<td width="75%"><p>线条或箭头的端点样式。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>基数</p></td>
+			<td width="75%"><p>表的外键基数。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>大小写相关</p></td>
+			<td width="75%"><p>表或视图的大小写相关设置。仅适用于 MySQL 和 MariaDB 模型。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>颜色</p></td>
+			<td width="75%"><p>对象的颜色。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>虚线样式</p></td>
+			<td width="75%"><p>线条或箭头的虚线样式。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>数据库</p></td>
+			<td width="75%"><p>模型的数据库服务器版本。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>数据库版本</p></td>
+			<td width="75%"><p>模型的数据库版本。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>结束样式</p></td>
+			<td width="75%"><p>箭头前端的样式。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>实体字体</p></td>
+			<td width="75%"><p>表的字体和字体大小。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>字体</p></td>
+			<td width="75%"><p>笔记、标签或层的字体和字体大小。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>字体颜色</p></td>
+			<td width="75%"><p>笔记、标签或层的字体颜色。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>联接样式</p></td>
+			<td width="75%"><p>线条或箭头的联接样式。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>模型类型</p></td>
+			<td width="75%"><p>模型的类型。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>名</p></td>
+			<td width="75%"><p>对象的名。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>符号</p></td>
+			<td width="75%"><p>图表的符号。此值可以是默认、简单、IDEF1X、UML 或 IE (Crow's Foot) 。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>笔记样式</p></td>
+			<td width="75%"><p>笔记的样式。此值可以是笔记或标签。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>透明度</p></td>
+			<td width="75%"><p>图像或形状的透明度。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>页</p></td>
+			<td width="75%"><p>图表的宽度和高度（纸张数）。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>位置</p></td>
+			<td width="75%"><p>从对象到画布左侧（X）或右侧（Y）的像素数。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>参考(父)</p></td>
+			<td width="75%"><p>参考（父）表或视图。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>参考(子)</p></td>
+			<td width="75%"><p>参考（子）表或视图。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>模式</p></td>
+			<td width="75%"><p>表或视图的模式名。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>显示名</p></td>
+			<td width="75%"><p>勾选这框来显示外键或形状的名标签。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>显示模式名</p></td>
+			<td width="75%"><p>勾选这框来显示图表中的表或视图的模式名。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>显示视图关系</p></td>
+			<td width="75%"><p>勾选这框来显示视图的关系线条。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>大小</p></td>
+			<td width="75%"><p>对象的宽度和高度。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>可视</p></td>
+			<td width="75%"><p>勾选这框来显示外键或关系线条。</p></td>
+		</tr>
+	</table>
+	<p><img src="./images/area5.png" alt="编号 5" class="inlineGraphic" height="16" width="16"/> <span class="term">概览窗格</span></p>
+	<p>概览窗格显示在画布上整个的活跃​​图表。若要放大或缩小在图表中选择的区域，调整滑杆。如果概览窗格已隐藏，从主菜单选择“<span class="term">查看</span>”->“<span class="term">显示属性</span>”和“<span class="term">显示概览</span>”。使用键盘快捷键亦可得到同样的效果：</p>
+	<p>放大：[COMMAND-滑鼠滚轮向上]</p>
+ 	<p>缩小：[COMMAND-滑鼠滚轮向下]</p>
+	<p><img src="./images/area6.png" alt="编号 6" class="inlineGraphic" height="16" width="16"/> <span class="term">图表画布</span></p>
+	<p>你可以在图表画布中设计你的图表。</p>
+</div>

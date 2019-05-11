@@ -1,0 +1,30 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>集合</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>集合</h1>
+	<p>集合类似关系数据库的表，用于存储文档。在主窗口中，点击 <img src="./images/icon_table.png" alt="集合" class="inlineGraphic" height="16" width="16"/>“<span class="term">集合</span>”来打开集合的对象列表。</p>
+	<p>你可以拖出集合以创建一个集合快捷方式。这个快捷方式让你快速直接地打开集合来输入数据，而无需打开 Navicat 主窗口。</p>
+	<p>若要清空一个集合，请按住 Control 键并点按已选择的集合，然后在弹出式菜单中选择“<span class="term">清空集合</span>”。</p>
+	<h2>集合设计器</h2>
+	<p>“<span class="term">集合设计器</span>”是一个用于设计表的 Navicat 基本工具，能让你設定集合的属性、索引、验证、存储引擎，以及更多。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>设计器中的选项卡和选项会根据服务器版本而有所不同。</p>
+	</div>
+	<h2>集合查看器</h2>
+	<p>当你打开集合时，“<span class="term">集合查看器</span>”以网格显示数据。数据可以用三种模式显示：网格视图、树视图和 JSON 视图。详细信息请参阅<a href="#/data_viewer">数据查看器</a>。</p>
+</div>

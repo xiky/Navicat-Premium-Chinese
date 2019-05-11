@@ -1,0 +1,64 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>添加标签</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>添加标签</h1>
+	<p>标签通常用于帮助记录图表设计进程。例如，解释一组表对象。若要创建一个新的标签，点击工具栏的 <img src="./images/icon_modelAddLabel.png" alt="新建标签" class="inlineGraphic" height="16" width="16"/> 按钮，并点击画布的任意位置。</p>
+	<p>在画布中标签对象的弹出式菜单选项包括：</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>编辑</p></td>
+			<td width="75%"><p>更改标签的内容。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>剪切</p></td>
+			<td width="75%"><p>从图表移除标签并放它在剪贴板。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>复制</p></td>
+			<td width="75%"><p>从图表复制标签到剪贴板。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>粘贴</p></td>
+			<td width="75%"><p>将剪贴板的内容贴到图表。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>选择全部标签</p></td>
+			<td width="75%"><p>在图表中选择全部标签。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>删除</p></td>
+			<td width="75%"><p>从图表中删除标签。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>调整适合大小</p></td>
+			<td width="75%"><p>自动调整标签的大小以适合其内容。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>置于顶层</p></td>
+			<td width="75%"><p>将标签提到顶层。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>置于底层</p></td>
+			<td width="75%"><p>移动标签到底层。</p></td>
+		</tr>
+	</table>
+</div>

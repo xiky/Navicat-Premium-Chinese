@@ -1,0 +1,64 @@
+
+/* Class = "NSTabViewItem"; label = "Normal"; ObjectID = "9Dv-xD-U6W"; */
+"9Dv-xD-U6W.label" = "常规";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "B7d-Oe-Ryg"; */
+"B7d-Oe-Ryg.title" = "密码:";
+
+/* Class = "NSTextFieldCell"; title = "Import from:"; ObjectID = "DM3-Sx-dvy"; */
+"DM3-Sx-dvy.title" = "导入从:";
+
+/* Class = "NSButtonCell"; title = "Add URL…"; ObjectID = "GeV-c5-V79"; */
+"GeV-c5-V79.title" = "添加网址…";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "IAx-Co-dbh"; */
+"IAx-Co-dbh.title" = "确定";
+
+/* Class = "NSTabViewItem"; label = "ODBC"; ObjectID = "Oh6-Ma-J9K"; */
+"Oh6-Ma-J9K.label" = "ODBC";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "UBi-c7-Tv0"; */
+"UBi-c7-Tv0.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Encoding:"; ObjectID = "VWa-0X-JO8"; */
+"VWa-0X-JO8.title" = "编码:";
+
+/* Class = "NSButtonCell"; title = "ODBC Administrator"; ObjectID = "ZMD-qZ-ecf"; */
+"ZMD-qZ-ecf.title" = "ODBC 管理员";
+
+/* Class = "NSTableColumn"; headerCell.title = "Import Source"; ObjectID = "fIf-PQ-yGN"; */
+"fIf-PQ-yGN.headerCell.title" = "导入源";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "kl0-Yz-nHZ"; */
+"kl0-Yz-nHZ.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "oh4-NB-wVW"; */
+"oh4-NB-wVW.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Choose File Paths and Encoding (2/8)"; ObjectID = "rLL-4I-xnF"; */
+"rLL-4I-xnF.title" = "Choose File Paths and Encoding (2/8)";
+
+/* Class = "NSTextFieldCell"; title = "Username:"; ObjectID = "sR0-Th-HI5"; */
+"sR0-Th-HI5.title" = "用户名:";
+
+/* Class = "NSTextFieldCell"; title = "Choose File Path (2/8)"; ObjectID = "srs-hY-bwD"; */
+"srs-hY-bwD.title" = "Choose File Path (2/8)";
+
+/* Class = "NSTextFieldCell"; title = "Connection:"; ObjectID = "uEl-ER-uhs"; */
+"uEl-ER-uhs.title" = "连接:";
+
+/* Class = "NSTextFieldCell"; title = "Please provide the file(s) and/or URL(s) to import from:"; ObjectID = "v6D-he-pki"; */
+"v6D-he-pki.title" = "请提供要导入的文件和/或网址：";
+
+/* Class = "NSWindow"; title = "ODBC Connection String"; ObjectID = "vxJ-YM-m8c"; */
+"vxJ-YM-m8c.title" = "ODBC 连接字符串";
+
+/* Class = "NSTextFieldCell"; title = "Please specify the ODBC connection to import from:"; ObjectID = "x4l-gv-wIY"; */
+"x4l-gv-wIY.title" = "请指定要导入的 ODBC 连接:";
+
+/* Class = "NSButtonCell"; title = "Add File…"; ObjectID = "z7H-jN-tdy"; */
+"z7H-jN-tdy.title" = "添加文件…";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "zpJ-hf-fb7"; */
+"zpJ-hf-fb7.title" = "OtherViews";
+

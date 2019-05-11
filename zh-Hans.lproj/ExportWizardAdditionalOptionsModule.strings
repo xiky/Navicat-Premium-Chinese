@@ -1,0 +1,133 @@
+
+/* Class = "NSButtonCell"; title = "Include column titles"; ObjectID = "0jL-Pw-iTD"; */
+"0jL-Pw-iTD.title" = "包含列的标题";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1ei-so-n2c"; */
+"1ei-so-n2c.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "/"; ObjectID = "1pe-6f-kig"; */
+"1pe-6f-kig.title" = "/";
+
+/* Class = "NSMenuItem"; title = "CR"; ObjectID = "2FW-0N-RFV"; */
+"2FW-0N-RFV.title" = "CR";
+
+/* Class = "NSMenuItem"; title = "MYD"; ObjectID = "6LF-iM-NZK"; */
+"6LF-iM-NZK.title" = "MYD";
+
+/* Class = "NSBox"; title = "Format"; ObjectID = "7MI-AT-aF0"; */
+"7MI-AT-aF0.title" = "格式";
+
+/* Class = "NSMenuItem"; title = "DYM"; ObjectID = "7YL-2X-OW2"; */
+"7YL-2X-OW2.title" = "DYM";
+
+/* Class = "NSTextFieldCell"; title = "Binary Data Encoding:"; ObjectID = "Af6-rB-Ydj"; */
+"Af6-rB-Ydj.title" = "二进制数据编码:";
+
+/* Class = "NSTextFieldCell"; title = ":"; ObjectID = "Cl3-vg-wrv"; */
+"Cl3-vg-wrv.title" = ":";
+
+/* Class = "NSButtonCell"; title = "Continue on error"; ObjectID = "Dwq-mB-uqj"; */
+"Dwq-mB-uqj.title" = "遇到错误时继续";
+
+/* Class = "NSButtonCell"; title = "Blank if zero"; ObjectID = "GuS-EN-jLk"; */
+"GuS-EN-jLk.title" = "如果零，留空白";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "HTr-5R-7bj"; */
+"HTr-5R-7bj.title" = "无";
+
+/* Class = "NSMenuItem"; title = "Tab"; ObjectID = "IZf-Qu-sP8"; */
+"IZf-Qu-sP8.title" = "定位";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "Q07-VS-6aT"; */
+"Q07-VS-6aT.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Comma"; ObjectID = "QbD-Wd-c0P"; */
+"QbD-Wd-c0P.title" = "逗号";
+
+/* Class = "NSTextFieldCell"; title = "Choose Additional Options (4/5)"; ObjectID = "Qqp-hu-rgf"; */
+"Qqp-hu-rgf.title" = "Choose Additional Options (4/5)";
+
+/* Class = "NSMenuItem"; title = "YDM"; ObjectID = "RSC-Nj-jiX"; */
+"RSC-Nj-jiX.title" = "YDM";
+
+/* Class = "NSButtonCell"; title = "Append on output file(s)"; ObjectID = "Rce-Ix-WtD"; */
+"Rce-Ix-WtD.title" = "追加到输出文件";
+
+/* Class = "NSMenuItem"; title = "YMD"; ObjectID = "SDc-IV-VOE"; */
+"SDc-IV-VOE.title" = "YMD";
+
+/* Class = "NSMenuItem"; title = "Other Symbol"; ObjectID = "SkV-SX-5DG"; */
+"SkV-SX-5DG.title" = "其他符号";
+
+/* Class = "NSMenuItem"; title = "MDY"; ObjectID = "U5l-HW-Qu5"; */
+"U5l-HW-Qu5.title" = "MDY";
+
+/* Class = "NSTextFieldCell"; title = "."; ObjectID = "WeX-oe-C9U"; */
+"WeX-oe-C9U.title" = ".";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "amh-CK-6pa"; */
+"amh-CK-6pa.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "DMY"; ObjectID = "bOF-iX-Gcj"; */
+"bOF-iX-Gcj.title" = "DMY";
+
+/* Class = "NSTextFieldCell"; title = "Zero Padding Date:"; ObjectID = "eJn-gZ-QeT"; */
+"eJn-gZ-QeT.title" = "零填充日期:";
+
+/* Class = "NSButtonCell"; title = "Include column titles"; ObjectID = "epx-EL-3Pr"; */
+"epx-EL-3Pr.title" = "包含列的标题";
+
+/* Class = "NSTextFieldCell"; title = "Time Delimiter:"; ObjectID = "et2-Q3-chl"; */
+"et2-Q3-chl.title" = "时间分隔符:";
+
+/* Class = "NSTextFieldCell"; title = "Field Delimiter:"; ObjectID = "iyG-eQ-bXV"; */
+"iyG-eQ-bXV.title" = "字段分隔符:";
+
+/* Class = "NSTextFieldCell"; title = "Decimal Symbol:"; ObjectID = "jwK-4T-D5E"; */
+"jwK-4T-D5E.title" = "小数点符号:";
+
+/* Class = "NSMenuItem"; title = "CRLF"; ObjectID = "kON-Ri-lKt"; */
+"kON-Ri-lKt.title" = "CRLF";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "krz-Vp-3Qo"; */
+"krz-Vp-3Qo.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Record Delimiter:"; ObjectID = "oSf-ia-VSX"; */
+"oSf-ia-VSX.title" = "记录分隔符:";
+
+/* Class = "NSTextFieldCell"; title = "Text Qualifier:"; ObjectID = "pPW-B9-5fU"; */
+"pPW-B9-5fU.title" = "文本识别符号:";
+
+/* Class = "NSComboBoxCell"; tXF-uv-KK5.ibShadowedObjectValues[1] = "\""; ObjectID = "tXF-uv-KK5"; */
+"tXF-uv-KK5.ibShadowedObjectValues[1]" = "\"";
+
+/* Class = "NSComboBoxCell"; tXF-uv-KK5.ibShadowedObjectValues[2] = "'"; ObjectID = "tXF-uv-KK5"; */
+"tXF-uv-KK5.ibShadowedObjectValues[2]" = "'";
+
+/* Class = "NSComboBoxCell"; tXF-uv-KK5.ibShadowedObjectValues[3] = "`"; ObjectID = "tXF-uv-KK5"; */
+"tXF-uv-KK5.ibShadowedObjectValues[3]" = "`";
+
+/* Class = "NSComboBoxCell"; tXF-uv-KK5.ibShadowedObjectValues[4] = "~"; ObjectID = "tXF-uv-KK5"; */
+"tXF-uv-KK5.ibShadowedObjectValues[4]" = "~";
+
+/* Class = "NSTextFieldCell"; title = "Date Order:"; ObjectID = "uPE-qf-yjO"; */
+"uPE-qf-yjO.title" = "日期排序:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "vZL-b2-bKk"; */
+"vZL-b2-bKk.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "LF"; ObjectID = "w3k-Hh-tUI"; */
+"w3k-Hh-tUI.title" = "LF";
+
+/* Class = "NSTextFieldCell"; title = "You can define some additional options."; ObjectID = "w9L-PR-GXE"; */
+"w9L-PR-GXE.title" = "你可以定义一些附加的选项。";
+
+/* Class = "NSMenuItem"; title = "Space"; ObjectID = "y4L-7j-ZwP"; */
+"y4L-7j-ZwP.title" = "空格";
+
+/* Class = "NSMenuItem"; title = "Semicolon"; ObjectID = "zXJ-nK-XPs"; */
+"zXJ-nK-XPs.title" = "分号";
+
+/* Class = "NSTextFieldCell"; title = "Date Delimiter:"; ObjectID = "zaU-XD-eL0"; */
+"zaU-XD-eL0.title" = "日期分隔符:";
+

@@ -1,0 +1,34 @@
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "72k-4i-ehd"; */
+"72k-4i-ehd.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "This is a test menu."; ObjectID = "7gv-fZ-pin"; */
+"7gv-fZ-pin.title" = "This is a test menu.";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "JiI-R4-oKQ"; */
+"JiI-R4-oKQ.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "JyV-us-eAE"; */
+"JyV-us-eAE.title" = "Item 1";
+
+/* Class = "NSTextFieldCell"; title = "and"; ObjectID = "dwg-xz-BWf"; */
+"dwg-xz-BWf.title" = "和";
+
+/* Class = "NSMenuItem"; title = "false"; ObjectID = "eWB-vX-9ie"; */
+"eWB-vX-9ie.title" = "假";
+
+/* Class = "NSComboBoxCell"; ojq-Ly-5Lc.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "ojq-Ly-5Lc"; */
+"ojq-Ly-5Lc.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; ojq-Ly-5Lc.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "ojq-Ly-5Lc"; */
+"ojq-Ly-5Lc.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; ojq-Ly-5Lc.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "ojq-Ly-5Lc"; */
+"ojq-Ly-5Lc.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "true"; ObjectID = "w1B-He-qrq"; */
+"w1B-He-qrq.title" = "真";
+
+/* Class = "NSTextFieldCell"; title = "The following are"; ObjectID = "zpH-hf-gOs"; */
+"zpH-hf-gOs.title" = "以下条件为";
+

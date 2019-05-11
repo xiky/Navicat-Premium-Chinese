@@ -1,0 +1,41 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>HTTP 设置</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>HTTP 设置</h1>
+	<p>HTTP 通道是一种连接到服务器的方法，使用与网络服务器相同的通讯协定（http://）和相同的端口（端口 80）。这是当你的互联网服务供应商不允许直接连接，但允许创建 HTTP 连接时使用。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>仅适用于 MySQL、PostgreSQL、SQLite 和 MariaDB。</p>
+	</div>
+	<h2>上传通道脚本</h2>
+	<p>若要使用此连接方法，首先需要做的就是上传通道脚本到你的服务器位于的网络服务器。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>点击“<span class="term">导出通道脚本</span>”按钮来提取脚本文件，“<span class="term">ntunnel_mysql.php</span>”（适用于 MySQL 和 MariaDB）、“<span class="term">ntunnel_pgsql.php</span>”或“<span class="term">ntunnel_sqlite.php</span>”。</p>
+	</div>
+	<h2>设置 HTTP 通道</h2>
+	<p>下列指示将引导你完成设置 HTTP 连接进程。</p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>选择 HTTP 选项卡并启用“<span class="term">使用 HTTP 通道</span>”。</p></li>
+		<li><p>输入通道脚本的网址，例如：http://www.navicat.com/ntunnel_mysql.php。</p></li>
+		<li><p>如果通道脚本是在一个密码保护的服务器，你可以提供所需的详细验证信息。</p></li>
+		<li><p>如果你的服务器安装了 Web 应用防火墙，你可以勾选“<span class="term">用 base64 编码传出查询</span>”选项。</p></li>
+		<li><p>如果你要通过代理服务器来访问网际网络，点击“<span class="term">代理服务器设置</span>”按钮并提供所需的详细信息。</p></li>
+	</ul>
+	<div class="alert">
+		<p><span class="note">【注意】</span>HTTP 通道和 SSH 通道不能同时运作。当你选用了 HTTP 通道，SSH 通道就会禁用，反之亦然。</p>
+	</div>
+</div>

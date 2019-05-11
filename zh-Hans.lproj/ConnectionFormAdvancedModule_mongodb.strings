@@ -1,0 +1,19 @@
+
+/* Class = "NSTextFieldCell"; title = "Settings Location:"; ObjectID = "0M7-Uc-OW0"; */
+"0M7-Uc-OW0.title" = "设置位置:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "240"; ObjectID = "F29-iK-67r"; */
+"F29-iK-67r.placeholderString" = "240";
+
+/* Class = "NSButtonCell"; title = "Keepalive interval (sec):"; ObjectID = "LTv-Io-snt"; */
+"LTv-Io-snt.title" = "保持连接间隔（秒）:";
+
+/* Class = "NSButtonCell"; title = "Auto connect"; ObjectID = "PqC-HV-inM"; */
+"PqC-HV-inM.title" = "自动连接";
+
+/* Class = "NSButtonCell"; title = "Limit connection sessions:"; ObjectID = "bOe-dW-dg9"; */
+"bOe-dW-dg9.title" = "限制连接会话:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "10"; ObjectID = "qlI-aP-ceH"; */
+"qlI-aP-ceH.placeholderString" = "10";
+

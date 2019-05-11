@@ -1,0 +1,55 @@
+
+/* Class = "NSButtonCell"; title = "Use storage option"; ObjectID = "1qU-ls-YOS"; */
+"1qU-ls-YOS.title" = "使用存储选项";
+
+/* Class = "NSTextFieldCell"; title = "Min Extent Size:"; ObjectID = "2Le-Ru-etH"; */
+"2Le-Ru-etH.title" = "最小扩展区大小:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "9Cm-ax-EoB"; */
+"9Cm-ax-EoB.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "FN6-NU-rgT"; */
+"FN6-NU-rgT.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Storage Option"; ObjectID = "GkP-Bv-Uxm"; */
+"GkP-Bv-Uxm.title" = "存储选项";
+
+/* Class = "NSTextFieldCell"; title = "Allocation:"; ObjectID = "OEp-qc-6kt"; */
+"OEp-qc-6kt.title" = "配置:";
+
+/* Class = "NSTextFieldCell"; title = "Uniform Size:"; ObjectID = "Oav-dY-8OD"; */
+"Oav-dY-8OD.title" = "统一大小:";
+
+/* Class = "NSTextFieldCell"; title = "Extent Management:"; ObjectID = "RdN-Lz-GxL"; */
+"RdN-Lz-GxL.title" = "扩展区管理:";
+
+/* Class = "NSButtonCell"; title = "Manual Segment Management"; ObjectID = "RrK-ZX-xoN"; */
+"RrK-ZX-xoN.title" = "手动片段管理";
+
+/* Class = "NSComboBoxCell"; VdQ-J0-5hU.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "VdQ-J0-5hU"; */
+"VdQ-J0-5hU.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; VdQ-J0-5hU.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "VdQ-J0-5hU"; */
+"VdQ-J0-5hU.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; VdQ-J0-5hU.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "VdQ-J0-5hU"; */
+"VdQ-J0-5hU.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Block Size:"; ObjectID = "dIF-kD-eVf"; */
+"dIF-kD-eVf.title" = "块大小:";
+
+/* Class = "NSBox"; title = "Default Storage Option"; ObjectID = "fhy-tK-hva"; */
+"fhy-tK-hva.title" = "默认存储选项";
+
+/* Class = "NSBox"; title = "Extent Management"; ObjectID = "iEw-RR-N6B"; */
+"iEw-RR-N6B.title" = "扩展区管理";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "iIN-XM-naJ"; */
+"iIN-XM-naJ.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "File Type:"; ObjectID = "sDD-ue-hu8"; */
+"sDD-ue-hu8.title" = "文件类型:";
+
+/* Class = "NSTextFieldCell"; title = "Table Compression:"; ObjectID = "sq6-ZK-gvt"; */
+"sq6-ZK-gvt.title" = "表压缩:";
+

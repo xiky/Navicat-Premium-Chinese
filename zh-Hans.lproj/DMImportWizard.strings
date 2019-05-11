@@ -1,0 +1,61 @@
+
+/* Class = "NSWindow"; title = "Import from Database"; ObjectID = "1"; */
+"1.title" = "从数据库导入";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "12"; */
+"12.title" = "继续";
+
+/* Class = "NSButtonCell"; title = "Go Back"; ObjectID = "14"; */
+"14.title" = "返回";
+
+/* Class = "NSButtonCell"; title = "Connection"; ObjectID = "18"; */
+"18.title" = "连接";
+
+/* Class = "NSButtonCell"; title = "Objects"; ObjectID = "19"; */
+"19.title" = "对象";
+
+/* Class = "NSTabViewItem"; label = "Connection"; ObjectID = "22"; */
+"22.label" = "连接";
+
+/* Class = "NSTabViewItem"; label = "Objects"; ObjectID = "23"; */
+"23.label" = "对象";
+
+/* Class = "NSButtonCell"; title = "Import"; ObjectID = "26"; */
+"26.title" = "导入";
+
+/* Class = "NSTabViewItem"; label = "Export"; ObjectID = "30"; */
+"30.label" = "导出";
+
+/* Class = "NSTextFieldCell"; title = "Select Connection"; ObjectID = "33"; */
+"33.title" = "选择连接";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "35"; */
+"35.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Select the connection you want to import."; ObjectID = "37"; */
+"37.title" = "选择你要导入的连接。";
+
+/* Class = "NSTextFieldCell"; title = "Select Objects"; ObjectID = "75"; */
+"75.title" = "选择对象";
+
+/* Class = "NSTextFieldCell"; title = "Please choose the objects to import."; ObjectID = "77"; */
+"77.title" = "请选择要导入的对象。";
+
+/* Class = "NSButtonCell"; title = "Select All"; ObjectID = "90"; */
+"90.title" = "全选";
+
+/* Class = "NSButtonCell"; title = "Unselect All"; ObjectID = "92"; */
+"92.title" = "取消全选";
+
+/* Class = "NSTextFieldCell"; title = "The wizard is ready to import your objects. Please click the Import button to start the process."; ObjectID = "99"; */
+"99.title" = "向导已准备导入你的对象。请点击导入按钮来启动进程。";
+
+/* Class = "NSTextFieldCell"; title = "Start Import"; ObjectID = "100"; */
+"100.title" = "开始导入";
+
+/* Class = "NSTextFieldCell"; title = "Ready to import"; ObjectID = "291"; */
+"291.title" = "准备好导入";
+
+/* Class = "NSButtonCell"; title = "Auto layout diagram after import"; ObjectID = "dfj-We-CAd"; */
+"dfj-We-CAd.title" = "导入后自动调整版面";
+

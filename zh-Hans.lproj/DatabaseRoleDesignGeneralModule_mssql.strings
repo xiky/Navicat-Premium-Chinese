@@ -1,0 +1,16 @@
+
+/* Class = "NSComboBoxCell"; moo-6M-UaB.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "moo-6M-UaB"; */
+"moo-6M-UaB.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; moo-6M-UaB.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "moo-6M-UaB"; */
+"moo-6M-UaB.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; moo-6M-UaB.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "moo-6M-UaB"; */
+"moo-6M-UaB.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Owner:"; ObjectID = "srx-Gv-4tl"; */
+"srx-Gv-4tl.title" = "拥有者:";
+
+/* Class = "NSTextFieldCell"; title = "Role Name:"; ObjectID = "tCW-QU-cCj"; */
+"tCW-QU-cCj.title" = "角色名:";
+

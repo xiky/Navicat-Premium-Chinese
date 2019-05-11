@@ -1,0 +1,52 @@
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "21I-Ng-uF7"; */
+"21I-Ng-uF7.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Field Mapping"; ObjectID = "2PM-H2-UFT"; */
+"2PM-H2-UFT.title" = "字段映射";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "5yq-8T-Xok"; */
+"5yq-8T-Xok.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Dwu-Ex-KUR"; */
+"Dwu-Ex-KUR.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "E7c-dj-4eI"; */
+"E7c-dj-4eI.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Key Mapping"; ObjectID = "GXL-cJ-dfU"; */
+"GXL-cJ-dfU.title" = "键映射";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "K8b-6I-pk2"; */
+"K8b-6I-pk2.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "LYO-nv-Pxx"; */
+"LYO-nv-Pxx.title" = "全选";
+
+/* Class = "NSTextFieldCell"; title = "Target"; ObjectID = "NSQ-xv-8uY"; */
+"NSQ-xv-8uY.title" = "目标";
+
+/* Class = "NSTextFieldCell"; title = "Source"; ObjectID = "Qgk-0K-RpN"; */
+"Qgk-0K-RpN.title" = "源";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "aKF-4m-KM3"; */
+"aKF-4m-KM3.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Target"; ObjectID = "cmc-xw-z6C"; */
+"cmc-xw-z6C.title" = "目标";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "g6N-zW-Fy2"; */
+"g6N-zW-Fy2.title" = "Menu";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "gjG-h2-oQr"; */
+"gjG-h2-oQr.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "sun-6N-Qjt"; */
+"sun-6N-Qjt.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Deselect All"; ObjectID = "vvQ-4G-3Pp"; */
+"vvQ-4G-3Pp.title" = "取消全选";
+
+/* Class = "NSTextFieldCell"; title = "Source"; ObjectID = "xmc-xF-3Ar"; */
+"xmc-xF-3Ar.title" = "源";
+

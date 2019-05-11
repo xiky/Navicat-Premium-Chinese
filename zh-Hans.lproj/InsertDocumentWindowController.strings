@@ -1,0 +1,13 @@
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "4pa-5n-sCd"; */
+"4pa-5n-sCd.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Validate"; ObjectID = "5b0-aI-9b0"; */
+"5b0-aI-9b0.title" = "验证";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "GoI-oT-ZfX"; */
+"GoI-oT-ZfX.title" = "保存";
+
+/* Class = "NSWindow"; title = "Insert Document"; ObjectID = "i16-Cu-lLa"; */
+"i16-Cu-lLa.title" = "插入文档";
+

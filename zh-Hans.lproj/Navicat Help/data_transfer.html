@@ -1,0 +1,28 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>关于数据传输</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>关于数据传输（仅适用于非 Essentials 版）</h1>
+	<p>Navicat 让你从一个数据库或模式传输对象到另一个数据库或模式，或者到一个 SQL 文件（RDBMS）或一个 Javascript 文件（MongoDB）。目标数据库和/或模式可以与源数据库和/或模式的服务器相同或在其他服务器中。若要打开数据传输窗口，请从菜单栏选择“<span class="term">工具</span>”->“<span class="term">数据传输</span>”。</p>
+	<p>你可以将设置保存为一个配置文件以供将来使用或用作设置<a href="#/automation">自动运行任务</a>。若要打开一个已保存的配置文件，请点击“<span class="term">加载配置文件</span>”按钮并从列表中选择。</p>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>配置文件保存于默认的路径，例如：~/Library/Application Support/PremiumSoft CyberTech/Navicat CC/Common/Profiles</p>
+	</div>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>你可以拖拉表或集合到导航窗格中的一个数据库或模式。如果目标数据库或模式是在相同的连接中，Navicat 将会直接复制表或集合。否则，Navicat 将会弹出数据传输窗口。</p>
+	</div>
+</div>

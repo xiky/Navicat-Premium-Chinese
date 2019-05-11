@@ -1,0 +1,31 @@
+
+/* Class = "NSWindow"; title = "Export Wizard"; ObjectID = "8"; */
+"8.title" = "导出向导";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "183"; */
+"183.title" = "Menu";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "184"; */
+"184.title" = "保存";
+
+/* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "185"; */
+"185.title" = "另存为…";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "2107"; */
+"2107.title" = "继续";
+
+/* Class = "NSButtonCell"; title = "Start"; ObjectID = "2109"; */
+"2109.title" = "开始";
+
+/* Class = "NSButtonCell"; title = "Go Back"; ObjectID = "2110"; */
+"2110.title" = "返回";
+
+/* Class = "NSButtonCell"; title = "Pause"; ObjectID = "2111"; */
+"2111.title" = "暂停";
+
+/* Class = "NSSegmentedCell"; KBT-Fc-iaB.ibShadowedLabels[0] = "Save Profile"; ObjectID = "KBT-Fc-iaB"; */
+"KBT-Fc-iaB.ibShadowedLabels[0]" = "保存配置文件";
+
+/* Class = "NSSegmentedCell"; KBT-Fc-iaB.ibShadowedLabels[1] = "▾"; ObjectID = "KBT-Fc-iaB"; */
+"KBT-Fc-iaB.ibShadowedLabels[1]" = "▾";
+

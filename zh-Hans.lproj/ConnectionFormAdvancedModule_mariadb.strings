@@ -1,0 +1,37 @@
+
+/* Class = "NSTextFieldCell"; title = "Encoding:"; ObjectID = "4ZB-Cb-7ZB"; */
+"4ZB-Cb-7ZB.title" = "编码:";
+
+/* Class = "NSTextFieldCell"; title = "Settings Location:"; ObjectID = "NRb-1h-uY9"; */
+"NRb-1h-uY9.title" = "设置位置:";
+
+/* Class = "NSButtonCell"; title = "Limit connection sessions:"; ObjectID = "S1n-ft-XN4"; */
+"S1n-ft-XN4.title" = "限制连接会话:";
+
+/* Class = "NSButtonCell"; title = "Use compression"; ObjectID = "VTO-9r-Vuz"; */
+"VTO-9r-Vuz.title" = "使用压缩";
+
+/* Class = "NSButtonCell"; title = "Use socket file:"; ObjectID = "fOA-fj-x9M"; */
+"fOA-fj-x9M.title" = "使用套接字文件:";
+
+/* Class = "NSButtonCell"; title = "Keepalive interval (sec):"; ObjectID = "i2P-2L-tzO"; */
+"i2P-2L-tzO.title" = "保持连接间隔（秒）:";
+
+/* Class = "NSButtonCell"; title = "Auto connect"; ObjectID = "kNz-gw-qZK"; */
+"kNz-gw-qZK.title" = "自动连接";
+
+/* Class = "NSTextFieldCell"; placeholderString = "/tmp/mysql.sock"; ObjectID = "kgW-DZ-TY3"; */
+"kgW-DZ-TY3.placeholderString" = "/tmp/mysql.sock";
+
+/* Class = "NSTextFieldCell"; placeholderString = "10"; ObjectID = "nMa-HI-Wso"; */
+"nMa-HI-Wso.placeholderString" = "10";
+
+/* Class = "NSMenuItem"; title = "Auto"; ObjectID = "qyt-yS-vpF"; */
+"qyt-yS-vpF.title" = "自动";
+
+/* Class = "NSMenuItem"; title = "⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Manual ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯"; ObjectID = "xoq-BL-Q2j"; */
+"xoq-BL-Q2j.title" = "⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Manual ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯";
+
+/* Class = "NSTextFieldCell"; placeholderString = "240"; ObjectID = "xvZ-oh-SuM"; */
+"xvZ-oh-SuM.placeholderString" = "240";
+

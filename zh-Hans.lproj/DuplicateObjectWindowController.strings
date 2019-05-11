@@ -1,0 +1,16 @@
+
+/* Class = "NSWindow"; title = "Copying…"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "复制…";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Message Label"; ObjectID = "Vtz-RS-ch5"; */
+"Vtz-RS-ch5.ibExternalAccessibilityDescription" = "Message Label";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "eYE-UZ-gwI"; */
+"eYE-UZ-gwI.title" = "取消";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Current Object Label"; ObjectID = "qr6-Mp-0kK"; */
+"qr6-Mp-0kK.ibExternalAccessibilityDescription" = "Current Object Label";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Location Label"; ObjectID = "rgN-CW-chf"; */
+"rgN-CW-chf.ibExternalAccessibilityDescription" = "Location Label";
+

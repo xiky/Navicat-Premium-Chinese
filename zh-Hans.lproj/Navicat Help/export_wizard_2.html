@@ -1,0 +1,32 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>选择保存路径</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>选择保存路径</h1>
+	<p>你可以在这个步骤设置导出的文件名和路径。点击“<span class="term">更改</span>”按钮来更改默认的导出位置。</p>
+	<p>勾选你想导出的对象名旁的框。如果在对象窗格高亮显示了现有的对象，它将会被自动勾选。扩展名会根据在第一步选择的导出类型而改变。如果你导出已选择的对象到相同的目标文件，你可以按住 Control 键并点按网格，然后选择“<span class="term">导出已选择的到相同文件</span>”。当文件格式是 Excel，每一个对象会导出为 Excel 文件内的一个工作表。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>导出查询结果时，请确保在运行导出向导前保存查询。否则，这里不会显示源对象。</p>
+	</div>
+	<p><span class="term">编码</span></p>
+	<p>选择导出文件的编码。</p>
+	<p><span class="term">添加时间戳</span></p>
+	<p>如果你想文件名有导出运行时的时间戳，可勾选这个选项。然后，从下拉式菜单选择日期或时间格式。</p>
+	<figure>
+		<a href="./images/exportStep2.png" target="_blank"><img src="./images/exportStep2.png"/></a>
+	</figure>
+</div>

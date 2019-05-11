@@ -1,0 +1,44 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>角色设计器</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>角色设计器</h1>
+	<h2>常规属性</h2>
+	<p><span class="term">角色名</span></p>
+	<p>定义角色的名。</p>
+	<h2>内置角色</h2>
+	<p>在列表中，指定此角色成为已选择的内置角色的成员。</p>
+	<h2>用户定义角色</h2>
+	<p>在列表中，指定此角色成为已选择的用户定义角色的成员。</p>
+	<h2>成员 (角色)</h2>
+	<p>在列表中，指定已选择的角色成为此角色的成员。</p>
+	<h2>成员 (用户)</h2>
+	<p>在列表中，指定已选择的用户成为此角色的成员。</p>
+	<h2>验证限制</h2>
+	<p>若要编辑服务器对角色强制执行的特定验证限制，请点击 <img src="./images/icon_addRestriction.png" alt="添加限制" class="inlineGraphic" height="16" width="16"/>。</p>
+	<p><span class="term">客户端源</span></p>
+	<p>指定 IP 地址或 CIDR 范围列表以限制客户端的 IP 地址。</p>
+	<p><span class="term">服务器地址</span></p>
+	<p>指定客户端可以连接的 IP 地址或 CIDR 范围列表。</p>
+	<h2>权限</h2>
+	<p>若要编辑角色的特定对象权限，请点击 <img src="./images/icon_addPrivilege.png" alt="添加权限" class="inlineGraphic" height="16" width="16"/> 以打开窗口并按照下列步骤：</p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在树视图展开节点直至到达目标对象。</p></li>
+		<li><p>勾选要授予权限的对象。</p></li>
+		<li><p>在网格中，对照在“<span class="term">权限</span>”列出的权限，勾选“<span class="term">状态</span>”选项以指定此角色有这个权限。若要授予或撤消所有权限，按住 Control 键并点按网格，然后选择“<span class="term">全部授予</span>”或“<span class="term">全部撤消</span>”。</p></li>
+	</ul>
+</div>

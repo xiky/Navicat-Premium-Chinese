@@ -1,0 +1,31 @@
+
+/* Class = "NSTextFieldCell"; title = "Text Qualifier:"; ObjectID = "3j5-Lz-880"; */
+"3j5-Lz-880.title" = "文本识别符号:";
+
+/* Class = "NSTextFieldCell"; title = "Field Delimiter:"; ObjectID = "C6x-7D-MhZ"; */
+"C6x-7D-MhZ.title" = "字段分隔符:";
+
+/* Class = "NSTextFieldCell"; title = "Record Delimiter:"; ObjectID = "GrK-Qw-gF1"; */
+"GrK-Qw-gF1.title" = "记录分隔符:";
+
+/* Class = "NSComboBoxCell"; Ult-Hj-uwR.ibShadowedObjectValues[1] = "\""; ObjectID = "Ult-Hj-uwR"; */
+"Ult-Hj-uwR.ibShadowedObjectValues[1]" = "\"";
+
+/* Class = "NSComboBoxCell"; Ult-Hj-uwR.ibShadowedObjectValues[2] = "'"; ObjectID = "Ult-Hj-uwR"; */
+"Ult-Hj-uwR.ibShadowedObjectValues[2]" = "'";
+
+/* Class = "NSComboBoxCell"; Ult-Hj-uwR.ibShadowedObjectValues[3] = "`"; ObjectID = "Ult-Hj-uwR"; */
+"Ult-Hj-uwR.ibShadowedObjectValues[3]" = "`";
+
+/* Class = "NSComboBoxCell"; Ult-Hj-uwR.ibShadowedObjectValues[4] = "~"; ObjectID = "Ult-Hj-uwR"; */
+"Ult-Hj-uwR.ibShadowedObjectValues[4]" = "~";
+
+/* Class = "NSTextFieldCell"; title = "Choose File Options (3/8)"; ObjectID = "gBb-eH-OJJ"; */
+"gBb-eH-OJJ.title" = "Choose File Options (3/8)";
+
+/* Class = "NSTextFieldCell"; title = "What delimiter separates your fields? Select the appropriate delimiter."; ObjectID = "vbD-gr-O2J"; */
+"vbD-gr-O2J.title" = "你的字段要用什么分隔符来分隔？请选择合适的分隔符。";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "znV-sU-Ndu"; */
+"znV-sU-Ndu.title" = "OtherViews";
+

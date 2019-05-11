@@ -1,0 +1,49 @@
+
+/* Class = "NSTextFieldCell"; title = "* OCI Environment settings will take effect after Navicat restarts"; ObjectID = "6if-oe-e5Z"; */
+"6if-oe-e5Z.title" = "* OCI 环境设置将于重新启动 Navicat 后生效";
+
+/* Class = "NSTextFieldCell"; title = "TNS_ADMIN:"; ObjectID = "BVU-Nd-WrJ"; */
+"BVU-Nd-WrJ.title" = "TNS_ADMIN:";
+
+/* Class = "NSTextFieldCell"; title = "OCI Environment"; ObjectID = "G1y-yB-her"; */
+"G1y-yB-her.title" = "OCI 环境";
+
+/* Class = "NSTextFieldCell"; title = "ORACLE_HOME:"; ObjectID = "K4l-md-VEI"; */
+"K4l-md-VEI.title" = "ORACLE_HOME:";
+
+/* Class = "NSTextFieldCell"; title = "SQLite3 Dynamic Library Path:"; ObjectID = "O4j-mh-aMX"; */
+"O4j-mh-aMX.title" = "SQLite3 Dynamic Library 路径:";
+
+/* Class = "NSTextFieldCell"; title = "SQL*Plus Executable Path:"; ObjectID = "Vbo-zl-PSp"; */
+"Vbo-zl-PSp.title" = "SQL*Plus 可执行文件路径:";
+
+/* Class = "NSButtonCell"; title = "Use bundled instant client"; ObjectID = "XDf-j0-X7y"; */
+"XDf-j0-X7y.title" = "使用捆绑的 instant client";
+
+/* Class = "NSTextFieldCell"; title = "MongoShell Executable Path:"; ObjectID = "YiH-54-PJB"; */
+"YiH-54-PJB.title" = "MongoShell Executable Path:";
+
+/* Class = "NSTextFieldCell"; title = "External Editor:"; ObjectID = "Z51-RO-tDX"; */
+"Z51-RO-tDX.title" = "外部编辑器:";
+
+/* Class = "NSTextFieldCell"; title = "Executables"; ObjectID = "anb-WI-0KM"; */
+"anb-WI-0KM.title" = "可执行文件";
+
+/* Class = "NSTextFieldCell"; title = "* Changes will take effect after Navicat restarts"; ObjectID = "caE-g1-pyN"; */
+"caE-g1-pyN.title" = "* 更改将于重新启动 Navicat 后生效";
+
+/* Class = "NSTextFieldCell"; title = "MongoDump Executable Path:"; ObjectID = "dLT-cN-auz"; */
+"dLT-cN-auz.title" = "MongoDump 可执行文件路径:";
+
+/* Class = "NSTextFieldCell"; title = "MongoRestore Executable Path:"; ObjectID = "hQx-N8-MXc"; */
+"hQx-N8-MXc.title" = "MongoRestore 可执行文件路径:";
+
+/* Class = "NSTextFieldCell"; title = "DYLD_LIBRARY_PATH:"; ObjectID = "hsU-JF-x8b"; */
+"hsU-JF-x8b.title" = "DYLD_LIBRARY_PATH:";
+
+/* Class = "NSTextFieldCell"; title = "MongoExport Executable Path:"; ObjectID = "qLU-YU-BAY"; */
+"qLU-YU-BAY.title" = "MongoExport 可执行文件路径:";
+
+/* Class = "NSTextFieldCell"; title = "MongoImport Executable Path:"; ObjectID = "zig-8m-r3m"; */
+"zig-8m-r3m.title" = "MongoImport 可执行文件路径:";
+

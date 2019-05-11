@@ -1,0 +1,67 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>树视图</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>树视图</h1>
+	<p>树视图以分层视图显示文档。导航栏可让你快速地切换、插入或删除文档。</p>
+	<p><span class="term">添加一个文档</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在导航栏点击 <img src="./images/icon_insertRecord.png" alt="添加文档" class="inlineGraphic" height="16" width="16"/> 或按 COMMAND-+ 来得到一个空白显示的文档。</p></li>
+		<li><p>输入所需的数据。</p></li>
+		<li><p>在导航栏点击 <img src="./images/icon_updateRecord.png" alt="应用更改" class="inlineGraphic" height="16" width="16"/> 来保存文档。</p></li>
+	</ul>
+	<div class="alert">
+		<p><span class="note">【注意】</span>如果你的集合是空的，你需要点击 <img src="./images/icon_addField.png" alt="添加字段" class="inlineGraphic" height="16" width="16"/> 来添加新字段。</p>
+	</div>
+	<p><span class="term">编辑一个文档</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>前往你想编辑的文档。</p></li>
+		<li><p>点击要修改的字段名、值或类型。</p></li>
+		<li><p>在导航栏点击 <img src="./images/icon_updateRecord.png" alt="应用更改" class="inlineGraphic" height="16" width="16"/> 来应用更改。</p></li>
+	</ul>
+	<p><span class="term">添加一个字段或一个项目</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>前往你想编辑的文档。</p></li>
+		<li><p>点击 <img src="./images/icon_addField.png" alt="添加字段" class="inlineGraphic" height="16" width="16"/> 来添加一个新字段或项目。</p></li>
+		<li><p>输入所需的数据。</p></li>
+	</ul>
+	<p><span class="term">删除一个字段或一个项目</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>前往你想编辑的文档。</p></li>
+		<li><p>按住 Control 键并点按你想删除的字段或项目，然后选择“<span class="term">删除值</span>”。</p></li>
+	</ul>
+	<div class="alert">
+		<p><span class="note">【注意】</span>关闭表是另一种保存文档的方法。</p>
+	</div>
+	<p><span class="term">删除一个文档</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>前往你想删除的文档。</p></li>
+		<li><p>只需简单地在导航栏点击 <img src="./images/icon_deleteRecord.png" alt="删除文档" class="inlineGraphic" height="16" width="16"/>。</p></li>
+	</ul>
+	<h2>编辑要特殊处理的文档</h2>
+	<p>若要设置值为空白字符串或 NULL，请按住 Control 键并点按已选择的项目，然后选择“<span class="term">值类型</span>”->“<span class="term">NULL</span>”。</p>
+	<p>若要编辑 DateTime 数据，只需简单地点击 <img src="./images/indexButton.png" alt="省略号按钮" class="inlineGraphic" height="16" width="16"/> 打开编辑器。选择或输入所需的数据。</p>
+	<figure>
+		<a href="./images/editTreeDateTimeMongoDB.png" target="_blank"><img src="./images/editTreeDateTimeMongoDB.png"/></a>
+	</figure>
+	<h2>设置树视图格式</h2>
+	<p><span class="term">展开或折叠嵌入式文档和数组</span></p>
+	<p>所有嵌入式文档和数组都以节点表示。点击节点图标可以展开或折叠节点。</p>
+	<figure>
+		<a href="./images/embeddedFieldTreeMongoDB.png" target="_blank"><img src="./images/embeddedFieldTreeMongoDB.png"/></a>
+	</figure>
+</div>

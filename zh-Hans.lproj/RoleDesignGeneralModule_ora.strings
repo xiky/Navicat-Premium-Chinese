@@ -1,0 +1,13 @@
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "7xK-I6-B4p"; */
+"7xK-I6-B4p.title" = "密码:";
+
+/* Class = "NSTextFieldCell"; title = "Password Encryption:"; ObjectID = "T3w-07-iQ9"; */
+"T3w-07-iQ9.title" = "密码加密:";
+
+/* Class = "NSTextFieldCell"; title = "Role Name:"; ObjectID = "e5f-XU-VuL"; */
+"e5f-XU-VuL.title" = "角色名:";
+
+/* Class = "NSTextFieldCell"; title = "Confirm Password:"; ObjectID = "mOP-vw-9E6"; */
+"mOP-vw-9E6.title" = "确认密码:";
+

@@ -1,0 +1,28 @@
+
+/* Class = "NSButtonCell"; title = "Stop"; ObjectID = "2Xk-LY-RZJ"; */
+"2Xk-LY-RZJ.title" = "停止";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "4Dd-iW-RPb"; */
+"4Dd-iW-RPb.title" = "Menu";
+
+/* Class = "NSSegmentedCell"; CdR-bk-WgC.ibShadowedLabels[0] = "Save Profile"; ObjectID = "CdR-bk-WgC"; */
+"CdR-bk-WgC.ibShadowedLabels[0]" = "保存配置文件";
+
+/* Class = "NSSegmentedCell"; CdR-bk-WgC.ibShadowedLabels[1] = "▾"; ObjectID = "CdR-bk-WgC"; */
+"CdR-bk-WgC.ibShadowedLabels[1]" = "▾";
+
+/* Class = "NSWindow"; title = "Backup"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "备份";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "Rtm-X2-FF7"; */
+"Rtm-X2-FF7.title" = "关闭";
+
+/* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "ThT-cI-wcV"; */
+"ThT-cI-wcV.title" = "另存为…";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "aAS-Be-B0F"; */
+"aAS-Be-B0F.title" = "保存";
+
+/* Class = "NSButtonCell"; title = "Start"; ObjectID = "jLw-cx-Rs3"; */
+"jLw-cx-Rs3.title" = "开始";
+

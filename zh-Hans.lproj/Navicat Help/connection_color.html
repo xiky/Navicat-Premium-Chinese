@@ -1,0 +1,25 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>连接颜色</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>连接颜色</h1>
+	<p>Navicat 提供以颜色高亮显示连接的功能，用于识别连接和它们的数据库对象。当你处理数据库对象时，它可以让你立即知道你正连接到哪个连接。高亮显示的颜色会显示在导航窗格和对象窗口的选项卡。</p>
+	<p>若要高亮显示一个连接，请按住 Control 键并点按导航窗格中的连接，然后选择“<span class="term">颜色</span>”。</p>
+	<figure>
+		<a href="./images/connectionColoring.png" target="_blank"><img src="./images/connectionColoring.png"/></a>
+	</figure>
+</div>

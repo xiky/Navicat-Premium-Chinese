@@ -1,0 +1,96 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>同步到数据库</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>同步到数据库</h1>
+	<p>“<span class="term">同步到数据库</span>”功能让你比对模型和现有模式或表，显示它们之间结构的差异，并提供同步模型的结构到目标连接。</p>
+	<p>Navicat 提供一个向导，一步一步指导你完成任務：</p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>选择“<span class="term">文件</span>”->“<span class="term">同步到数据库</span>”。</p></li>
+		<li><p>选择同步类型。</p></li>
+		<li><p>从现有的连接中选择目标连接。</p></li>
+		<li><p>选择源数据库、模式、表或视图。</p></li>
+		<li><p>选择比对和运行的选项。</p></li>
+		<li><p>点击“<span class="term">比对</span>”来生成一套脚本，显示源和目标对象之间的差别。</p></li>
+		<li><p>选择你要运行的脚本。</p></li>
+		<li><p>点击“<span class="term">运行</span>”。</p></li>
+	</ul>
+	<h2>选择同步类型</h2>
+	<p><span class="term">同步已选择的模式</span></p>
+	<p>设置同步已选择的模式里的所有对象。</p>
+	<p><span class="term">同步已选择的对象</span></p>
+	<p>设置只同步已选择的对象。</p>
+	<h2>选择目标连接</h2>
+	<p>在这个步骤里，从现有的连接选择目标连接。</p>
+	<h2>选择模式或对象</h2>
+	<p>在这个步骤里，选择模型中一个或以上的模式或对象来比对目标模式或对象。如果模型的对象是来自现有的模式，你可以选择现有的模式。否则，在“<span class="term">定义要比对的默认模式名</span>”为源模型的对象输入一个目标模式名来比对。</p>
+	<h2>选择同步选项</h2>
+	<div class="alert">
+		<p><span class="note">【注意】</span>下列选项是根据你所选择的图表数据库类型而有所不同。</p>
+	</div>
+	<p><span class="term">比对自动递增值</span></p>
+	<p>如果你想比对表的自动递增值，可勾选这个选项。</p>
+	<p><span class="term">比对字符集</span></p>
+	<p>如果你想比对表的字符集，可勾选这个选项。</p>
+	<p><span class="term">比对检查</span></p>
+	<p>如果你想比对检查，可勾选这个选项。</p>
+	<p><span class="term">比对排序规则</span></p>
+	<p>如果你想比对表的排序规则，可勾选这个选项。</p>
+	<p><span class="term">比对定义者</span></p>
+	<p>如果你想比对视图的定义者，可勾选这个选项。</p>
+	<p><span class="term">比对排除</span></p>
+	<p>如果你想比对排除，可勾选这个选项。</p>
+	<p><span class="term">比对外键</span></p>
+	<p>如果你想比对表外键，可勾选这个选项。</p>
+	<p><span class="term">用大小写相关比对</span></p>
+	<p>如果你想用大小写相关选项比对表识别符，可勾选这个选项。</p>
+	<p><span class="term">比对索引</span></p>
+	<p>如果你想比对索引，可勾选这个选项。</p>
+	<p><span class="term">比对主键</span></p>
+	<p>如果你想比对表主键，可勾选这个选项。</p>
+	<p><span class="term">比对规则</span></p>
+	<p>如果你想比对规则，可勾选这个选项。</p>
+	<p><span class="term">比对表</span></p>
+	<p>如果你想比对表，可勾选这个选项。</p>
+	<p><span class="term">比对触发器</span></p>
+	<p>如果你想比对触发器，可勾选这个选项。</p>
+	<p><span class="term">比对唯一键</span></p>
+	<p>如果你想比对唯一键，可勾选这个选项。</p>
+	<p><span class="term">比对视图</span></p>
+	<p>如果你想比对视图，可勾选这个选项。</p>
+	<p><span class="term">遇到错误时继续</span></p>
+	<p>在同步进程中忽略遇到的错误。</p>
+	<p><span class="term">更改对象的 SQL</span></p>
+	<p>如果对象将在目标中更改，要包含所有的相关 SQL 语句，可勾选这个选项。</p>
+	<p><span class="term">创建对象的 SQL</span></p>
+	<p>如果新的对象将创建在目标，要包含所有的相关 SQL 语句，可勾选这个选项。</p>
+	<p><span class="term">删除对象的 SQL</span></p>
+	<p>如果对象将从目标中删除，要包含所有的相关 SQL 语句，可勾选这个选项。</p>
+	<h2>查看比对结果</h2>
+	<p>“<span class="term">模型对象</span>”和“<span class="term">数据库对象</span>”视图显示在结构比对后模型和数据库/模式对象之间的不同之处，在“<span class="term">结果</span>”列表中提供详细 SQL 语句。</p>
+	<p>红色项目表示其他数据库或模式不存在的对象。蓝色项目表示其他数据库或模式存在的对象，但侦测到有不同的定义。</p>
+	<figure>
+		<a href="./images/modelSyncList.png" target="_blank"><img src="./images/modelSyncList.png"/></a>
+	</figure>
+	<p>在默认情况下，所有脚本在“<span class="term">结果</span>”列表中是取消勾选的。勾选你想应用到目标的脚本。</p>
+	<p>若要查看完整 SQL 语句，移动滑鼠光标停留在一句语句之上。</p>
+		<figure>
+		<a href="./images/modelSyncQuery.png" target="_blank"><img src="./images/modelSyncQuery.png"/></a>
+	</figure>
+	<h2>运行查询</h2>
+	<p>点击“<span class="term">运行</span>”按钮来运行已选择的查询。</p>
+</div>

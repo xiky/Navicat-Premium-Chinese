@@ -1,0 +1,28 @@
+
+/* Class = "NSButtonCell"; title = "Edit"; ObjectID = "1Lt-C0-UYE"; */
+"1Lt-C0-UYE.title" = "编辑";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "3Wn-KX-ksU"; */
+"3Wn-KX-ksU.title" = "保存";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "4UN-FO-NZT"; */
+"4UN-FO-NZT.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Code:"; ObjectID = "FVm-zR-zoL"; */
+"FVm-zR-zoL.title" = "代码:";
+
+/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "gbN-gp-VgF"; */
+"gbN-gp-VgF.title" = "名";
+
+/* Class = "NSTextFieldCell"; title = "Remarks:"; ObjectID = "gve-Rq-wN9"; */
+"gve-Rq-wN9.title" = "备注:";
+
+/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "igv-9G-eWe"; */
+"igv-9G-eWe.title" = "名";
+
+/* Class = "NSTextFieldCell"; title = "Database Type:"; ObjectID = "uYv-4p-2W8"; */
+"uYv-4p-2W8.title" = "数据库类型:";
+
+/* Class = "NSTextFieldCell"; title = "Label:"; ObjectID = "vcp-zx-hbp"; */
+"vcp-zx-hbp.title" = "标签:";
+

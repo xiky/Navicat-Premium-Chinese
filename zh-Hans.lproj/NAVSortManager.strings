@@ -1,0 +1,16 @@
+
+/* Class = "NSWindow"; title = "Sort"; ObjectID = "3"; */
+"3.title" = "排序";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "281"; */
+"281.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "282"; */
+"282.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "285"; */
+"285.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "286"; */
+"286.title" = "取消";
+

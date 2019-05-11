@@ -1,0 +1,34 @@
+
+/* Class = "NSTabViewItem"; label = "Constraint"; ObjectID = "4yW-oa-o7A"; */
+"4yW-oa-o7A.label" = "约束";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "90x-7Z-BaV"; */
+"90x-7Z-BaV.title" = "Table View Cell";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "FCk-tq-SN5"; */
+"FCk-tq-SN5.label" = "常规";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Hnc-1d-PDd"; */
+"Hnc-1d-PDd.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Constraint"; ObjectID = "NYh-m5-TZV"; */
+"NYh-m5-TZV.title" = "约束";
+
+/* Class = "NSTextFieldCell"; title = "Referenced Table"; ObjectID = "PU6-tc-mj8"; */
+"PU6-tc-mj8.title" = "参考表";
+
+/* Class = "NSTextFieldCell"; title = "Deferred"; ObjectID = "Sad-RO-HcY"; */
+"Sad-RO-HcY.title" = "延迟";
+
+/* Class = "NSTextFieldCell"; title = "Trigger Function:"; ObjectID = "bMB-ya-fqr"; */
+"bMB-ya-fqr.title" = "触发函数:";
+
+/* Class = "NSTextFieldCell"; title = "When:"; ObjectID = "blR-FA-rfT"; */
+"blR-FA-rfT.title" = "当:";
+
+/* Class = "NSTextFieldCell"; title = "Deferrable"; ObjectID = "gZE-Sp-PjZ"; */
+"gZE-Sp-PjZ.title" = "可延迟";
+
+/* Class = "NSTextFieldCell"; title = "Arguments:"; ObjectID = "nBf-eo-Ciq"; */
+"nBf-eo-Ciq.title" = "参数:";
+

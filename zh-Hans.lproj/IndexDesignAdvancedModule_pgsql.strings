@@ -1,0 +1,55 @@
+
+/* Class = "NSButtonCell"; title = "Concurrently"; ObjectID = "2Ex-4q-egD"; */
+"2Ex-4q-egD.title" = "并发";
+
+/* Class = "NSTextFieldCell"; title = "Fast Update:"; ObjectID = "65a-Rp-eXJ"; */
+"65a-Rp-eXJ.title" = "快速更新:";
+
+/* Class = "NSTextFieldCell"; title = "Constraint:"; ObjectID = "D82-Hn-8SH"; */
+"D82-Hn-8SH.title" = "约束:";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "DKr-IS-Idz"; */
+"DKr-IS-Idz.title" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Buffering:"; ObjectID = "JX3-bb-NC3"; */
+"JX3-bb-NC3.title" = "正在缓冲:";
+
+/* Class = "NSButtonCell"; title = "Cluster"; ObjectID = "OTL-BP-gfu"; */
+"OTL-BP-gfu.title" = "群集";
+
+/* Class = "NSButtonCell"; title = "..."; ObjectID = "YnL-Pw-72F"; */
+"YnL-Pw-72F.title" = "...";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "b57-Ja-pjQ"; */
+"b57-Ja-pjQ.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "dqf-0H-yCm"; */
+"dqf-0H-yCm.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "nmR-Gn-9jd"; */
+"nmR-Gn-9jd.title" = "Item 2";
+
+/* Class = "NSTextFieldCell"; title = "Tablespace:"; ObjectID = "qFZ-hr-hZS"; */
+"qFZ-hr-hZS.title" = "表空间:";
+
+/* Class = "NSTextFieldCell"; title = "Storage Parameters"; ObjectID = "r1g-8C-6jl"; */
+"r1g-8C-6jl.title" = "存储参数";
+
+/* Class = "NSTextFieldCell"; title = "Fill Factor (%):"; ObjectID = "tPj-5F-LeF"; */
+"tPj-5F-LeF.title" = "填充因子（%）:";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "ul7-RQ-Y64"; */
+"ul7-RQ-Y64.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "xzC-W3-WpG"; */
+"xzC-W3-WpG.title" = "Item 3";
+
+/* Class = "NSComboBoxCell"; yBh-lH-aUw.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "yBh-lH-aUw"; */
+"yBh-lH-aUw.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; yBh-lH-aUw.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "yBh-lH-aUw"; */
+"yBh-lH-aUw.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; yBh-lH-aUw.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "yBh-lH-aUw"; */
+"yBh-lH-aUw.ibShadowedObjectValues[2]" = "Item 3";
+

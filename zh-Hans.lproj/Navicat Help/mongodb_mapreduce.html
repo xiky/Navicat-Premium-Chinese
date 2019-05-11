@@ -1,0 +1,48 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>MapReduce</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>MapReduce</h1>
+	<p>Map-Reduce 是一种数据处理范例，用于将大量数据压缩为有用的聚合结果。在主窗口中，点击 <img src="./images/icon_mapReduce.png" alt="MapReduce" class="inlineGraphic" height="16" width="16"/>“<span class="term">MapReduce</span>”来打开 Map-Reduce 的对象列表。</p>
+	<p>你可以设置<a href="#/automation">自动运行任务</a>以计划运行 Map-Reduce 工作。</p>
+	<h2>Map-Reduce 设计器</h2>
+	<p>“<span class="term">Map-Reduce 设计器</span>”是一个用于设计 Map-Reduce 的 Navicat 基本工具。</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>按钮</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_run.png" alt="运行" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>运行 Map-Reduce 工作。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_stop.png" alt="停止" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>停止运行 Map-Reduce 工作。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_previewView.png" alt="预览" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>通过应用输入、映射器、化简器或终结器来预览文档。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_importFunction.png" alt="导入函数" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>将现有的函数导入映射器、化简器或终结器。</p></td>
+		</tr>
+	</table>
+	<h2>结果</h2>
+	<p>若要运行 Map-Reduce 工作，请在工具栏点击 <img src="./images/icon_run.png" alt="运行" class="inlineGraphic" height="16" width="16"/>。如果你设置以内联方式输出结果，“<span class="term">结果</span>”选项卡会打开显示返回的文档、文档数量和计时信息。如果你设置将结果写入集合，结果将返回文档到指定的输出集合。</p>
+</div>

@@ -1,0 +1,22 @@
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "7ur-Oe-DAx"; */
+"7ur-Oe-DAx.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Encrypted"; ObjectID = "AJv-x1-EHT"; */
+"AJv-x1-EHT.title" = "已加密";
+
+/* Class = "NSTextFieldCell"; title = "Database Name:"; ObjectID = "Bol-Qu-QNe"; */
+"Bol-Qu-QNe.title" = "数据库名:";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "窗口";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "WyP-YQ-iwU"; */
+"WyP-YQ-iwU.title" = "密码:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "iA1-FG-9BB"; */
+"iA1-FG-9BB.title" = "确定";
+
+/* Class = "NSTextFieldCell"; title = "Database File:"; ObjectID = "rlb-xT-lwY"; */
+"rlb-xT-lwY.title" = "数据库文件:";
+

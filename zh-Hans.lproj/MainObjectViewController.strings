@@ -1,0 +1,58 @@
+
+/* Class = "NSMenuItem"; title = "List"; ObjectID = "0ju-YD-LEI"; */
+"0ju-YD-LEI.title" = "列表";
+
+/* Class = "NSMenuItem"; title = "Show Information Pane"; ObjectID = "2QH-7g-lHw"; */
+"2QH-7g-lHw.title" = "显示信息窗格";
+
+/* Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "32c-w8-eVy"; */
+"32c-w8-eVy.title" = "显示工具栏";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "6oF-DQ-N09"; */
+"6oF-DQ-N09.title" = "进入全屏幕";
+
+/* Class = "NSMenuItem"; title = "Show Hidden Items"; ObjectID = "7kf-UQ-BSC"; */
+"7kf-UQ-BSC.title" = "显示隐藏的项目";
+
+/* Class = "NSMenuItem"; title = "Show Status Bar"; ObjectID = "8YI-nu-eHI"; */
+"8YI-nu-eHI.title" = "显示状态栏";
+
+/* Class = "NSMenuItem"; title = "Navigation Pane"; ObjectID = "ArJ-rt-nzA"; */
+"ArJ-rt-nzA.title" = "导航窗格";
+
+/* Class = "NSMenuItem"; title = "Information Pane"; ObjectID = "Dlt-mw-lP3"; */
+"Dlt-mw-lP3.title" = "信息窗格";
+
+/* Class = "NSMenu"; title = "Information Pane"; ObjectID = "F8P-om-r6T"; */
+"F8P-om-r6T.title" = "信息窗格";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "G39-On-bVZ"; */
+"G39-On-bVZ.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Flatten Connection"; ObjectID = "HRr-c7-gOj"; */
+"HRr-c7-gOj.title" = "隐藏连接组";
+
+/* Class = "NSMenu"; title = "Navigation Pane"; ObjectID = "Ifb-h4-CaX"; */
+"Ifb-h4-CaX.title" = "导航窗格";
+
+/* Class = "NSMenuItem"; title = "Detail"; ObjectID = "P6w-XH-UBj"; */
+"P6w-XH-UBj.title" = "详细信息";
+
+/* Class = "NSMenuItem"; title = "Flatten Object List"; ObjectID = "Vq8-ew-D17"; */
+"Vq8-ew-D17.title" = "隐藏对象組";
+
+/* Class = "NSMenuItem"; title = "Show Only Active Objects"; ObjectID = "hLM-15-vZu"; */
+"hLM-15-vZu.title" = "仅显示活跃​​对象";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "m6p-Eh-8DP"; */
+"m6p-Eh-8DP.title" = "查看";
+
+/* Class = "NSMenuItem"; title = "Choose Columns…"; ObjectID = "s0k-M7-L2f"; */
+"s0k-M7-L2f.title" = "选择列…";
+
+/* Class = "NSMenuItem"; title = "Show Navigation Pane"; ObjectID = "vd7-3N-Wnv"; */
+"vd7-3N-Wnv.title" = "显示导航窗格";
+
+/* Class = "NSMenuItem"; title = "ER Diagram"; ObjectID = "z2e-Yn-P1N"; */
+"z2e-Yn-P1N.title" = "ER 图表";
+

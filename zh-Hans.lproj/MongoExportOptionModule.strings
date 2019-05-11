@@ -1,0 +1,22 @@
+
+/* Class = "NSButtonCell"; title = "Force to scan the data store directly"; ObjectID = "EYB-p7-54u"; */
+"EYB-p7-54u.title" = "强制直接扫描数据存储";
+
+/* Class = "NSTextFieldCell"; title = "Skip:"; ObjectID = "Kuw-EU-lfn"; */
+"Kuw-EU-lfn.title" = "跳过:";
+
+/* Class = "NSTextFieldCell"; title = "Sort:"; ObjectID = "L0K-9E-9ah"; */
+"L0K-9E-9ah.title" = "排序:";
+
+/* Class = "NSButtonCell"; title = "Show more details in message log"; ObjectID = "Pvg-jx-gLs"; */
+"Pvg-jx-gLs.title" = "在信息日志中显示更多详细信息";
+
+/* Class = "NSTextFieldCell"; title = "Query:"; ObjectID = "S00-NU-dZi"; */
+"S00-NU-dZi.title" = "查询:";
+
+/* Class = "NSTextFieldCell"; title = "Limit:"; ObjectID = "Y0V-k9-oCJ"; */
+"Y0V-k9-oCJ.title" = "限制:";
+
+/* Class = "NSButtonCell"; title = "Skip the message log"; ObjectID = "g0w-Tp-k0B"; */
+"g0w-Tp-k0B.title" = "跳过信息日志";
+

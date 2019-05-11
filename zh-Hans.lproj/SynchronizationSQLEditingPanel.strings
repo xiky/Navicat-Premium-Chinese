@@ -1,0 +1,22 @@
+
+/* Class = "NSWindow"; title = "Edit Deployment Script"; ObjectID = "8"; */
+"8.title" = "编辑部署脚本";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "2109"; */
+"2109.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "2111"; */
+"2111.title" = "取消";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "1Hv-8h-wDu"; */
+"1Hv-8h-wDu.title" = "Menu";
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "ABi-SV-M77"; */
+"ABi-SV-M77.title" = "文本";
+
+/* Class = "NSMenuItem"; title = "Deselect All"; ObjectID = "PCX-fH-HhE"; */
+"PCX-fH-HhE.title" = "取消全选";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "WyU-G9-Hy6"; */
+"WyU-G9-Hy6.title" = "全选";
+

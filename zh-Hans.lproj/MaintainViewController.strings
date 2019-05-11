@@ -1,0 +1,13 @@
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "E35-uM-3Po"; */
+"E35-uM-3Po.headerCell.title" = "名";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JPL-px-nuW"; */
+"JPL-px-nuW.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Rows"; ObjectID = "dGD-42-wAx"; */
+"dGD-42-wAx.headerCell.title" = "行";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "qV1-eJ-Jb9"; */
+"qV1-eJ-Jb9.title" = "Text Cell";
+

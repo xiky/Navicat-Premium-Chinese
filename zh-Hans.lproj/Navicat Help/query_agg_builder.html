@@ -1,0 +1,28 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>聚合创建工具</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>聚合创建工具（仅适用于非 Essentials 版本）</h1>
+	<p>Navicat 提供聚合创建工具让你视觉化地创建查询以返回已计算的结果。它让你不需具有 <i>aggregate</i> 语句的知识就能轻松创建和编辑查询。</p>
+	<p>在查询设计器中，点击 <img src="./images/icon_aggregateBuilder.png" alt="聚合创建工具" class="inlineGraphic" height="16" width="16"/> 按钮来打开视觉化的聚合创建工具。</p>
+	<figure>
+		<a href="./images/queryAggregateBuilder.png" target="_blank"><img src="./images/queryAggregateBuilder.png"/></a>
+	</figure>
+	<p>从“<span class="term">集合或视图</span>”下拉列表中选择要查询的集合或视图的名。</p>
+	<h2>管道</h2>
+	<p>在此选项卡中，你可以添加聚合管道阶段。在“<span class="term">运算符</span>”列，选择一个表达式运算符。在“<span class="term">表达式</span>”列中会生成表达式范本，你可以修改范本。</p>
+</div>

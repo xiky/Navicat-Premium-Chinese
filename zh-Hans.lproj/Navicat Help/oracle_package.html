@@ -1,0 +1,64 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>包</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>包</h1>
+	<p>包是保存在数据库中的相关过程、存储函数及其他程序对象的封装集合。一个包包括两个部分：规格及主体。在主窗口中，点击 <img src="./images/icon_others.png" alt="其他" class="inlineGraphic" height="16" width="16"/>“<span class="term">其他</span>”-> <img src="./images/icon_package.png" alt="包" class="inlineGraphic" height="16" width="16"/>“<span class="term">包</span>” 来打开包的对象列表。</p>
+	<h2>包设计器和包主体设计器</h2>
+	<p>“<span class="term">包设计器</span>”和“<span class="term">包主体设计器</span>”是一个用于设计包的 Navicat 基本工具。在包设计器保存包后，你可以编辑它的包主体，点击 <img src="./images/icon_designPackageBody.png" alt="设计包主体" class="inlineGraphic" height="16" width="16"/>。</p>
+	<p>同样地，你可以编辑它的包规格，在包主体设计器点击 <img src="./images/icon_designPackageSpec.png" alt="设计包规格" class="inlineGraphic" height="16" width="16"/>。</p>
+	<p>你可以在“<span class="term">定义</span>”选项卡中输入有效的 SQL 语句。若要自定义编辑器并查看更多 SQL 编辑功能，请参阅 <a href="#/query_editor">SQL 编辑器</a>。</p>
+	<p>“<span class="term">代码大纲</span>”窗格显示包或包主体的信息包括函数、过程、参数、代码主体等。如果代码大纲窗格已隐藏，选择“<span class="term">查看</span>”->“<span class="term">代码大纲</span>”。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>仅适用于非 Essentials 版。</p>
+	</div>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>按钮</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_codeRefresh.png" alt="刷新" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>刷新代码大纲。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_codeBlockHighlight.png" alt="高亮显示" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>打开或关闭滑鼠移过时高亮显示。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_codeDetailView.png" alt="详细信息" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>显示代码大纲的详细信息视图。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_codeSort.png" alt="排序" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>切换按位置排序。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_codeExpandNode.png" alt="展开" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>展开已选择的项目。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_codeCollapseNode.png" alt="折叠" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>折叠已选择的项目。</p></td>
+		</tr>
+	</table>
+	<h2>结果</h2>
+	<p>若要运行包，请在工具栏点击 <img src="./images/icon_run.png" alt="运行" class="inlineGraphic" height="16" width="16"/>。如果 SQL 语句是正确的，该语句将被运行，以及如果该语句应该返回数据，“<span class="term">DBMS 输出</span>”选项卡会打开显示返回的数据。如果运行包时发生错误，运行会停止并显示相应的错误信息。如果包需要输入参数，“<span class="term">输入参数</span>”对话框将弹出。</p>
+	<h2>调试（仅适用于非 Essentials 版）</h2>
+	<p>你可以在每句语句旁的灰色范围点击 <img src="./images/togBreakPt.png" alt="断点" class="inlineGraphic" height="16" width="16"/> 来为调试添加或移除断点。</p>
+	<p>在工具栏点击 <img src="./images/icon_debug.png" alt="调试" class="inlineGraphic" height="16" width="16"/> 来启动 <a href="#/debugger_oracle">Oracle 调试器</a>。如有需要，输入参数。</p>
+</div>

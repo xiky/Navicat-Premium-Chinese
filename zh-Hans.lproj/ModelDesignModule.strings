@@ -1,0 +1,613 @@
+
+/* Class = "NSMenuItem"; title = "Rename"; ObjectID = "09o-kO-uPT"; */
+"09o-kO-uPT.title" = "重命名";
+
+/* Class = "NSMenuItem"; title = "New Diagram"; ObjectID = "0ph-8D-AMs"; */
+"0ph-8D-AMs.title" = "新建图表";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "1z6-Wt-Y3n"; */
+"1z6-Wt-Y3n.title" = "查找";
+
+/* Class = "NSBox"; title = "Page"; ObjectID = "2bR-76-qqN"; */
+"2bR-76-qqN.title" = "页";
+
+/* Class = "NSTextFieldCell"; title = "Pages"; ObjectID = "36U-zV-JgI"; */
+"36U-zV-JgI.title" = "页";
+
+/* Class = "NSMenuItem"; title = "Simple"; ObjectID = "3RQ-u6-biu"; */
+"3RQ-u6-biu.title" = "简单";
+
+/* Class = "NSTextFieldCell"; title = "Width (papers):"; ObjectID = "3T7-IQ-l74"; */
+"3T7-IQ-l74.title" = "宽度（纸张）:";
+
+/* Class = "NSMenuItem"; title = "Long Dash"; ObjectID = "3Vk-kf-cz4"; */
+"3Vk-kf-cz4.title" = "长划线";
+
+/* Class = "NSTextFieldCell"; title = "Model Type"; ObjectID = "3Vy-hr-8Q7"; */
+"3Vy-hr-8Q7.title" = "模型类型";
+
+/* Class = "NSMenuItem"; title = "Auto Layout"; ObjectID = "47c-0v-b0e"; */
+"47c-0v-b0e.title" = "自动调整版面";
+
+/* Class = "NSTextFieldCell"; title = "Height"; ObjectID = "4gd-RG-9EW"; */
+"4gd-RG-9EW.title" = "高度";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "4wC-bO-BIL"; */
+"4wC-bO-BIL.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Font"; ObjectID = "54Q-rK-FNS"; */
+"54Q-rK-FNS.title" = "字体";
+
+/* Class = "NSButtonCell"; title = "Auto Dimension"; ObjectID = "5F3-0Z-Uah"; */
+"5F3-0Z-Uah.title" = "自动调整维度";
+
+/* Class = "NSTextFieldCell"; title = "Schema"; ObjectID = "5Sw-aU-FCC"; */
+"5Sw-aU-FCC.title" = "模式";
+
+/* Class = "NSMenuItem"; title = "Auto Layout With…"; ObjectID = "5WK-19-s3H"; */
+"5WK-19-s3H.title" = "自动调整版面选项…";
+
+/* Class = "NSTextFieldCell"; title = "Height (papers):"; ObjectID = "5mA-Id-0Oj"; */
+"5mA-Id-0Oj.title" = "高度（纸张）:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "5mX-Ml-sy0"; */
+"5mX-Ml-sy0.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Oval"; ObjectID = "5o7-Cd-8dB"; */
+"5o7-Cd-8dB.title" = "椭圆形";
+
+/* Class = "NSMenuItem"; title = "Show View Relationships"; ObjectID = "5rG-cK-el8"; */
+"5rG-cK-el8.title" = "显示视图关系";
+
+/* Class = "NSMenuItem"; title = "Stealth"; ObjectID = "6ZZ-8y-GGG"; */
+"6ZZ-8y-GGG.title" = "燕尾形";
+
+/* Class = "NSMenuItem"; title = "Black and White"; ObjectID = "6a7-N9-a9F"; */
+"6a7-N9-a9F.title" = "黑白";
+
+/* Class = "NSTextFieldCell"; title = "Database Version"; ObjectID = "6yu-PF-FZc"; */
+"6yu-PF-FZc.title" = "数据库版本";
+
+/* Class = "NSMenu"; title = "Diagram"; ObjectID = "7Af-IK-fSR"; */
+"7Af-IK-fSR.title" = "图表";
+
+/* Class = "NSButtonCell"; title = "Show name"; ObjectID = "7Ks-K7-dDx"; */
+"7Ks-K7-dDx.title" = "显示名";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "8Ae-PG-iaO"; */
+"8Ae-PG-iaO.title" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Paper Size:"; ObjectID = "8jf-mP-yJ4"; */
+"8jf-mP-yJ4.title" = "纸张大小:";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "8nd-nO-oeD"; */
+"8nd-nO-oeD.title" = "无";
+
+/* Class = "NSTextFieldCell"; title = "Notation"; ObjectID = "8tH-S5-mjn"; */
+"8tH-S5-mjn.title" = "符号";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "91v-cc-uhQ"; */
+"91v-cc-uhQ.title" = "查看";
+
+/* Class = "NSMenuItem"; title = "Show View Relationships"; ObjectID = "96p-vR-0u6"; */
+"96p-vR-0u6.title" = "显示视图关系";
+
+/* Class = "NSMenuItem"; title = "Show Schema Name"; ObjectID = "A0Y-te-2B6"; */
+"A0Y-te-2B6.title" = "显示模式名";
+
+/* Class = "NSTextFieldCell"; title = "Performance"; ObjectID = "AOf-oM-Fwc"; */
+"AOf-oM-Fwc.title" = "性能";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "Amk-FP-RZT"; */
+"Amk-FP-RZT.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "BBV-6u-jxu"; */
+"BBV-6u-jxu.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Open"; ObjectID = "Bgo-Dy-Tfj"; */
+"Bgo-Dy-Tfj.title" = "打开";
+
+/* Class = "NSMenuItem"; title = "Open"; ObjectID = "Bir-zw-psR"; */
+"Bir-zw-psR.title" = "打开";
+
+/* Class = "NSMenuItem"; title = "Diamond"; ObjectID = "Bx8-tN-c5i"; */
+"Bx8-tN-c5i.title" = "钻石";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "CVz-Eq-g22"; */
+"CVz-Eq-g22.title" = "Menu";
+
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "Cbm-AP-oBx"; */
+"Cbm-AP-oBx.title" = "Button";
+
+/* Class = "NSMenuItem"; title = "Show Grid Lines"; ObjectID = "Da4-uX-1Fh"; */
+"Da4-uX-1Fh.title" = "显示网格";
+
+/* Class = "NSMenuItem"; title = "Design View…"; ObjectID = "DgE-B7-HWL"; */
+"DgE-B7-HWL.title" = "设计视图…";
+
+/* Class = "NSMenuItem"; title = "Default"; ObjectID = "E4L-qc-mk7"; */
+"E4L-qc-mk7.title" = "默认";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "EIa-bf-0bI"; */
+"EIa-bf-0bI.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "Diagram Dimension…"; ObjectID = "EMw-f0-2aN"; */
+"EMw-f0-2aN.title" = "图表维度…";
+
+/* Class = "NSMenuItem"; title = "Hide Overview"; ObjectID = "Ec7-iW-hAM"; */
+"Ec7-iW-hAM.title" = "隐藏概览";
+
+/* Class = "NSMenuItem"; title = "Snap to Grid"; ObjectID = "Ef5-hD-yS6"; */
+"Ef5-hD-yS6.title" = "对齐网格";
+
+/* Class = "NSTextFieldCell"; title = "Width"; ObjectID = "Enl-ZB-ESS"; */
+"Enl-ZB-ESS.title" = "宽度";
+
+/* Class = "NSMenuItem"; title = "Delete Table…"; ObjectID = "F3M-IA-QVS"; */
+"F3M-IA-QVS.title" = "删除表…";
+
+/* Class = "NSMenuItem"; title = "Long Dash Dot"; ObjectID = "F91-ID-8ja"; */
+"F91-ID-8ja.title" = "长点划线";
+
+/* Class = "NSMenuItem"; title = "Delete Diagram"; ObjectID = "Fra-6N-Dsa"; */
+"Fra-6N-Dsa.title" = "删除图表";
+
+/* Class = "NSMenuItem"; title = "Round"; ObjectID = "Ghu-cy-d9w"; */
+"Ghu-cy-d9w.title" = "圆形";
+
+/* Class = "NSMenuItem"; title = "New Table"; ObjectID = "HR4-xQ-ZQt"; */
+"HR4-xQ-ZQt.title" = "新建表";
+
+/* Class = "NSMenuItem"; title = "Hide Explorer"; ObjectID = "IXU-H7-12B"; */
+"IXU-H7-12B.title" = "隐藏浏览器";
+
+/* Class = "NSMenuItem"; title = "UML"; ObjectID = "IZJ-B4-g04"; */
+"IZJ-B4-g04.title" = "UML";
+
+/* Class = "NSMenuItem"; title = "Add Diagram"; ObjectID = "IaR-lL-DBg"; */
+"IaR-lL-DBg.title" = "添加图表";
+
+/* Class = "NSButtonCell"; title = "Show view relationships"; ObjectID = "Ikl-x5-lZp"; */
+"Ikl-x5-lZp.title" = "显示视图关系";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "Izs-2u-skB"; */
+"Izs-2u-skB.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "IE (Crow's Foot)"; ObjectID = "JQO-UF-u7V"; */
+"JQO-UF-u7V.title" = "IE (Crow's Foot)";
+
+/* Class = "NSTabViewItem"; label = "View"; ObjectID = "JdU-gP-AAF"; */
+"JdU-gP-AAF.label" = "查看";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "Jya-ft-11m"; */
+"Jya-ft-11m.title" = "Item 1";
+
+/* Class = "NSButtonCell"; title = "Visible"; ObjectID = "KTI-cI-p7p"; */
+"KTI-cI-p7p.title" = "可视";
+
+/* Class = "NSMenuItem"; title = "Show Properties"; ObjectID = "KaK-BS-i9G"; */
+"KaK-BS-i9G.title" = "显示属性";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "LGN-qr-AQ0"; */
+"LGN-qr-AQ0.title" = "Item 1";
+
+/* Class = "NSTextFieldCell"; title = "Y"; ObjectID = "LL6-Be-3Jb"; */
+"LL6-Be-3Jb.title" = "Y";
+
+/* Class = "NSMenuItem"; title = "Previous Diagram"; ObjectID = "LZ8-HM-YuE"; */
+"LZ8-HM-YuE.title" = "上一个图表";
+
+/* Class = "NSTextFieldCell"; title = "Accuracy"; ObjectID = "Ljd-qJ-FvL"; */
+"Ljd-qJ-FvL.title" = "准确性";
+
+/* Class = "NSMenuItem"; title = "Starts With"; ObjectID = "LpB-Wr-jGv"; */
+"LpB-Wr-jGv.title" = "开头为";
+
+/* Class = "NSMenuItem"; title = "Ends With"; ObjectID = "MYs-KH-Zio"; */
+"MYs-KH-Zio.title" = "结束以";
+
+/* Class = "NSTextFieldCell"; title = "End Style"; ObjectID = "MxI-5P-QF6"; */
+"MxI-5P-QF6.title" = "结束样式";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "N0f-02-8hx"; */
+"N0f-02-8hx.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Solid"; ObjectID = "N9X-R0-Iq7"; */
+"N9X-R0-Iq7.title" = "实线";
+
+/* Class = "NSTabViewItem"; label = "Tab"; ObjectID = "NKT-TO-dSf"; */
+"NKT-TO-dSf.label" = "定位";
+
+/* Class = "NSTextFieldCell"; title = "Font Color"; ObjectID = "Nja-Za-PpG"; */
+"Nja-Za-PpG.title" = "字体颜色";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "NkF-am-mGO"; */
+"NkF-am-mGO.title" = "常规";
+
+/* Class = "NSTextFieldCell"; title = "Bottom:"; ObjectID = "Nqu-Hp-LCO"; */
+"Nqu-Hp-LCO.title" = "下:";
+
+/* Class = "NSMenuItem"; title = "IDEF1X"; ObjectID = "Nvo-Fc-epQ"; */
+"Nvo-Fc-epQ.title" = "IDEF1X";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "O4f-Vo-kfD"; */
+"O4f-Vo-kfD.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "History"; ObjectID = "Otz-t4-GpS"; */
+"Otz-t4-GpS.title" = "历史";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "P63-yo-AXE"; */
+"P63-yo-AXE.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Round"; ObjectID = "PHX-Re-LQK"; */
+"PHX-Re-LQK.title" = "圆形";
+
+/* Class = "NSTextFieldCell"; title = "Border Color"; ObjectID = "PPa-zs-0pj"; */
+"PPa-zs-0pj.title" = "边界颜色";
+
+/* Class = "NSMenuItem"; title = "Stealth"; ObjectID = "QGT-Pc-acS"; */
+"QGT-Pc-acS.title" = "燕尾形";
+
+/* Class = "NSButtonCell"; title = "..."; ObjectID = "QQV-70-FhC"; */
+"QQV-70-FhC.title" = "...";
+
+/* Class = "NSTextFieldCell"; title = "(Paper Size Desc)"; ObjectID = "QaB-pz-PHx"; */
+"QaB-pz-PHx.title" = "(Paper Size Desc)";
+
+/* Class = "NSButtonCell"; title = "Show schema name"; ObjectID = "R6w-AM-SDc"; */
+"R6w-AM-SDc.title" = "显示模式名";
+
+/* Class = "NSTextFieldCell"; title = "Wide"; ObjectID = "RLY-lk-xDr"; */
+"RLY-lk-xDr.title" = "宽";
+
+/* Class = "NSTextFieldCell"; title = "Cardinality"; ObjectID = "RTm-LG-yzh"; */
+"RTm-LG-yzh.title" = "基数";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "S60-7A-Mo2"; */
+"S60-7A-Mo2.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Diagram Dimension…"; ObjectID = "SSG-aE-81d"; */
+"SSG-aE-81d.title" = "图表维度…";
+
+/* Class = "NSTextFieldCell"; title = "Begin Style"; ObjectID = "SVw-Sp-fGJ"; */
+"SVw-Sp-fGJ.title" = "开始样式";
+
+/* Class = "NSMenuItem"; title = "Rename"; ObjectID = "Sie-aZ-2ta"; */
+"Sie-aZ-2ta.title" = "重命名";
+
+/* Class = "NSTextFieldCell"; title = "Cap Style"; ObjectID = "TPC-vh-dXY"; */
+"TPC-vh-dXY.title" = "端点样式";
+
+/* Class = "NSWindow"; title = "Diagram Dimension"; ObjectID = "TdG-Qd-it8"; */
+"TdG-Qd-it8.title" = "图表维度";
+
+/* Class = "NSButtonCell"; title = "Black and white"; ObjectID = "VJR-Tj-DxD"; */
+"VJR-Tj-DxD.title" = "黑白";
+
+/* Class = "NSMenuItem"; title = "Square"; ObjectID = "VrL-P4-KIC"; */
+"VrL-P4-KIC.title" = "正方形";
+
+/* Class = "NSMenuItem"; title = "Delete Diagram"; ObjectID = "VwB-Tm-UsM"; */
+"VwB-Tm-UsM.title" = "删除图表";
+
+/* Class = "NSMenu"; title = "Diagram Notation"; ObjectID = "W3A-M9-txu"; */
+"W3A-M9-txu.title" = "图表符号";
+
+/* Class = "NSTextFieldCell"; title = "Entity Font"; ObjectID = "W7H-o8-onM"; */
+"W7H-o8-onM.title" = "实体字体";
+
+/* Class = "NSMenuItem"; title = "Dash"; ObjectID = "WAW-id-6h6"; */
+"WAW-id-6h6.title" = "虚线";
+
+/* Class = "NSTableColumn"; headerCell.title = "History"; ObjectID = "WKc-Ii-sSM"; */
+"WKc-Ii-sSM.headerCell.title" = "历史";
+
+/* Class = "NSTextFieldCell"; title = "Position"; ObjectID = "WqG-AV-cst"; */
+"WqG-AV-cst.title" = "位置";
+
+/* Class = "NSBox"; title = "Margins (cm)"; ObjectID = "Wqb-NJ-BGY"; */
+"Wqb-NJ-BGY.title" = "边界（厘米）";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "X1n-jy-GSe"; */
+"X1n-jy-GSe.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Show Overview"; ObjectID = "X61-aC-B61"; */
+"X61-aC-B61.title" = "显示概览";
+
+/* Class = "NSMenuItem"; title = "Simple"; ObjectID = "Xjy-oQ-htb"; */
+"Xjy-oQ-htb.title" = "简单";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "YjJ-9D-fjF"; */
+"YjJ-9D-fjF.title" = "Menu";
+
+/* Class = "NSMenuItem"; title = "Oval"; ObjectID = "Z7z-al-Jm3"; */
+"Z7z-al-Jm3.title" = "椭圆形";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "ZuT-lu-zDl"; */
+"ZuT-lu-zDl.title" = "查找下一个";
+
+/* Class = "NSMenuItem"; title = "Add to Diagram"; ObjectID = "aX9-aQ-4f7"; */
+"aX9-aQ-4f7.title" = "添加到图表";
+
+/* Class = "NSTextFieldCell"; title = "Database"; ObjectID = "ajp-W8-He4"; */
+"ajp-W8-He4.title" = "数据库";
+
+/* Class = "NSTextFieldCell"; title = "Orientation:"; ObjectID = "bCL-aX-rm8"; */
+"bCL-aX-rm8.title" = "方向:";
+
+/* Class = "NSTextFieldCell"; title = "--"; ObjectID = "bfW-IS-gZW"; */
+"bfW-IS-gZW.title" = "--";
+
+/* Class = "NSMenuItem"; title = "Bevel"; ObjectID = "bvG-z0-jbe"; */
+"bvG-z0-jbe.title" = "斜角";
+
+/* Class = "NSMenuItem"; title = "IDEF1X"; ObjectID = "c1c-oG-K3y"; */
+"c1c-oG-K3y.title" = "IDEF1X";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "c3O-Sy-Juq"; */
+"c3O-Sy-Juq.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "cQU-gS-ImZ"; */
+"cQU-gS-ImZ.title" = "Item 1";
+
+/* Class = "NSTextFieldCell"; title = "--"; ObjectID = "cxS-W8-0uT"; */
+"cxS-W8-0uT.title" = "--";
+
+/* Class = "NSMenuItem"; title = "Zoom In"; ObjectID = "d4X-J3-fWi"; */
+"d4X-J3-fWi.title" = "放大";
+
+/* Class = "NSTextFieldCell"; title = "Space Between Objects:"; ObjectID = "d6S-WG-gN7"; */
+"d6S-WG-gN7.title" = "对象之间的空间:";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "dG5-iY-gxw"; */
+"dG5-iY-gxw.title" = "窗口";
+
+/* Class = "NSTextFieldCell"; title = "Width"; ObjectID = "dJe-yV-Wmp"; */
+"dJe-yV-Wmp.title" = "宽度";
+
+/* Class = "NSTextFieldCell"; title = "Opacity"; ObjectID = "dVi-Z9-HXk"; */
+"dVi-Z9-HXk.title" = "透明度";
+
+/* Class = "NSTextFieldCell"; title = "Size"; ObjectID = "dr7-E8-JcV"; */
+"dr7-E8-JcV.title" = "大小";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "eB9-83-ma5"; */
+"eB9-83-ma5.title" = "保存";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "fRr-29-Prm"; */
+"fRr-29-Prm.title" = "Item 2";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "fST-96-11H"; */
+"fST-96-11H.title" = "确定";
+
+/* Class = "NSTextFieldCell"; title = "Cardinality"; ObjectID = "flP-RI-kPA"; */
+"flP-RI-kPA.title" = "基数";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "gB5-SP-bPS"; */
+"gB5-SP-bPS.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "gFa-Hm-vmR"; */
+"gFa-Hm-vmR.title" = "Item 2";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "gaD-mJ-oLz"; */
+"gaD-mJ-oLz.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Black and White"; ObjectID = "geX-bd-3lI"; */
+"geX-bd-3lI.title" = "黑白";
+
+/* Class = "NSMenuItem"; title = "Show Explorer"; ObjectID = "gtM-KJ-2V7"; */
+"gtM-KJ-2V7.title" = "显示浏览器";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "hGc-kU-w1o"; */
+"hGc-kU-w1o.title" = "取消";
+
+/* Class = "NSMenuItem"; title = "Ignore Case"; ObjectID = "hMh-D3-RfD"; */
+"hMh-D3-RfD.title" = "忽略大小写";
+
+/* Class = "NSMenuItem"; title = "Diagram Notation"; ObjectID = "hS4-8B-jdW"; */
+"hS4-8B-jdW.title" = "图表符号";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "hTI-G9-f7U"; */
+"hTI-G9-f7U.title" = "无";
+
+/* Class = "NSMenuItem"; title = "Export SQL…"; ObjectID = "hkc-t1-DKT"; */
+"hkc-t1-DKT.title" = "导出 SQL…";
+
+/* Class = "NSMenuItem"; title = "Contains"; ObjectID = "hoG-Vg-uG3"; */
+"hoG-Vg-uG3.title" = "包含";
+
+/* Class = "NSTextFieldCell"; title = "Height"; ObjectID = "hr6-fQ-u83"; */
+"hr6-fQ-u83.title" = "高度";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "hzL-LP-aEG"; */
+"hzL-LP-aEG.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Note Style"; ObjectID = "ieq-ZR-0FX"; */
+"ieq-ZR-0FX.title" = "笔记样式";
+
+/* Class = "NSMenuItem"; title = "Show Grid Lines"; ObjectID = "iii-sR-EuW"; */
+"iii-sR-EuW.title" = "显示网格";
+
+/* Class = "NSMenuItem"; title = "Miter"; ObjectID = "j1T-FX-l6r"; */
+"j1T-FX-l6r.title" = "尖角";
+
+/* Class = "NSMenuItem"; title = "Delete View…"; ObjectID = "jDX-8M-ZJN"; */
+"jDX-8M-ZJN.title" = "删除视图…";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "juc-LD-1vg"; */
+"juc-LD-1vg.title" = "标签";
+
+/* Class = "NSMenuItem"; title = "Show Schema Name"; ObjectID = "kBz-Xw-VqF"; */
+"kBz-Xw-VqF.title" = "显示模式名";
+
+/* Class = "NSTextFieldCell"; title = "Referencing"; ObjectID = "kw3-H7-uHR"; */
+"kw3-H7-uHR.title" = "参考（子）";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "lTs-vf-ZzR"; */
+"lTs-vf-ZzR.title" = "查找…";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "lXk-S1-upq"; */
+"lXk-S1-upq.title" = "常规";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "lYb-g5-gG1"; */
+"lYb-g5-gG1.title" = "取消";
+
+/* Class = "NSMenuItem"; title = "New View"; ObjectID = "m33-c4-NNC"; */
+"m33-c4-NNC.title" = "新建视图";
+
+/* Class = "NSMenuItem"; title = "Diamond"; ObjectID = "mAk-k6-grQ"; */
+"mAk-k6-grQ.title" = "钻石";
+
+/* Class = "NSTextFieldCell"; title = "Number of Trials:"; ObjectID = "mjH-S5-Kgf"; */
+"mjH-S5-Kgf.title" = "试验次数:";
+
+/* Class = "NSMenuItem"; title = "Actual Size"; ObjectID = "mjW-Xl-nm6"; */
+"mjW-Xl-nm6.title" = "实际大小";
+
+/* Class = "NSMenuItem"; title = "Dash Dot"; ObjectID = "mkm-nb-uWA"; */
+"mkm-nb-uWA.title" = "点划线";
+
+/* Class = "NSTextFieldCell"; title = "X"; ObjectID = "nWR-Ae-Vkw"; */
+"nWR-Ae-Vkw.title" = "X";
+
+/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "ng0-We-llG"; */
+"ng0-We-llG.title" = "名";
+
+/* Class = "NSMenuItem"; title = "Flat"; ObjectID = "nk8-Gp-o2c"; */
+"nk8-Gp-o2c.title" = "平面";
+
+/* Class = "NSWindow"; title = "Page Setup"; ObjectID = "nuu-m4-ihl"; */
+"nuu-m4-ihl.title" = "页面设置";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "nz3-fy-Lqz"; */
+"nz3-fy-Lqz.title" = "查找上一个";
+
+/* Class = "NSMenuItem"; title = "Snap to Grid"; ObjectID = "oGN-15-sTx"; */
+"oGN-15-sTx.title" = "对齐网格";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "pMQ-w0-yrU"; */
+"pMQ-w0-yrU.title" = "确定";
+
+/* Class = "NSMenuItem"; title = "UML"; ObjectID = "pbp-HG-vv0"; */
+"pbp-HG-vv0.title" = "UML";
+
+/* Class = "NSTextFieldCell"; title = "Diagram"; ObjectID = "pi7-7D-9Hw"; */
+"pi7-7D-9Hw.title" = "图表";
+
+/* Class = "NSTextFieldCell"; title = "Top:"; ObjectID = "ps7-rd-qij"; */
+"ps7-rd-qij.title" = "上:";
+
+/* Class = "NSButtonCell"; title = "Bold"; ObjectID = "ptt-Wn-HOY"; */
+"ptt-Wn-HOY.title" = "粗体";
+
+/* Class = "NSTextFieldCell"; title = "Right:"; ObjectID = "pu5-9W-OKB"; */
+"pu5-9W-OKB.title" = "右:";
+
+/* Class = "NSTextFieldCell"; title = "Model"; ObjectID = "qBa-bd-0jC"; */
+"qBa-bd-0jC.title" = "模型";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "qNh-wo-jah"; */
+"qNh-wo-jah.title" = "取消";
+
+/* Class = "NSMenuItem"; title = "Hide Properties"; ObjectID = "qdT-UU-qoA"; */
+"qdT-UU-qoA.title" = "隐藏属性";
+
+/* Class = "NSButtonCell"; title = "Case Sensitive"; ObjectID = "qm5-Ke-dQ8"; */
+"qm5-Ke-dQ8.title" = "大小写相关";
+
+/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "rB9-Bo-U8e"; */
+"rB9-Bo-U8e.title" = "名";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "rXZ-cg-8z1"; */
+"rXZ-cg-8z1.title" = "Menu";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "rin-sz-7i5"; */
+"rin-sz-7i5.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "rxr-MG-gdc"; */
+"rxr-MG-gdc.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Zoom Out"; ObjectID = "t3y-Ul-i8Q"; */
+"t3y-Ul-i8Q.title" = "缩小";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "tAC-RC-Heq"; */
+"tAC-RC-Heq.title" = "查找";
+
+/* Class = "NSMenuItem"; title = "Hide History"; ObjectID = "tQE-9l-4sa"; */
+"tQE-9l-4sa.title" = "隐藏历史";
+
+/* Class = "NSTextFieldCell"; title = "--"; ObjectID = "tZM-c9-Jt4"; */
+"tZM-c9-Jt4.title" = "--";
+
+/* Class = "NSMenuItem"; title = "Next Diagram"; ObjectID = "taL-Rc-SkW"; */
+"taL-Rc-SkW.title" = "下一个图表";
+
+/* Class = "NSTextFieldCell"; title = "Color"; ObjectID = "uDB-XU-s25"; */
+"uDB-XU-s25.title" = "颜色";
+
+/* Class = "NSTextFieldCell"; title = "Dash Style"; ObjectID = "uUa-O6-XCT"; */
+"uUa-O6-XCT.title" = "虚线样式";
+
+/* Class = "NSButtonCell"; title = "Default"; ObjectID = "uci-Hr-QFe"; */
+"uci-Hr-QFe.title" = "默认";
+
+/* Class = "NSTextFieldCell"; title = "<TABLENAME>"; ObjectID = "uge-PQ-9rd"; */
+"uge-PQ-9rd.title" = "<TABLENAME>";
+
+/* Class = "NSMenuItem"; title = "IE (Crow's Foot)"; ObjectID = "umW-fD-9FN"; */
+"umW-fD-9FN.title" = "IE (Crow's Foot)";
+
+/* Class = "NSMenuItem"; title = "Whole Words"; ObjectID = "uqN-px-DB7"; */
+"uqN-px-DB7.title" = "整个字";
+
+/* Class = "NSMenuItem"; title = "Diagram Notation"; ObjectID = "v9g-FG-T8W"; */
+"v9g-FG-T8W.title" = "图表符号";
+
+/* Class = "NSButtonCell"; title = "Tables resize to fit"; ObjectID = "vyv-oa-SFI"; */
+"vyv-oa-SFI.title" = "调整适合的表大小";
+
+/* Class = "NSTextFieldCell"; title = "<TABLENAME>"; ObjectID = "w5W-vL-DRd"; */
+"w5W-vL-DRd.title" = "<TABLENAME>";
+
+/* Class = "NSMenuItem"; title = "Default"; ObjectID = "wZj-8v-OMd"; */
+"wZj-8v-OMd.title" = "默认";
+
+/* Class = "NSMenuItem"; title = "Add to Diagram"; ObjectID = "wkt-o8-FqS"; */
+"wkt-o8-FqS.title" = "添加到图表";
+
+/* Class = "NSMenuItem"; title = "Export SQL…"; ObjectID = "x16-wo-UYV"; */
+"x16-wo-UYV.title" = "导出 SQL…";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "xBL-6e-cJs"; */
+"xBL-6e-cJs.title" = "Menu";
+
+/* Class = "NSTextFieldCell"; title = "Referenced"; ObjectID = "xEz-7F-kdS"; */
+"xEz-7F-kdS.title" = "参考（父）";
+
+/* Class = "NSTextFieldCell"; title = "Narrow"; ObjectID = "xaP-GD-dWf"; */
+"xaP-GD-dWf.title" = "窄";
+
+/* Class = "NSMenuItem"; title = "Design Table…"; ObjectID = "xhK-oD-LVX"; */
+"xhK-oD-LVX.title" = "设计表…";
+
+/* Class = "NSTextFieldCell"; title = "Join Style"; ObjectID = "xp5-xM-UJJ"; */
+"xp5-xM-UJJ.title" = "联接样式";
+
+/* Class = "NSTextFieldCell"; title = "Left:"; ObjectID = "yNa-1I-ql6"; */
+"yNa-1I-ql6.title" = "左:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "yaR-hF-3q6"; */
+"yaR-hF-3q6.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "z0g-0X-Egv"; */
+"z0g-0X-Egv.title" = "确定";
+
+/* Class = "NSMenu"; title = "Diagram Notation"; ObjectID = "zET-6M-XhR"; */
+"zET-6M-XhR.title" = "图表符号";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "zOW-qP-YEp"; */
+"zOW-qP-YEp.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "…"; ObjectID = "ziC-jW-mSx"; */
+"ziC-jW-mSx.title" = "…";
+

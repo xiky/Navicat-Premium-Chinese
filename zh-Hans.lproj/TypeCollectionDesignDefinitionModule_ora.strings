@@ -1,0 +1,40 @@
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "1kQ-WL-VUq"; */
+"1kQ-WL-VUq.title" = "Item 2";
+
+/* Class = "NSButtonCell"; title = "Varying Array"; ObjectID = "CSV-wt-1kA"; */
+"CSV-wt-1kA.title" = "可变的数组";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "EbK-d1-vwe"; */
+"EbK-d1-vwe.title" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Data Type:"; ObjectID = "R1q-SD-fok"; */
+"R1q-SD-fok.title" = "数据类型:";
+
+/* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "RRr-LO-L5f"; */
+"RRr-LO-L5f.title" = "大小:";
+
+/* Class = "NSBox"; title = "Data Type Parameter(s)"; ObjectID = "WlK-uE-WrS"; */
+"WlK-uE-WrS.title" = "数据类型参数";
+
+/* Class = "NSTextFieldCell"; title = "Precision:"; ObjectID = "c9q-8M-6Gh"; */
+"c9q-8M-6Gh.title" = "精度:";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "gZA-iN-S8f"; */
+"gZA-iN-S8f.title" = "Item 1";
+
+/* Class = "NSTextFieldCell"; title = "Unit:"; ObjectID = "gnU-1F-WYG"; */
+"gnU-1F-WYG.title" = "单位:";
+
+/* Class = "NSTextFieldCell"; title = "Type Name:"; ObjectID = "qUd-Di-ilf"; */
+"qUd-Di-ilf.title" = "类型名:";
+
+/* Class = "NSTextFieldCell"; title = "Schema:"; ObjectID = "uE5-yP-ZzR"; */
+"uE5-yP-ZzR.title" = "模式:";
+
+/* Class = "NSTextFieldCell"; title = "Scale:"; ObjectID = "vtl-cc-Zd8"; */
+"vtl-cc-Zd8.title" = "比例:";
+
+/* Class = "NSButtonCell"; title = "Nested Table"; ObjectID = "yss-wp-Idc"; */
+"yss-wp-Idc.title" = "嵌套表";
+

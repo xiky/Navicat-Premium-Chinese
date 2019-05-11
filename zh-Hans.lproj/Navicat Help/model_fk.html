@@ -1,0 +1,77 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>添加外键</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>添加外键</h1>
+	<p>若要添加一个外键，点击工具栏的 <img src="./images/icon_modelAddRelation.png" alt="新建外键" class="inlineGraphic" height="16" width="16"/> 按钮，并由子表拖拉一个字段到父表的字段。若要显示或隐藏链接的名标签，简单地在属性窗格中勾选或取消勾选“<span class="term">显示名</span>”选项。</p>
+	<p>当你移动滑鼠到一个外键连接器时，父和子表的边界会分别变为绿色和蓝色。此外，父和子表的参考字段均会高亮显示。</p>
+	<p>在画布中外键对象的弹出式菜单选项包括：</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>设计关系</p></td>
+			<td width="75%"><p>在表设计器中编辑外键。设计器内的选项卡和选项是根据你所选择的图表数据库类型而有所不同。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>基数在 表名1</p></td>
+			<td width="75%"><p>设置基数在表名1：无、唯一、多个、一或多个、零或一个、零或多个。</p></td>
+		</tr>
+			<tr class="tableRoll">
+			<td width="25%"><p>基数在 表名2</p></td>
+			<td width="75%"><p>设置基数在表名2：无、唯一、多个、一或多个、零或一个、零或多个。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>添加顶点</p></td>
+			<td width="75%"><p>添加一个顶点到外键连接器上。</p></td>
+		</tr>
+			<tr class="tableRoll">
+			<td width="25%"><p>删除顶点</p></td>
+			<td width="75%"><p>从外键连接器上删除一个顶点。</p></td>
+		</tr>
+			<tr class="tableRoll">
+			<td width="25%"><p>删除全部顶点</p></td>
+			<td width="75%"><p>从一个外键连接器上删除全部顶点。</p></td>
+		</tr>
+<!--		<tr class="tableRoll">
+			<td width="25%"><p>前往源</p></td>
+			<td width="75%"><p>前往并选择源（子）表。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>前往目标</p></td>
+			<td width="75%"><p>前往并选择目标（父）表。</p></td>
+		</tr> -->
+		<tr class="tableRoll">
+			<td width="25%"><p>粘贴</p></td>
+			<td width="75%"><p>将剪贴板的内容贴到图表。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>选择全部关系</p></td>
+			<td width="75%"><p>在图表中选择全部外键。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>删除</p></td>
+			<td width="75%"><p>从图表和模型中删除外键。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>颜色</p></td>
+			<td width="75%"><p>更改外键的颜色。</p></td>
+		</tr>
+	</table>
+</div>

@@ -1,0 +1,22 @@
+
+/* Class = "NSTextFieldCell"; title = "Maximum Size:"; ObjectID = "CxM-LH-oOn"; */
+"CxM-LH-oOn.title" = "最大大小:";
+
+/* Class = "NSTextFieldCell"; title = "Database Name:"; ObjectID = "JWp-KT-67U"; */
+"JWp-KT-67U.title" = "数据库名:";
+
+/* Class = "NSTextFieldCell"; title = "Compatibility Level:"; ObjectID = "T6X-aV-h94"; */
+"T6X-aV-h94.title" = "兼容级别:";
+
+/* Class = "NSTextFieldCell"; title = "Owner:"; ObjectID = "gUv-co-j22"; */
+"gUv-co-j22.title" = "拥有者:";
+
+/* Class = "NSTextFieldCell"; title = "Recovery Model:"; ObjectID = "he6-GF-XzH"; */
+"he6-GF-XzH.title" = "恢复模式:";
+
+/* Class = "NSTextFieldCell"; title = "Edition:"; ObjectID = "poh-JS-gXn"; */
+"poh-JS-gXn.title" = "版本:";
+
+/* Class = "NSTextFieldCell"; title = "Collation:"; ObjectID = "vwR-fq-7xB"; */
+"vwR-fq-7xB.title" = "排序规则:";
+

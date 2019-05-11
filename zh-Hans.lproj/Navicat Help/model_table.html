@@ -1,0 +1,84 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>添加表</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>添加表</h1>
+	<p>若要添加一个新的表，点击工具栏的 <img src="./images/icon_modelAddTable.png" alt="新建表" class="inlineGraphic" height="16" width="16"/> 按钮，并点击画布的任意位置。你可以从浏览器的模型选项卡添加一个现有的表，简单地从模型选项卡拖放表到画布。</p>
+	<p>如果图表符号设置为默认，<img src="./images/icon_modelPrimaryKey.png" alt="主键" class="inlineGraphic" height="16" width="16"/> 图标代表字段为一个主键。而 <img src="./images/icon_modelIndex.png" alt="索引" class="inlineGraphic" height="16" width="16"/> 图标則代表字段为一个索引。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>如果你按住 Control 键并点按字段，你可以选择添加、插入、删除、重命名字段及设置字段为主键。</p>
+	</div>
+	<p>在画布中表对象的弹出式菜单选项包括：</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>设计表</p></td>
+			<td width="75%"><p>在表设计器中编辑表结构，例如字段、索引、外键等。设计器内的选项卡和选项是根据你所选择的图表数据库类型而有所不同。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>添加关联的对象</p></td>
+			<td width="75%"><p>添加全部关联的表或视图到选择的表。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>添加字段</p></td>
+			<td width="75%"><p>添加字段到现有的表。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>剪切</p></td>
+			<td width="75%"><p>从图表移除表并放它在剪贴板。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>复制</p></td>
+			<td width="75%"><p>从图表复制表到剪贴板。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>粘贴</p></td>
+			<td width="75%"><p>将剪贴板的内容贴到图表。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>选择全部表</p></td>
+			<td width="75%"><p>在图表中选择全部表。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>删除</p></td>
+			<td width="75%"><p>从图表或从图表和模型中删除表。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>重命名</p></td>
+			<td width="75%"><p>更改表的名。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>颜色</p></td>
+			<td width="75%"><p>更改表的颜色。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>调整适合大小</p></td>
+			<td width="75%"><p>自动调整表的大小以适合其内容。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>置于顶层</p></td>
+			<td width="75%"><p>将表提到顶层。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>置于底层</p></td>
+			<td width="75%"><p>移动表到底层。</p></td>
+		</tr>
+	</table>
+</div>

@@ -1,0 +1,66 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>模型提示和技巧</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>模型提示和技巧</h1>
+	<p>Navicat 提供一些实用的提示，令创建模型更有效率。</p>
+	<h2>在图表画布找到对象</h2>
+	<p>在浏览器的图表选项卡中双击对象将跳至在图表画布中的对应对象。</p>
+	<h2>从模型删除对象</h2>
+	<p>在图表画布中选择对象并按 SHIFT-DELETE。</p>
+	<h2>打开表或视图编辑器</h2>
+	<p>在浏览器的模型选项卡或图表画布中双击表或视图。</p>
+	<h2>取得表或视图结构（SQL 语句）</h2>
+	<p>在图表画布中选择并复制表或视图，然后贴它到其他文本编辑器。</p>
+	<h2>不使用表设计器来设计字段</h2>
+	<p>选择并点击表名，并按下箭头来添加或编辑字段。Navicat 将根据你输入的字段名预计字段类型。</p>
+	<p><span class="term">INTEGER/int/int4/NUMBER</span></p>
+	<ul class="ListBullet">
+		<li><p>"id"、"no" 字尾（如果它是第一列，将设置为主键）</p></li>
+		<li><p>"num" 字尾</p></li>
+		<li><p>包含 "qty"、"number"</p></li>
+		<li><p>"age"、"count"</p></li>
+	</ul>
+	<p><span class="term">DECIMAL(10,2)/decimal(10,2)/NUMBER/REAL/money</span></p>
+	<ul class="ListBullet">
+		<li><p>"price"、"cost"、"salary" 字尾</p></li>
+	</ul>
+	<p><span class="term">FLOAT/double/float8/NUMBER/REAL/float</span></p>
+	<ul class="ListBullet">
+		<li><p>包含 "size"、"height"、"width"、"length"、"weight"、"speed"、"distance"</p></li>
+	</ul>
+	<p><span class="term">DATE/datetime/date/TEXT/datetime2</span></p>
+	<ul class="ListBullet">
+		<li><p>包含 "date"、"time"</p></li>
+	</ul>
+	<p><span class="term">VARCHAR(255)/varchar(255)/VARCHAR2(255)/TEXT</span></p>
+	<ul class="ListBullet">
+		<li><p>其他字段名</p></li>
+	</ul>
+	<p>在字段名前输入 * 来识别成主键，例如：*itemNo:int。</p>
+	<p>在字段名和字段类型之间输入 : 来自定义字段类型，例如：itemName:varchar(255)。</p>
+	<h2>重新排列字段</h2>
+	<p>在图表画布中选择表，然后按住 SHIFT 键。使用 <img src="./images/icon_catchField.png" alt="抓住字段" class="inlineGraphic" height="16" width="16"/> 来拖曳字段所需的位置。</p>
+	<h2>删除字段</h2>
+	<p>在图表画布中选择表，然后按住 SHIFT 键。使用 <img src="./images/icon_catchField.png" alt="抓住字段" class="inlineGraphic" height="16" width="16"/> 来拖曳所需的字段到表外。</p>
+	<h2>添加顶点到外键、线条或箭头</h2>
+	<p>在图表画布中选择外键、线条或箭头，然后按住 SHIFT 键，点选一下来添加顶点。</p>
+	<h2>删除在外键、线条或箭头上的顶点</h2>
+	<p>在图表画布中选择外键、线条或箭头，然后按住 SHIFT 键，点选顶点。</p>
+	<h2>切换到掌形模式</h2>
+	<p>按住 SPACE 键，然后移动图表。</p>
+</div>

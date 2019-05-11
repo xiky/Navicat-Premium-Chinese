@@ -1,0 +1,22 @@
+
+/* Class = "NSButtonCell"; title = "Deselect All"; ObjectID = "8dc-yy-3la"; */
+"8dc-yy-3la.title" = "取消全选";
+
+/* Class = "NSButtonCell"; title = "Export Password"; ObjectID = "CZ9-UH-WpV"; */
+"CZ9-UH-WpV.title" = "导出密码";
+
+/* Class = "NSWindow"; title = "Export Connections"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "导出连接";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "FOS-V4-4nb"; */
+"FOS-V4-4nb.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Select All"; ObjectID = "I8o-Bm-SQt"; */
+"I8o-Bm-SQt.title" = "全选";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "oCg-Hy-vFy"; */
+"oCg-Hy-vFy.title" = "确定";
+
+/* Class = "NSTextFieldCell"; title = "Connections:"; ObjectID = "ozT-ss-wtD"; */
+"ozT-ss-wtD.title" = "连接:";
+

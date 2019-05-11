@@ -1,0 +1,28 @@
+
+/* Class = "NSTextFieldCell"; title = "Bucket Size:"; ObjectID = "0x3-iY-9ak"; */
+"0x3-iY-9ak.title" = "存储桶大小:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JyX-o8-5pP"; */
+"JyX-o8-5pP.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "NBN-Kk-rA3"; */
+"NBN-Kk-rA3.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "Sparse"; ObjectID = "QcK-cU-k8Z"; */
+"QcK-cU-k8Z.title" = "稀疏";
+
+/* Class = "NSButtonCell"; title = "Expire After (Seconds):"; ObjectID = "Qjy-EH-JUP"; */
+"Qjy-EH-JUP.title" = "在此之后过期（秒）:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "dTW-PU-Vs9"; */
+"dTW-PU-Vs9.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "Background"; ObjectID = "fLA-Sz-7mI"; */
+"fLA-Sz-7mI.title" = "背景";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "fPI-1T-YbG"; */
+"fPI-1T-YbG.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Unique"; ObjectID = "s8I-MJ-uDR"; */
+"s8I-MJ-uDR.title" = "唯一键";
+

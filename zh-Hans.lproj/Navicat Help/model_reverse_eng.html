@@ -1,0 +1,29 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>逆向工程</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>逆向工程</h1>
+	<p>逆向工程是模型的其中一个主要功能。这功能让你加载现有的数据库结构以创建新的图表。它支持导入数据库、模式、表或视图。</p>
+	<p>Navicat 提供一个向导，一步一步指导你完成任務：</p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>选择“<span class="term">文件</span>”->“<span class="term">从数据库导入</span>”。</p></li>
+		<li><p>选择一个连接。</p></li>
+		<li><p>选择你要导入的数据库、模式、表或视图。</p></li>
+		<li><p>点击“<span class="term">导入</span>”。</p></li>
+	</ul>
+	<p>你也可以简单地在 Navicat 主窗口使用逆向工程创建一个新模型。按住 Control 键并点按一个已打开的数据库或模式、表或视图，然后在弹出式菜单中选择“<span class="term">逆向数据库到模型</span>”、“<span class="term">逆向模式到模型</span>”、“<span class="term">逆向表到模型</span>”或“<span class="term">逆向视图到模型</span>”。</p>
+</div>

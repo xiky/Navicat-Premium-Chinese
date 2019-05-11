@@ -1,0 +1,13 @@
+
+/* Class = "NSTextFieldCell"; title = "Confirm Password:"; ObjectID = "0TA-ab-zgX"; */
+"0TA-ab-zgX.title" = "确认密码:";
+
+/* Class = "NSTextFieldCell"; title = "User Name:"; ObjectID = "NBP-ap-sC9"; */
+"NBP-ap-sC9.title" = "用户名:";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "WJc-C7-fsP"; */
+"WJc-C7-fsP.title" = "密码:";
+
+/* Class = "NSButtonCell"; title = "Administrator"; ObjectID = "lxb-Wg-hNu"; */
+"lxb-Wg-hNu.title" = "管理员";
+

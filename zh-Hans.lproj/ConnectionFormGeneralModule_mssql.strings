@@ -1,0 +1,52 @@
+
+/* Class = "NSTextFieldCell"; title = "Add to:"; ObjectID = "2aT-dA-TXe"; */
+"2aT-dA-TXe.title" = "添加到:";
+
+/* Class = "NSMenuItem"; title = "My Connections"; ObjectID = "APl-eh-eIC"; */
+"APl-eh-eIC.title" = "我的连接";
+
+/* Class = "NSTextFieldCell"; title = "* All passwords will not be saved to Navicat Cloud"; ObjectID = "BFL-58-4hj"; */
+"BFL-58-4hj.title" = "* 所有密码不会保存到 Navicat Cloud";
+
+/* Class = "NSTextFieldCell"; title = "Username:"; ObjectID = "C6q-Tt-Jpp"; */
+"C6q-Tt-Jpp.title" = "用户名:";
+
+/* Class = "NSButtonCell"; title = "Save password"; ObjectID = "Hmt-TI-AHp"; */
+"Hmt-TI-AHp.title" = "保存密码";
+
+/* Class = "NSButtonCell"; title = "Sync User Name with Navicat Cloud"; ObjectID = "Jqm-4Q-YDz"; */
+"Jqm-4Q-YDz.title" = "与 Navicat Cloud 同步用户名";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "X0b-2N-vdT"; */
+"X0b-2N-vdT.title" = "密码:";
+
+/* Class = "NSTextFieldCell"; title = "Host:"; ObjectID = "aKJ-0M-X6y"; */
+"aKJ-0M-X6y.title" = "主机:";
+
+/* Class = "NSTextFieldCell"; title = "Connection Name:"; ObjectID = "buy-uM-7Jm"; */
+"buy-uM-7Jm.title" = "连接名:";
+
+/* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "fIc-qg-jc3"; */
+"fIc-qg-jc3.title" = "端口:";
+
+/* Class = "NSTextFieldCell"; title = "Authentication:"; ObjectID = "ftA-M2-Dn7"; */
+"ftA-M2-Dn7.title" = "验证:";
+
+/* Class = "NSButtonCell"; title = "Edit Password:"; ObjectID = "ix1-RR-b3g"; */
+"ix1-RR-b3g.title" = "编辑密码:";
+
+/* Class = "NSMenuItem"; title = "<New Project...>"; ObjectID = "o6I-FK-Q44"; */
+"o6I-FK-Q44.title" = "<New Project...>";
+
+/* Class = "NSTextFieldCell"; title = "Initial Database:"; ObjectID = "oZT-fJ-gYL"; */
+"oZT-fJ-gYL.title" = "初始数据库:";
+
+/* Class = "NSTextFieldCell"; title = "Domain:"; ObjectID = "pCA-wm-wCj"; */
+"pCA-wm-wCj.title" = "域:";
+
+/* Class = "NSMenuItem"; title = "Windows Authentication"; ObjectID = "tWh-Xz-sVy"; */
+"tWh-Xz-sVy.title" = "Windows 验证";
+
+/* Class = "NSMenuItem"; title = "SQL Server Authentication"; ObjectID = "v3w-ft-TAQ"; */
+"v3w-ft-TAQ.title" = "SQL Server 验证";
+

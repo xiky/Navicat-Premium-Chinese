@@ -1,0 +1,39 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>收藏夹</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>收藏夹（仅适用于非 Essentials 版）</h1>
+	<p>“<span class="term">收藏夹</span>”是你经常访问的数据库对象的链接。通过添加路径到收藏夹列表，你只需简单点击就可以前往这些数据库对象，而不必浏览在导航窗格的连接和数据库和/或模式。</p>
+	<p><span class="term">添加一个链接到收藏夹</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>打开一个对象，例如：表。</p></li>
+		<li><p>选择“<span class="term">收藏夹</span>”->“<span class="term">添加到收藏夹</span>”或按 OPTION-SHIFT-#。</p></li>
+		<li><p>输入“<span class="term">收藏夹名</span>”并选择“<span class="term">收藏夹 ID</span>”。</p></li>
+	</ul>
+	<p><span class="term">从收藏夹打开一个对象</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>选择“<span class="term">收藏夹</span>”->“<span class="term">收藏夹_名</span>”或按 CONTROL-SHIFT-#。</p></li>
+	</ul>
+	<p><span class="term">从收藏夹移除链接</span></p>
+	<ul class="ListBullet">
+		<li><p>选择“<span class="term">收藏夹</span>”->“<span class="term">清除收藏夹</span>”->“<span class="term">收藏夹_名</span>”来移除一个链接。</p></li>
+		<li><p>选择“<span class="term">收藏夹</span>”->“<span class="term">清除收藏夹</span>”->“<span class="term">全部清除</span>”来从收藏夹列表移除所有链接。</p></li>
+	</ul>
+	<div class="alert">
+		<p><span class="note">【注意】</span># 代表 0、1、2、3、4、5、6、7、8 或 9。</p>
+	</div>
+</div>

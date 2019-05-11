@@ -1,0 +1,22 @@
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "9Ox-Hy-yzz"; */
+"9Ox-Hy-yzz.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Cardinality:"; ObjectID = "Cky-da-S3J"; */
+"Cky-da-S3J.title" = "基数:";
+
+/* Class = "NSTextFieldCell"; title = "Packed:"; ObjectID = "Gqz-0q-M3W"; */
+"Gqz-0q-M3W.title" = "已封装:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "caw-hy-T4p"; */
+"caw-hy-T4p.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Collation:"; ObjectID = "ept-Vq-FWN"; */
+"ept-Vq-FWN.title" = "排序规则:";
+
+/* Class = "NSTextFieldCell"; title = "Key Block Size:"; ObjectID = "r3j-vI-qEb"; */
+"r3j-vI-qEb.title" = "键块大小:";
+
+/* Class = "NSTextFieldCell"; title = "Parser:"; ObjectID = "uge-w0-Crn"; */
+"uge-w0-Crn.title" = "解析器:";
+

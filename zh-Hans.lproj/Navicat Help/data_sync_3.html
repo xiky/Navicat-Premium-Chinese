@@ -1,0 +1,60 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>查看数据比对结果（步骤三）</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>查看数据比对结果（步骤三）</h1>
+	<p>比对数据后，窗口显示将在目标中插入、更新或删除的记录数。取消勾选“<span class="term">显示相同的表和其他</span>”或“<span class="term">显示相同的集合和其他</span>”选项来隐藏具有相同数据的表或集合和具有不同结构的表或集合。在默认情况下，所有具有不同数据的表或集合和所有动作均已勾选。你可以取消勾选你不想应用的复选框。</p>
+	<figure>
+		<a href="./images/dataSyncList.png" target="_blank"><img src="./images/dataSyncList.png"/></a>
+	</figure>
+	<p>当你在列表中选择一个表或集合时，底部窗格将显示源和目标中的数据。源和目标之间不同的值会突出显示。若要查看多行的数据，请按住 Control 键并点按网格，然后选择“<span class+'term'>显示辅助查看器</span>”。你可以取消勾选你不想应用于目标的记录。</p>
+	<p>从下拉列表中选择一个选项以显示数据。</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>全部行</p></td>
+			<td width="75%"><p>显示源和目标中的所有记录。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>不同</p></td>
+			<td width="75%"><p>显示源和目标中所有不同的记录。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>插入</p></td>
+			<td width="75%"><p>仅显示目标中不存在的记录。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>更新</p></td>
+			<td width="75%"><p>仅显示源和目标中存在但具有不同值的记录。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>删除</p></td>
+			<td width="75%"><p>仅显示源中不存在的记录。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>相同</p></td>
+			<td width="75%"><p>显示源和目标中存在并具有相同值的记录。</p></td>
+		</tr>
+	</table>
+	<figure>
+		<a href="./images/dataSyncDetail.png" target="_blank"><img src="./images/dataSyncDetail.png"/></a>
+	</figure>
+	<p>点击“<span class="term">部署</span>”按钮来显示所有已选择的表或集合和记录的脚本。</p>
+</div>

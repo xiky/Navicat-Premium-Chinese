@@ -1,0 +1,46 @@
+
+/* Class = "NSButtonCell"; title = "Open Objects tab only"; ObjectID = "0Qo-qB-2Ci"; */
+"0Qo-qB-2Ci.title" = "仅打开对象选项卡";
+
+/* Class = "NSBox"; title = "Open new tab in"; ObjectID = "74n-4l-no1"; */
+"74n-4l-no1.title" = "打开新选项卡于";
+
+/* Class = "NSTextFieldCell"; title = "Tab Bar Style:"; ObjectID = "A1V-fd-uQ5"; */
+"A1V-fd-uQ5.title" = "选项卡栏样式:";
+
+/* Class = "NSButtonCell"; title = "Always show the tab bar"; ObjectID = "HAx-tt-ZME"; */
+"HAx-tt-ZME.title" = "永远显示选项卡栏";
+
+/* Class = "NSButtonCell"; title = "Last Tab Window (Except Main Window)"; ObjectID = "RzA-JB-KMw"; */
+"RzA-JB-KMw.title" = "最后打开的选项卡窗口（主窗口除外）";
+
+/* Class = "NSButtonCell"; title = "Last Tab Window"; ObjectID = "UJq-6g-KFC"; */
+"UJq-6g-KFC.title" = "最后打开选项卡的窗口";
+
+/* Class = "NSButtonCell"; title = "Allow opening multiple forms for same object"; ObjectID = "W2h-1R-WxN"; */
+"W2h-1R-WxN.title" = "允许重复打开相同的对象";
+
+/* Class = "NSBox"; title = "On Startup"; ObjectID = "Zod-6R-czH"; */
+"Zod-6R-czH.title" = "启动画面";
+
+/* Class = "NSTextFieldCell"; title = "Open Tabs:"; ObjectID = "j2q-R5-tzr"; */
+"j2q-R5-tzr.title" = "打开选项卡:";
+
+/* Class = "NSButtonCell"; title = "Set Tabs"; ObjectID = "jzg-J4-2iO"; */
+"jzg-J4-2iO.title" = "设置选项卡";
+
+/* Class = "NSButtonCell"; title = "Main Window"; ObjectID = "m3V-7c-T5g"; */
+"m3V-7c-T5g.title" = "主窗口";
+
+/* Class = "NSButtonCell"; title = "Open a specific tab or set of tabs"; ObjectID = "mQI-iE-RCd"; */
+"mQI-iE-RCd.title" = "打开特定选项卡或一组选项卡";
+
+/* Class = "NSButtonCell"; title = "Continue where you left off"; ObjectID = "qmg-3N-JtH"; */
+"qmg-3N-JtH.title" = "从上次离开的画面继续";
+
+/* Class = "NSButtonCell"; title = "New Window"; ObjectID = "siU-Q9-5Gg"; */
+"siU-Q9-5Gg.title" = "新窗口";
+
+/* Class = "NSTextFieldCell"; title = "On Startup:"; ObjectID = "xCd-3a-189"; */
+"xCd-3a-189.title" = "启动画面:";
+

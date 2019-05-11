@@ -1,0 +1,76 @@
+
+/* Class = "NSTextFieldCell"; title = "Include Objects:"; ObjectID = "1g4-CJ-SgC"; */
+"1g4-CJ-SgC.title" = "包含对象:";
+
+/* Class = "NSTextFieldCell"; title = "Schema:"; ObjectID = "2Wz-GQ-ST4"; */
+"2Wz-GQ-ST4.title" = "模式:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "4U3-Sg-Khd"; */
+"4U3-Sg-Khd.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "B5q-hY-9Bf"; */
+"B5q-hY-9Bf.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Tables"; ObjectID = "BoC-U8-1l6"; */
+"BoC-U8-1l6.title" = "表";
+
+/* Class = "NSButtonCell"; title = "Functions"; ObjectID = "CNp-zk-SvA"; */
+"CNp-zk-SvA.title" = "函数";
+
+/* Class = "NSTextFieldCell"; title = "Database:"; ObjectID = "Dee-Ah-6Cs"; */
+"Dee-Ah-6Cs.title" = "数据库:";
+
+/* Class = "NSButtonCell"; title = "Events"; ObjectID = "Era-Y3-bvM"; */
+"Era-Y3-bvM.title" = "事件";
+
+/* Class = "NSTextFieldCell"; title = "Find Results:"; ObjectID = "J3Y-PY-8uP"; */
+"J3Y-PY-8uP.title" = "查找结果:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "JNa-Yf-6rG"; */
+"JNa-Yf-6rG.headerCell.title" = "名";
+
+/* Class = "NSButtonCell"; title = "Queries"; ObjectID = "L2z-rM-u1n"; */
+"L2z-rM-u1n.title" = "查询";
+
+/* Class = "NSButtonCell"; title = "Materialized Views"; ObjectID = "LWE-yZ-iFV"; */
+"LWE-yZ-iFV.title" = "实体化视图";
+
+/* Class = "NSButtonCell"; title = "Indexes"; ObjectID = "M0a-J4-1q7"; */
+"M0a-J4-1q7.title" = "索引";
+
+/* Class = "NSButtonCell"; title = "Case Insensitive"; ObjectID = "Ni2-ty-jGy"; */
+"Ni2-ty-jGy.title" = "不区分大小写";
+
+/* Class = "NSTextFieldCell"; title = "'\\' as escape character"; ObjectID = "Q6m-HP-C1v"; */
+"Q6m-HP-C1v.title" = "“\\”作为转义字符";
+
+/* Class = "NSTextFieldCell"; title = "Look In:"; ObjectID = "Veu-ik-NHS"; */
+"Veu-ik-NHS.title" = "查找范围:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Wby-LJ-3rI"; */
+"Wby-LJ-3rI.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Connection:"; ObjectID = "Ztn-1f-J0e"; */
+"Ztn-1f-J0e.title" = "连接:";
+
+/* Class = "NSButtonCell"; title = "Find"; ObjectID = "dcj-h1-Pxe"; */
+"dcj-h1-Pxe.title" = "查找";
+
+/* Class = "NSTextFieldCell"; title = "Search Mode:"; ObjectID = "eGo-Y6-Hsq"; */
+"eGo-Y6-Hsq.title" = "搜索模式:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Number of Matched Records"; ObjectID = "eHQ-Dy-LlE"; */
+"eHQ-Dy-LlE.headerCell.title" = "匹配记录的数目";
+
+/* Class = "NSButtonCell"; title = "Triggers"; ObjectID = "hFL-hy-KDh"; */
+"hFL-hy-KDh.title" = "触发器";
+
+/* Class = "NSButtonCell"; title = "Views"; ObjectID = "iPV-Xp-BxD"; */
+"iPV-Xp-BxD.title" = "视图";
+
+/* Class = "NSTextFieldCell"; title = "Find:"; ObjectID = "puA-nc-mlt"; */
+"puA-nc-mlt.title" = "查找:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "qOV-V8-EfB"; */
+"qOV-V8-EfB.title" = "Table View Cell";
+

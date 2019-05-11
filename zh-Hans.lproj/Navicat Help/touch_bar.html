@@ -1,0 +1,57 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>Touch Bar</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>Touch Bar</h1>
+	<p>Navicat 支持 MacBook Pro 上的 Touch Bar。Touch Bar 控件根据你所焦点的窗口或表单而更改。</p>
+	<h2>所有 Navicat 窗口</h2>
+	<p><span class="term">新建查询：</span>轻点 <img src="./images/icon_newQuery.png" alt="新建查询" class="inlineGraphic" height="16" width="16"/>“<span class="term">新建查询</span>”以打开一个新的查询表单。</p>
+	<h2>导航窗格</h2>
+	<p><span class="term">仅显示活跃​​对象：</span>轻点 <img src="./images/icon_openObjects.png" alt="仅显示活跃​​对象" class="inlineGraphic" height="16" width="16"/> 以在导航窗格中仅显示已打开的对象。</p>
+	<p><span class="term">搜索：</span>轻点 <img src="./images/icon_search.png" alt="搜索" class="inlineGraphic" height="16" width="16"/> 并输入一个搜索字符串以在导航窗格中筛选连接、数据库、对象。</p>
+	<h2>对象窗格</h2>
+	<p><span class="term">对象选项卡：</span>轻点“<span class="term">对象</span>”以切换到对象选项卡。</p>
+	<p><span class="term">其他已打开的选项卡：</span>轻点一个已打开的选项卡以切换到它。</p>
+	<h2>数据查看器 - 表、集合、视图、实体化视图、查询</h2>
+	<p><span class="term">添加记录：</span>轻点 <img src="./images/icon_insertRecord.png" alt="添加记录" class="inlineGraphic" height="16" width="16"/> 以添加一个新记录。</p>
+	<p><span class="term">删除记录：</span>轻点 <img src="./images/icon_deleteRecord.png" alt="删除记录" class="inlineGraphic" height="16" width="16"/> 以删除当前的记录。</p>
+	<p><span class="term">应用更改：</span>轻点 <img src="./images/icon_updateRecord.png" alt="应用更改" class="inlineGraphic" height="16" width="16"/> 以应用更改。</p>
+	<p><span class="term">放弃更改：</span>轻点 <img src="./images/icon_cancelRecord.png" alt="放弃更改" class="inlineGraphic" height="16" width="16"/> 以移除对当前记录所做的所有编辑。</p>
+	<p><span class="term">上一页：</span>轻点 <img src="./images/icon_left.png" alt="上一页" class="inlineGraphic" height="16" width="16"/> 以移动到上一页。</p>
+	<p><span class="term">下一页：</span>轻点 <img src="./images/icon_right.png" alt="下一页" class="inlineGraphic" height="16" width="16"/> 以移动到下一页。</p>
+	<p><span class="term">网格视图：</span>轻点 <img src="./images/icon_gridView.png" alt="网格视图" class="inlineGraphic" height="16" width="16"/> 以切换到网格视图。</p>
+	<p><span class="term">表单视图：</span>轻点 <img src="./images/icon_formView.png" alt="表单视图" class="inlineGraphic" height="16" width="16"/> 以切换到表单视图。</p>
+	<p><span class="term">树视图：</span>轻点 <img src="./images/icon_treeView.png" alt="树视图" class="inlineGraphic" height="16" width="16"/> 以切换到树视图。</p>
+	<p><span class="term">JSON 视图：</span>轻点 <img src="./images/icon_jsonView.png" alt="JSON 视图" class="inlineGraphic" height="16" width="16"/> 以切换到 JSON 视图。</p>
+	<h2>对象设计器 - 视图、函数、实体化视图、MapReduce、查询</h2>
+	<p><span class="term">运行或预览：</span>轻点 <img src="./images/icon_run.png" alt="运行或预览" class="inlineGraphic" height="16" width="16"/> 以运行或预览对象。</p>
+	<p><span class="term">停止：</span>轻点 <img src="./images/icon_stop.png" alt="停止" class="inlineGraphic" height="16" width="16"/> 以停止运行。</p>
+	<h2>调试器</h2>
+	<p><span class="term">运行：</span>轻点 <img src="./images/icon_run.png" alt="运行" class="inlineGraphic" height="16" width="16"/> 以开始在调试模式中运行代码。</p>
+	<p><span class="term">逐过程：</span>轻点 <img src="./images/icon_stepOverDebug.png" alt="逐过程" class="inlineGraphic" height="16" width="16"/> 以运行当前的行并绕过当前的行中的函数。</p>
+	<p><span class="term">逐语句：</span>轻点 <img src="./images/icon_stepInDebug.png" alt="逐语句" class="inlineGraphic" height="16" width="16"/> 以运行当前的行并进入函数。</p>
+	<p><span class="term">跳过：</span>轻点 <img src="./images/icon_stepOutDebug.png" alt="跳过" class="inlineGraphic" height="16" width="16"/> 以完成运行你已经进入的函数调用。</p>
+	<p><span class="term">结束程：</span>轻点 <img src="./images/icon_stepEndDebug.png" alt="结束程" class="inlineGraphic" height="16" width="16"/> 以跳到函数的最后一行。</p>
+	<p><span class="term">停止：</span>轻点 <img src="./images/icon_stop.png" alt="停止" class="inlineGraphic" height="16" width="16"/> 以停止运行。</p>
+	<h2>模型 - 浏览器窗格和属性窗格</h2>
+	<p><span class="term">图表：</span>轻点 <img src="./images/icon_modelDiagram.png" alt="图表" class="inlineGraphic" height="16" width="16"/> 以切换到图表选项卡。</p>
+	<p><span class="term">模型：</span>轻点 <img src="./images/icon_modelModel.png" alt="模型" class="inlineGraphic" height="16" width="16"/> 以切换到模型选项卡。</p>
+	<p><span class="term">对象：</span>轻点 <img src="./images/icon_modelObject.png" alt="对象" class="inlineGraphic" height="16" width="16"/> 以切换到对象选项卡。</p>
+	<h2>模型 - 图表画布</h2>
+	<p><span class="term">自动调整版面：</span>轻点 <img src="./images/icon_modelAutoLayout.png" alt="自动调整版面" class="inlineGraphic" height="16" width="16"/> 以应用自动调整版面到当前的图表。</p>
+	<p><span class="term">放大或缩小：</span>调整滑杆以放大或缩小当前的图表。</p>
+</div>

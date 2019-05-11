@@ -1,0 +1,43 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>选择文件</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>选择文件</h1>
+	<p>点击“<span class="term">添加文件</span>”或“<span class="term">添加 URL</span>”来添加导入源文件。然后，为源文件选择“<span class="term">编码</span>”。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>你可以同时导入多个文件。</p>
+	</div>
+	<h2>ODBC</h2>
+	<p><span class="term">设置一个 ODBC 数据源连接</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>安装合适的 ODBC 管理员和文件相关的驱动程序。</p></li>
+		<li><p>在应用程序，选择“<span class="term">工具程式</span>”->“<span class="term">ODBC 管理员</span>”；或在 Navicat 中，在这个步骤点击“<span class="term">ODBC 管理员</span>”按钮。</p></li>
+		<li><p>在“<span class="term">用户数据源名</span>”选项卡点击“<span class="term">添加</span>”按钮。</p></li>
+		<li><p>选择合适的 ODBC 驱动程序并点击“<span class="term">好</span>”按钮。</p></li>
+		<li><p>输入所需的信息。</p></li>
+		<li><p>点击“<span class="term">完成</span>”按钮，你的 ODBC 驱动程序将会显示在列表中。</p></li>
+	</ul>
+	<div class="alert">
+		<p><span class="note">【注意】</span>你可以向驱动程序提供者咨询有关如何设置数据源名。</p>
+	</div>
+	<p><span class="term">在 Navicat 连接到 ODBC 数据源</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在“<span class="term">导入从</span>”点击 <img src="./images/indexButton.png" alt="省略号按钮" class="inlineGraphic" height="16" width="16"/>。</p></li>
+		<li><p>在“<span class="term">连接</span>”下拉式菜单选择数据源并提供有效的用户名和密码。</p></li>
+		<li><p>如果连接成功，所有可用的表将显示在下一个步骤的列表中。</p></li>
+	</ul>
+</div>

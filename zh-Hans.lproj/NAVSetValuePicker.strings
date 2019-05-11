@@ -1,0 +1,22 @@
+
+/* Class = "NSButtonCell"; title = "Deselect All"; ObjectID = "Q9G-34-UKa"; */
+"Q9G-34-UKa.title" = "取消全选";
+
+/* Class = "NSWindow"; title = "Select Field(s)"; ObjectID = "axF-DC-8vV"; */
+"axF-DC-8vV.title" = "选择字段";
+
+/* Class = "NSButtonCell"; title = "Empty String"; ObjectID = "mbc-DY-qbC"; */
+"mbc-DY-qbC.title" = "空白字符串";
+
+/* Class = "NSButtonCell"; title = "Select All"; ObjectID = "oMH-0L-aCd"; */
+"oMH-0L-aCd.title" = "全选";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "p10-a7-4y1"; */
+"p10-a7-4y1.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Null"; ObjectID = "ra7-KU-RI4"; */
+"ra7-KU-RI4.title" = "Null";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "sSG-bM-yij"; */
+"sSG-bM-yij.title" = "确定";
+

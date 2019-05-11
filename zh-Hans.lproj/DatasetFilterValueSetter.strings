@@ -1,0 +1,22 @@
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "547-ch-4tp"; */
+"547-ch-4tp.title" = "取消";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "6vt-oX-vfj"; */
+"6vt-oX-vfj.title" = "窗口";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "c4e-DW-idi"; */
+"c4e-DW-idi.title" = "确定";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "hKM-x1-6Nc"; */
+"hKM-x1-6Nc.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "oOd-JA-AGH"; */
+"oOd-JA-AGH.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "pfk-9s-RYx"; */
+"pfk-9s-RYx.title" = "Item 1";
+
+/* Class = "NSButtonCell"; title = "…"; ObjectID = "quT-zs-mke"; */
+"quT-zs-mke.title" = "…";
+

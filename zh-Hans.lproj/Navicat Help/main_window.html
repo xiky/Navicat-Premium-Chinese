@@ -1,0 +1,38 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>主窗口</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>主窗口</h1>
+	<p>主窗口是由几个工具栏和窗格所组成，让你创建连接、数据库对象，以及使用一些高级工具。</p>
+	<figure>
+		<a href="./images/mainWindow.png" target="_blank"><img src="./images/mainWindow.png"/></a>
+	</figure>
+	<p><img src="./images/area1.png" alt="编号 1" class="inlineGraphic" height="16" width="16"/> <span class="term">主工具栏</span></p>
+	<p>主工具栏让你访问基本的对象和功能，例如连接、用户、表、集合、备份、自动运行及更多。</p>
+	<p><img src="./images/area2.png" alt="编号 2" class="inlineGraphic" height="16" width="16"/> <span class="term">导航窗格</span></p>
+	<p>导航窗格是浏览连接、数据库和数据库对象的基本途径。如果导航窗格已隐藏，从菜单栏选择“<span class="term">查看</span>”->“<span class="term">导航窗格</span>”->“<span class="term">显示导航窗格</span>”。</p>
+	<p><img src="./images/area3.png" alt="编号 3" class="inlineGraphic" height="16" width="16"/> <span class="term">选项卡栏</span></p>
+	<p>选项卡栏让你切换对象窗格内具有选项卡的窗口。你亦可以选择弹出窗口显示在一个新选项卡中，或显示在一个新窗口。如果你已打开多个选项卡，可以使用 COMMAND-{ 或 COMMAND-} 键方便地切换到其他选项卡。按住 Control 键并点按选项卡可将它加到收藏夹列表或启动画面列表。请参阅<a href="#/preferences_tab">偏好设置</a>。</p>
+	<p><img src="./images/area4.png" alt="编号 4" class="inlineGraphic" height="16" width="16"/> <span class="term">对象工具栏</span></p>
+	<p>对象工具栏提供其他控件，用以操作对象。</p>
+	<p><img src="./images/area5.png" alt="编号 5" class="inlineGraphic" height="16" width="16"/> <span class="term">对象窗格</span></p>
+	<p>对象窗格显示一个对象的列表（例如：表、集合、视图、查询等），以及具有选项卡的窗口表单。使用 <img src="./images/icon_listView.png" alt="列表" class="inlineGraphic" height="16" width="16"/>“<span class="term">列表</span>”、<img src="./images/icon_detailView.png" alt="详细信息" class="inlineGraphic" height="16" width="16"/>“<span class="term">详细信息</span>”和 <img src="./images/icon_erDiagramView.png" alt="ER 图表" class="inlineGraphic" height="16" width="16"/>“<span class="term">ER 图表</span>”按钮来转换对象选项卡的查看。</p>
+	<p><img src="./images/area6.png" alt="编号 6" class="inlineGraphic" height="16" width="16"/> <span class="term">信息窗格</span></p>
+	<p>信息窗格显示对象的详细信息、项目活动日志、数据库对象的 DDL、对象相依性、用户或角色的成员资格和预览。如果信息窗格已隐藏，从菜单栏选择“<span class="term">查看</span>”->“<span class="term">信息窗格</span>”->“<span class="term">显示信息窗格</span>”。</p>
+	<p><img src="./images/area7.png" alt="编号 7" class="inlineGraphic" height="16" width="16"/> <span class="term">状态栏</span></p>
+	<p>状态栏显示当前使用中窗口的状态信息。若要显示或隐藏状态栏，请从菜单栏选择“<span class="term">查看</span>”->“<span class="term">显示状态栏</span>”。</p>
+</div>

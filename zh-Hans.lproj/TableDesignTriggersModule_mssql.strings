@@ -1,0 +1,31 @@
+
+/* Class = "NSTextFieldCell"; placeholderString = "Assembly Method"; ObjectID = "0CE-ds-ZJ5"; */
+"0CE-ds-ZJ5.placeholderString" = "程序集方法";
+
+/* Class = "NSButtonCell"; title = "Encrypted"; ObjectID = "4BW-ao-fBW"; */
+"4BW-ao-fBW.title" = "已加密";
+
+/* Class = "NSComboBoxCell"; placeholderString = "User"; ObjectID = "9qe-Gv-GlX"; */
+"9qe-Gv-GlX.placeholderString" = "用户";
+
+/* Class = "NSTextFieldCell"; title = "Execute As:"; ObjectID = "BSU-fU-DrX"; */
+"BSU-fU-DrX.title" = "运行由:";
+
+/* Class = "NSTextFieldCell"; title = "Definition Type:"; ObjectID = "Jfb-Am-EFh"; */
+"Jfb-Am-EFh.title" = "定义类型:";
+
+/* Class = "NSButtonCell"; title = "Not for replication"; ObjectID = "POD-ds-5nO"; */
+"POD-ds-5nO.title" = "不适用于复制";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "ZKj-w0-gvD"; */
+"ZKj-w0-gvD.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "Append"; ObjectID = "aLg-m4-dcA"; */
+"aLg-m4-dcA.title" = "追加";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "mKD-eh-IRW"; */
+"mKD-eh-IRW.title" = "Text Cell";
+
+/* Class = "NSBox"; title = "Options"; ObjectID = "u07-Yh-ALI"; */
+"u07-Yh-ALI.title" = "选项";
+

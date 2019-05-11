@@ -1,0 +1,46 @@
+
+/* Class = "NSTextFieldCell"; title = "Event:"; ObjectID = "0Rq-ON-pRd"; */
+"0Rq-ON-pRd.title" = "事件:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "[AssemblyName].[AssemblyClassName].[AssemblyMethodName]"; ObjectID = "6Oo-oQ-hug"; */
+"6Oo-oQ-hug.placeholderString" = "[AssemblyName].[AssemblyClassName].[AssemblyMethodName]";
+
+/* Class = "NSTextFieldCell"; title = "Table Name:"; ObjectID = "6rv-gd-NR9"; */
+"6rv-gd-NR9.title" = "表名:";
+
+/* Class = "NSTextFieldCell"; title = "Trigger Type:"; ObjectID = "6sQ-Oa-dIz"; */
+"6sQ-Oa-dIz.title" = "触发器类型:";
+
+/* Class = "NSButtonCell"; title = "Insert"; ObjectID = "7GG-0K-n1L"; */
+"7GG-0K-n1L.title" = "插入";
+
+/* Class = "NSButtonCell"; title = "Assembly"; ObjectID = "KFE-cm-ASc"; */
+"KFE-cm-ASc.title" = "程序集";
+
+/* Class = "NSTextFieldCell"; title = "Definition Type:"; ObjectID = "KGl-Yj-1PS"; */
+"KGl-Yj-1PS.title" = "定义类型:";
+
+/* Class = "NSButtonCell"; title = "Enable"; ObjectID = "Kq2-8w-JC9"; */
+"Kq2-8w-JC9.title" = "启用";
+
+/* Class = "NSTextFieldCell"; title = "Fire:"; ObjectID = "aVt-GQ-Zw2"; */
+"aVt-GQ-Zw2.title" = "触发:";
+
+/* Class = "NSComboBoxCell"; cs3-TC-RMC.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "cs3-TC-RMC"; */
+"cs3-TC-RMC.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; cs3-TC-RMC.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "cs3-TC-RMC"; */
+"cs3-TC-RMC.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; cs3-TC-RMC.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "cs3-TC-RMC"; */
+"cs3-TC-RMC.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSButtonCell"; title = "SQL Statement"; ObjectID = "grU-4t-m3X"; */
+"grU-4t-m3X.title" = "SQL 语句";
+
+/* Class = "NSButtonCell"; title = "Update"; ObjectID = "sAW-5Z-Fhs"; */
+"sAW-5Z-Fhs.title" = "更新";
+
+/* Class = "NSButtonCell"; title = "Delete"; ObjectID = "yFL-QQ-1gR"; */
+"yFL-QQ-1gR.title" = "删除";
+

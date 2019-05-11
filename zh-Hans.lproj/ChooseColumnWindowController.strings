@@ -1,0 +1,40 @@
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1YA-Pg-7wn"; */
+"1YA-Pg-7wn.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Default"; ObjectID = "9q8-OR-YxU"; */
+"9q8-OR-YxU.title" = "默认";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Co5-8Y-seW"; */
+"Co5-8Y-seW.title" = "Table View Cell";
+
+/* Class = "NSWindow"; title = "Choose Columns"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "选择列";
+
+/* Class = "NSButtonCell"; title = "Deselect All"; ObjectID = "IB3-hd-UT2"; */
+"IB3-hd-UT2.title" = "取消全选";
+
+/* Class = "NSTextFieldCell"; title = "Columns:"; ObjectID = "LST-cp-Znz"; */
+"LST-cp-Znz.title" = "列:";
+
+/* Class = "NSButtonCell"; title = "Select All"; ObjectID = "SWm-0e-tQJ"; */
+"SWm-0e-tQJ.title" = "全选";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ue3-Ze-TQi"; */
+"Ue3-Ze-TQi.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "btB-iY-Eup"; */
+"btB-iY-Eup.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "eV0-bb-6cH"; */
+"eV0-bb-6cH.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "fiR-T0-agN"; */
+"fiR-T0-agN.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Object Type:"; ObjectID = "nwp-se-34o"; */
+"nwp-se-34o.title" = "对象类型:";
+
+/* Class = "NSTextFieldCell"; title = "Database Type:"; ObjectID = "xNz-6k-MTW"; */
+"xNz-6k-MTW.title" = "数据库类型:";
+

@@ -1,0 +1,31 @@
+
+/* Class = "NSTextFieldCell"; title = "Minimum:"; ObjectID = "6CL-Ef-Z7u"; */
+"6CL-Ef-Z7u.title" = "最小:";
+
+/* Class = "NSTextFieldCell"; title = "Sequence Type:"; ObjectID = "BHv-Gj-vZX"; */
+"BHv-Gj-vZX.title" = "序列名类型:";
+
+/* Class = "NSButtonCell"; title = "Keep"; ObjectID = "FCb-Vp-igB"; */
+"FCb-Vp-igB.title" = "保留";
+
+/* Class = "NSButtonCell"; title = "Cyclic"; ObjectID = "QOu-pr-d4x"; */
+"QOu-pr-d4x.title" = "循环";
+
+/* Class = "NSButtonCell"; title = "Order"; ObjectID = "hqm-24-Wgw"; */
+"hqm-24-Wgw.title" = "排序";
+
+/* Class = "NSTextFieldCell"; title = "Starting Value:"; ObjectID = "jJ3-ob-IB7"; */
+"jJ3-ob-IB7.title" = "开始值:";
+
+/* Class = "NSTextFieldCell"; title = "Increment:"; ObjectID = "uPx-t1-je6"; */
+"uPx-t1-je6.title" = "递增:";
+
+/* Class = "NSButtonCell"; title = "No Cache"; ObjectID = "woH-SZ-rFy"; */
+"woH-SZ-rFy.title" = "没有缓存";
+
+/* Class = "NSTextFieldCell"; title = "Maximum:"; ObjectID = "yQI-V7-jNM"; */
+"yQI-V7-jNM.title" = "最大:";
+
+/* Class = "NSTextFieldCell"; title = "Cache:"; ObjectID = "zQ3-08-fXh"; */
+"zQ3-08-fXh.title" = "缓存:";
+

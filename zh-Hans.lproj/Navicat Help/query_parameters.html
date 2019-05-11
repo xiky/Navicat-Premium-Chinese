@@ -1,0 +1,22 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>查询参数</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>查询参数</h1>
+	<p>查询支持在查询文本内使用参数。你可以设置查询参数，于每次运行查询时添加变量值。参数是一个以 <span class="term">$</span> 开头以及用 <span class="term">[ ]</span> 括住的识别符，例如：[$任何名]。</p>
+	<p>运行查询时，你可以在“<span class="term">输入参数</span>”对话框输入你想要搜索的数据。如勾选“<span class="term">原始模式</span>”选项，将不会在传递输入值到查询时添加引号。</p>
+</div>

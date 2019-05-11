@@ -1,0 +1,88 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>Oracle 数据泵导出</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+
+<div class="manual_content_container">
+	<h1>Oracle 数据泵导出</h1>
+	<p>在运行数据泵导出前，选择“<span class="term">SQL 预览</span>”选项卡来检查 SQL 语句。然后，你可以点击“<span class="term">开始</span>”按钮来运行导出进程。</p>
+	<p>你可以将数据泵导出设置保存为一个配置文件以供将来使用。数据泵导出配置文件（.nbakora）保存于<a href="#/con_adv_settings">设置位置</a>。</p>
+	<p>若要显示隐藏的选项卡（高级选项），请勾选“<span class="term">显示高级选项</span>”选项。</p>
+	<h2>常规属性</h2>
+	<p><span class="term">工作名</span></p>
+	<p>指定工作的名。</p>
+	<p><span class="term">模式</span></p>
+	<p>选择导出模式：FULL、TABLESPACE、SCHEMAS、TABLE。</p>
+	<p><span class="term">内容</span></p>
+	<p>选择要导出的数据。</p>
+	<p><span class="term">导出数据</span></p>
+	<p>选择要导出的对象。如果你选择 TABLE 导出模式，在“<span class="term">模式</span>”下拉式菜单中选择一个模式。</p>
+	<p><span class="term">转储文件</span></p>
+	<p>添加转储文件到导出的转储文件集。</p>
+	<h2>元数据筛选</h2>
+	<p>在此选项卡，你可以包含或排除特定的对象类型。</p>
+	<h2>数据筛选</h2>
+	<p><span class="term">查询</span></p>
+	<p>指定一个要加到表 SELECT 语句尾部的子查询。</p>
+	<p><span class="term">样本</span></p>
+	<p>指定要移动的数据块的採样百分比。</p>
+	<h2>重新对应数据</h2>
+	<p>在此选项卡，你可以为列数据重新对应函数。</p>
+	<h2>加密</h2>
+	<p><span class="term">加密内容</span></p>
+	<p>选择在转储文件集中要加密的内容。</p>
+	<p><span class="term">加密算法</span></p>
+	<p>选择一个加密算法进行加密。</p>
+	<p><span class="term">加密模式</span></p>
+	<p>选择一个加密模式：透明、加密密码、双重。</p>
+	<p><span class="term">加密密码</span></p>
+	<p>如果你选择加密模式为加密密码或双重，输入一个密码来加密写入转储文件的数据。</p>
+	<p><span class="term">确认密码</span></p>
+	<p>重新输入你的密码。</p>
+	<h2>高级属性</h2>
+	<p><span class="term">线程数</span></p>
+	<p>输入可以被用于该工作的最大工作员进程数。</p>
+	<p><span class="term">重用文件</span></p>
+	<p>如果你想覆盖一个已存在的文件，可勾选这个选项。</p>
+	<p><span class="term">启用 XMLCLOBS</span></p>
+	<p>如果你想为 XMLCLOBS 启用数据选项，可勾选这个选项。</p>
+	<p><span class="term">启用群集</span></p>
+	<p>如果你想在工作可用的实例上启动工作员，可勾选这个选项。</p>
+	<p><span class="term">服务名</span></p>
+	<p>指定用于约束工作到特定实例或特定资源组的服务名。</p>
+	<p><span class="term">版本</span></p>
+	<p>指定要提取的数据库对象的版本。</p>
+	<p><span class="term">数据库链接</span></p>
+	<p>选择一个远程数据库的数据库链接，这将是工作的数据和元数据的源。</p>
+	<p><span class="term">估计</span></p>
+	<p>选择一个在开始工作前应运行的表大小的估计方法。</p>
+	<p><span class="term">压缩类型</span></p>
+	<p>指定在写入转储文件集之前要压缩的数据。</p>
+	<p><span class="term">可传输</span></p>
+	<p>如果你选择 TABLE 导出模式，选择永不或总是使用可传输选项。</p>
+	<p><span class="term">访问方法</span></p>
+	<p>如果默认卸载数据方法不起作用，选择一个替代方法。</p>
+	<p><span class="term">源版本</span></p>
+	<p>指定应用程序的版本。</p>
+	<p><span class="term">目录</span></p>
+	<p>选择保存日志文件的目录。</p>
+	<p><span class="term">日志文件名</span></p>
+	<p>输入日志文件的名。</p>
+	<p><span class="term">闪回 SCN</span></p>
+	<p>输入用于启用闪回查询实用工具的系统更改编号（SCN）。</p>
+	<p><span class="term">闪回时间</span></p>
+	<p>选择一个时间戳来查找 SCN。</p>
+</div>

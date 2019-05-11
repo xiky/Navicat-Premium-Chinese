@@ -1,0 +1,31 @@
+
+/* Class = "NSTextFieldCell"; title = "Referencing New:"; ObjectID = "3Zc-0n-dPf"; */
+"3Zc-0n-dPf.title" = "参考新的:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Schema"; ObjectID = "INe-gF-WGh"; */
+"INe-gF-WGh.headerCell.title" = "模式";
+
+/* Class = "NSTextFieldCell"; title = "Ordering:"; ObjectID = "KnT-0h-Eax"; */
+"KnT-0h-Eax.title" = "正在排序:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "V6x-uL-TH6"; */
+"V6x-uL-TH6.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Referencing Old:"; ObjectID = "aFt-Z8-cIF"; */
+"aFt-Z8-cIF.title" = "参考旧的:";
+
+/* Class = "NSTextFieldCell"; title = "Referencing Parent:"; ObjectID = "d6E-fb-BbR"; */
+"d6E-fb-BbR.title" = "参考上层:";
+
+/* Class = "NSTextFieldCell"; title = "Edition:"; ObjectID = "fuw-3T-9KT"; */
+"fuw-3T-9KT.title" = "版本:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "hfX-Ie-gmV"; */
+"hfX-Ie-gmV.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Trigger"; ObjectID = "nuh-Zy-uSw"; */
+"nuh-Zy-uSw.headerCell.title" = "触发器";
+
+/* Class = "NSTextFieldCell"; title = "Ordering References:"; ObjectID = "xrU-3d-wUj"; */
+"xrU-3d-wUj.title" = "正在排序参考:";
+

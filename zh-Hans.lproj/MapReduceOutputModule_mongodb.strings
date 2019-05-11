@@ -1,0 +1,58 @@
+
+/* Class = "NSButtonCell"; title = "Sharded"; ObjectID = "03U-Jw-vGE"; */
+"03U-Jw-vGE.title" = "分片";
+
+/* Class = "NSMenuItem"; title = "Replace"; ObjectID = "1Eh-TX-FVJ"; */
+"1Eh-TX-FVJ.title" = "替换";
+
+/* Class = "NSMenuItem"; title = "To Collection"; ObjectID = "6Tc-Jh-OU4"; */
+"6Tc-Jh-OU4.title" = "To Collection";
+
+/* Class = "NSMenuItem"; title = "Inline"; ObjectID = "94n-ff-QUx"; */
+"94n-ff-QUx.title" = "Inline";
+
+/* Class = "NSTextFieldCell"; title = "Output Database:"; ObjectID = "Gf7-aI-EY8"; */
+"Gf7-aI-EY8.title" = "输出数据库:";
+
+/* Class = "NSMenuItem"; title = "Merge"; ObjectID = "PDN-r8-Iih"; */
+"PDN-r8-Iih.title" = "合并";
+
+/* Class = "NSTextFieldCell"; title = "Output Collection:"; ObjectID = "RbZ-Cl-zHf"; */
+"RbZ-Cl-zHf.title" = "输出集合:";
+
+/* Class = "NSComboBoxCell"; WOt-JK-mmn.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "WOt-JK-mmn"; */
+"WOt-JK-mmn.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; WOt-JK-mmn.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "WOt-JK-mmn"; */
+"WOt-JK-mmn.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; WOt-JK-mmn.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "WOt-JK-mmn"; */
+"WOt-JK-mmn.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Action:"; ObjectID = "ZhF-RD-EuM"; */
+"ZhF-RD-EuM.title" = "动作:";
+
+/* Class = "NSTextFieldCell"; title = "Output:"; ObjectID = "azX-2L-Zc7"; */
+"azX-2L-Zc7.title" = "输出:";
+
+/* Class = "NSMenuItem"; title = "Reduce"; ObjectID = "cxG-r5-yXb"; */
+"cxG-r5-yXb.title" = "化简";
+
+/* Class = "NSComboBoxCell"; g5E-wZ-eQW.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "g5E-wZ-eQW"; */
+"g5E-wZ-eQW.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; g5E-wZ-eQW.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "g5E-wZ-eQW"; */
+"g5E-wZ-eQW.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; g5E-wZ-eQW.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "g5E-wZ-eQW"; */
+"g5E-wZ-eQW.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSButtonCell"; title = "Non-atomic"; ObjectID = "glD-26-UlJ"; */
+"glD-26-UlJ.title" = "非原子性";
+
+/* Class = "NSMenuItem"; title = "New"; ObjectID = "q9F-Co-U7K"; */
+"q9F-Co-U7K.title" = "新建";
+
+/* Class = "NSTextFieldCell"; title = "Output Collection:"; ObjectID = "rzp-cD-Id2"; */
+"rzp-cD-Id2.title" = "输出集合:";
+

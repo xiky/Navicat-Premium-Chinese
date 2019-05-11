@@ -1,0 +1,109 @@
+
+/* Class = "NSTextFieldCell"; title = "Grid Density"; ObjectID = "0RB-40-asx"; */
+"0RB-40-asx.title" = "网格密度";
+
+/* Class = "NSTabViewItem"; label = "Fields"; ObjectID = "0lz-lX-Ti2"; */
+"0lz-lX-Ti2.label" = "字段";
+
+/* Class = "NSTextFieldCell"; title = "XML Index Type:"; ObjectID = "4sm-4z-67y"; */
+"4sm-4z-67y.title" = "XML 索引类型:";
+
+/* Class = "NSTextFieldCell"; title = "XML Column:"; ObjectID = "6sE-XB-PZl"; */
+"6sE-XB-PZl.title" = "XML 列:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "8LB-TR-ULX"; */
+"8LB-TR-ULX.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "8RH-3i-l80"; */
+"8RH-3i-l80.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Cells Per Object:"; ObjectID = "BSS-f7-szd"; */
+"BSS-f7-szd.title" = "每个对象的单元格数:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "FuX-sD-VBN"; */
+"FuX-sD-VBN.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Gdv-wP-vTB"; */
+"Gdv-wP-vTB.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "MKD-JJ-GQQ"; */
+"MKD-JJ-GQQ.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "Mnm-Cl-bTk"; */
+"Mnm-Cl-bTk.title" = "类型:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "N6g-bP-hYc"; */
+"N6g-bP-hYc.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Primary XML Index:"; ObjectID = "O0p-cJ-Zr2"; */
+"O0p-cJ-Zr2.title" = "主 XML 索引:";
+
+/* Class = "NSTextFieldCell"; title = "Tessellation Scheme:"; ObjectID = "Rum-3L-rVA"; */
+"Rum-3L-rVA.title" = "嵌入式配置:";
+
+/* Class = "NSButtonCell"; title = "Unique"; ObjectID = "VSW-02-aCm"; */
+"VSW-02-aCm.title" = "唯一键";
+
+/* Class = "NSTextFieldCell"; title = "Min. Y-Coordinate:"; ObjectID = "ZIU-UL-7gA"; */
+"ZIU-UL-7gA.title" = "最小 X 坐标:";
+
+/* Class = "NSTextFieldCell"; title = "Level 1:"; ObjectID = "aa2-R3-qfg"; */
+"aa2-R3-qfg.title" = "级别 1:";
+
+/* Class = "NSComboBoxCell"; cKj-dj-u4m.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "cKj-dj-u4m"; */
+"cKj-dj-u4m.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; cKj-dj-u4m.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "cKj-dj-u4m"; */
+"cKj-dj-u4m.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; cKj-dj-u4m.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "cKj-dj-u4m"; */
+"cKj-dj-u4m.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Level 3:"; ObjectID = "ch1-oM-5at"; */
+"ch1-oM-5at.title" = "级别 3:";
+
+/* Class = "NSTextFieldCell"; title = "Level 2:"; ObjectID = "dyz-Kd-iX7"; */
+"dyz-Kd-iX7.title" = "级别 2:";
+
+/* Class = "NSTextFieldCell"; title = "Min. X-Coordinate:"; ObjectID = "e4a-CJ-3Ub"; */
+"e4a-CJ-3Ub.title" = "最小 X 坐标:";
+
+/* Class = "NSTextFieldCell"; title = "Spatial Column:"; ObjectID = "eYf-Bq-rLe"; */
+"eYf-Bq-rLe.title" = "空间列:";
+
+/* Class = "NSTextFieldCell"; title = "Bounding Box"; ObjectID = "fBq-zX-dWH"; */
+"fBq-zX-dWH.title" = "边界框";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "gWt-sc-34l"; */
+"gWt-sc-34l.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table / View:"; ObjectID = "hPY-TB-3tC"; */
+"hPY-TB-3tC.title" = "表或视图:";
+
+/* Class = "NSTextFieldCell"; title = "Max. X-Coordinate:"; ObjectID = "j4W-Gm-NHs"; */
+"j4W-Gm-NHs.title" = "最大 X 坐标:";
+
+/* Class = "NSComboBoxCell"; mTu-Nd-hhn.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "mTu-Nd-hhn"; */
+"mTu-Nd-hhn.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; mTu-Nd-hhn.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "mTu-Nd-hhn"; */
+"mTu-Nd-hhn.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; mTu-Nd-hhn.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "mTu-Nd-hhn"; */
+"mTu-Nd-hhn.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Table/View Name:"; ObjectID = "n6c-sO-KZq"; */
+"n6c-sO-KZq.title" = "表或视图名:";
+
+/* Class = "NSTextFieldCell"; title = "Max. Y-Coordinate:"; ObjectID = "oxU-GK-vhN"; */
+"oxU-GK-vhN.title" = "最大 X 坐标:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "sXj-KD-3qy"; */
+"sXj-KD-3qy.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Level 4:"; ObjectID = "t3Z-t7-5aO"; */
+"t3Z-t7-5aO.title" = "级别 4:";
+
+/* Class = "NSTabViewItem"; label = "Included Columns"; ObjectID = "yoA-3M-pnX"; */
+"yoA-3M-pnX.label" = "包含的列";
+

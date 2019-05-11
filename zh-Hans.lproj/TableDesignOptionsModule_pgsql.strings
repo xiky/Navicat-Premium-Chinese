@@ -1,0 +1,22 @@
+
+/* Class = "NSTextFieldCell"; title = "Owner:"; ObjectID = "5Lf-6g-tZG"; */
+"5Lf-6g-tZG.title" = "拥有者:";
+
+/* Class = "NSTextFieldCell"; title = "Tablespace:"; ObjectID = "Jdb-7f-Afq"; */
+"Jdb-7f-Afq.title" = "表空间:";
+
+/* Class = "NSButtonCell"; title = "Has OIDs"; ObjectID = "Omb-Sb-mZ5"; */
+"Omb-Sb-mZ5.title" = "有 OIDs";
+
+/* Class = "NSTextFieldCell"; title = "Inherits From:"; ObjectID = "WGV-Dr-QJK"; */
+"WGV-Dr-QJK.title" = "继承自:";
+
+/* Class = "NSTextFieldCell"; title = "Fill Factor (%):"; ObjectID = "ekZ-YZ-TGl"; */
+"ekZ-YZ-TGl.title" = "填充因子（%）:";
+
+/* Class = "NSTextFieldCell"; title = "Cluster:"; ObjectID = "enH-Y6-tTP"; */
+"enH-Y6-tTP.title" = "群集:";
+
+/* Class = "NSButtonCell"; title = "Unlogged"; ObjectID = "w55-Qd-SKc"; */
+"w55-Qd-SKc.title" = "不记录";
+

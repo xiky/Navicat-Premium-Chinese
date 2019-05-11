@@ -1,0 +1,37 @@
+
+/* Class = "NSButtonCell"; title = "Object Types"; ObjectID = "4oE-l4-w8c"; */
+"4oE-l4-w8c.title" = "对象类型";
+
+/* Class = "NSTextFieldCell"; title = "Options"; ObjectID = "9ue-Q0-2TZ"; */
+"9ue-Q0-2TZ.title" = "选项";
+
+/* Class = "NSButtonCell"; title = "REGISTER_AUTO_OOL"; ObjectID = "G4G-Ta-GlD"; */
+"G4G-Ta-GlD.title" = "REGISTER_AUTO_OOL";
+
+/* Class = "NSTextFieldCell"; title = "Generate"; ObjectID = "Mn9-pb-YY0"; */
+"Mn9-pb-YY0.title" = "生成";
+
+/* Class = "NSButtonCell"; title = "REGISTER_BINARYXML"; ObjectID = "RHJ-M3-owc"; */
+"RHJ-M3-owc.title" = "REGISTER_BINARYXML";
+
+/* Class = "NSButtonCell"; title = "REGISTER_NT_AS_IOT"; ObjectID = "S4i-Ps-Kir"; */
+"S4i-Ps-Kir.title" = "REGISTER_NT_AS_IOT";
+
+/* Class = "NSButtonCell"; title = "Local"; ObjectID = "SSG-Qr-vyI"; */
+"SSG-Qr-vyI.title" = "本地";
+
+/* Class = "NSButtonCell"; title = "REGISTER_NODOCID"; ObjectID = "YhE-wl-HbT"; */
+"YhE-wl-HbT.title" = "REGISTER_NODOCID";
+
+/* Class = "NSButtonCell"; title = "Force on schema registration"; ObjectID = "dTc-qv-5pE"; */
+"dTc-qv-5pE.title" = "强制模式注册";
+
+/* Class = "NSButtonCell"; title = "Java Beans"; ObjectID = "nls-hp-jQb"; */
+"nls-hp-jQb.title" = "Java Beans";
+
+/* Class = "NSButtonCell"; title = "Default Tables"; ObjectID = "wVi-Yr-TzD"; */
+"wVi-Yr-TzD.title" = "默认表";
+
+/* Class = "NSTextFieldCell"; title = "Enable Hierarchy:"; ObjectID = "wgM-wX-Rfa"; */
+"wgM-wX-Rfa.title" = "启用阶层:";
+

@@ -1,0 +1,32 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>关于数据同步</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>关于数据同步（仅适用于非 Essentials 版）</h1>
+	<p>Navicat 让你以详细分析的进程从一个数据库和/或模式传输数据到另一个。换句话说，Navicat 能使不同的数据库和/或模式的数据保持最新，以便每个库包含相同的信息。若要打开数据同步窗口，请从菜单栏选择“<span class="term">工具</span>”->“<span class="term">数据同步</span>”。</p>
+	<p>对于 RDBMS，所有表必须包含主键，以及所有的源表结构和目标表结构必须相同。你可在数据同步前应用结构同步。</p>
+	<p>你可以将设置保存为一个配置文件以供将来使用或用作设置<a href="#/automation">自动运行任务</a>。若要打开一个已保存的配置文件，请点击“<span class="term">加载配置文件</span>”按钮并从列表中选择。</p>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>配置文件保存于默认的路径，例如：~/Library/Application Support/PremiumSoft CyberTech/Navicat CC/Common/Profiles</p>
+	</div>
+	<div class="alert">
+		<p><span class="note">【注意】</span>SQL Server 2000 不支持此功能。对于 Oracle 服务器，在数据同步进程中，BLOB、CLOB、NCLOB、LONG 和 LONG RAW 数据会被忽略。数据库链接同步到 9i 服务器时，TIMESTAMP 主键不能同步（插入、更新）。数据库链接同步到任何服务器时，RAW 主键不能同步（插入、更新、删除），而且不会发生错误。</p>
+	</div>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>Navicat Premium 和 Navicat for MySQL 均支持 MySQL 与 MariaDB 之间的同步。</p>
+	</div>
+</div>

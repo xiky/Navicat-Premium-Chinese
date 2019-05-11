@@ -1,0 +1,19 @@
+
+/* Class = "NSTableColumn"; headerCell.title = "Target Table"; ObjectID = "74S-VE-TS4"; */
+"74S-VE-TS4.headerCell.title" = "目标表";
+
+/* Class = "NSTableColumn"; headerCell.title = "Is New"; ObjectID = "UeO-yz-awZ"; */
+"UeO-yz-awZ.headerCell.title" = "是新的";
+
+/* Class = "NSTableColumn"; headerCell.title = "Source File"; ObjectID = "XbR-sk-PwT"; */
+"XbR-sk-PwT.headerCell.title" = "源文件";
+
+/* Class = "NSTextFieldCell"; title = "Select the target tables. You can select from existing tables or input other names for new tables."; ObjectID = "Yjs-SI-UXZ"; */
+"Yjs-SI-UXZ.title" = "选择目标表。你可选择现有的表，或输入新的表名。";
+
+/* Class = "NSTextFieldCell"; title = "Map Tables (5/8)"; ObjectID = "pcR-N1-gv7"; */
+"pcR-N1-gv7.title" = "Map Tables (5/8)";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "tqZ-9O-9x5"; */
+"tqZ-9O-9x5.title" = "Text Cell";
+

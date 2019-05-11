@@ -1,0 +1,43 @@
+
+/* Class = "NSTextFieldCell"; title = "Text/Image Filegroup:"; ObjectID = "DIg-ZA-hUJ"; */
+"DIg-ZA-hUJ.title" = "文本或图像文件组:";
+
+/* Class = "NSTextFieldCell"; title = "Data Compression:"; ObjectID = "JUM-Z2-aRK"; */
+"JUM-Z2-aRK.title" = "数据压缩:";
+
+/* Class = "NSTextFieldCell"; title = "Partition Column:"; ObjectID = "Qdp-AZ-Omb"; */
+"Qdp-AZ-Omb.title" = "分区列:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "RbT-RC-bt1"; */
+"RbT-RC-bt1.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Partition Scheme:"; ObjectID = "RuA-q3-kfe"; */
+"RuA-q3-kfe.title" = "分区方案:";
+
+/* Class = "NSButtonCell"; title = "Partition Scheme"; ObjectID = "ZW8-eN-EGy"; */
+"ZW8-eN-EGy.title" = "分区方案";
+
+/* Class = "NSTextFieldCell"; title = "Filegroup:"; ObjectID = "aUW-DC-PPl"; */
+"aUW-DC-PPl.title" = "文件组:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "enn-ET-mhR"; */
+"enn-ET-mhR.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "nWG-og-jGB"; */
+"nWG-og-jGB.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "File Stream Partition Scheme:"; ObjectID = "o0E-Y8-gK4"; */
+"o0E-Y8-gK4.title" = "文件流分区方案:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "sid-59-nwI"; */
+"sid-59-nwI.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Store On:"; ObjectID = "vgF-WH-QXG"; */
+"vgF-WH-QXG.title" = "存储在:";
+
+/* Class = "NSTextFieldCell"; title = "File Stream Filegroup:"; ObjectID = "xWS-vr-mFM"; */
+"xWS-vr-mFM.title" = "文件流文件组:";
+
+/* Class = "NSButtonCell"; title = "Filegroup"; ObjectID = "xaT-i2-Zdh"; */
+"xaT-i2-Zdh.title" = "文件组";
+

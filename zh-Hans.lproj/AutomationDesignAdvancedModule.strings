@@ -1,0 +1,73 @@
+
+/* Class = "NSTextFieldCell"; title = "Body:"; ObjectID = "0GQ-yg-gq7"; */
+"0GQ-yg-gq7.title" = "主体:";
+
+/* Class = "NSTextFieldCell"; title = "%F - "; ObjectID = "2cR-UR-Bro"; */
+"2cR-UR-Bro.title" = "%F - ";
+
+/* Class = "NSBox"; title = "Authentication"; ObjectID = "5Xo-7A-XhS"; */
+"5Xo-7A-XhS.title" = "验证";
+
+/* Class = "NSButtonCell"; title = "Use authentication"; ObjectID = "8xT-Ol-hL2"; */
+"8xT-Ol-hL2.title" = "使用验证";
+
+/* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "9Eq-YB-IUk"; */
+"9Eq-YB-IUk.title" = "格式:";
+
+/* Class = "NSTextFieldCell"; title = "Result"; ObjectID = "A9g-4o-7A7"; */
+"A9g-4o-7A7.title" = "结果";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "Eyf-5q-VEp"; */
+"Eyf-5q-VEp.title" = "密码:";
+
+/* Class = "NSTextFieldCell"; title = "Batch Job Name"; ObjectID = "GFP-b6-5BV"; */
+"GFP-b6-5BV.title" = "批处理作业名";
+
+/* Class = "NSTextFieldCell"; title = "User Name:"; ObjectID = "GZk-gy-tdh"; */
+"GZk-gy-tdh.title" = "用户名:";
+
+/* Class = "NSTextFieldCell"; title = "Subject:"; ObjectID = "Hvk-Qc-pEl"; */
+"Hvk-Qc-pEl.title" = "主旨:";
+
+/* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "JTw-BD-uin"; */
+"JTw-BD-uin.title" = "端口:";
+
+/* Class = "NSTextFieldCell"; title = "CC:"; ObjectID = "KnR-Dg-cb7"; */
+"KnR-Dg-cb7.title" = "副本:";
+
+/* Class = "NSButtonCell"; title = "Send Email"; ObjectID = "NtE-Vq-M63"; */
+"NtE-Vq-M63.title" = "发送邮件";
+
+/* Class = "NSButtonCell"; title = "TLS"; ObjectID = "PEl-m6-7oo"; */
+"PEl-m6-7oo.title" = "TLS";
+
+/* Class = "NSTextFieldCell"; title = "From:"; ObjectID = "PUq-I9-C9R"; */
+"PUq-I9-C9R.title" = "发件人:";
+
+/* Class = "NSTextFieldCell"; title = "Finish Time"; ObjectID = "Qma-oy-JnF"; */
+"Qma-oy-JnF.title" = "完成时间";
+
+/* Class = "NSTextFieldCell"; title = "%J - "; ObjectID = "VXC-2J-9v6"; */
+"VXC-2J-9v6.title" = "%J - ";
+
+/* Class = "NSTextFieldCell"; title = "To:"; ObjectID = "Z2C-bU-J7p"; */
+"Z2C-bU-J7p.title" = "收件人:";
+
+/* Class = "NSTextFieldCell"; title = "Secure Connection:"; ObjectID = "ioQ-xg-t2X"; */
+"ioQ-xg-t2X.title" = "安全连接:";
+
+/* Class = "NSTextFieldCell"; title = "%R -"; ObjectID = "kZ8-hd-U44"; */
+"kZ8-hd-U44.title" = "%R -";
+
+/* Class = "NSTextFieldCell"; title = "Host (SMTP Server):"; ObjectID = "ljs-Oj-HCD"; */
+"ljs-Oj-HCD.title" = "主机（SMTP 服务器）:";
+
+/* Class = "NSButtonCell"; title = "SSL"; ObjectID = "v0s-xV-fgO"; */
+"v0s-xV-fgO.title" = "SSL";
+
+/* Class = "NSButtonCell"; title = "Never"; ObjectID = "yjk-6p-26U"; */
+"yjk-6p-26U.title" = "永不";
+
+/* Class = "NSButtonCell"; title = "Send Test Mail"; ObjectID = "zia-u9-LUB"; */
+"zia-u9-LUB.title" = "发送测试邮件";
+

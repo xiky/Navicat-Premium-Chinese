@@ -1,0 +1,40 @@
+
+/* Class = "NSTextFieldCell"; title = "Reduce:"; ObjectID = "5Vz-Hq-Lc3"; */
+"5Vz-Hq-Lc3.title" = "化简:";
+
+/* Class = "NSTextFieldCell"; title = "Output:"; ObjectID = "EFP-8d-cQD"; */
+"EFP-8d-cQD.title" = "输出:";
+
+/* Class = "NSTextFieldCell"; title = "Emit:"; ObjectID = "Lmg-To-sTh"; */
+"Lmg-To-sTh.title" = "发出:";
+
+/* Class = "NSTextFieldCell"; title = "Total (ms):"; ObjectID = "Mwu-tC-9Y1"; */
+"Mwu-tC-9Y1.title" = "Total (ms):";
+
+/* Class = "NSTextFieldCell"; title = "Mode:"; ObjectID = "P3n-aQ-mCb"; */
+"P3n-aQ-mCb.title" = "模式:";
+
+/* Class = "NSTextFieldCell"; title = "Map Time (ms):"; ObjectID = "ULz-DX-MwN"; */
+"ULz-DX-MwN.title" = "Map Time (ms):";
+
+/* Class = "NSTextFieldCell"; title = "Emit Loop:"; ObjectID = "UPX-Kl-i5I"; */
+"UPX-Kl-i5I.title" = "发出循环:";
+
+/* Class = "NSTextFieldCell"; title = "Status:"; ObjectID = "WMy-2Q-L2S"; */
+"WMy-2Q-L2S.title" = "状态:";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "Wem-pf-Y1u"; */
+"Wem-pf-Y1u.title" = "标签";
+
+/* Class = "NSTextFieldCell"; title = "Counts"; ObjectID = "X75-hU-yGA"; */
+"X75-hU-yGA.title" = "数量";
+
+/* Class = "NSTextFieldCell"; title = "Input:"; ObjectID = "fK2-wn-vul"; */
+"fK2-wn-vul.title" = "输入:";
+
+/* Class = "NSTextFieldCell"; title = "Timing"; ObjectID = "qSC-fR-Xak"; */
+"qSC-fR-Xak.title" = "计时";
+
+/* Class = "NSTextFieldCell"; title = "Reduce Time (ms):"; ObjectID = "rnG-vc-fRb"; */
+"rnG-vc-fRb.title" = "Reduce Time (ms):";
+

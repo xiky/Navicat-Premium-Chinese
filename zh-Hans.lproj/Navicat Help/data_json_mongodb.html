@@ -1,0 +1,40 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>JSON 视图</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>JSON 视图</h1>
+	<p>JSON 视图以 JSON 格式显示文档。导航栏可让你快速地切换、插入、或删除文档。</p>
+	<p><span class="term">添加一个文档</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在导航栏点击 <img src="./images/icon_insertRecord.png" alt="添加文档" class="inlineGraphic" height="16" width="16"/> 或按 COMMAND-+。</p></li>
+		<li><p>在弹出窗口中编写文档。</p></li>
+		<li><p>点击“<span class="term">验证</span>”以确保文档正确。</p></li>
+		<li><p>点击“<span class="term">保存</span>”。</p></li>
+	</ul>
+	<p><span class="term">编辑一个文档</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>按住 Control 键并点按你想编辑的文档，然后选择“<span class="term">编辑文档</span>”。</p></li>
+		<li><p>在弹出窗口中编辑文档。</p></li>
+		<li><p>点击“<span class="term">验证</span>”以确保文档正确。</p></li>
+		<li><p>点击“<span class="term">保存</span>”。</p></li>
+	</ul>
+	<p><span class="term">删除一个文档</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>点击你想删除的文档。</p></li>
+		<li><p>只需简单地在导航栏点击 <img src="./images/icon_deleteRecord.png" alt="删除文档" class="inlineGraphic" height="16" width="16"/>。</p></li>
+	</ul>
+</div>

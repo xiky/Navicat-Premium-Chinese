@@ -1,0 +1,55 @@
+
+/* Class = "NSTextFieldCell"; title = "Documents Returned:"; ObjectID = "03M-Fp-a9u"; */
+"03M-Fp-a9u.title" = "返回的文档:";
+
+/* Class = "NSTextFieldCell"; title = "N/A"; ObjectID = "3g6-Zm-2Vs"; */
+"3g6-Zm-2Vs.title" = "无";
+
+/* Class = "NSButton"; ibShadowedToolTip = "JSON View"; ObjectID = "5yX-zl-2f7"; */
+"5yX-zl-2f7.ibShadowedToolTip" = "JSON 视图";
+
+/* Class = "NSTabViewItem"; label = "Tab"; ObjectID = "746-C8-BMf"; */
+"746-C8-BMf.label" = "定位";
+
+/* Class = "NSTextFieldCell"; title = "Index Used:"; ObjectID = "ESQ-rl-DZC"; */
+"ESQ-rl-DZC.title" = "使用的索引:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "OFF-pc-6Uh"; */
+"OFF-pc-6Uh.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "TG5-4H-46t"; */
+"TG5-4H-46t.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "N/A"; ObjectID = "Ton-nD-U6w"; */
+"Ton-nD-U6w.title" = "无";
+
+/* Class = "NSTextFieldCell"; title = "Execution Time:"; ObjectID = "U5z-AE-2f2"; */
+"U5z-AE-2f2.title" = "运行时间:";
+
+/* Class = "NSTextFieldCell"; title = "Keys Examined:"; ObjectID = "WQ1-hn-Tyy"; */
+"WQ1-hn-Tyy.title" = "已检查的键:";
+
+/* Class = "NSTabViewItem"; label = "View"; ObjectID = "aqx-Ba-Yod"; */
+"aqx-Ba-Yod.label" = "查看";
+
+/* Class = "NSTextFieldCell"; title = "N/A"; ObjectID = "dVn-LM-CUn"; */
+"dVn-LM-CUn.title" = "无";
+
+/* Class = "NSTextFieldCell"; title = "Documents Examined:"; ObjectID = "fao-SS-xdg"; */
+"fao-SS-xdg.title" = "已检查的文档:";
+
+/* Class = "NSTextFieldCell"; title = "N/A"; ObjectID = "fnf-6Y-2CH"; */
+"fnf-6Y-2CH.title" = "无";
+
+/* Class = "NSTextFieldCell"; title = "N/A"; ObjectID = "it2-VF-yk1"; */
+"it2-VF-yk1.title" = "无";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Grid View"; ObjectID = "tLI-dw-d4q"; */
+"tLI-dw-d4q.ibShadowedToolTip" = "网格视图";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "w5N-cV-6Rm"; */
+"w5N-cV-6Rm.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "y9J-or-qOd"; */
+"y9J-or-qOd.title" = "Text Cell";
+

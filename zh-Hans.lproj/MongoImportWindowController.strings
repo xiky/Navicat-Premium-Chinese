@@ -1,0 +1,25 @@
+
+/* Class = "NSWindow"; title = "MongoImport"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "MongoImport";
+
+/* Class = "NSButtonCell"; title = "Load Profile"; ObjectID = "JZz-0h-crz"; */
+"JZz-0h-crz.title" = "加载配置文件";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "Rjn-6j-S6P"; */
+"Rjn-6j-S6P.title" = "保存";
+
+/* Class = "NSSegmentedCell"; aQF-7Z-xE2.ibShadowedLabels[0] = "Save Profile"; ObjectID = "aQF-7Z-xE2"; */
+"aQF-7Z-xE2.ibShadowedLabels[0]" = "保存配置文件";
+
+/* Class = "NSSegmentedCell"; aQF-7Z-xE2.ibShadowedLabels[1] = "▾"; ObjectID = "aQF-7Z-xE2"; */
+"aQF-7Z-xE2.ibShadowedLabels[1]" = "▾";
+
+/* Class = "NSMenuItem"; title = "Save As"; ObjectID = "acl-w2-QGY"; */
+"acl-w2-QGY.title" = "另存为";
+
+/* Class = "NSButtonCell"; title = "Start"; ObjectID = "nJy-9Y-M7h"; */
+"nJy-9Y-M7h.title" = "开始";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "ry4-1h-LFg"; */
+"ry4-1h-LFg.title" = "关闭";
+

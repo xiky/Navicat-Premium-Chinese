@@ -1,0 +1,19 @@
+
+/* Class = "NSTextFieldCell"; title = "Path:"; ObjectID = "8d9-3U-j0m"; */
+"8d9-3U-j0m.title" = "路径:";
+
+/* Class = "NSTextFieldCell"; title = "Next Size:"; ObjectID = "MNI-9T-26W"; */
+"MNI-9T-26W.title" = "下一个大小:";
+
+/* Class = "NSButtonCell"; title = "Unlimited max"; ObjectID = "Vqm-94-L21"; */
+"Vqm-94-L21.title" = "无上限";
+
+/* Class = "NSTextFieldCell"; title = "Autoextend:"; ObjectID = "ggv-Wi-cU1"; */
+"ggv-Wi-cU1.title" = "自动扩展:";
+
+/* Class = "NSTextFieldCell"; title = "Max Size:"; ObjectID = "iIA-fG-ZBN"; */
+"iIA-fG-ZBN.title" = "最大大小:";
+
+/* Class = "NSTextFieldCell"; title = "Tablespace Type:"; ObjectID = "jLM-f2-ikx"; */
+"jLM-f2-ikx.title" = "表空间类型:";
+

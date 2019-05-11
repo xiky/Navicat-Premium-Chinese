@@ -1,0 +1,59 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>关于连接</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>关于连接</h1>
+	<p>若要在 Navicat 开始使用你的服务器，你要首先用连接窗口创建一个或多个连接。如果你是一个新手或不肯定服务器如何运作，你可能想看看：</p>
+	<ul class="ListBullet">
+		<li><p><a href="http://dev.mysql.com/doc/" target="_blank">MySQL 用户手册</a></p></li>
+		<li><p><a href="http://www.oracle.com/technology/documentation/index.html" target="_blank">Oracle 数据库文件</a></p></li>
+		<li><p><a href="http://www.postgresql.org/docs/manuals/" target="_blank">PostgreSQL 用户手册</a></p></li>
+		<li><p><a href="http://www.sqlite.org/docs.html" target="_blank">SQLite 用户手册</a></p></li>
+		<li><p><a href="http://msdn.microsoft.com/en-us/library/bb545450(v=SQL.10).aspx" target="_blank">SQL Server MSDN Library</a></p></li>
+		<li><p><a href="https://mariadb.com/kb/en/mariadb-documentation/" target="_blank">MariaDB 文件</a></p></li>
+		<li><p><a href="https://docs.mongodb.com/manual/" target="_blank">MongoDB 手册</a></p></li>
+	</ul>
+	<p>若要创建新连接，请点击 <img src="./images/icon_newConnection.png" alt="连接" class="inlineGraphic" height="16" width="16"/>“<span class="term">连接</span>”并选择你的服务器类型。然后，在连接窗口输入必需的信息。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>Navicat 能让你连接到不同平台（即 Windows、macOS、Linux 和 UNIX）上的远程服务器，并支持 PAM 和 GSSAPI 验证。</p>
+	</div>
+	<p>你可以编辑连接的属性，按住 Control 键并点按连接，然后选择“<span class="term">编辑连接</span>”。</p>
+	<h2>Navicat Cloud</h2>
+	<p>若要在“<span class="term">我的连接</span>”和 <a href="#/about_cloud">Navicat Cloud</a> 之间复制或移动连接，按住 Control 键并点按连接，然后选择“<span class="term">复制连接到</span>”或“<span class="term">移动连接到</span>”。</p>
+	<h2>更新 MySQL 或 MariaDB 连接</h2>
+	<p>如果你要清除或重新加载不同的内部缓存、更新表或取得锁定，按住 Control 键并点按在导航窗格的连接，然后选择“<span class="term">更新</span>”，并选择更新选项。你必需有 <a href="#/security_mysql_user">RELOAD</a> 权限来使用此功能。</p>
+	<h2>管理 Azure SQL Database 防火墙规则</h2>
+	<p>你必须授权你的用戶 IP 访问才能连接到 Azure SQL Database。如果你要从你的电脑访问 Azure SQL Database，请确保你的防火墙允许 TCP 通讯端口 1433 上的传出 TCP 通讯。在你连接到 Azure SQL Database 前，你必须有至少一个防火墙规则。</p>
+	<p>若要管理防火墙规则设置，按住 Control 键并点按在导航窗格的 Azure SQL Database 连接，然后选择“<span class="term">SQL Azure 防火墙规则</span>”。然后，提供 IP 地址范围来添加新的规则。</p>
+	<h2>测试用帐号</h2>
+	<p>Navicat 提供测试用的评估帐号。</p>
+	<p><span class="term">MySQL</span></p>
+	<ul class="ListBullet">
+		<li><p>主机：server1.navicat.com</li></p>
+		<li><p>端口：4406</li></p>
+		<li><p>用户名：navicat</li></p>
+		<li><p>密码：testnavicat</li></p>
+	</ul>
+	<p><span class="term">PostgreSQL</span></p>
+	<ul class="ListBullet">
+		<li><p>主机：server1.navicat.com</li></p>
+		<li><p>端口：5432</li></p>
+		<li><p>初始数据库：HR</li></p>
+		<li><p>用户名：navicat</li></p>
+		<li><p>密码：testnavicat</li></p>
+	</ul>
+</div>

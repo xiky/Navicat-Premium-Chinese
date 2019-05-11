@@ -1,0 +1,43 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>回收站</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>回收站</h1>
+	<p>回收站包含已删除的表和任何关联的对象如索引、约束、嵌套表。在主窗口中，点击 <img src="./images/icon_others.png" alt="其他" class="inlineGraphic" height="16" width="16"/>“<span class="term">其他</span>”-> <img src="./images/icon_recycleBin.png" alt="回收站" class="inlineGraphic" height="16" width="16"/>“<span class="term">回收站</span>”来打开回收站的对象列表。</p>
+	<p><span class="term">还原一个表</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在对象选项卡选择一个表。</p></li>
+		<li><p>点击 <img src="./images/icon_flashback.png" alt="闪回表" class="inlineGraphic" height="16" width="16"/>。</p></li>
+	</ul>
+	<p><span class="term">移除一个对象</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在对象选项卡选择一个要清除的对象。</p></li>
+		<li><p>点击 <img src="./images/icon_purge.png" alt="清除对象" class="inlineGraphic" height="16" width="16"/>。</p></li>
+		<li><p>在对话窗口中确认删除。</p></li>
+	</ul>
+	<p><span class="term">移除全部对象</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>按住 Control 键并点按对象选项卡的任意位置，然后在弹出式菜单中选择“<span class="term">清除回收站</span>”。</p></li>
+		<li><p>在对话窗口中确认删除。</p></li>
+	</ul>
+	<p><span class="term">移除每个用户的全部对象</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>登录一个有 SYSDBA 权限的用户。</p></li>
+		<li><p>按住 Control 键并点按对象选项卡的任意位置，然后在弹出式菜单中选择“<span class="term">清除 DBA 回收站</span>”。</p></li>
+		<li><p>在对话窗口中确认删除。</p></li>
+	</ul>
+</div>

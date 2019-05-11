@@ -1,0 +1,115 @@
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "3EB-dw-3CF"; */
+"3EB-dw-3CF.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "Partition"; ObjectID = "3NS-Mz-ZRL"; */
+"3NS-Mz-ZRL.title" = "分区";
+
+/* Class = "NSBox"; title = "Partition Definition"; ObjectID = "4CI-ub-V6e"; */
+"4CI-ub-V6e.title" = "分割定义";
+
+/* Class = "NSComboBoxCell"; 4Nh-LX-2T2.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "4Nh-LX-2T2"; */
+"4Nh-LX-2T2.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; 4Nh-LX-2T2.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "4Nh-LX-2T2"; */
+"4Nh-LX-2T2.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; 4Nh-LX-2T2.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "4Nh-LX-2T2"; */
+"4Nh-LX-2T2.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Tablespace:"; ObjectID = "AHY-aA-y0e"; */
+"AHY-aA-y0e.title" = "表空间:";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "ATb-Y6-1xG"; */
+"ATb-Y6-1xG.title" = "Item 2";
+
+/* Class = "NSTextFieldCell"; title = "Node Group:"; ObjectID = "C8L-Bd-ft6"; */
+"C8L-Bd-ft6.title" = "节点组:";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "DCw-Op-wFb"; */
+"DCw-Op-wFb.title" = "Item 2";
+
+/* Class = "NSTextFieldCell"; title = "Max Rows:"; ObjectID = "FTB-J0-aOo"; */
+"FTB-J0-aOo.title" = "最大行:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Values"; ObjectID = "HqB-GY-pLJ"; */
+"HqB-GY-pLJ.headerCell.title" = "值";
+
+/* Class = "NSTextFieldCell"; title = "Index Directory:"; ObjectID = "KgB-tg-yxI"; */
+"KgB-tg-yxI.title" = "索引目录:";
+
+/* Class = "NSTextFieldCell"; title = "Subpartition By:"; ObjectID = "Nhd-rU-a6o"; */
+"Nhd-rU-a6o.title" = "子分割由:";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "OvM-hP-bbw"; */
+"OvM-hP-bbw.title" = "Item 1";
+
+/* Class = "NSWindow"; title = "Partition"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "分区";
+
+/* Class = "NSTextFieldCell"; title = "Subpartitions:"; ObjectID = "S15-uM-DHy"; */
+"S15-uM-DHy.title" = "子分区:";
+
+/* Class = "NSTextFieldCell"; title = "Partitions:"; ObjectID = "Syj-HC-wWC"; */
+"Syj-HC-wWC.title" = "分区:";
+
+/* Class = "NSButtonCell"; title = "Subpartition"; ObjectID = "UzS-Zv-JNd"; */
+"UzS-Zv-JNd.title" = "子分区";
+
+/* Class = "NSTextFieldCell"; title = "Values:"; ObjectID = "W2j-f0-g5C"; */
+"W2j-f0-g5C.title" = "值:";
+
+/* Class = "NSTextFieldCell"; title = "Engine:"; ObjectID = "XBe-R0-cQB"; */
+"XBe-R0-cQB.title" = "引擎:";
+
+/* Class = "NSTextFieldCell"; title = "Comment:"; ObjectID = "Yjt-66-rr2"; */
+"Yjt-66-rr2.title" = "注释:";
+
+/* Class = "NSTextFieldCell"; title = "Min Rows:"; ObjectID = "Zch-hr-wT2"; */
+"Zch-hr-wT2.title" = "最小行:";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "Zff-58-aUd"; */
+"Zff-58-aUd.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "dzD-s4-78K"; */
+"dzD-s4-78K.title" = "Item 1";
+
+/* Class = "NSTextFieldCell"; title = "Partition By:"; ObjectID = "e10-PY-7wR"; */
+"e10-PY-7wR.title" = "分割由:";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "kdL-hB-NnU"; */
+"kdL-hB-NnU.title" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Data Directory:"; ObjectID = "n5o-rI-zVj"; */
+"n5o-rI-zVj.title" = "数据目录:";
+
+/* Class = "NSComboBoxCell"; sV0-3O-UDO.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "sV0-3O-UDO"; */
+"sV0-3O-UDO.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; sV0-3O-UDO.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "sV0-3O-UDO"; */
+"sV0-3O-UDO.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; sV0-3O-UDO.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "sV0-3O-UDO"; */
+"sV0-3O-UDO.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "tnP-bR-N7t"; */
+"tnP-bR-N7t.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "tyM-3a-WXc"; */
+"tyM-3a-WXc.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "uVS-hP-Y7M"; */
+"uVS-hP-Y7M.title" = "名:";
+
+/* Class = "NSTextFieldCell"; title = "Manually Create:"; ObjectID = "vjg-Sg-uUU"; */
+"vjg-Sg-uUU.title" = "手动创建:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "vnJ-8k-vsJ"; */
+"vnJ-8k-vsJ.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "vzA-da-lee"; */
+"vzA-da-lee.headerCell.title" = "名";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "wzE-sd-sPR"; */
+"wzE-sd-sPR.title" = "Text Cell";
+

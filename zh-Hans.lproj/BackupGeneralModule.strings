@@ -1,0 +1,28 @@
+
+/* Class = "NSTextFieldCell"; title = "Connection Name:"; ObjectID = "76h-Ry-zZR"; */
+"76h-Ry-zZR.title" = "连接名:";
+
+/* Class = "NSTextFieldCell"; title = "--"; ObjectID = "AEb-NF-eb3"; */
+"AEb-NF-eb3.title" = "--";
+
+/* Class = "NSTextFieldCell"; title = "Comment:"; ObjectID = "BAV-lg-XrI"; */
+"BAV-lg-XrI.title" = "注释:";
+
+/* Class = "NSTextFieldCell"; title = "--"; ObjectID = "M1G-3c-Kda"; */
+"M1G-3c-Kda.title" = "--";
+
+/* Class = "NSTextFieldCell"; title = "Host:"; ObjectID = "SD5-yU-Vpz"; */
+"SD5-yU-Vpz.title" = "主机:";
+
+/* Class = "NSTextFieldCell"; title = "--"; ObjectID = "Un3-vy-7wv"; */
+"Un3-vy-7wv.title" = "--";
+
+/* Class = "NSTextFieldCell"; title = "--"; ObjectID = "Xe5-re-JAu"; */
+"Xe5-re-JAu.title" = "--";
+
+/* Class = "NSTextFieldCell"; title = "Schema:"; ObjectID = "oEA-da-NnQ"; */
+"oEA-da-NnQ.title" = "模式:";
+
+/* Class = "NSTextFieldCell"; title = "Database:"; ObjectID = "zgz-7c-k4j"; */
+"zgz-7c-k4j.title" = "数据库:";
+

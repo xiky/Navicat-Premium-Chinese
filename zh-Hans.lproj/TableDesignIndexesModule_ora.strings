@@ -1,0 +1,28 @@
+
+/* Class = "NSTextFieldCell"; title = "Schema:"; ObjectID = "4BQ-Th-uEh"; */
+"4BQ-Th-uEh.title" = "模式:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "7BX-xk-15W"; */
+"7BX-xk-15W.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "MAn-9m-rf0"; */
+"MAn-9m-rf0.title" = "Text Cell";
+
+/* Class = "NSComboBoxCell"; PzJ-NO-7sO.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "PzJ-NO-7sO"; */
+"PzJ-NO-7sO.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; PzJ-NO-7sO.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "PzJ-NO-7sO"; */
+"PzJ-NO-7sO.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; PzJ-NO-7sO.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "PzJ-NO-7sO"; */
+"PzJ-NO-7sO.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "URu-u8-jwx"; */
+"URu-u8-jwx.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "Parallel with Degree:"; ObjectID = "dxY-UK-IdB"; */
+"dxY-UK-IdB.title" = "与度数并行:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "sjL-UK-cS9"; */
+"sjL-UK-cS9.title" = "Table View Cell";
+

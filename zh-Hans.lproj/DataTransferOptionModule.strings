@@ -1,0 +1,115 @@
+
+/* Class = "NSButtonCell"; title = "Use transaction"; ObjectID = "0E2-Xp-GVj"; */
+"0E2-Xp-GVj.title" = "使用事务";
+
+/* Class = "NSButtonCell"; title = "Include auto increment"; ObjectID = "0w6-no-81b"; */
+"0w6-no-81b.title" = "包含自动递增";
+
+/* Class = "NSButtonCell"; title = "Create tables"; ObjectID = "3dC-Ir-DJ6"; */
+"3dC-Ir-DJ6.title" = "创建表";
+
+/* Class = "NSButtonCell"; title = "Include excludes"; ObjectID = "4U8-PC-QkG"; */
+"4U8-PC-QkG.title" = "包含排除";
+
+/* Class = "NSButtonCell"; title = "Include triggers"; ObjectID = "54G-jA-prj"; */
+"54G-jA-prj.title" = "包含触发器";
+
+/* Class = "NSButtonCell"; title = "Include owners"; ObjectID = "58v-m7-n32"; */
+"58v-m7-n32.title" = "包含拥有者";
+
+/* Class = "NSButtonCell"; title = "Use complete insert statements"; ObjectID = "5oX-24-fVG"; */
+"5oX-24-fVG.title" = "使用完整插入语句";
+
+/* Class = "NSButtonCell"; title = "Include storage"; ObjectID = "6TX-VL-NpM"; */
+"6TX-VL-NpM.title" = "包含存储";
+
+/* Class = "NSButtonCell"; title = "Drop target objects before create"; ObjectID = "7qn-QB-yoS"; */
+"7qn-QB-yoS.title" = "创建前删除目标对象";
+
+/* Class = "NSButtonCell"; title = "Lock target tables"; ObjectID = "9QQ-Ab-1YP"; */
+"9QQ-Ab-1YP.title" = "锁定目标表";
+
+/* Class = "NSButtonCell"; title = "Include indexes"; ObjectID = "CKn-4C-znN"; */
+"CKn-4C-znN.title" = "包含索引";
+
+/* Class = "NSButtonCell"; title = "Continue on error"; ObjectID = "Cyd-bF-wOX"; */
+"Cyd-bF-wOX.title" = "遇到错误时继续";
+
+/* Class = "NSButtonCell"; title = "Use hexadecimal format for BLOB"; ObjectID = "JQN-Ts-jSq"; */
+"JQN-Ts-jSq.title" = "为 BLOB 使用十六进制格式";
+
+/* Class = "NSButtonCell"; title = "Use extended insert statements"; ObjectID = "Jxk-RD-se3"; */
+"Jxk-RD-se3.title" = "使用扩展插入语句";
+
+/* Class = "NSButtonCell"; title = "Convert object name to"; ObjectID = "Ki8-g7-XUn"; */
+"Ki8-g7-XUn.title" = "转换对象名为";
+
+/* Class = "NSButtonCell"; title = "Run multiple insert statements"; ObjectID = "Kv7-3e-bFi"; */
+"Kv7-3e-bFi.title" = "运行多重插入语句";
+
+/* Class = "NSButtonCell"; title = "Drop with CASCADE"; ObjectID = "Lhq-ra-iEU"; */
+"Lhq-ra-iEU.title" = "用级联删除";
+
+/* Class = "NSButtonCell"; title = "Include character set"; ObjectID = "NFa-kv-SkG"; */
+"NFa-kv-SkG.title" = "包含字符集";
+
+/* Class = "NSButtonCell"; title = "Include other table options"; ObjectID = "Po0-Zu-uft"; */
+"Po0-Zu-uft.title" = "包含其他表选项";
+
+/* Class = "NSButtonCell"; title = "Lock source tables"; ObjectID = "QIb-A0-2i7"; */
+"QIb-A0-2i7.title" = "锁定源表";
+
+/* Class = "NSButtonCell"; title = "Include engine/table type"; ObjectID = "QYQ-ZL-cia"; */
+"QYQ-ZL-cia.title" = "包含引擎或表类型";
+
+/* Class = "NSButtonCell"; title = "Create target database/schema if not exist"; ObjectID = "R5w-Wc-ano"; */
+"R5w-Wc-ano.title" = "创建目标数据库或模式（如果不存在）";
+
+/* Class = "NSButtonCell"; title = "Include checks"; ObjectID = "Rhg-Ko-Tnt"; */
+"Rhg-Ko-Tnt.title" = "包含检查";
+
+/* Class = "NSButtonCell"; title = "Use delayed insert statements"; ObjectID = "URC-cK-HAJ"; */
+"URC-cK-HAJ.title" = "使用延迟插入语句";
+
+/* Class = "NSButtonCell"; title = "Upper case"; ObjectID = "eoe-V8-0Jr"; */
+"eoe-V8-0Jr.title" = "大写";
+
+/* Class = "NSButtonCell"; title = "Include source schema name"; ObjectID = "foS-C2-Hki"; */
+"foS-C2-Hki.title" = "包含源模式名";
+
+/* Class = "NSTextFieldCell"; title = "Record Options"; ObjectID = "hPe-Lw-ERr"; */
+"hPe-Lw-ERr.title" = "记录选项";
+
+/* Class = "NSButtonCell"; title = "Include definers"; ObjectID = "hpM-c3-BkX"; */
+"hpM-c3-BkX.title" = "包含定义者";
+
+/* Class = "NSButtonCell"; title = "Lower case"; ObjectID = "hwp-yM-wOK"; */
+"hwp-yM-wOK.title" = "小写";
+
+/* Class = "NSButtonCell"; title = "Ignore LOB/LONG/RAW"; ObjectID = "i3Y-MT-Gxg"; */
+"i3Y-MT-Gxg.title" = "忽略 LOB、LONG 或 RAW";
+
+/* Class = "NSButtonCell"; title = "Use single transaction"; ObjectID = "iBO-8M-FKy"; */
+"iBO-8M-FKy.title" = "使用单一事务";
+
+/* Class = "NSButtonCell"; title = "Include foreign key constraints"; ObjectID = "jlH-DD-gkB"; */
+"jlH-DD-gkB.title" = "包含外键约束";
+
+/* Class = "NSButtonCell"; title = "Insert records"; ObjectID = "l8w-AQ-6tV"; */
+"l8w-AQ-6tV.title" = "插入记录";
+
+/* Class = "NSButtonCell"; title = "Include rules"; ObjectID = "lK2-ig-cMM"; */
+"lK2-ig-cMM.title" = "包含规则";
+
+/* Class = "NSTextFieldCell"; title = "Other Options"; ObjectID = "mkE-PH-7Hx"; */
+"mkE-PH-7Hx.title" = "其他选项";
+
+/* Class = "NSButtonCell"; title = "Include uniques"; ObjectID = "sgy-Dq-y6r"; */
+"sgy-Dq-y6r.title" = "包含唯一键";
+
+/* Class = "NSButtonCell"; title = "Use DDL from SHOW CREATE TABLE"; ObjectID = "vXk-E6-r6P"; */
+"vXk-E6-r6P.title" = "使用 SHOW CREATE TABLE 中的 DDL";
+
+/* Class = "NSTextFieldCell"; title = "Table Options"; ObjectID = "z3u-CR-PKl"; */
+"z3u-CR-PKl.title" = "表选项";
+

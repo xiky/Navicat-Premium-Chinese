@@ -1,0 +1,22 @@
+
+/* Class = "NSTextFieldCell"; title = "User Name:"; ObjectID = "2Zx-ff-8kI"; */
+"2Zx-ff-8kI.title" = "用户名:";
+
+/* Class = "NSTextFieldCell"; title = "Authentication Password:"; ObjectID = "4mp-rK-Zbe"; */
+"4mp-rK-Zbe.title" = "验证密码:";
+
+/* Class = "NSButtonCell"; title = "Current User"; ObjectID = "ERC-YY-Lm3"; */
+"ERC-YY-Lm3.title" = "目前用户";
+
+/* Class = "NSTextFieldCell"; title = "Host:"; ObjectID = "KEH-1u-xlZ"; */
+"KEH-1u-xlZ.title" = "主机:";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "QAI-6z-Vo7"; */
+"QAI-6z-Vo7.title" = "密码:";
+
+/* Class = "NSTextFieldCell"; title = "Authentication User Name:"; ObjectID = "eUl-07-7VD"; */
+"eUl-07-7VD.title" = "验证用户名:";
+
+/* Class = "NSButtonCell"; title = "Shared"; ObjectID = "qPa-UF-pXb"; */
+"qPa-UF-pXb.title" = "已共享";
+

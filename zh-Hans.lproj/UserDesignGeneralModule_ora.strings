@@ -1,0 +1,37 @@
+
+/* Class = "NSTextFieldCell"; title = "Default Tablespace:"; ObjectID = "4fG-4j-QcR"; */
+"4fG-4j-QcR.title" = "默认表空间:";
+
+/* Class = "NSTextFieldCell"; title = "Authentication:"; ObjectID = "8LV-KJ-JuH"; */
+"8LV-KJ-JuH.title" = "验证:";
+
+/* Class = "NSButtonCell"; title = "Expire Password"; ObjectID = "E06-Hw-I1r"; */
+"E06-Hw-I1r.title" = "密码过期";
+
+/* Class = "NSTextFieldCell"; title = "User Name:"; ObjectID = "EvG-eI-pyv"; */
+"EvG-eI-pyv.title" = "用户名:";
+
+/* Class = "NSTextFieldCell"; title = "Confirm Password:"; ObjectID = "GC4-rW-7Nq"; */
+"GC4-rW-7Nq.title" = "确认密码:";
+
+/* Class = "NSTextFieldCell"; title = "X.500 Distinguished Name"; ObjectID = "Rmr-i4-TOx"; */
+"Rmr-i4-TOx.title" = "X.500 可分辨名";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "XgP-8P-8ID"; */
+"XgP-8P-8ID.title" = "密码:";
+
+/* Class = "NSTextFieldCell"; title = "Temporary Tablespace:"; ObjectID = "atb-Bu-FGm"; */
+"atb-Bu-FGm.title" = "临时表空间:";
+
+/* Class = "NSTextFieldCell"; title = "External Name:"; ObjectID = "eHg-gL-xiV"; */
+"eHg-gL-xiV.title" = "外部名:";
+
+/* Class = "NSButtonCell"; title = "Enable Editions"; ObjectID = "g4O-y3-f6j"; */
+"g4O-y3-f6j.title" = "启用版本";
+
+/* Class = "NSTextFieldCell"; title = "Profile:"; ObjectID = "r8h-YK-BOM"; */
+"r8h-YK-BOM.title" = "剖析:";
+
+/* Class = "NSButtonCell"; title = "Locked Account"; ObjectID = "tdF-tn-2qC"; */
+"tdF-tn-2qC.title" = "锁定的帐号";
+

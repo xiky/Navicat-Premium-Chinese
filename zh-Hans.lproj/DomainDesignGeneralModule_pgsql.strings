@@ -1,0 +1,40 @@
+
+/* Class = "NSTextFieldCell"; title = "Dimensions"; ObjectID = "154-LA-KK8"; */
+"154-LA-KK8.title" = "维度";
+
+/* Class = "NSTextFieldCell"; title = "Length:"; ObjectID = "2hZ-4q-ARn"; */
+"2hZ-4q-ARn.title" = "长度:";
+
+/* Class = "NSTextFieldCell"; title = "Underlying Type:"; ObjectID = "3wA-xH-6wD"; */
+"3wA-xH-6wD.title" = "基础类型数据:";
+
+/* Class = "NSComboBoxCell"; placeholderString = "Schema"; ObjectID = "73z-HI-rpH"; */
+"73z-HI-rpH.placeholderString" = "模式";
+
+/* Class = "NSTextFieldCell"; title = "Scale:"; ObjectID = "G2f-1d-eaN"; */
+"G2f-1d-eaN.title" = "比例:";
+
+/* Class = "NSTextFieldCell"; title = "Default:"; ObjectID = "HqV-9v-pOA"; */
+"HqV-9v-pOA.title" = "默认:";
+
+/* Class = "NSComboBoxCell"; placeholderString = "Schema"; ObjectID = "SqN-Oo-Rpi"; */
+"SqN-Oo-Rpi.placeholderString" = "模式";
+
+/* Class = "NSButtonCell"; title = "Not Null"; ObjectID = "i1O-Im-503"; */
+"i1O-Im-503.title" = "不是 null";
+
+/* Class = "NSComboBoxCell"; placeholderString = "Type"; ObjectID = "jqF-Vh-LAj"; */
+"jqF-Vh-LAj.placeholderString" = "类型";
+
+/* Class = "NSComboBoxCell"; placeholderString = "Collation"; ObjectID = "lDi-Jd-adL"; */
+"lDi-Jd-adL.placeholderString" = "排序规则";
+
+/* Class = "NSTextFieldCell"; title = "Collation:"; ObjectID = "oVp-7k-TCg"; */
+"oVp-7k-TCg.title" = "排序规则:";
+
+/* Class = "NSTextFieldCell"; title = "Owner:"; ObjectID = "sg4-dp-GhP"; */
+"sg4-dp-GhP.title" = "拥有者:";
+
+/* Class = "NSTextFieldCell"; title = "Underlying Type Category:"; ObjectID = "vxZ-8f-XrP"; */
+"vxZ-8f-XrP.title" = "基础类型类别:";
+

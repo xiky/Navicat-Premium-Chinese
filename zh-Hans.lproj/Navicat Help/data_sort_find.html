@@ -1,0 +1,66 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>排序、查找或替换记录</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>排序、查找或替换记录</h1>
+	<h2>排序记录</h2>
+	<p>服务器保存记录的次序是根据它们添加表时的次序。Navicat 的排序功能是暂时重新排列记录，以便你可以用一个不同的序列查看或更新它们。</p>
+	<p>将光标移动到你想要排序内容的列标题，点击列的右侧并选择“<span class="term">升序排序</span>”、“<span class="term">降序排序</span>”或“<span class="term">移除排序</span>”。</p>
+	<figure>
+		<a href="./images/sorting.png" target="_blank"><img src="./images/sorting.png"/></a>
+	</figure>
+	<p>若要按自定义次序来排序多个列，请在工具栏点击 <img src="./images/icon_sort.png" alt="排序" class="inlineGraphic" height="16" width="16"/>。</p>
+	<figure>
+		<a href="./images/sortingPane.png" target="_blank"><img src="./images/sortingPane.png"/></a>
+	</figure>
+	<h2>查找和替换</h2>
+	<p><span class="term">查找记录</span></p>
+	<p>查找栏能在查看器中快速搜索文本。只需简单地选择“<span class="term">编辑</span>”->“<span class="term">查找</span>”->“<span class="term">查找</span>”或按 COMMAND-F。然后，点击 <img src="./images/icon_findOption.png" alt="查找选项" class="inlineGraphic" height="16" width="16"/>，选择“<span class="term">查找数据</span>”并输入搜索字符串。搜索会在光标当前位置开始直到文件的最后。</p>
+	<figure>
+		<a href="./images/finding.png" target="_blank"><img src="./images/finding.png"/></a>
+	</figure>
+	<p>若要查找下一个文本，只需简单地点击“<span class="term">></span>”或按 COMMAND-G。</p>
+	<p><span class="term">替换记录</span></p>
+	<p>在查找栏，选择“<span class="term">替换</span>”或按 OPTION-COMMAND-F。然后，输入你想搜索和替换的文本。点击“<span class="term">替换</span>”或“<span class="term">全部替换</span>”来自动替换第一个相符项目或全部相符项目。如果你按了“<span class="term">全部替换</span>”，你可以点击 <img src="./images/icon_updateRecord.png" alt="应用更改" class="inlineGraphic" height="16" width="16"/> 来应用更改，或点击 <img src="./images/icon_cancelRecord.png" alt="放弃更改" class="inlineGraphic" height="16" width="16"/> 来取消更改。</p>
+	<figure>
+		<a href="./images/replacing.png" target="_blank"><img src="./images/replacing.png"/></a>
+	</figure>
+	<p><span class="term">查找列</span></p>
+	<p>若要搜索一个列，只需简单地选择“<span class="term">编辑</span>”->“<span class="term">查找</span>”->“<span class="term">查找</span>”或按 COMMAND-F。然后，点击 <img src="./images/icon_findOption.png" alt="查找选项" class="inlineGraphic" height="16" width="16"/>，选择“<span class="term">查找列</span>”并输入搜索字符串。</p>
+	<figure>
+		<a href="./images/findingC.png" target="_blank"><img src="./images/findingC.png"/></a>
+	</figure>
+	<p>查找和替换还有一些额外的选项，点击 <img src="./images/icon_findOption.png" alt="查找" class="inlineGraphic" height="16" width="16"/>：</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>高亮显示符合的单元格</p></td>
+			<td width="75%"><p>在查看器中高亮显示全部相符项目。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>递增搜索</p></td>
+			<td width="75%"><p>在输入每个字符时为搜索字符串查找相符文本。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>大小写符合</p></td>
+			<td width="75%"><p>启用大小写相关的搜索。</p></td>
+		</tr>
+	</table>
+</div>

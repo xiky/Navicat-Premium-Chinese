@@ -1,0 +1,19 @@
+
+/* Class = "NSTextFieldCell"; title = "Owner:"; ObjectID = "cxI-Fa-5BZ"; */
+"cxI-Fa-5BZ.title" = "拥有者:";
+
+/* Class = "NSTextFieldCell"; title = "Columns:"; ObjectID = "dJc-IH-VmF"; */
+"dJc-IH-VmF.title" = "列:";
+
+/* Class = "NSButtonCell"; title = "Unchecked data"; ObjectID = "e2H-IF-jFo"; */
+"e2H-IF-jFo.title" = "未检查的数据";
+
+/* Class = "NSButtonCell"; title = "Visible"; ObjectID = "lVP-gO-Ftw"; */
+"lVP-gO-Ftw.title" = "可视";
+
+/* Class = "NSTextFieldCell"; title = "Permission Set:"; ObjectID = "oZ2-Kf-sK3"; */
+"oZ2-Kf-sK3.title" = "权限集:";
+
+/* Class = "NSTextFieldCell"; title = "Assembly:"; ObjectID = "sZr-MF-L3s"; */
+"sZr-MF-L3s.title" = "程序集:";
+

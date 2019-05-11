@@ -1,0 +1,49 @@
+
+/* Class = "NSButtonCell"; title = "Primary Key"; ObjectID = "0o3-EH-LwH"; */
+"0o3-EH-LwH.title" = "主键";
+
+/* Class = "NSTableColumn"; headerCell.title = "Column Names"; ObjectID = "5gi-O7-9SG"; */
+"5gi-O7-9SG.headerCell.title" = "列名";
+
+/* Class = "NSButtonCell"; title = "Physical Attributes"; ObjectID = "71f-Tt-jAS"; */
+"71f-Tt-jAS.title" = "实体属性";
+
+/* Class = "NSTextFieldCell"; title = "Filter Columns:"; ObjectID = "HIq-WF-FgU"; */
+"HIq-WF-FgU.title" = "筛选列:";
+
+/* Class = "NSTextFieldCell"; title = "Tablespace:"; ObjectID = "PZ8-QU-FdL"; */
+"PZ8-QU-FdL.title" = "表空间:";
+
+/* Class = "NSButtonCell"; title = "Object ID"; ObjectID = "WNW-DE-cAQ"; */
+"WNW-DE-cAQ.title" = "对象 ID";
+
+/* Class = "NSButtonCell"; title = "Parallel"; ObjectID = "YMK-RG-S6O"; */
+"YMK-RG-S6O.title" = "并行";
+
+/* Class = "NSTextFieldCell"; title = "Master Table:"; ObjectID = "Yx4-gF-Km1"; */
+"Yx4-gF-Km1.title" = "主表:";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "bsG-v7-Ues"; */
+"bsG-v7-Ues.title" = "检查";
+
+/* Class = "NSTextFieldCell"; title = "New Values:"; ObjectID = "cEw-z4-kts"; */
+"cEw-z4-kts.title" = "新值:";
+
+/* Class = "NSTextFieldCell"; title = "With Options"; ObjectID = "gOp-it-mG4"; */
+"gOp-it-mG4.title" = "含选项";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "hSa-AW-Wl5"; */
+"hSa-AW-Wl5.title" = "检查";
+
+/* Class = "NSTextFieldCell"; title = "Caches:"; ObjectID = "rqw-VJ-VjZ"; */
+"rqw-VJ-VjZ.title" = "Caches:";
+
+/* Class = "NSButtonCell"; title = "Sequence"; ObjectID = "sYf-Up-EU8"; */
+"sYf-Up-EU8.title" = "序列";
+
+/* Class = "NSButtonCell"; title = "Row ID"; ObjectID = "uLX-Dy-mHC"; */
+"uLX-Dy-mHC.title" = "行 ID";
+
+/* Class = "NSTextFieldCell"; title = "Logging:"; ObjectID = "wYF-SM-eoI"; */
+"wYF-SM-eoI.title" = "记录:";
+

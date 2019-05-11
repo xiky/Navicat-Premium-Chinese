@@ -1,0 +1,40 @@
+
+/* Class = "NSMenuItem"; title = "Sign Out"; ObjectID = "EOg-db-6dP"; */
+"EOg-db-6dP.title" = "退出";
+
+/* Class = "NSMenuItem"; title = "email@gmail.com"; ObjectID = "GUe-Ly-3cS"; */
+"GUe-Ly-3cS.title" = "email@gmail.com";
+
+/* Class = "NSTextFieldCell"; title = "User Name"; ObjectID = "GV1-DR-f0x"; */
+"GV1-DR-f0x.title" = "用户名";
+
+/* Class = "NSTextFieldCell"; title = "Status:"; ObjectID = "Rf7-fo-dvP"; */
+"Rf7-fo-dvP.title" = "状态:";
+
+/* Class = "NSTextFieldCell"; title = "Change Subscription"; ObjectID = "RnJ-kj-eKG"; */
+"RnJ-kj-eKG.title" = "更改订阅";
+
+/* Class = "NSMenuItem"; title = "Manage Account"; ObjectID = "YLe-LA-CoT"; */
+"YLe-LA-CoT.title" = "管理帐号";
+
+/* Class = "NSButtonCell"; title = "Sign Out"; ObjectID = "a5T-Wx-0qB"; */
+"a5T-Wx-0qB.title" = "退出";
+
+/* Class = "NSTextFieldCell"; title = "Next Billing Date:"; ObjectID = "cO0-TZ-WTd"; */
+"cO0-TZ-WTd.title" = "下一个计费日期:";
+
+/* Class = "NSTextFieldCell"; title = "What to do if I want to use license key?"; ObjectID = "ek8-NC-f2Z"; */
+"ek8-NC-f2Z.title" = "如果我想使用许可证密钥该怎么办？";
+
+/* Class = "NSTextFieldCell"; title = "Renew Subscription"; ObjectID = "f8F-dQ-J8N"; */
+"f8F-dQ-J8N.title" = "续订订阅";
+
+/* Class = "NSTextFieldCell"; title = "Current Plan:"; ObjectID = "nVe-4T-cZu"; */
+"nVe-4T-cZu.title" = "当前的方案:";
+
+/* Class = "NSButtonCell"; title = "Reload Plan"; ObjectID = "re3-GE-zwl"; */
+"re3-GE-zwl.title" = "重新加载方案";
+
+/* Class = "NSTextFieldCell"; title = "Subscription Details"; ObjectID = "xkY-eE-RYE"; */
+"xkY-eE-RYE.title" = "订阅详细信息";
+

@@ -1,0 +1,13 @@
+
+/* Class = "NSButtonCell"; title = "No Force"; ObjectID = "8ob-1G-QoI"; */
+"8ob-1G-QoI.title" = "不强制";
+
+/* Class = "NSTextFieldCell"; title = "Resolver:"; ObjectID = "Vsw-Al-WP1"; */
+"Vsw-Al-WP1.title" = "解析器:";
+
+/* Class = "NSButtonCell"; title = "Compile or Resolve"; ObjectID = "ZTp-bM-d1w"; */
+"ZTp-bM-d1w.title" = "编译或解析";
+
+/* Class = "NSTextFieldCell"; title = "Invoker Rights:"; ObjectID = "cgz-ti-EZ4"; */
+"cgz-ti-EZ4.title" = "启用者权利:";
+

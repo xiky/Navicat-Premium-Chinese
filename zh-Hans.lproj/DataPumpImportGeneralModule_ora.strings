@@ -1,0 +1,40 @@
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "0FU-r2-Bab"; */
+"0FU-r2-Bab.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "4HF-G7-kf2"; */
+"4HF-G7-kf2.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Mode:"; ObjectID = "8XJ-Ck-FtA"; */
+"8XJ-Ck-FtA.title" = "模式:";
+
+/* Class = "NSTextFieldCell"; title = "Schema:"; ObjectID = "9j5-R8-wSV"; */
+"9j5-R8-wSV.title" = "模式:";
+
+/* Class = "NSBox"; title = "Import Data"; ObjectID = "G90-cn-LHp"; */
+"G90-cn-LHp.title" = "导入数据";
+
+/* Class = "NSBox"; title = "Dump Files"; ObjectID = "Jce-3A-kGB"; */
+"Jce-3A-kGB.title" = "转储文件";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "LDd-MN-dVP"; */
+"LDd-MN-dVP.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Content:"; ObjectID = "OYa-VL-slD"; */
+"OYa-VL-slD.title" = "内容:";
+
+/* Class = "NSTextFieldCell"; title = "Job Name:"; ObjectID = "Sxh-Ah-0eX"; */
+"Sxh-Ah-0eX.title" = "工作名:";
+
+/* Class = "NSTextFieldCell"; title = "Table Exists Action:"; ObjectID = "eT7-WQ-HS2"; */
+"eT7-WQ-HS2.title" = "表存在的动作:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "moT-Uy-fLY"; */
+"moT-Uy-fLY.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "uYU-Sb-ANC"; */
+"uYU-Sb-ANC.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "zuU-Bi-glA"; */
+"zuU-Bi-glA.title" = "Table View Cell";
+

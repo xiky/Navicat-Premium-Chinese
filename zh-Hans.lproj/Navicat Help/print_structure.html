@@ -1,0 +1,24 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>打印结构</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>打印结构（仅适用于非 Essentials 版）</h1>
+	<p>Navicat 让你查看和打印数据库、模式和表的结构，包括表名、字段名、字段类型和其他字段属性。按住 Control 键并点按主窗口的数据库、模式或表，然后选择“<span class="term">打印数据库</span>”、“<span class="term">打印模式</span>”或“<span class="term">打印表</span>”。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>仅适用于 MySQL、Oracle、PostgreSQL、SQLite、SQL Server 和 MariaDB。</p>
+	</div>
+</div>

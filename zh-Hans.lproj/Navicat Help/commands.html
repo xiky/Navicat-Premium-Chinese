@@ -1,0 +1,90 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>Navicat 命令</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>Navicat 命令（仅适用于非 Essentials 版）</h1>
+	<p>对于那些希望在终端中运行某些数据库工作的用户，Navicat 提供一些非常有用的命令列处理选项。</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>Navicat 对象</p></td>
+			<td width="75%"><p>命令列</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>自动运行</p></td>
+			<td width="75%"><p>程序路径 --batch-jobs 批处理作业名</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>备份<br/>（MySQL、PostgreSQL、SQLite 和 MariaDB）</p></td>
+			<td width="75%"><p>程序路径 --backup 配置文件名 -u NavicatID -p 项目名 -t 连接类型 -c 连接名  -d 数据库名 -s 模式名</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>数据同步</p></td>
+			<td width="75%"><p>程序路径 --data-synchronization 配置文件名 -t 连接类型</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>数据传输</p></td>
+			<td width="75%"><p>程序路径 --data-transfer 配置文件名 -t 配置文件类型</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>导出实体化视图结果<br/>（Oracle 和  PostgreSQL）</p></td>
+			<td width="75%"><p>程序路径 --export-mview 配置文件名 -u NavicatID -p 项目名 -t 连接类型 -c 连接名  -d 数据库名 -s 模式名</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>导出查询结果</p></td>
+			<td width="75%"><p>程序路径 --export-query 配置文件名 -u NavicatID -p 项目名 -t 连接类型 -c 连接名  -d 数据库名 -s 模式名</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>导出表或集合</p></td>
+			<td width="75%"><p>程序路径 --export 配置文件名 -u NavicatID -p 项目名 -t 连接类型 -c 连接名  -d 数据库名 -s 模式名</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>导出视图结果</p></td>
+			<td width="75%"><p>程序路径 --export-view 配置文件名 -u NavicatID -p 项目名 -t 连接类型 -c 连接名  -d 数据库名 -s 模式名</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>导入</p></td>
+			<td width="75%"><p>程序路径 --import 配置文件名 -u NavicatID -p 项目名 -t 连接类型 -c 连接名  -d 数据库名 -s 模式名</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>MapReduce<br />（MongoDB）</p></td>
+			<td width="75%"><p>ProgramPath --mapreduce 配置文件名 -u NavicatID -p 项目名 -t 连接类型 -c 连接名 -d 数据库名</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>MongoDump<br />（MongoDB）</p></td>
+			<td width="75%"><p>ProgramPath --mongodump 配置文件名</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>MongoExport<br />（MongoDB）</p></td>
+			<td width="75%"><p>ProgramPath --mongoexport 配置文件名</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>MongoImport<br />（MongoDB）</p></td>
+			<td width="75%"><p>ProgramPath --mongoimport 配置文件名</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>查询运行</p></td>
+			<td width="75%"><p>程序路径 --query-execution 查询名 -u NavicatID -p 项目名 -t 连接类型 -c 连接名  -d 数据库名 -s 模式名</p></td>
+		</tr>
+	</table>
+	<p><i>程序路径</i> - 应该是运行文件的路径：如 ./"Navicat Premium.app"/Contents/MacOS/"Navicat Premium"</p>
+	<p><i>NavicatID</i> - 如果连接是保存在 Navicat Cloud，需要输入 Navicat ID，例如：user@example.com</p>
+	<p><i>项目名</i> - 如果连接是保存在 Navicat Cloud，需要输入项目名</p>
+	<p><i>连接类型</i> - 连接的类型：MySQL、Oracle、PostgreSQL、SQLite、MSSQL、MariaDB 或 MongoDB</p>
+	<p><i>配置文件类型</i> - 数据传输配置文件的类型：MySQL、Oracle、PostgreSQL、SQLite、MSSQL、MariaDB、MongoDB 或 Premium</p>
+	<p><span class="term">例子：</span></p>
+	<p>./"Navicat Premium.app"/Contents/MacOS/"Navicat Premium" --export-query MyQueryExport1 -u test@navicat.com -p Project1 -t MySQL -c "MySQL 5.6" -d sakila</p>
+</div>

@@ -1,0 +1,19 @@
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "E3a-gZ-Xga"; */
+"E3a-gZ-Xga.title" = "取消";
+
+/* Class = "NSWindow"; title = "Confirm"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "确认";
+
+/* Class = "NSTextFieldCell"; title = "Confirm message"; ObjectID = "MhH-3S-GPd"; */
+"MhH-3S-GPd.title" = "Confirm message";
+
+/* Class = "NSButtonCell"; title = "Skip"; ObjectID = "Rtn-xG-1CS"; */
+"Rtn-xG-1CS.title" = "跳过";
+
+/* Class = "NSButtonCell"; title = "Do this for all conflicts"; ObjectID = "ZEe-xS-daE"; */
+"ZEe-xS-daE.title" = "为全部冲突运行这个";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "yhf-Ee-bh1"; */
+"yhf-Ee-bh1.title" = "确定";
+

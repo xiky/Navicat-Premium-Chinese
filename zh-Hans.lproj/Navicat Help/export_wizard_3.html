@@ -1,0 +1,24 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>选择表或集合字段</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>选择表或集合字段</h1>
+	<p>你可以选择要导出的字段。在默认情况下，列表中所有字段都已选择。如果你不想导出某些字段，首先取消勾选“<span class="term">全部字段</span>”选项，然后在列表中取消勾选那些字段。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>导出查询结果时，向导会将会跳过这个步骤。</p>
+	</div>
+</div>

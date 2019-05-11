@@ -1,0 +1,70 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>选项卡</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>选项卡</h1>
+	<h2>启动画面</h2>
+	<p>控制在启动 Navicat 时出现哪些选项卡：</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>仅打开对象选项卡</p></td>
+			<td width="75%"><p>仅打开对象选项卡，没有其他选项卡。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>从上次离开的画面继续</p></td>
+			<td width="75%"><p>打开对象选项卡，并重新打开你上次离开 Navicat 时已打开的相同选项卡。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>打开特定选项卡或一组选项卡</p></td>
+			<td width="75%"><p>打开对象选项卡，并打开你在“<span class="term">设置选项卡</span>”选择的选项卡。</p></td>
+		</tr>
+	</table>
+	<h2>打开选项卡</h2>
+	<p><span class="term">打开新选项卡于</span></p>
+	<p>设置新的弹出窗口如何打开：</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>主窗口</p></td>
+			<td width="75%"><p>在主窗口中打开一个新的选项卡。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>最后打开选项卡的窗口</p></td>
+			<td width="75%"><p>在最后打开的窗口打开一个新的选项卡。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>最后打开的选项卡窗口（主窗口除外）</p></td>
+			<td width="75%"><p>在最后打开的窗口打开一个新的选项卡。如果没有任何已打开的窗口，会打开一个新的窗口。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>新窗口</p></td>
+			<td width="75%"><p>打开一个新的窗口。</p></td>
+		</tr>
+	</table>
+	<p><span class="term">允许重复打开相同的对象</span></p>
+	<p>如果你想允许一个对象可打开多个实例，可勾选这个选项。</p>
+	<h2>选项卡列样式</h2>
+	<p><span class="term">永远显示选项卡栏</span></p>
+	<p>打开窗口时显示标签栏。</p>
+</div>

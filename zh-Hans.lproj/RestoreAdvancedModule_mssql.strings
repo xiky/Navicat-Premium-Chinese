@@ -1,0 +1,49 @@
+
+/* Class = "NSButtonCell"; title = "WITH RESTRICTED_USER"; ObjectID = "0pF-td-EgZ"; */
+"0pF-td-EgZ.title" = "WITH RESTRICTED_USER";
+
+/* Class = "NSTextFieldCell"; title = "Recovery State"; ObjectID = "1hX-Pi-eJh"; */
+"1hX-Pi-eJh.title" = "恢复状态";
+
+/* Class = "NSTextFieldCell"; title = "- Roll back all uncommitted transactions. The database will be ready for use, no further restore of transaction logs possible."; ObjectID = "4K5-dW-hwW"; */
+"4K5-dW-hwW.title" = "- Roll back all uncommitted transactions. The database will be ready for use, no further restore of transaction logs possible.";
+
+/* Class = "NSTextFieldCell"; title = "Restore database files to"; ObjectID = "Awc-qf-Tb2"; */
+"Awc-qf-Tb2.title" = "还原数据库文件到";
+
+/* Class = "NSTextFieldCell"; title = "Standby file:"; ObjectID = "KZ4-0n-Grl"; */
+"KZ4-0n-Grl.title" = "待命状态:";
+
+/* Class = "NSButtonCell"; title = "STANDBY"; ObjectID = "L5s-5B-xLO"; */
+"L5s-5B-xLO.title" = "STANDBY";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Tvg-oD-YR1"; */
+"Tvg-oD-YR1.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "brf-WW-rBZ"; */
+"brf-WW-rBZ.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "NORECOVERY"; ObjectID = "ecg-Qt-mRH"; */
+"ecg-Qt-mRH.title" = "NORECOVERY";
+
+/* Class = "NSTextFieldCell"; title = "- Do not roll back the uncommitted transactions. The database will not be operable, used for restoring more backup sets."; ObjectID = "gN5-LR-dUy"; */
+"gN5-LR-dUy.title" = "- Do not roll back the uncommitted transactions. The database will not be operable, used for restoring more backup sets.";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "hlR-fd-wTJ"; */
+"hlR-fd-wTJ.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "RECOVERY"; ObjectID = "i0z-rK-QHY"; */
+"i0z-rK-QHY.title" = "RECOVERY";
+
+/* Class = "NSButtonCell"; title = "WITH KEEP_REPLICATION"; ObjectID = "mBj-8Y-VIe"; */
+"mBj-8Y-VIe.title" = "WITH KEEP_REPLICATION";
+
+/* Class = "NSTextFieldCell"; title = "- Puts the database into a read-only mode, lets you run some queries before restoring transaction logs."; ObjectID = "nVo-3Z-2kn"; */
+"nVo-3Z-2kn.title" = "- Puts the database into a read-only mode, lets you run some queries before restoring transaction logs.";
+
+/* Class = "NSButtonCell"; title = "WITH REPLACE"; ObjectID = "yid-mC-16q"; */
+"yid-mC-16q.title" = "WITH REPLACE";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "z8W-01-CUX"; */
+"z8W-01-CUX.title" = "Table View Cell";
+

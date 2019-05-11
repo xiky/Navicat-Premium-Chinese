@@ -1,0 +1,63 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>RDBMS 数据查看器</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>RDBMS 数据查看器</h1>
+	<p>DBMS 数据查看器会以网格或表单显示数据。若要切换视图，请点击位于底部的 <img src="./images/icon_gridView.png" alt="网格查看" class="inlineGraphic" height="16" width="16"/> 或 <img src="./images/icon_formView.png" alt="表单视图" class="inlineGraphic" height="16" width="16"/>。</p>
+  	<div class="alert">
+		<p><span class="note">【注意】</span>表单视图功能仅适用于非 Essentials 版。</p>
+	</div>
+	<p>数据查看器的工具栏提供以下功能管理数据：</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>按钮</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_beginTransaction.png" alt="开始事务" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>开始一个事务。如果在<a href="#/preferences_record">偏好设置</a>中启用了“<span class="term">自动开始事务</span>”，每当打开数据查看器时事务会自动开始。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_commit.png" alt="提交" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>永久完成当前事务中的所有更改。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_rollback.png" alt="回滚" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>还原当前事务中所有已运行的工作。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_text.png" alt="文本" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>激活<a href="#/data_assistant_editors">辅助编辑器</a>以查看和编辑数据。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_filterWizard.png" alt="筛选" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>在数据网格创建和应用筛选条件来<a href="#/data_filter_wizard">筛选</a>记录。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_sort.png" alt="排序" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>按自定义的次序来<a href="#/data_sort_find">排序</a>记录。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_import.png" alt="导入" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>从文件<a href="#/import_wizard">导入</a>数据。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_exportTable.png" alt="导出" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><a href="#/export_wizard">导出</a>数据到文件。</p></td>
+		</tr>
+	</table>
+</div>

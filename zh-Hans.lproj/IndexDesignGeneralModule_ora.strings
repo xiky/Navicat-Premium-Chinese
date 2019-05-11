@@ -1,0 +1,139 @@
+
+/* Class = "NSTextFieldCell"; title = "Table:"; ObjectID = "1Xy-jt-LO3"; */
+"1Xy-jt-LO3.title" = "表:";
+
+/* Class = "NSTabViewItem"; label = "Bitmap Join"; ObjectID = "4Id-6g-Rtg"; */
+"4Id-6g-Rtg.label" = "位图联接";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "5MB-Qm-uZ7"; */
+"5MB-Qm-uZ7.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Cluster:"; ObjectID = "9lr-bL-0l1"; */
+"9lr-bL-0l1.title" = "群集:";
+
+/* Class = "NSComboBoxCell"; ATL-Nm-4sT.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "ATL-Nm-4sT"; */
+"ATL-Nm-4sT.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; ATL-Nm-4sT.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "ATL-Nm-4sT"; */
+"ATL-Nm-4sT.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; ATL-Nm-4sT.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "ATL-Nm-4sT"; */
+"ATL-Nm-4sT.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "FI7-L5-VRD"; */
+"FI7-L5-VRD.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table:"; ObjectID = "Flc-2i-DJF"; */
+"Flc-2i-DJF.title" = "表:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "GCu-Zq-r08"; */
+"GCu-Zq-r08.title" = "Text Cell";
+
+/* Class = "NSComboBoxCell"; LET-y8-KBe.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "LET-y8-KBe"; */
+"LET-y8-KBe.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; LET-y8-KBe.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "LET-y8-KBe"; */
+"LET-y8-KBe.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; LET-y8-KBe.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "LET-y8-KBe"; */
+"LET-y8-KBe.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSComboBoxCell"; O2f-6E-Jz3.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "O2f-6E-Jz3"; */
+"O2f-6E-Jz3.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; O2f-6E-Jz3.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "O2f-6E-Jz3"; */
+"O2f-6E-Jz3.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; O2f-6E-Jz3.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "O2f-6E-Jz3"; */
+"O2f-6E-Jz3.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSComboBoxCell"; POQ-Ri-Qkk.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "POQ-Ri-Qkk"; */
+"POQ-Ri-Qkk.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; POQ-Ri-Qkk.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "POQ-Ri-Qkk"; */
+"POQ-Ri-Qkk.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; POQ-Ri-Qkk.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "POQ-Ri-Qkk"; */
+"POQ-Ri-Qkk.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSComboBoxCell"; Qy8-8b-a3D.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "Qy8-8b-a3D"; */
+"Qy8-8b-a3D.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; Qy8-8b-a3D.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "Qy8-8b-a3D"; */
+"Qy8-8b-a3D.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; Qy8-8b-a3D.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "Qy8-8b-a3D"; */
+"Qy8-8b-a3D.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSComboBoxCell"; XR4-lL-qc6.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "XR4-lL-qc6"; */
+"XR4-lL-qc6.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; XR4-lL-qc6.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "XR4-lL-qc6"; */
+"XR4-lL-qc6.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; XR4-lL-qc6.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "XR4-lL-qc6"; */
+"XR4-lL-qc6.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSComboBoxCell"; XrF-rn-8P9.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "XrF-rn-8P9"; */
+"XrF-rn-8P9.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; XrF-rn-8P9.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "XrF-rn-8P9"; */
+"XrF-rn-8P9.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; XrF-rn-8P9.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "XrF-rn-8P9"; */
+"XrF-rn-8P9.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Index Type Parameters:"; ObjectID = "XuM-nZ-9Hg"; */
+"XuM-nZ-9Hg.title" = "索引类型参数:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Xzd-3S-QRX"; */
+"Xzd-3S-QRX.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "Bitmap Join Index"; ObjectID = "YeQ-6k-dE1"; */
+"YeQ-6k-dE1.title" = "位图联接索引";
+
+/* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "dpR-P8-Fjg"; */
+"dpR-P8-Fjg.title" = "类型:";
+
+/* Class = "NSTextFieldCell"; title = "Index Type:"; ObjectID = "fKC-t3-cwA"; */
+"fKC-t3-cwA.title" = "索引类型:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "gbm-iw-e55"; */
+"gbm-iw-e55.title" = "Table View Cell";
+
+/* Class = "NSComboBoxCell"; kpt-HK-cGL.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "kpt-HK-cGL"; */
+"kpt-HK-cGL.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; kpt-HK-cGL.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "kpt-HK-cGL"; */
+"kpt-HK-cGL.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; kpt-HK-cGL.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "kpt-HK-cGL"; */
+"kpt-HK-cGL.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSButtonCell"; title = "XDB"; ObjectID = "nLp-lT-l8V"; */
+"nLp-lT-l8V.title" = "XDB";
+
+/* Class = "NSTextFieldCell"; title = "Column:"; ObjectID = "nrt-yF-rYO"; */
+"nrt-yF-rYO.title" = "列:";
+
+/* Class = "NSComboBoxCell"; ofR-2b-bY1.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "ofR-2b-bY1"; */
+"ofR-2b-bY1.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; ofR-2b-bY1.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "ofR-2b-bY1"; */
+"ofR-2b-bY1.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; ofR-2b-bY1.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "ofR-2b-bY1"; */
+"ofR-2b-bY1.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "oz0-BN-QaY"; */
+"oz0-BN-QaY.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "pOT-fn-fDb"; */
+"pOT-fn-fDb.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "yYG-5x-356"; */
+"yYG-5x-356.title" = "Table View Cell";
+
+/* Class = "NSTabViewItem"; label = "Fields"; ObjectID = "yo8-ze-Aid"; */
+"yo8-ze-Aid.label" = "字段";
+

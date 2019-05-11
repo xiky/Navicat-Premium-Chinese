@@ -1,0 +1,22 @@
+
+/* Class = "NSTextFieldCell"; title = "Short Brace Length:"; ObjectID = "3Xo-lf-Gca"; */
+"3Xo-lf-Gca.title" = "短括号长度:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "8mn-Ki-O4C"; */
+"8mn-Ki-O4C.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Default"; ObjectID = "E7h-MD-vwA"; */
+"E7h-MD-vwA.title" = "默认";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "ReM-ar-rEN"; */
+"ReM-ar-rEN.title" = "保存";
+
+/* Class = "NSButtonCell"; title = "Beautify"; ObjectID = "af8-o0-4fQ"; */
+"af8-o0-4fQ.title" = "美化 ";
+
+/* Class = "NSButtonCell"; title = "Upper case keywords"; ObjectID = "cIq-UF-SNf"; */
+"cIq-UF-SNf.title" = "大写关键字";
+
+/* Class = "NSWindow"; title = "SQL Beautifier Options"; ObjectID = "ozh-NH-C2p"; */
+"ozh-NH-C2p.title" = "美化 SQL 选项";
+

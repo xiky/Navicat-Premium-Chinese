@@ -1,0 +1,31 @@
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "3eY-ch-5UN"; */
+"3eY-ch-5UN.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "660-zv-fnY"; */
+"660-zv-fnY.title" = "Text Cell";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "窗口";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "FZm-Iu-aVm"; */
+"FZm-Iu-aVm.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "MkD-jL-Yik"; */
+"MkD-jL-Yik.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "MpF-of-LtX"; */
+"MpF-of-LtX.title" = "取消";
+
+/* Class = "NSTableColumn"; headerCell.title = "Privilege"; ObjectID = "OPa-Mv-J7W"; */
+"OPa-Mv-J7W.headerCell.title" = "权限";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "bac-FQ-d3g"; */
+"bac-FQ-d3g.title" = "确定";
+
+/* Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "dxU-dc-mM2"; */
+"dxU-dc-mM2.headerCell.title" = "状态";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "p6m-ze-gEn"; */
+"p6m-ze-gEn.title" = "Table View Cell";
+

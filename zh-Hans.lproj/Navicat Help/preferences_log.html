@@ -1,0 +1,29 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>日志文件</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>日志文件</h1>
+	<p><span class="term">日志路径</span></p>
+	<p>指定保存日志文件的路径。</p>
+	<p><span class="term">写入已运行的查询的日志</span></p>
+	<p>保存在 Navicat 数据库和数据库对象上所有已运行的操作的所有 SQL 语句。</p>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>需要重新启动 Navicat 才生效。</p>
+	</div>
+	<p><span class="term">写入批处理作业日志</span>（仅适用于非 Essentials 版）</p>
+	<p>保存 Navicat 命令列进程和运行批处理作业时所有操作的信息。</p>
+</div>

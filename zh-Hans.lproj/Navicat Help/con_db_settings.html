@@ -1,0 +1,57 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>数据库设置</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>数据库设置</h1>
+	<h2>MySQL、Oracle、PostgreSQL、SQL Server、MariaDB、MongoDB</h2>
+	<p>在“<span class="term">数据库</span>”选项卡中，你可以设置连接到服务器时导航窗格显示哪些数据库。这设置不是强制的。若要设置自定义数据库设置，请勾选“<span class="term">使用自定义数据库列表</span>”。然后，从“<span class="term">名</span>”列勾选要显示的数据库。如果你想连接时 Navicat 自动打开数据库，勾选“<span class="term">自动打开</span>”框。</p>
+	<p><span class="term">添加一个隐藏的数据库到列表</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>点击“<span class="term">+</span>”按钮。</p></li>
+		<li><p>输入数据库名。</p></li>
+		<li><p>在数据库列表中勾选新添加的数据库。</p></li>
+	</ul>
+	<p><span class="term">从列表中移除一个数据库</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在数据库列表中选择一个数据库。</p></li>
+		<li><p>点击“<span class="term">-</span>”按钮。</p></li>
+	</ul>
+	<div class="alert">
+		<p><span class="note">【注意】</span>数据库只会从数据库列表中移除，它仍然存在于服务器中。</p>
+	</div>
+	<h2>SQLite</h2>
+	<p>在“<span class="term">数据库</span>”选项卡中，你可以在连接附加一个 SQLite 数据库文件。点击“<span class="term">+</span>”按钮并输入信息：</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>数据库名</p></td>
+			<td width="75%"><p>输入 Navicat 显示的数据库名。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>数据库文件</p></td>
+			<td width="75%"><p>选择数据库的文件路径。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>加密</p></td>
+			<td width="75%"><p>如果数据库文件已加密，勾选此选项并提供“<span class="term">密码</span>”。</p></td>
+		</tr>
+	</table>
+	<p>若要分离一个数据库，请从列表中选择并点击“<span class="term">-</span>”按钮。</p>
+</div>

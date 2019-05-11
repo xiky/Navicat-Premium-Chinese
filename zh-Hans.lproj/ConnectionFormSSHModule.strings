@@ -1,0 +1,58 @@
+
+/* Class = "NSTextFieldCell"; title = "User Name:"; ObjectID = "69k-mT-1nE"; */
+"69k-mT-1nE.title" = "用户名:";
+
+/* Class = "NSButtonCell"; title = "Use SSH tunnel"; ObjectID = "6kG-vZ-sUg"; */
+"6kG-vZ-sUg.title" = "使用 SSH 通道";
+
+/* Class = "NSTextFieldCell"; title = "Authentication Method:"; ObjectID = "6oh-sN-alu"; */
+"6oh-sN-alu.title" = "验证方法:";
+
+/* Class = "NSButtonCell"; title = "Save Passphrase"; ObjectID = "FCw-8v-Ww8"; */
+"FCw-8v-Ww8.title" = "保存密码短语";
+
+/* Class = "NSTextFieldCell"; placeholderString = "22"; ObjectID = "Mx1-3Z-LCL"; */
+"Mx1-3Z-LCL.placeholderString" = "22";
+
+/* Class = "NSButtonCell"; title = "Sync User Name with Navicat Cloud"; ObjectID = "Nm4-SX-Kc0"; */
+"Nm4-SX-Kc0.title" = "与 Navicat Cloud 同步用户名";
+
+/* Class = "NSTextFieldCell"; title = "* All passwords will not be saved to Navicat Cloud"; ObjectID = "Q0b-da-qon"; */
+"Q0b-da-qon.title" = "* 所有密码不会保存到 Navicat Cloud";
+
+/* Class = "NSTextFieldCell"; title = "* All passwords will not be saved to Navicat Cloud"; ObjectID = "QYB-zW-Mdj"; */
+"QYB-zW-Mdj.title" = "* 所有密码不会保存到 Navicat Cloud";
+
+/* Class = "NSButtonCell"; title = "Save password"; ObjectID = "QsJ-e8-4GU"; */
+"QsJ-e8-4GU.title" = "保存密码";
+
+/* Class = "NSTextFieldCell"; title = "Passphrase:"; ObjectID = "Rkr-zb-ocv"; */
+"Rkr-zb-ocv.title" = "密码短语:";
+
+/* Class = "NSTextFieldCell"; title = "Private Key:"; ObjectID = "VFX-dd-icV"; */
+"VFX-dd-icV.title" = "私钥:";
+
+/* Class = "NSTextFieldCell"; title = "Host:"; ObjectID = "ZG2-48-7Wo"; */
+"ZG2-48-7Wo.title" = "主机:";
+
+/* Class = "NSMenuItem"; title = "Password"; ObjectID = "bkb-Ea-TWW"; */
+"bkb-Ea-TWW.title" = "密码";
+
+/* Class = "NSButtonCell"; title = "Edit Password:"; ObjectID = "fXz-m6-Vkn"; */
+"fXz-m6-Vkn.title" = "编辑密码:";
+
+/* Class = "NSMenuItem"; title = "Public Key"; ObjectID = "hAb-rm-pSy"; */
+"hAb-rm-pSy.title" = "公钥";
+
+/* Class = "NSButtonCell"; title = "Edit Passphrase:"; ObjectID = "mSI-EU-chf"; */
+"mSI-EU-chf.title" = "编辑密码短语:";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "q4u-Gs-ZfN"; */
+"q4u-Gs-ZfN.title" = "密码:";
+
+/* Class = "NSButtonCell"; title = "Use compression"; ObjectID = "t7s-ir-nZv"; */
+"t7s-ir-nZv.title" = "使用压缩";
+
+/* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "uA1-s7-Nhj"; */
+"uA1-s7-Nhj.title" = "端口:";
+

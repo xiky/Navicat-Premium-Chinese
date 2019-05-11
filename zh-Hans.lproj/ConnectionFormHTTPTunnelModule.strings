@@ -1,0 +1,40 @@
+
+/* Class = "NSBox"; title = "Authentication"; ObjectID = "3pp-XL-pFB"; */
+"3pp-XL-pFB.title" = "验证";
+
+/* Class = "NSButtonCell"; title = "Sync User Name with Navicat Cloud"; ObjectID = "5oU-4x-FRn"; */
+"5oU-4x-FRn.title" = "与 Navicat Cloud 同步用户名";
+
+/* Class = "NSButtonCell"; title = "Proxy Settings…"; ObjectID = "6Ig-9d-26B"; */
+"6Ig-9d-26B.title" = "代理服务器设置…";
+
+/* Class = "NSTextFieldCell"; title = "Tunnel URL:"; ObjectID = "Bhi-p0-BBr"; */
+"Bhi-p0-BBr.title" = "通道网址:";
+
+/* Class = "NSButtonCell"; title = "Edit Password:"; ObjectID = "CRv-vS-Oyp"; */
+"CRv-vS-Oyp.title" = "编辑密码:";
+
+/* Class = "NSButtonCell"; title = "Export Tunnel Script…"; ObjectID = "MGh-ew-VDh"; */
+"MGh-ew-VDh.title" = "导出通道脚本…";
+
+/* Class = "NSButtonCell"; title = "Use HTTP tunnel"; ObjectID = "QB9-0C-sA3"; */
+"QB9-0C-sA3.title" = "使用 HTTP 通道";
+
+/* Class = "NSButtonCell"; title = "Use authentication"; ObjectID = "Sv7-g7-mrV"; */
+"Sv7-g7-mrV.title" = "使用验证";
+
+/* Class = "NSButtonCell"; title = "Save password"; ObjectID = "aWx-pB-uGQ"; */
+"aWx-pB-uGQ.title" = "保存密码";
+
+/* Class = "NSButtonCell"; title = "Encode outgoing query with base64"; ObjectID = "acE-Vv-6Hn"; */
+"acE-Vv-6Hn.title" = "用 base64 编码传出查询";
+
+/* Class = "NSTextFieldCell"; title = "User Name:"; ObjectID = "g5J-RQ-k4x"; */
+"g5J-RQ-k4x.title" = "用户名:";
+
+/* Class = "NSTextFieldCell"; title = "* All passwords will not be saved to Navicat Cloud"; ObjectID = "v7f-JM-Z7j"; */
+"v7f-JM-Z7j.title" = "* 所有密码不会保存到 Navicat Cloud";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "xzC-5n-c9f"; */
+"xzC-5n-c9f.title" = "密码:";
+

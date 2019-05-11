@@ -1,0 +1,60 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>对象窗格</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>对象窗格</h1>
+	<p>在“<span class="term">对象</span>”选项卡，你可以使用 <img src="./images/icon_listView.png" alt="列表" class="inlineGraphic" height="16" width="16"/>“<span class="term">列表</span>”、<img src="./images/icon_detailView.png" alt="详细信息" class="inlineGraphic" height="16" width="16"/>“<span class="term">详细信息</span>”和 <img src="./images/icon_erDiagramView.png" alt="ER 图表" class="inlineGraphic" height="16" width="16"/>“<span class="term">ER 图表</span>”按钮来转换对象的视图。</p>
+	<p>如果你想隐藏列表视图或详细信息视图中的组结构，从菜单栏选择“<span class="term">查看</span>”->“<span class="term">隐藏对象组</span>”。</p>
+	<h2>列表视图</h2>
+	<p>在默认情况下，Navicat 使用“<span class="term">列表</span>”视图。这只显示对象的名字。</p>
+	<h2>详细信息视图</h2>
+	<p>“<span class="term">详细信息</span>”视图以列显示对象的名和属性。若要更改显示属性的列，从菜单栏选择“<span class="term">查看</span>”->“<span class="term">选择列</span>”，并在弹出式窗口中为不同的对象选择要显示的列。</p>
+	<h2>ER 图表视图（仅适用于非 Essentials 版）</h2>
+	<div class="alert">
+		<p><span class="note">【注意】</span>仅适用于 MySQL、Oracle、PostgreSQL、SQLite、SQL Server 和 MariaDB。只有表提供 ER 图表视图。</p>
+	</div>
+	<p>如果已选择的数据库或模式中有表，ER 图表将会自动生成。ER 图表文件保存在<a href="#/con_adv_settings">设置位置</a>。</p>
+	<figure>
+		<a href="./images/ERDiagram.png" target="_blank"><img src="./images/ERDiagram.png"/></a>
+	</figure>
+	<p><img src="./images/area1.png" alt="编号 1" class="inlineGraphic" height="16" width="16"/> <span class="term">图表画布</span></p>
+	<p>以图像显示在数据库或模式中表的字段和表之间的关系。你可以添加、编辑或删除表之间的关系，在关系线条上添加或删除顶点，以及更改表的颜色。</p>
+	<p><span class="term">添加一个外键</span></p>
+	<p>在对象工具栏点击 <img src="./images/icon_modelAddFK.png" alt="新建关系" class="inlineGraphic" height="16" width="16"/>。然后，由子表拖拉一个字段到父表的字段。</p>
+	<p><span class="term">编辑或删除一个外键</span></p>
+	<p>按住 Control 键并点按关系线条，然后从弹出式功能能选择“<span class="term">设计关系</span>”或“<span class="term">删除关系</span>”。</p>
+	<p><span class="term">添加或删除一个顶点</span></p>
+	<p>选择一条关系线条或一个顶点。然后，按住 SHIFT 键并点击该关系线条或该顶点。</p>
+	<p><span class="term">更改表颜色</span></p>
+	<p>按住 Control 键并点按表，然后从弹出式功能能选择一个颜色。</p>
+	<p><span class="term">应用自动调整版面</span></p>
+	<p>按住 Control 键并点按画布，然后从弹出式功能能选择“<span class="term">自动调整版面</span>”。</p>
+	<p><span class="term">更改页面维度</span></p>
+	<p>按住 Control 键并点按画布，然后从弹出式功能能选择“<span class="term">页面维度</span>”。对应的纸张大小将反映在概览窗格中。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>在 ER 图表视图中双击一个表会打开表设计器，而在列表或详细信息视图中双击一个表会打开表查看器。</p>
+	</div>
+	<p><img src="./images/area2.png" alt="编号 2" class="inlineGraphic" height="16" width="16"/> <span class="term">概览</span></p>
+	<p>若要放大或缩小在图表中选择的区域，调整滑杆。使用键盘快捷键亦可得到同样的效果：</p>
+	<p>放大：[COMMAND-滑鼠滚轮向上]</p>
+	<p>缩小：[COMMAND-滑鼠滚轮向下]</p>
+	<p><img src="./images/area3.png" alt="编号 3" class="inlineGraphic" height="16" width="16"/> <span class="term">对象工具栏</span></p>
+	<p><img src="./images/icon_moveDiagram.png" alt="移动图表" class="inlineGraphic" height="16" width="16"/></p>
+	<p>切换到掌形模式来移动图表。或者，你可以按住 SPACE 键，然后移动图表。</p>
+	<p><img src="./images/icon_modelAddFK.png" alt="新建关系" class="inlineGraphic" height="16" width="16"/></p>
+	<p>在两个表的字段之间创建一个关系。点击此按钮，然后由子表拖拉一个字段到父表的字段。</p>
+</div>

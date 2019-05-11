@@ -1,0 +1,53 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>SQL Server 还原</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+
+<div class="manual_content_container">
+	<h1>SQL Server 还原</h1>
+	<p>在运行还原前，点击“<span class="term">生成 SQL</span>”按钮来检查 SQL 语句。然后，你可以点击“<span class="term">开始</span>”按钮来运行还原进程。</p>
+	<h2>常规属性</h2>
+	<p><span class="term">还原到数据库</span></p>
+	<p>选择要还原的数据库。</p>
+	<p><span class="term">备份集的源</span></p>
+	<p>如果你在对象选项卡选择了“<span class="term">从文件还原</span>”，你可以点击“<span class="term">添加设备</span>”按钮来添加备份设备或文件到列表。</p>
+	<p><span class="term">可能最新的</span></p>
+	<p>如果没有恢复点，可勾选这个选项。</p>
+	<p><span class="term">特定时间</span></p>
+	<p>如果你想数据库要还原到特定之日期和时间时所处的状态，可勾选这个选项。</p>
+	<p><span class="term">标记的事务</span></p>
+	<p>如果你想恢复至特定的恢复点，可勾选这个选项。</p>
+	<p><span class="term">包含标记的事务</span></p>
+	<p>如果你想包含特定的事务在恢复中，可勾选这个选项。</p>
+	<p><span class="term">还原计划</span></p>
+	<p>如果你在对象选项卡选择了“<span class="term">从文件还原</span>”，你可以列表选择数据库备份文件。</p>
+	
+	<h2>高级属性</h2>
+	<p><span class="term">还原数据库文件到</span></p>
+	<p>指定数据或日志文件应该通过“<span class="term">还原到</span>”所指定的位置来移动。</p>
+	<p><span class="term">WITH REPLACE</span></p>
+	<p>如果你想包含 WITH REPLACE 引数，可勾选这个选项。</p>
+	<p><span class="term">WITH RESTRICTED_USER</span></p>
+	<p>如果你想包含 WITH RESTRICTED_USER 引数，可勾选这个选项。</p>
+	<p><span class="term">WITH KEEP_REPLICATION</span></p>
+	<p>如果你想包含 WITH KEEP_REPLICATION 引数，可勾选这个选项。</p>
+	<p><span class="term">RECOVERY</span></p>
+	<p>如果你想回滚全部未提交的事务，可勾选这个选项。</p>
+	<p><span class="term">NORECOVERY</span></p>
+	<p>如果你不想回滚全部未提交的事务，可勾选这个选项。</p>
+	<p><span class="term">STANDBY</span></p>
+	<p>指定允恢复效果被还原的“<span class="term">待命文件</span>”。</p>
+</div>

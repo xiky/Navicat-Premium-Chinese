@@ -1,0 +1,41 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>记录</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>记录</h1>
+	<h2>记录</h2>
+	<p><span class="term">限制记录</span> <img src="./images/limitEditBox.png" alt="编辑框" class="inlineGraphic" height="14" width="20" border="1"/> <span class="term">条记录 (每页)</span></p>
+	<p>如果你想全局地限制在网格每页显示的记录数，可勾选这个选项。否则，所有记录将会显示在一页里。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>若要为特定的表或集合调整设置，请参阅<a href="#/data_viewer">数据查看器</a>。</p>
+	</div>
+	<p><span class="term">自动开始事务</span></p>
+	<p>如果你需要在更改表或集合中的记录时，自动开始一个新事务，可勾选这个选项。否则，自动提交会自动启用，你需要在数据查看器中点击 <img src="./images/icon_beginTransaction.png" alt="开始事务" class="inlineGraphic" height="16" width="16"/> 按钮来手动开始事务。</p>
+	<p>在数据查看器中打开事务时，可以使用 <img src="./images/icon_commit.png" alt="提交" class="inlineGraphic" height="16" width="16"/> 或 <img src="./images/icon_rollback.png" alt="回滚" class="inlineGraphic" height="16" width="16"/> 按钮来提交或回滚更改。请参阅：<a href="#/data_viewer">数据查看器</a>。</p>
+	<p><span class="term">修改后同步记录</span></p>
+	<p>当在网格更新或插入一列（如果有主键），它将会从服务器重新加载。</p>
+	<p>例如：表有 3 列 - id、名字及时间戳。如果你更新名字列，在网格的时间戳将会立即更新。</p>
+	<p><span class="term">启用批次更新模式</span></p>
+	<p>如果勾选了这个选项，选择另一列时，数据更改将不会发布到服务器，直到点击 <img src="./images/icon_updateRecord.png" alt="应用更改" class="inlineGraphic" height="16" width="16"/> 按钮。</p>
+	<h2>网格</h2>
+	<p><span class="term">点击以触发编辑</span></p>
+	<p>如果勾选了这个选项，在网格的单元格上点击将会开始单元格编辑。否则，点击时会高亮显示行，以及双击时会打开编辑。</p>
+	<p><span class="term">字体</span></p>
+	<p>定义网格使用的字体和字体大小。</p>
+	<p><span class="term">使用默认字体</span></p>
+	<p>若要使用默认的字体设置，可勾选这个选项。</p>
+</div>

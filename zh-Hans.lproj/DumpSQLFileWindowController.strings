@@ -1,0 +1,16 @@
+
+/* Class = "NSWindow"; title = "Dump SQL File"; ObjectID = "8"; */
+"8.title" = "转储 SQL 文件";
+
+/* Class = "NSButtonCell"; title = "Start"; ObjectID = "2109"; */
+"2109.title" = "开始";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "2111"; */
+"2111.title" = "关闭";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "Nar-22-c1R"; */
+"Nar-22-c1R.title" = "保存";
+
+/* Class = "NSMenuItem"; title = "Save As"; ObjectID = "at7-ez-cwY"; */
+"at7-ez-cwY.title" = "另存为";
+

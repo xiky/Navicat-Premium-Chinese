@@ -1,0 +1,52 @@
+
+/* Class = "NSComboBoxCell"; 16G-4c-fS5.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "16G-4c-fS5"; */
+"16G-4c-fS5.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; 16G-4c-fS5.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "16G-4c-fS5"; */
+"16G-4c-fS5.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; 16G-4c-fS5.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "16G-4c-fS5"; */
+"16G-4c-fS5.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "24H-M8-qoB"; */
+"24H-M8-qoB.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "5UA-3s-nqo"; */
+"5UA-3s-nqo.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "FK6-Q5-5mG"; */
+"FK6-Q5-5mG.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Om0-6x-ezA"; */
+"Om0-6x-ezA.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Source of backup set"; ObjectID = "XJ1-UP-6N5"; */
+"XJ1-UP-6N5.title" = "备份集的源";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "YEa-Id-4fF"; */
+"YEa-Id-4fF.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ekW-EJ-HT7"; */
+"ekW-EJ-HT7.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Restore point"; ObjectID = "f1D-Rr-9jz"; */
+"f1D-Rr-9jz.title" = "还原点";
+
+/* Class = "NSButtonCell"; title = "Include marked transaction"; ObjectID = "iJh-Bb-OxH"; */
+"iJh-Bb-OxH.title" = "包含标记的事务";
+
+/* Class = "NSTextFieldCell"; title = "Restore plan"; ObjectID = "oXA-TX-7I9"; */
+"oXA-TX-7I9.title" = "还原计划";
+
+/* Class = "NSButtonCell"; title = "Specific time"; ObjectID = "sdX-bH-kWQ"; */
+"sdX-bH-kWQ.title" = "特定时间";
+
+/* Class = "NSButtonCell"; title = "Marked transaction"; ObjectID = "vqE-uD-2s5"; */
+"vqE-uD-2s5.title" = "标记的事务";
+
+/* Class = "NSButtonCell"; title = "Latest possible"; ObjectID = "wK3-Z6-lgX"; */
+"wK3-Z6-lgX.title" = "可能最新的";
+
+/* Class = "NSTextFieldCell"; title = "Restore to database:"; ObjectID = "x5I-CR-Tbz"; */
+"x5I-CR-Tbz.title" = "还原到数据库:";
+

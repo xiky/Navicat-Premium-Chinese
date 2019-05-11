@@ -1,0 +1,28 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>操作原始数据</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>操作原始数据</h1>
+	<p>Navicat 通常识别用户在表输入的字符串为一般字符串，任何特殊字符或函数将被处理为纯文本（即是它的功能会被忽略）。</p>
+	<p>在“<span class="term">原始数据模式</span>”编辑数据是一个方便和直接的方法来应用服务器的内置函数。若要使用原始数据模式功能，只需简单地选择“<span class="term">查看</span>”->“<span class="term">显示</span>”->“<span class="term">原始数据模式</span>”。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>仅适用于 MySQL、Oracle、PostgreSQL、SQL Server 和 MariaDB。</p>
+	</div>
+	<figure>
+		<a href="./images/rawMode.png" target="_blank"><img src="./images/rawMode.png"/></a>
+	</figure>
+</div>

@@ -1,0 +1,49 @@
+
+/* Class = "NSWindow"; title = "Data Synchronization"; ObjectID = "8"; */
+"8.title" = "数据同步";
+
+/* Class = "NSButtonCell"; title = "Next"; ObjectID = "2109"; */
+"2109.title" = "下一步";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "2111"; */
+"2111.title" = "上一步";
+
+/* Class = "NSSegmentedCell"; AoT-P1-Dgi.ibShadowedLabels[0] = "Save Profile"; ObjectID = "AoT-P1-Dgi"; */
+"AoT-P1-Dgi.ibShadowedLabels[0]" = "保存配置文件";
+
+/* Class = "NSSegmentedCell"; AoT-P1-Dgi.ibShadowedLabels[1] = "▾"; ObjectID = "AoT-P1-Dgi"; */
+"AoT-P1-Dgi.ibShadowedLabels[1]" = "▾";
+
+/* Class = "NSSegmentedCell"; Av5-w6-j4z.ibShadowedLabels[0] = "Deployment Script"; ObjectID = "Av5-w6-j4z"; */
+"Av5-w6-j4z.ibShadowedLabels[0]" = "部署脚本";
+
+/* Class = "NSSegmentedCell"; Av5-w6-j4z.ibShadowedLabels[1] = "▾"; ObjectID = "Av5-w6-j4z"; */
+"Av5-w6-j4z.ibShadowedLabels[1]" = "▾";
+
+/* Class = "NSMenuItem"; title = "Save As"; ObjectID = "IFX-pE-3Ze"; */
+"IFX-pE-3Ze.title" = "另存为";
+
+/* Class = "NSMenuItem"; title = "Open in Query Editor"; ObjectID = "LYR-kE-zw1"; */
+"LYR-kE-zw1.title" = "在查询编辑器打开";
+
+/* Class = "NSTextFieldCell"; title = "Target Database"; ObjectID = "NwI-t5-E29"; */
+"NwI-t5-E29.title" = "目标数据库";
+
+/* Class = "NSButtonCell"; title = "Show identical table and others"; ObjectID = "c1p-B0-Rsb"; */
+"c1p-B0-Rsb.title" = "显示相同的表和其他";
+
+/* Class = "NSButtonCell"; title = "Recompare"; ObjectID = "gwD-xW-6lb"; */
+"gwD-xW-6lb.title" = "重新比对";
+
+/* Class = "NSButtonCell"; title = "Load Profile"; ObjectID = "hnH-Re-tuA"; */
+"hnH-Re-tuA.title" = "加载配置文件";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "pS0-Yd-00g"; */
+"pS0-Yd-00g.title" = "保存";
+
+/* Class = "NSTextFieldCell"; title = "Source Database"; ObjectID = "pko-Ps-x7S"; */
+"pko-Ps-x7S.title" = "源数据库";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "tih-cz-lTq"; */
+"tih-cz-lTq.title" = "编辑";
+

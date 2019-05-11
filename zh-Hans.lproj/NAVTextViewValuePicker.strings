@@ -1,0 +1,10 @@
+
+/* Class = "NSWindow"; title = "Select Field(s)"; ObjectID = "axF-DC-8vV"; */
+"axF-DC-8vV.title" = "选择字段";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "p10-a7-4y1"; */
+"p10-a7-4y1.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "sSG-bM-yij"; */
+"sSG-bM-yij.title" = "确定";
+

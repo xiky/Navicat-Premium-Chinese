@@ -1,0 +1,13 @@
+
+/* Class = "NSTextFieldCell"; title = "Tablespace:"; ObjectID = "KD7-hU-gqk"; */
+"KD7-hU-gqk.title" = "表空间:";
+
+/* Class = "NSButtonCell"; title = "With Data"; ObjectID = "PDe-Ko-D68"; */
+"PDe-Ko-D68.title" = "配备数据";
+
+/* Class = "NSTextFieldCell"; title = "Owner:"; ObjectID = "fQm-Pm-n0C"; */
+"fQm-Pm-n0C.title" = "拥有者:";
+
+/* Class = "NSTextFieldCell"; title = "Fill Factor:"; ObjectID = "pLC-4l-6Gf"; */
+"pLC-4l-6Gf.title" = "填充因子:";
+

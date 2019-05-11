@@ -1,0 +1,40 @@
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "窗口";
+
+/* Class = "NSTextFieldCell"; title = "Code Snippet"; ObjectID = "2ei-xr-ymb"; */
+"2ei-xr-ymb.title" = "代码段";
+
+/* Class = "NSTextFieldCell"; title = "Compare and sync data between databases/schemas with a detailed analytical process."; ObjectID = "E0u-hd-oNK"; */
+"E0u-hd-oNK.title" = "Compare and sync data between databases/schemas with a detailed analytical process.";
+
+/* Class = "NSTextFieldCell"; title = "Intuitive and well-designed GUI simplifies your database administration and development."; ObjectID = "LsY-bs-hY4"; */
+"LsY-bs-hY4.title" = "Intuitive and well-designed GUI simplifies your database administration and development.";
+
+/* Class = "NSTextFieldCell"; title = "Add your favourite tabs to on Startup and have them open automatically when Navicat launches."; ObjectID = "OO2-qQ-gb1"; */
+"OO2-qQ-gb1.title" = "Add your favourite tabs to on Startup and have them open automatically when Navicat launches.";
+
+/* Class = "NSTextFieldCell"; title = "Structure Synchronization"; ObjectID = "UxJ-3x-THO"; */
+"UxJ-3x-THO.title" = "结构同步";
+
+/* Class = "NSTextFieldCell"; title = "On Startup"; ObjectID = "V4p-WD-8uX"; */
+"V4p-WD-8uX.title" = "启动画面";
+
+/* Class = "NSTextFieldCell"; title = "We engineered an entirely new mechanism and applied multithreading, so you can run certain tasks in parallel to increase the overall efficiency of your database development."; ObjectID = "Xmh-Ec-UPy"; */
+"Xmh-Ec-UPy.title" = "We engineered an entirely new mechanism and applied multithreading, so you can run certain tasks in parallel to increase the overall efficiency of your database development.";
+
+/* Class = "NSTextFieldCell"; title = "Insert a snippet into the SQL Editor for faster and error-free SQL writing."; ObjectID = "Yi8-w7-vxa"; */
+"Yi8-w7-vxa.title" = "Insert a snippet into the SQL Editor for faster and error-free SQL writing.";
+
+/* Class = "NSTextFieldCell"; title = "The All-New Engine"; ObjectID = "fWq-hK-V6g"; */
+"fWq-hK-V6g.title" = "全新引擎";
+
+/* Class = "NSTextFieldCell"; title = "Data Synchronization"; ObjectID = "kn0-Cn-EgN"; */
+"kn0-Cn-EgN.title" = "数据同步";
+
+/* Class = "NSTextFieldCell"; title = "New User Interface"; ObjectID = "nxb-I7-qwc"; */
+"nxb-I7-qwc.title" = "新的用户界面";
+
+/* Class = "NSTextFieldCell"; title = "Deliver a full picture of database differences, and generate script to update the destination database."; ObjectID = "w2T-kz-caO"; */
+"w2T-kz-caO.title" = "Deliver a full picture of database differences, and generate script to update the destination database.";
+

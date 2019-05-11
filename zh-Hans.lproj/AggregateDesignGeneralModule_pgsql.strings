@@ -1,0 +1,136 @@
+
+/* Class = "NSComboBoxCell"; 0CP-4B-26K.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "0CP-4B-26K"; */
+"0CP-4B-26K.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; 0CP-4B-26K.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "0CP-4B-26K"; */
+"0CP-4B-26K.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; 0CP-4B-26K.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "0CP-4B-26K"; */
+"0CP-4B-26K.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "2mc-59-dCd"; */
+"2mc-59-dCd.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Sort Operator:"; ObjectID = "5OX-Zx-IMo"; */
+"5OX-Zx-IMo.title" = "排序运算符:";
+
+/* Class = "NSTextFieldCell"; title = "State Function:"; ObjectID = "7E7-s6-ZIv"; */
+"7E7-s6-ZIv.title" = "状态函数:";
+
+/* Class = "NSTextFieldCell"; title = "Final Function:"; ObjectID = "7Tj-wC-oTb"; */
+"7Tj-wC-oTb.title" = "最终函数:";
+
+/* Class = "NSTextFieldCell"; title = "State Type:"; ObjectID = "CH2-a5-E9v"; */
+"CH2-a5-E9v.title" = "状态类型:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "Dae-rR-SJ7"; */
+"Dae-rR-SJ7.headerCell.title" = "类型";
+
+/* Class = "NSTextFieldCell"; title = "Owner:"; ObjectID = "EZs-1c-cgO"; */
+"EZs-1c-cgO.title" = "拥有者:";
+
+/* Class = "NSComboBoxCell"; Hgp-By-oTP.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "Hgp-By-oTP"; */
+"Hgp-By-oTP.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; Hgp-By-oTP.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "Hgp-By-oTP"; */
+"Hgp-By-oTP.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; Hgp-By-oTP.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "Hgp-By-oTP"; */
+"Hgp-By-oTP.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSComboBoxCell"; JoI-1y-eZg.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "JoI-1y-eZg"; */
+"JoI-1y-eZg.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; JoI-1y-eZg.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "JoI-1y-eZg"; */
+"JoI-1y-eZg.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; JoI-1y-eZg.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "JoI-1y-eZg"; */
+"JoI-1y-eZg.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSButtonCell"; title = "Order By:"; ObjectID = "QCC-SD-axB"; */
+"QCC-SD-axB.title" = "排序以:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Szd-le-lCH"; */
+"Szd-le-lCH.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "UJf-yS-n9f"; */
+"UJf-yS-n9f.title" = "Text Cell";
+
+/* Class = "NSComboBoxCell"; ZkC-1D-6si.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "ZkC-1D-6si"; */
+"ZkC-1D-6si.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; ZkC-1D-6si.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "ZkC-1D-6si"; */
+"ZkC-1D-6si.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; ZkC-1D-6si.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "ZkC-1D-6si"; */
+"ZkC-1D-6si.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Initial Condition:"; ObjectID = "bPa-Zp-NgF"; */
+"bPa-Zp-NgF.title" = "初始条件:";
+
+/* Class = "NSComboBoxCell"; c0w-jX-pkU.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "c0w-jX-pkU"; */
+"c0w-jX-pkU.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; c0w-jX-pkU.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "c0w-jX-pkU"; */
+"c0w-jX-pkU.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; c0w-jX-pkU.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "c0w-jX-pkU"; */
+"c0w-jX-pkU.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "cSy-pG-LkT"; */
+"cSy-pG-LkT.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "d4E-mN-lvA"; */
+"d4E-mN-lvA.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Input Type:"; ObjectID = "dFx-80-W8l"; */
+"dFx-80-W8l.title" = "输入类型:";
+
+/* Class = "NSTextFieldCell"; title = "State Data Size:"; ObjectID = "fId-Ky-e6Q"; */
+"fId-Ky-e6Q.title" = "状态数据大小:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "fLV-09-QrV"; */
+"fLV-09-QrV.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "hPx-9e-mb7"; */
+"hPx-9e-mb7.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "oKk-Wr-j5p"; */
+"oKk-Wr-j5p.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Final Function Extra"; ObjectID = "qh1-tF-Iz8"; */
+"qh1-tF-Iz8.title" = "最终函数额外";
+
+/* Class = "NSComboBoxCell"; tET-KJ-zRe.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "tET-KJ-zRe"; */
+"tET-KJ-zRe.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; tET-KJ-zRe.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "tET-KJ-zRe"; */
+"tET-KJ-zRe.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; tET-KJ-zRe.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "tET-KJ-zRe"; */
+"tET-KJ-zRe.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTableColumn"; headerCell.title = "Schema"; ObjectID = "tfW-Zh-WMQ"; */
+"tfW-Zh-WMQ.headerCell.title" = "模式";
+
+/* Class = "NSButtonCell"; title = "Hypothetical"; ObjectID = "vwP-QI-eQw"; */
+"vwP-QI-eQw.title" = "假设的";
+
+/* Class = "NSComboBoxCell"; zJB-1D-ZWD.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "zJB-1D-ZWD"; */
+"zJB-1D-ZWD.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; zJB-1D-ZWD.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "zJB-1D-ZWD"; */
+"zJB-1D-ZWD.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; zJB-1D-ZWD.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "zJB-1D-ZWD"; */
+"zJB-1D-ZWD.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSComboBoxCell"; zzQ-Ax-BKe.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "zzQ-Ax-BKe"; */
+"zzQ-Ax-BKe.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; zzQ-Ax-BKe.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "zzQ-Ax-BKe"; */
+"zzQ-Ax-BKe.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; zzQ-Ax-BKe.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "zzQ-Ax-BKe"; */
+"zzQ-Ax-BKe.ibShadowedObjectValues[2]" = "Item 3";
+

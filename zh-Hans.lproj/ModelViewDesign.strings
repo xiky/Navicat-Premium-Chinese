@@ -1,0 +1,133 @@
+
+/* Class = "NSMenuItem"; title = "Default"; ObjectID = "0cB-z5-YPG"; */
+"0cB-z5-YPG.title" = "默认";
+
+/* Class = "NSTextFieldCell"; title = "Constraint Name:"; ObjectID = "1Zr-8j-4Yq"; */
+"1Zr-8j-4Yq.title" = "约束名:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1k2-3M-bvm"; */
+"1k2-3M-bvm.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1lA-uI-Bqu"; */
+"1lA-uI-Bqu.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "…"; ObjectID = "42m-Pt-VD5"; */
+"42m-Pt-VD5.title" = "…";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "BFr-l9-0dz"; */
+"BFr-l9-0dz.title" = "确定";
+
+/* Class = "NSTabViewItem"; label = "Options"; ObjectID = "CJW-vl-D7T"; */
+"CJW-vl-D7T.label" = "选项";
+
+/* Class = "NSMenuItem"; title = "Local"; ObjectID = "EId-09-gGV"; */
+"EId-09-gGV.title" = "本地";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "Exy-Kb-TV5"; */
+"Exy-Kb-TV5.title" = "Radio";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "窗口";
+
+/* Class = "NSButtonCell"; title = "Force on create"; ObjectID = "FFL-Bh-rHa"; */
+"FFL-Bh-rHa.title" = "创建时强制";
+
+/* Class = "NSTextFieldCell"; title = "Comment:"; ObjectID = "Fxz-QL-WC3"; */
+"Fxz-QL-WC3.title" = "注释:";
+
+/* Class = "NSMenuItem"; title = "Cascaded"; ObjectID = "GIK-M6-3cV"; */
+"GIK-M6-3cV.title" = "级联";
+
+/* Class = "NSTabViewItem"; label = "View Editor"; ObjectID = "I7H-JB-nXd"; */
+"I7H-JB-nXd.label" = "视图编辑器";
+
+/* Class = "NSSegmentedCell"; JXh-mA-5Cn.ibShadowedLabels[0] = "View Editor"; ObjectID = "JXh-mA-5Cn"; */
+"JXh-mA-5Cn.ibShadowedLabels[0]" = "视图编辑器";
+
+/* Class = "NSSegmentedCell"; JXh-mA-5Cn.ibShadowedLabels[1] = "Options"; ObjectID = "JXh-mA-5Cn"; */
+"JXh-mA-5Cn.ibShadowedLabels[1]" = "选项";
+
+/* Class = "NSSegmentedCell"; JXh-mA-5Cn.ibShadowedLabels[2] = "Rules"; ObjectID = "JXh-mA-5Cn"; */
+"JXh-mA-5Cn.ibShadowedLabels[2]" = "规则";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "L2d-2v-wL8"; */
+"L2d-2v-wL8.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Qfv-Fp-gCm"; */
+"Qfv-Fp-gCm.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Check option"; ObjectID = "S3O-cK-mib"; */
+"S3O-cK-mib.title" = "检查选项";
+
+/* Class = "NSButtonCell"; title = "Encrypted"; ObjectID = "TWa-cw-zkD"; */
+"TWa-cw-zkD.title" = "已加密";
+
+/* Class = "NSMenuItem"; title = "UNDEFINED"; ObjectID = "X1y-gy-TOR"; */
+"X1y-gy-TOR.title" = "UNDEFINED";
+
+/* Class = "NSTabViewItem"; label = "Rules"; ObjectID = "XoL-ek-Prc"; */
+"XoL-ek-Prc.label" = "规则";
+
+/* Class = "NSButtonCell"; title = "…"; ObjectID = "ZKl-CT-Lxi"; */
+"ZKl-CT-Lxi.title" = "…";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "aJ0-sT-tXz"; */
+"aJ0-sT-tXz.title" = "取消";
+
+/* Class = "NSMenuItem"; title = "INVOKER"; ObjectID = "dRJ-x5-hsh"; */
+"dRJ-x5-hsh.title" = "INVOKER";
+
+/* Class = "NSTextFieldCell"; title = "Comment:"; ObjectID = "dbl-IO-ji6"; */
+"dbl-IO-ji6.title" = "注释:";
+
+/* Class = "NSMenuItem"; title = "DEFINER"; ObjectID = "eBV-tQ-Q2k"; */
+"eBV-tQ-Q2k.title" = "DEFINER";
+
+/* Class = "NSButtonCell"; title = "With Check Option:"; ObjectID = "fEs-qn-wag"; */
+"fEs-qn-wag.title" = "含检查选项:";
+
+/* Class = "NSMenuItem"; title = "MERGE"; ObjectID = "hSn-da-3ji"; */
+"hSn-da-3ji.title" = "MERGE";
+
+/* Class = "NSButtonCell"; title = "Restrict Query"; ObjectID = "hiF-x5-kIc"; */
+"hiF-x5-kIc.title" = "限制查询";
+
+/* Class = "NSButtonCell"; title = "Check option"; ObjectID = "hlz-NF-wVy"; */
+"hlz-NF-wVy.title" = "检查选项";
+
+/* Class = "NSTextFieldCell"; title = "Commands:"; ObjectID = "iQc-X6-67E"; */
+"iQc-X6-67E.title" = "命令:";
+
+/* Class = "NSTextFieldCell"; title = "View Owner:"; ObjectID = "kxy-9K-Mq4"; */
+"kxy-9K-Mq4.title" = "视图拥有者:";
+
+/* Class = "NSButtonCell"; title = "Read Only"; ObjectID = "lug-pC-sNg"; */
+"lug-pC-sNg.title" = "只读";
+
+/* Class = "NSTextFieldCell"; title = "Definer:"; ObjectID = "n25-Fb-LmW"; */
+"n25-Fb-LmW.title" = "定义者:";
+
+/* Class = "NSTextFieldCell"; title = "SQL Security:"; ObjectID = "nbi-Kv-OOf"; */
+"nbi-Kv-OOf.title" = "SQL 安全性:";
+
+/* Class = "NSMenuItem"; title = "TEMPTABLE"; ObjectID = "qYp-Iu-nWE"; */
+"qYp-Iu-nWE.title" = "TEMPTABLE";
+
+/* Class = "NSButtonCell"; title = "Schema binding"; ObjectID = "qv1-zV-Ktf"; */
+"qv1-zV-Ktf.title" = "模式绑定";
+
+/* Class = "NSTextFieldCell"; title = "View's Algorithm:"; ObjectID = "rba-RZ-eE7"; */
+"rba-RZ-eE7.title" = "视图的算法:";
+
+/* Class = "NSTextFieldCell"; title = "Condition:"; ObjectID = "uJJ-Ls-eXk"; */
+"uJJ-Ls-eXk.title" = "条件:";
+
+/* Class = "NSButtonCell"; title = "View Builder"; ObjectID = "uyo-x1-UbR"; */
+"uyo-x1-UbR.title" = "视图创建工具";
+
+/* Class = "NSButtonCell"; title = "View metadata"; ObjectID = "v8N-7f-hYd"; */
+"v8N-7f-hYd.title" = "视图元数据";
+
+/* Class = "NSButtonCell"; title = "…"; ObjectID = "wDl-EA-R5o"; */
+"wDl-EA-R5o.title" = "…";
+

@@ -1,0 +1,54 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>服务器监控</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>服务器监控（仅适用于非 Essentials 版）</h1>
+	<p>Navicat 提供“<span class="term">服务器监控</span>”提供来查看已选择的服务器的属性。从菜单栏选择“<span class="term">工具</span>”->“<span class="term">服务器监控</span>”并选择你想要的服务器类型。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>仅适用于 MySQL、Oracle、PostgreSQL、SQL Server、MariaDB 和 MongoDB。</p>
+	</div>
+	<h2>进程列表</h2>
+	<p>此选项卡以列表显示所有已选择的服务器的进程。进程列表提供以下的信息。它是根据你所选择的数据库类型而定。</p>
+	<ul class="ListBullet">
+		<li><p>在设置连接时提供的服务器名。</p></li>
+		<li><p>在服务器的进程 ID。</p></li>
+		<li><p>进程的编号。</p></li>
+		<li><p>现正登录服务器的用户。</p></li>
+		<li><p>用户连接的主机。</p></li>
+		<li><p>用户现正使用的数据库。</p></li>
+		<li><p>用户最后发出的命令。</p></li>
+		<li><p>进程的时间、状态和信息。</p></li>
+		<li><p>进程的 CPU 时间和状态。</p></li>
+	</ul>
+	<p>如果你想在指定的秒数自动刷新进程列表，选择“<span class="term">服务器监控</span>”->“<span class="term">设置自动刷新时间</span>”，并输入一个刷新时间值。若要启用或禁用自动刷新功能，请选择“<span class="term">服务器监控</span>”->“<span class="term">自动刷新</span>”。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>指定了数值后，会随即生效。</p>
+	</div>
+	<p>若要设置一个已选择的进程显示在网格的顶部，请按住 Control 键并点按进程，然后选择“<span class="term">设置最上层显示</span>”->“<span class="term">最上层显示</span>”。若要取消此设置，请选择“<span class="term">取消</span>”或“<span class="term">全部取消</span>”。</p>
+	<p>若要停止一个已选择的进程，请点击 <img src="./images/icon_endProcess.png" alt="结束进程" class="inlineGraphic" height="16" width="16"/> 按钮。</p>
+	<h2>变量</h2>
+	<div class="alert">
+		<p><span class="note">【注意】</span>仅适用于 MySQL、Oracle、PostgreSQL、MariaDB 和 MongoDB。</p>
+	</div>
+	<p>此选项卡以列表显示所有服务器的变量以及其值。</p>
+	<p>你可以在此编辑 MySQL、MariaDB 和 Oracle 变量的值。点击 <img src="./images/indexButton.png" alt="省略号按钮" class="inlineGraphic" height="16" width="16"/> 打开编辑器。</p>
+	<h2>状态</h2>
+	<div class="alert">
+		<p><span class="note">【注意】</span>仅适用于 MySQL、Oracle、PostgreSQL、MariaDB 和 MongoDB。</p>
+	</div>
+	<p>此选项卡以列表显示所有服务器的状态和其值。</p>
+</div>

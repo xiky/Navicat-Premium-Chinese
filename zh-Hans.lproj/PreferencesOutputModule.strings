@@ -1,0 +1,10 @@
+
+/* Class = "NSButtonCell"; title = "Write log for executed queries"; ObjectID = "LbU-qh-D96"; */
+"LbU-qh-D96.title" = "写入已运行的查询的日志";
+
+/* Class = "NSTextFieldCell"; title = "Log Path:"; ObjectID = "m7d-6U-qqr"; */
+"m7d-6U-qqr.title" = "日志路径:";
+
+/* Class = "NSButtonCell"; title = "Write log for batch jobs"; ObjectID = "vG1-o2-Rho"; */
+"vG1-o2-Rho.title" = "写入批处理作业日志";
+

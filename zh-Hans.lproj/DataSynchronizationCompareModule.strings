@@ -1,0 +1,103 @@
+
+/* Class = "NSMenuItem"; title = "Deselect All"; ObjectID = "265-Xx-KGQ"; */
+"265-Xx-KGQ.title" = "取消全选";
+
+/* Class = "NSTextFieldCell"; title = "1000"; ObjectID = "54G-bi-GJY"; */
+"54G-bi-GJY.title" = "1000";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "5yq-8T-Xok"; */
+"5yq-8T-Xok.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "77n-99-MxL"; */
+"77n-99-MxL.title" = "全选";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "7df-PL-tOZ"; */
+"7df-PL-tOZ.title" = "Text Cell";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Previous Page"; ObjectID = "9Fy-Y8-Dat"; */
+"9Fy-Y8-Dat.ibShadowedToolTip" = "上一页";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "9ei-x7-Uec"; */
+"9ei-x7-Uec.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Deselect All"; ObjectID = "9gJ-jX-oJN"; */
+"9gJ-jX-oJN.title" = "取消全选";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "CCG-2Z-xlx"; */
+"CCG-2Z-xlx.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "records per page"; ObjectID = "D20-WC-gGV"; */
+"D20-WC-gGV.title" = "条记录（每页）";
+
+/* Class = "NSMenuItem"; title = "Update"; ObjectID = "D4l-g5-FjU"; */
+"D4l-g5-FjU.title" = "更新";
+
+/* Class = "NSMenuItem"; title = "All Rows"; ObjectID = "Ddq-Rf-1xe"; */
+"Ddq-Rf-1xe.title" = "全部行";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Dwu-Ex-KUR"; */
+"Dwu-Ex-KUR.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Difference"; ObjectID = "M3O-5u-Dc1"; */
+"M3O-5u-Dc1.title" = "不同";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "MHC-L7-OJl"; */
+"MHC-L7-OJl.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "MtY-Hz-JhW"; */
+"MtY-Hz-JhW.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Insert"; ObjectID = "QPV-Gw-Sso"; */
+"QPV-Gw-Sso.title" = "插入";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Next Page"; ObjectID = "Rpu-EH-3PX"; */
+"Rpu-EH-3PX.ibShadowedToolTip" = "下一页";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "SCg-y7-ikd"; */
+"SCg-y7-ikd.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Show Assistant Viewer"; ObjectID = "TTd-VE-sO8"; */
+"TTd-VE-sO8.title" = "显示辅助查看器";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "VgV-pz-PuQ"; */
+"VgV-pz-PuQ.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "YpS-Px-lTZ"; */
+"YpS-Px-lTZ.title" = "全选";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Z9w-dh-8Cv"; */
+"Z9w-dh-8Cv.title" = "Text Cell";
+
+/* Class = "NSButton"; ibShadowedToolTip = "First Page"; ObjectID = "cZX-Nl-neW"; */
+"cZX-Nl-neW.ibShadowedToolTip" = "第一页";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "eYM-V3-WYZ"; */
+"eYM-V3-WYZ.title" = "Menu";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "fBC-Pd-fbc"; */
+"fBC-Pd-fbc.title" = "删除";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "hVd-0Z-ot6"; */
+"hVd-0Z-ot6.title" = "Menu";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "hWv-xu-geh"; */
+"hWv-xu-geh.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "jR2-YB-uF0"; */
+"jR2-YB-uF0.title" = "Text Cell";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Last Page"; ObjectID = "kVQ-on-as8"; */
+"kVQ-on-as8.ibShadowedToolTip" = "最后一页";
+
+/* Class = "NSMenuItem"; title = "Same"; ObjectID = "rqO-XM-8BD"; */
+"rqO-XM-8BD.title" = "相同";
+
+/* Class = "NSTextFieldCell"; title = "1"; ObjectID = "rzZ-Tl-sdz"; */
+"rzZ-Tl-sdz.title" = "1";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "uDt-Bd-t7R"; */
+"uDt-Bd-t7R.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "vjR-fn-0S8"; */
+"vjR-fn-0S8.title" = "Text Cell";
+

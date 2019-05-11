@@ -1,0 +1,40 @@
+
+/* Class = "NSButtonCell"; title = "Add"; ObjectID = "46v-Wq-Otm"; */
+"46v-Wq-Otm.title" = "添加";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "5x1-qY-VfA"; */
+"5x1-qY-VfA.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "9Xd-KO-zXd"; */
+"9Xd-KO-zXd.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "File Name"; ObjectID = "9t6-TL-52v"; */
+"9t6-TL-52v.headerCell.title" = "文件名";
+
+/* Class = "NSWindow"; title = "Set Tabs"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "设置选项卡";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "I6S-LC-O6u"; */
+"I6S-LC-O6u.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "Use Current"; ObjectID = "ZiH-0L-bw4"; */
+"ZiH-0L-bw4.title" = "使用当前的";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "auF-BS-ahf"; */
+"auF-BS-ahf.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "iOd-zN-ZJ8"; */
+"iOd-zN-ZJ8.title" = "确定";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "qmy-hc-7uM"; */
+"qmy-hc-7uM.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Location"; ObjectID = "sbh-dm-bvH"; */
+"sbh-dm-bvH.headerCell.title" = "位置";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "trV-s5-7Qv"; */
+"trV-s5-7Qv.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "y4q-j6-GfC"; */
+"y4q-j6-GfC.title" = "Text Cell";
+

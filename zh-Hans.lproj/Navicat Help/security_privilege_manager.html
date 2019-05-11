@@ -1,0 +1,31 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>权限管理员</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>权限管理员</h1>
+	<p>除了在每个用户中设置权限，“<span class="term">权限管理员</span>”提供另一种方式查看连接和其数据库对象的权限。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>仅适用于 MySQL、Oracle、PostgreSQL、SQL Server、MariaDB 和 MongoDB。</p>
+	</div>
+	<p>若要添加权限，请在用户对象工具栏点击 <img src="./images/icon_privilegeManager.png" alt="权限管理员" class="inlineGraphic" height="16" width="16"/> 并按照下列步骤：</p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在树视图展开节点直至到达目标对象。</p></li>
+		<li><p>选择对象并点击 <img src="./images/icon_addPrivilege.png" alt="添加权限" class="inlineGraphic" height="16" width="16"/> 以打开窗口。</p></li>
+		<li><p>在左侧窗格勾选用户。</p></li>
+		<li><p>在网格中，对照在“<span class="term">权限</span>”列出的权限，勾选相关的选项以指定已选择的用户有这个对象权限。</p></li>
+	</ul>
+</div>

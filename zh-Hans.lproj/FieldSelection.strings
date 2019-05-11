@@ -1,0 +1,22 @@
+
+/* Class = "NSWindow"; title = "Select Field(s)"; ObjectID = "7"; */
+"7.title" = "选择字段";
+
+/* Class = "NSButtonCell"; title = "Deselect All"; ObjectID = "110"; */
+"110.title" = "取消全选";
+
+/* Class = "NSButtonCell"; title = "Select All"; ObjectID = "111"; */
+"111.title" = "全选";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "125"; */
+"125.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "126"; */
+"126.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "131"; */
+"131.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "132"; */
+"132.title" = "确定";
+

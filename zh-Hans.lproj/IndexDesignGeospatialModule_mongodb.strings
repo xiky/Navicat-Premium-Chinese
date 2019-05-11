@@ -1,0 +1,34 @@
+
+/* Class = "NSTextFieldCell"; title = "2D"; ObjectID = "9UP-PO-LL7"; */
+"9UP-PO-LL7.title" = "2D";
+
+/* Class = "NSComboBoxCell"; OQw-cV-3J0.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "OQw-cV-3J0"; */
+"OQw-cV-3J0.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; OQw-cV-3J0.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "OQw-cV-3J0"; */
+"OQw-cV-3J0.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; OQw-cV-3J0.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "OQw-cV-3J0"; */
+"OQw-cV-3J0.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "GeoHaystack"; ObjectID = "Peq-Fg-pHg"; */
+"Peq-Fg-pHg.title" = "GeoHaystack";
+
+/* Class = "NSTextFieldCell"; title = "Index Version:"; ObjectID = "WCX-4R-luI"; */
+"WCX-4R-luI.title" = "索引版本:";
+
+/* Class = "NSTextFieldCell"; title = "Min:"; ObjectID = "evT-Fb-IWo"; */
+"evT-Fb-IWo.title" = "最小:";
+
+/* Class = "NSTextFieldCell"; title = "Max:"; ObjectID = "gDT-ll-nEk"; */
+"gDT-ll-nEk.title" = "最大:";
+
+/* Class = "NSTextFieldCell"; title = "Bucket Size:"; ObjectID = "gFg-gh-gwG"; */
+"gFg-gh-gwG.title" = "存储桶大小:";
+
+/* Class = "NSTextFieldCell"; title = "2DSphere"; ObjectID = "qgv-09-8f0"; */
+"qgv-09-8f0.title" = "2DSphere";
+
+/* Class = "NSTextFieldCell"; title = "Bits Precision:"; ObjectID = "vud-Bk-GZF"; */
+"vud-Bk-GZF.title" = "位精度:";
+

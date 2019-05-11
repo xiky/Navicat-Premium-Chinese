@@ -1,0 +1,57 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>模式分析</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>模式分析（仅适用于非 Essentials 版）</h1>
+	<p>模式分析用于验证模式、可视化查数据分布和识别数据离群值。首先，在对象选项卡中选择一个集合或视图，然后点击 <img src="./images/icon_analyzeSchema.png" alt="分析模式" class="inlineGraphic" height="16" width="16"/>，或在数据查看器中点击 <img src="./images/icon_analyzeSchema.png" alt="分析模式" class="inlineGraphic" height="16" width="16"/>。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>仅适用于 MongoDB。</p>
+	</div>
+	<h2>工具栏</h2>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项或按钮</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_filterWizard.png" alt="筛选" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p><a href="#/data_filter_wizard">筛选</a>文档以进行分析。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_projection.png" alt="投影" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>包括或排除字段以进行分析。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>分析:</p></td>
+			<td width="75%"><p>从集合中选择样本文档以进行分析。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_run.png" alt="分析" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>开始分析样本文档。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_stop.png" alt="停止" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>停止分析样本文档。</p></td>
+		</tr>
+	</table>
+	<h2>结果</h2>
+	<p>分析完成后，你将看到模式分析结果。结果可视化地显示有关所有字段的类型和数据分布的信息。</p>
+	<p>如果字段具有多个字段类型，你可以点击左侧的字段类型栏，图表将显示该类型的数据分布图。</p>
+	<figure>
+		<a href="./images/analysisResult.png" target="_blank"><img src="./images/analysisResult.png"/></a>
+	</figure>
+</div>

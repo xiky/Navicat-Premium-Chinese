@@ -1,0 +1,46 @@
+
+/* Class = "NSMenuItem"; title = "SQL Server"; ObjectID = "3IO-rD-hJk"; */
+"3IO-rD-hJk.title" = "SQL Server";
+
+/* Class = "NSTextFieldCell"; title = "Database"; ObjectID = "4yQ-zc-lFI"; */
+"4yQ-zc-lFI.title" = "数据库";
+
+/* Class = "NSMenuItem"; title = "Oracle"; ObjectID = "9mW-WM-LBo"; */
+"9mW-WM-LBo.title" = "Oracle";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "GtE-hF-n27"; */
+"GtE-hF-n27.title" = "确定";
+
+/* Class = "NSMenuItem"; title = "MariaDB"; ObjectID = "HnT-vw-P9J"; */
+"HnT-vw-P9J.title" = "MariaDB";
+
+/* Class = "NSMenuItem"; title = "PostgreSQL"; ObjectID = "JZW-di-pDp"; */
+"JZW-di-pDp.title" = "PostgreSQL";
+
+/* Class = "NSMenuItem"; title = "MySQL"; ObjectID = "Pan-vc-QUg"; */
+"Pan-vc-QUg.title" = "MySQL";
+
+/* Class = "NSWindow"; title = "New Model"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "新建模型";
+
+/* Class = "NSTextFieldCell"; title = "Edition"; ObjectID = "S6r-83-db9"; */
+"S6r-83-db9.title" = "版本";
+
+/* Class = "NSTextFieldCell"; title = "Version"; ObjectID = "Sj8-ue-mQk"; */
+"Sj8-ue-mQk.title" = "版本";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "V9a-JU-rOh"; */
+"V9a-JU-rOh.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Target Database"; ObjectID = "agZ-l9-l88"; */
+"agZ-l9-l88.title" = "目标数据库";
+
+/* Class = "NSMenuItem"; title = "SQL Azure"; ObjectID = "nSm-m2-f9m"; */
+"nSm-m2-f9m.title" = "SQL Azure";
+
+/* Class = "NSMenuItem"; title = "SQLite"; ObjectID = "nmx-30-NlY"; */
+"nmx-30-NlY.title" = "SQLite";
+
+/* Class = "NSMenuItem"; title = "Default"; ObjectID = "wNV-Yx-vd6"; */
+"wNV-Yx-vd6.title" = "默认";
+

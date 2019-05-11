@@ -1,0 +1,60 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>日志文件</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>日志文件</h1>
+	<p>Navicat 提供数个日志文件记录在 Navicat 已执行的操作，它们位于默认文件夹，例如：~/Library/Application Support/PremiumSoft CyberTech/Navicat CC/Navicat Premium。你可以在<a href="#/preferences_log">偏好设置</a>中更改日志文件的位置。</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>文件</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>LogsQueryExec.log</p></td>
+			<td width="75%"><p>保存在 Navicat 数据库和数据库对象上所有已运行的操作的所有语句或脚本。若要在“<span class="term">History Log Viewer</span>”打开 LogsQueryExec.log 文件，请选择“<span class="term">工具</span>”->“<span class="term">历史日志</span>”，或按 SHIFT-COMMAND-H。</p><div class="alert">
+				<p><span class="note">【注意】</span>当 Navicat 重新启动时，此日志将会被覆盖。</p>
+			</div></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>CmdLine.log</p></td>
+			<td width="75%"><p>保存 Navicat 命令列进程和运行批处理作业时所有操作的信息。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>LogImport.txt</p></td>
+			<td width="75%"><p>记录在导入进程期间发生的每个错误的详细信息（指示成功或失败）。</p>
+			<div class="alert">
+				<p><span class="note">【注意】</span>在每次导入时，此日志将会被覆盖。</p>
+			</div></td>
+		</tr>
+	</table>
+	<h2>历史日志查看器</h2>
+	<p>历史日志查看器显示所有在 Navicat 已运行或正在运行的语句或脚本。如果你只想显示错误信息，点击 <img src="./images/icon_showErrorOnly.png" alt="仅显示错误" class="inlineGraphic" height="16" width="16"/>。你也可以更改显示的信息，从“<span class="term">查看</span>”菜单选择 -</p>
+	<ul class="ListBullet">
+		<li><p>显示日期</p></li>
+		<li><p>显示时间</p></li>
+		<li><p>显示服务器名</p></li>
+		<li><p>显示会话 ID</p></li>
+		<li><p>显示连接类型</p></li>
+		<li><p>显示运行时间</p></li>
+	</ul>
+	<div class="alert">
+		<p><span class="note">【注意】</span>当你点击 <img src="./images/icon_pause.png" alt="暂停" class="inlineGraphic" height="16" width="16"/>，在暂停历史日志期间你所做的任何操作将在恢复后显示。</p>
+	</div>
+	<figure>
+		<a href="./images/historyLogViewer.png" target="_blank"><img src="./images/historyLogViewer.png"/></a>
+	</figure>
+</div>

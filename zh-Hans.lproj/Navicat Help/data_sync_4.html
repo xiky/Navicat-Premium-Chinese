@@ -1,0 +1,40 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>编辑和运行已选择的脚本（步骤四）</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>编辑和运行已选择的脚本（步骤四）</h1>
+	<p>你可以在“<span class="term">部署脚本</span>”选项卡中查看将在目标数据库中运行的所有脚本。</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="30%"><p>部署脚本按钮</p></td>
+			<td width="70%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>编辑</p></td>
+			<td width="70%"><p>打开“<span class="term">编辑部署脚本</span>”窗口来重新排列脚本的排序。这与点击“<span class="term">部署脚本</span>”按钮相同。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="30%"><p>在查询编辑器打开</p></td>
+			<td width="70%"><p>打开一个新的查询窗口并显示脚本。</p></td>
+		</tr>
+	</table>
+	<p>在“<span class="term">编辑部署脚本</span>”窗口中，使用箭头按钮移动脚本。</p>
+	<figure>
+		<a href="./images/dataSyncScript.png" target="_blank"><img src="./images/dataSyncScript.png"/></a>
+	</figure>
+	<p>如有需要，勾选“<span class="term">发生错误时，提交事务</span>”选项来在运行进程中忽略遇到的错误。然后，点击“<span class="term">运行</span>”按钮来运行脚本。窗口会显示运行进度、运行时间和成功或失败信息。</p>
+</div>

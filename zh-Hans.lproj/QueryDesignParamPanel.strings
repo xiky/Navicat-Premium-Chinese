@@ -1,0 +1,10 @@
+
+/* Class = "NSWindow"; title = "Input Parameters"; ObjectID = "Hgd-Ni-7Dp"; */
+"Hgd-Ni-7Dp.title" = "输入参数";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "ZDc-iH-WOw"; */
+"ZDc-iH-WOw.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "ftR-1Z-2Bu"; */
+"ftR-1Z-2Bu.title" = "确定";
+

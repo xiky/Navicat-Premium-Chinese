@@ -1,0 +1,49 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>数据库用户设计器</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>数据库用户设计器</h1>
+	<div class="alert">
+		<p><span class="note">【注意】</span>下列选项和选项卡会根据服务器版本和用户类型而有所不同。</p>
+	</div>
+	<h2>常规属性</h2>
+	<p><span class="term">用户名</span></p>
+	<p>定义数据库用户的名。</p>
+	<p><span class="term">验证</span></p>
+	<p>选择数据库用户的安全类型。</p>
+	<p><span class="term">登录名</span></p>
+	<p>指定数据库用户使用的 SQL Server 登录。</p>
+	<p><span class="term">默认模式</span></p>
+	<p>选择将拥有此数据库用户创建之对象的默认模式。</p>
+	<p><span class="term">证书名</span></p>
+	<p>选择要用于数据库用户的证书。</p>
+	<p><span class="term">非对称密钥名</span></p>
+	<p>选择要用于数据库用户的非对称密钥。</p>
+	<h2>角色</h2>
+	<p>在列表里，指定此数据库用户成为已选择的数据库角色的成员。</p>
+	<h2>拥有的模式</h2>
+	<p>在列表里，勾选数据库用户拥有的模式。</p>
+	<h2>数据库权限</h2>
+	<p>在网格中，对照在“<span class="term">权限</span>”列出的数据库权限，勾选“<span class="term">授予</span>”、“<span class="term">授予选项</span>”或“<span class="term">拒绝</span>”选项以指定此数据库用户有这个权限。若要授予、拒绝或撤消所有权限，请按住 Control 键并点按网格，然后选择“<span class="term">全部授予</span>”、“<span class="term">全部授予 (含管理选项)</span>”、“<span class="term">全部拒绝</span>”或“<span class="term">全部撤消</span>”。</p>
+	<h2>对象权限</h2>
+	<p>若要编辑数据库用户的特定对象权限，请点击 <img src="./images/icon_addPrivilege.png" alt="添加权限" class="inlineGraphic" height="16" width="16"/> 以打开窗口并按照下列步骤：</p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在树视图展开节点直至到达目标对象。</p></li>
+		<li><p>勾选对象以显示网格于右侧的窗格。</p></li>
+		<li><p>在网格中，对照在“<span class="term">权限</span>”列出的权限，勾选“<span class="term">授予</span>”、“<span class="term">授予选项</span>”或“<span class="term">拒绝</span>”选项以指定此数据库用户有这个权限。若要授予、拒绝或撤消所有权限，请按住 Control 键并点按网格，然后选择“<span class="term">全部授予</span>”、“<span class="term">全部授予 (含授予选项)</span>”、“<span class="term">全部拒绝</span>”或“<span class="term">全部撤消</span>”。</p></li>
+	</ul>
+</div>

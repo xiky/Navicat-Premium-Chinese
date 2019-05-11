@@ -1,0 +1,28 @@
+
+/* Class = "NSButtonCell"; title = "SCRAM-SHA-1"; ObjectID = "6IQ-AR-Z8i"; */
+"6IQ-AR-Z8i.title" = "SCRAM-SHA-1";
+
+/* Class = "NSButtonCell"; title = "SCRAM-SHA-256"; ObjectID = "7wA-6w-S5S"; */
+"7wA-6w-S5S.title" = "SCRAM-SHA-256";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "Fee-dm-bhM"; */
+"Fee-dm-bhM.title" = "密码:";
+
+/* Class = "NSTextFieldCell"; title = "Role Name:"; ObjectID = "Ir9-B7-Dhh"; */
+"Ir9-B7-Dhh.title" = "角色名:";
+
+/* Class = "NSTextFieldCell"; title = "Password Digestor:"; ObjectID = "VXx-PC-M4W"; */
+"VXx-PC-M4W.title" = "密码摘要:";
+
+/* Class = "NSTextFieldCell"; title = "User Name:"; ObjectID = "WJr-ah-2MB"; */
+"WJr-ah-2MB.title" = "用户名:";
+
+/* Class = "NSTextFieldCell"; title = "Mechanisms:"; ObjectID = "XZa-o2-7h7"; */
+"XZa-o2-7h7.title" = "机制:";
+
+/* Class = "NSTextFieldCell"; title = "Confirm Password:"; ObjectID = "f3H-di-0LD"; */
+"f3H-di-0LD.title" = "确认密码:";
+
+/* Class = "NSTextFieldCell"; title = "Password does not match."; ObjectID = "jVS-O1-IIY"; */
+"jVS-O1-IIY.title" = "Password does not match.";
+

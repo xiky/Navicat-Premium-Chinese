@@ -1,0 +1,25 @@
+
+/* Class = "NSTextFieldCell"; title = "Choose the permissions to show:"; ObjectID = "69p-RS-xgU"; */
+"69p-RS-xgU.title" = "选择权限来显示:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "AeT-gO-iiL"; */
+"AeT-gO-iiL.title" = "Text Cell";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "KBi-Rp-ztH"; */
+"KBi-Rp-ztH.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "SdV-jH-O6f"; */
+"SdV-jH-O6f.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "T1T-gq-OLN"; */
+"T1T-gq-OLN.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "VQ7-Qn-dQs"; */
+"VQ7-Qn-dQs.title" = "确定";
+
+/* Class = "NSTextFieldCell"; title = "Choose The Type:"; ObjectID = "cMd-BT-zCW"; */
+"cMd-BT-zCW.title" = "选择类型:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "iw8-k0-y2g"; */
+"iw8-k0-y2g.title" = "取消";
+

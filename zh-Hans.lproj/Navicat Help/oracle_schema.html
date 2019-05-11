@@ -1,0 +1,24 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>模式</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>模式</h1>
+	<p>若要开始使用服务器对象，你应该创建并打开一个连接。当你创建一个用户帐号时，你也同时创建那个用户的模式。模式是一个用户创建数据库对象（例如表、视图、触发器、等）的逻辑容器。模式名是和用户名一样，并可以明确地找到用户拥有的对象。</p>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>Oracle 视没有引号的对象识别符为大写。在 Navicat，全部对象识别符将加引号。也就是說，Navicat 确切地保存你所输入的识别符。</p>
+	</div>
+</div>

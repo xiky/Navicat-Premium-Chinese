@@ -1,0 +1,31 @@
+
+/* Class = "NSButtonCell"; title = "Deselect All"; ObjectID = "8dc-yy-3la"; */
+"8dc-yy-3la.title" = "取消全选";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "BNq-vP-Hh2"; */
+"BNq-vP-Hh2.title" = "Table View Cell";
+
+/* Class = "NSWindow"; title = "Recovery"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "恢复";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "FOS-V4-4nb"; */
+"FOS-V4-4nb.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Select All"; ObjectID = "I8o-Bm-SQt"; */
+"I8o-Bm-SQt.title" = "全选";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "hvi-cB-IgH"; */
+"hvi-cB-IgH.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "jVa-2i-FGV"; */
+"jVa-2i-FGV.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "oCg-Hy-vFy"; */
+"oCg-Hy-vFy.title" = "确定";
+
+/* Class = "NSTextFieldCell"; title = "Autosaved files found. Would you like to recover them?"; ObjectID = "ozT-ss-wtD"; */
+"ozT-ss-wtD.title" = "找到自动保存的文件。你要将它们恢复吗？";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "rrk-dJ-S1Q"; */
+"rrk-dJ-S1Q.title" = "Table View Cell";
+

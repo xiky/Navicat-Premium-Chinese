@@ -1,0 +1,30 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>在数据库或模式中查找</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>在数据库或模式中查找（仅适用于非 Essentials 版）</h1>
+	<p>Navicat 提供“<span class="term">在数据库或模式中查找</span>”功能，让你在一个数据库和/或模式内搜索表和视图的记录或对象结构。若要打开在数据库或模式中查找窗口，请从菜单栏选择“<span class="term">工具</span>”->“<span class="term">在数据库或模式中查找</span>”。</p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>选择目标的“<span class="term">连接</span>”、“<span class="term">数据库</span>”和/或“<span class="term">模式</span>”。</p></li>
+		<li><p>在“<span class="term">查找</span>”输入搜索字符串。</p></li>
+		<li><p>在“<span class="term">查找范围</span>”下拉式菜单中选择要查找数据或结构。</p></li>
+		<li><p>选择“<span class="term">搜索模式</span>”：包含、完整单字、前缀或正则表达式。</p></li>
+		<li><p>如有需要，勾选“<span class="term">不区分大小写</span>”框来禁用大小写相关搜索。</p></li>
+		<li><p>当查找结构时，你可以选择搜索不同的对象：表、集合、视图、函数、查询、索引、触发器、事件和/或实体化视图。</p></li>
+		<li><p>点击“<span class="term">查找</span>”按钮，然后在“<span class="term">查找结果</span>”列表中双击对象来查看记录或结构。</p></li>
+	</ul>
+</div>

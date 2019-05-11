@@ -1,0 +1,37 @@
+
+/* Class = "NSTextFieldCell"; title = "File:"; ObjectID = "0QO-Se-Fxc"; */
+"0QO-Se-Fxc.title" = "文件:";
+
+/* Class = "NSButtonCell"; title = "Continue on error"; ObjectID = "3oL-8g-7LN"; */
+"3oL-8g-7LN.title" = "遇到错误时继续";
+
+/* Class = "NSTextFieldCell"; title = "Database:"; ObjectID = "Bz8-4H-8GR"; */
+"Bz8-4H-8GR.title" = "数据库:";
+
+/* Class = "NSButtonCell"; title = "SET AUTOCOMMIT=0"; ObjectID = "F3N-tc-xGi"; */
+"F3N-tc-xGi.title" = "SET AUTOCOMMIT=0";
+
+/* Class = "NSButtonCell"; title = "..."; ObjectID = "Grw-a3-Fbt"; */
+"Grw-a3-Fbt.title" = "...";
+
+/* Class = "NSTextFieldCell"; title = "Schema:"; ObjectID = "Ltv-Mm-WZM"; */
+"Ltv-Mm-WZM.title" = "模式:";
+
+/* Class = "NSButtonCell"; title = "Run multiple queries in each execution"; ObjectID = "dT3-Kb-aUL"; */
+"dT3-Kb-aUL.title" = "在每个运行中运行多个查询";
+
+/* Class = "NSTextFieldCell"; title = "N/A"; ObjectID = "eOp-He-7Ty"; */
+"eOp-He-7Ty.title" = "无";
+
+/* Class = "NSTextFieldCell"; title = "Server:"; ObjectID = "fFG-Br-x0J"; */
+"fFG-Br-x0J.title" = "服务器:";
+
+/* Class = "NSTextFieldCell"; title = "N/A"; ObjectID = "hKk-wc-tSk"; */
+"hKk-wc-tSk.title" = "无";
+
+/* Class = "NSTextFieldCell"; title = "Encoding:"; ObjectID = "kdk-0d-uwJ"; */
+"kdk-0d-uwJ.title" = "编码:";
+
+/* Class = "NSTextFieldCell"; title = "N/A"; ObjectID = "rHy-i7-FLj"; */
+"rHy-i7-FLj.title" = "无";
+

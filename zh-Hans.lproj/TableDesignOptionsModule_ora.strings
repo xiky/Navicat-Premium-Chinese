@@ -1,0 +1,61 @@
+
+/* Class = "NSButtonCell"; title = "Physical Attributes"; ObjectID = "1Vk-a8-AmM"; */
+"1Vk-a8-AmM.title" = "实体属性";
+
+/* Class = "NSTextFieldCell"; title = "Logging:"; ObjectID = "Bez-xB-R4L"; */
+"Bez-xB-R4L.title" = "记录:";
+
+/* Class = "NSBox"; title = "IOT Properties"; ObjectID = "GpJ-E3-LH1"; */
+"GpJ-E3-LH1.title" = "IOT 属性";
+
+/* Class = "NSButtonCell"; title = "Overflow"; ObjectID = "HI2-fd-ykb"; */
+"HI2-fd-ykb.title" = "溢出";
+
+/* Class = "NSTextFieldCell"; title = "Overflow Logging:"; ObjectID = "KdK-Ej-SB3"; */
+"KdK-Ej-SB3.title" = "溢出日志:";
+
+/* Class = "NSButtonCell"; title = "Key Compress:"; ObjectID = "PRh-2m-8PG"; */
+"PRh-2m-8PG.title" = "键压缩:";
+
+/* Class = "NSTextFieldCell"; title = "Mapping Table:"; ObjectID = "Py2-gQ-975"; */
+"Py2-gQ-975.title" = "映射表:";
+
+/* Class = "NSTextFieldCell"; title = "Tablespace:"; ObjectID = "QUt-EN-rgo"; */
+"QUt-EN-rgo.title" = "表空间:";
+
+/* Class = "NSTextFieldCell"; title = "% Threshold:"; ObjectID = "Rj1-Ox-Pgj"; */
+"Rj1-Ox-Pgj.title" = "% 阈值:";
+
+/* Class = "NSBox"; title = "Overflow Properties"; ObjectID = "Smd-yI-bPy"; */
+"Smd-yI-bPy.title" = "溢出属性";
+
+/* Class = "NSTextFieldCell"; title = "Overflow Tablespace:"; ObjectID = "abS-pn-rOu"; */
+"abS-pn-rOu.title" = "溢出表空间:";
+
+/* Class = "NSTextFieldCell"; title = "Overflow Column:"; ObjectID = "gRf-39-aS7"; */
+"gRf-39-aS7.title" = "溢出列:";
+
+/* Class = "NSButtonCell"; title = "Physical Attributes"; ObjectID = "pGm-U0-LRi"; */
+"pGm-U0-LRi.title" = "实体属性";
+
+/* Class = "NSButtonCell"; title = "Parallel with Degree:"; ObjectID = "qhj-60-Dbt"; */
+"qhj-60-Dbt.title" = "与度数并行:";
+
+/* Class = "NSTextFieldCell"; title = "Row Movement:"; ObjectID = "rWW-bA-1hM"; */
+"rWW-bA-1hM.title" = "行移动:";
+
+/* Class = "NSTextFieldCell"; title = "Table Compression:"; ObjectID = "sBa-xR-wNc"; */
+"sBa-xR-wNc.title" = "表压缩:";
+
+/* Class = "NSComboBoxCell"; vda-WA-Ikw.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "vda-WA-Ikw"; */
+"vda-WA-Ikw.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; vda-WA-Ikw.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "vda-WA-Ikw"; */
+"vda-WA-Ikw.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; vda-WA-Ikw.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "vda-WA-Ikw"; */
+"vda-WA-Ikw.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Cache:"; ObjectID = "xv0-Yb-qQs"; */
+"xv0-Yb-qQs.title" = "缓存:";
+

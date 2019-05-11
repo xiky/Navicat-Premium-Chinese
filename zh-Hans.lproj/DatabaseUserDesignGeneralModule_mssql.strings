@@ -1,0 +1,46 @@
+
+/* Class = "NSTextFieldCell"; title = "Asymmetric Key Name:"; ObjectID = "6O4-7X-yWJ"; */
+"6O4-7X-yWJ.title" = "非对称密钥名:";
+
+/* Class = "NSTextFieldCell"; title = "Login Name:"; ObjectID = "GXW-hk-hVC"; */
+"GXW-hk-hVC.title" = "登录名:";
+
+/* Class = "NSTextFieldCell"; title = "Certificate Name:"; ObjectID = "Ssu-2G-bfD"; */
+"Ssu-2G-bfD.title" = "证书名:";
+
+/* Class = "NSTextFieldCell"; title = "Authentication:"; ObjectID = "Ym6-v9-LLh"; */
+"Ym6-v9-LLh.title" = "验证:";
+
+/* Class = "NSTextFieldCell"; title = "Default Schema:"; ObjectID = "b3m-52-b0K"; */
+"b3m-52-b0K.title" = "默认模式:";
+
+/* Class = "NSComboBoxCell"; bn6-kI-TrF.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "bn6-kI-TrF"; */
+"bn6-kI-TrF.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; bn6-kI-TrF.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "bn6-kI-TrF"; */
+"bn6-kI-TrF.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; bn6-kI-TrF.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "bn6-kI-TrF"; */
+"bn6-kI-TrF.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSComboBoxCell"; c9w-3o-4sT.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "c9w-3o-4sT"; */
+"c9w-3o-4sT.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; c9w-3o-4sT.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "c9w-3o-4sT"; */
+"c9w-3o-4sT.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; c9w-3o-4sT.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "c9w-3o-4sT"; */
+"c9w-3o-4sT.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSComboBoxCell"; fLh-4T-6Gg.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "fLh-4T-6Gg"; */
+"fLh-4T-6Gg.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; fLh-4T-6Gg.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "fLh-4T-6Gg"; */
+"fLh-4T-6Gg.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; fLh-4T-6Gg.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "fLh-4T-6Gg"; */
+"fLh-4T-6Gg.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "User Name:"; ObjectID = "hSa-rc-x7i"; */
+"hSa-rc-x7i.title" = "用户名:";
+

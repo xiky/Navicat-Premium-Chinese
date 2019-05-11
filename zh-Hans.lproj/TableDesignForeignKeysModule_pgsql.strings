@@ -1,0 +1,22 @@
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Lrk-Ok-3vM"; */
+"Lrk-Ok-3vM.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "U2R-h1-o6q"; */
+"U2R-h1-o6q.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Deferred:"; ObjectID = "VPy-nC-iyR"; */
+"VPy-nC-iyR.title" = "延迟:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "kux-G9-Bh5"; */
+"kux-G9-Bh5.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "Match Full"; ObjectID = "sy0-6f-N9r"; */
+"sy0-6f-N9r.title" = "符合全部";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "tcH-9n-m77"; */
+"tcH-9n-m77.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Deferrable:"; ObjectID = "zLY-qT-edM"; */
+"zLY-qT-edM.title" = "可延迟:";
+

@@ -1,0 +1,10 @@
+
+/* Class = "NSTextFieldCell"; title = "Auto Increment:"; ObjectID = "IZd-Pk-nby"; */
+"IZd-Pk-nby.title" = "自动递增:";
+
+/* Class = "NSTextFieldCell"; title = "Primary Key ON CONFLICT:"; ObjectID = "PH1-Hv-Irl"; */
+"PH1-Hv-Irl.title" = "主键 ON CONFLICT:";
+
+/* Class = "NSButtonCell"; title = "WITHOUT ROWID"; ObjectID = "f0U-Ws-xDo"; */
+"f0U-Ws-xDo.title" = "WITHOUT ROWID";
+

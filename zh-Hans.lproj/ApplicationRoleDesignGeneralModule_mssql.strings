@@ -1,0 +1,13 @@
+
+/* Class = "NSTextFieldCell"; title = "Confirm Password:"; ObjectID = "GdE-pM-1Xk"; */
+"GdE-pM-1Xk.title" = "确认密码:";
+
+/* Class = "NSTextFieldCell"; title = "Default Schema:"; ObjectID = "Vp0-pG-fR4"; */
+"Vp0-pG-fR4.title" = "默认模式:";
+
+/* Class = "NSTextFieldCell"; title = "Role Name:"; ObjectID = "cE3-PG-2rh"; */
+"cE3-PG-2rh.title" = "角色名:";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "nfy-vI-LuK"; */
+"nfy-vI-LuK.title" = "密码:";
+

@@ -1,0 +1,25 @@
+
+/* Class = "NSWindow"; title = "Primary Key Properties"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "主键属性";
+
+/* Class = "NSTextFieldCell"; title = "Fill Factor:"; ObjectID = "Fcs-r9-0oJ"; */
+"Fcs-r9-0oJ.title" = "填充因子:";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "Fhj-kb-PQ4"; */
+"Fhj-kb-PQ4.title" = "名:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "K0K-RH-HaZ"; */
+"K0K-RH-HaZ.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Deferred:"; ObjectID = "Nyq-e5-Apf"; */
+"Nyq-e5-Apf.title" = "延迟:";
+
+/* Class = "NSTextFieldCell"; title = "Tablespace:"; ObjectID = "ayb-Td-8nY"; */
+"ayb-Td-8nY.title" = "表空间:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "u9G-w6-WIm"; */
+"u9G-w6-WIm.title" = "确定";
+
+/* Class = "NSTextFieldCell"; title = "Deferrable:"; ObjectID = "ux7-7l-1Ew"; */
+"ux7-7l-1Ew.title" = "可延迟:";
+

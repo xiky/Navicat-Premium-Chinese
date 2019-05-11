@@ -1,0 +1,25 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>保存和开始导入</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>保存和开始导入</h1>
+	<p>点击“<span class="term">开始</span>”按钮来开始导入进程。向导将显示导入进度、运行时间和成功或失败信息。</p>
+	<p>导入进程完成后，你可以点击“<span class="term">查看日志</span>”按钮来打开日志文件。</p>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>点击“<span class="term">保存配置文件</span>”按钮来保存你的设置为配置文件。</p>
+	</div>
+</div>

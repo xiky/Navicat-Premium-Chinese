@@ -1,0 +1,62 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>用户设计器</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>用户设计器</h1>
+	<h2>常规属性</h2>
+	<p><span class="term">用户名</span></p>
+	<p>定义用户的名。</p>
+	<p><span class="term">验证</span></p>
+	<p>选择验证方法。</p>
+	<table>
+		<tr class="tableRoll">
+			<td width="25%"><p>PASSWORD</p></td>
+			<td width="75%"><p>创建一个用户。指定一个“<span class="term">密码</span>”并在“<span class="term">确认密码</span>”重新输入。勾选“<span class="term">密码过期</span>”选项以强制用户在首次尝试登录时更改密码。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>EXTERNAL</p></td>
+			<td width="75%"><p>创建一个由外部服务授权的用户。在“<span class="term">外部名</span>”输入证书专有名或 Kerberos 主体名。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>GLOBAL</p></td>
+			<td width="75%"><p>创建一个由企业目录服务授权的用户。在“<span class="term">X.500 识别名</span>”输入在企业目录服务识别此用户的 X.509 名。</p></td>
+		</tr>
+	</table>
+	<p><span class="term">默认表空间</span></p>
+	<p>为用户创建的对象选择默认表空间。</p>
+	<p><span class="term">临时表空间</span></p>
+	<p>为用户的临时片段选择表空间或表空间组。</p>
+	<p><span class="term">配置文件</span></p>
+	<p>选择分配给用户的配置文件。</p>
+	<p><span class="term">锁定帐号</span></p>
+	<p>锁定用户的帐号和禁用访问。</p>
+	<p><span class="term">启用版本</span></p>
+	<p>允许用户在此模式中创建多个版本的可编辑对象。</p>
+	<h2>角色</h2>
+	<p>在网格中，对照在“<span class="term">角色名</span>”列出的角色，勾选“<span class="term">授予</span>”、“<span class="term">管理选项</span>”或“<span class="term">默认</span>”选项以指定此用户成为已选择的角色的成员。</p>
+	<h2>配额</h2>
+	<p>在网格中，指定用户在表空间可分配到的最大空间量。输入“<span class="term">配额</span>”并选择“<span class="term">单位</span>”。“<span class="term">无限制</span>”让用户在表空间可分配无限制的空间。你可以在此设置多个表空间。</p>
+	<h2>服务器权限</h2>
+	<p>在网格中，对照在“<span class="term">权限</span>”列出的服务器权限，勾选“<span class="term">授予</span>”或“<span class="term">管理选项</span>”选项以指定此用户有该权限。若要授予或撤消所有权限，请按住 Control 键并点按网格，然后选择“<span class="term">全部授予</span>”、“<span class="term">全部授予 (含管理选项)</span>”或“<span class="term">全部撤消</span>”。</p>
+	<h2>对象权限</h2>
+	<p>若要编辑用户的特定对象权限，请点击 <img src="./images/icon_addPrivilege.png" alt="添加权限" class="inlineGraphic" height="16" width="16"/> 以打开窗口并按照下列步骤：</p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在树视图展开节点直至到达目标对象。</p></li>
+		<li><p>勾选对象以显示网格于右侧的窗格。</p></li>
+		<li><p>在网格中，对照在“<span class="term">权限</span>”列出的权限，勾选“<span class="term">授予</span>”或“<span class="term">授予选项</span>”选项以指定此用户有这个权限。若要授予或撤消所有权限，请按住 Control 键并点按网格，然后选择“<span class="term">全部授予</span>”、“<span class="term">全部授予 (含管理选项)</span>”或“<span class="term">全部撤消</span>”。</p></li>
+	</ul>
+</div>

@@ -1,0 +1,19 @@
+
+/* Class = "NSButtonCell"; title = "Verbose"; ObjectID = "1SG-zY-8u7"; */
+"1SG-zY-8u7.title" = "详细";
+
+/* Class = "NSTextFieldCell"; title = "Preview Source Size:"; ObjectID = "1v6-xk-X8R"; */
+"1v6-xk-X8R.title" = "预览源大小:";
+
+/* Class = "NSButtonCell"; title = "Bypass document validation"; ObjectID = "PgG-00-J1D"; */
+"PgG-00-J1D.title" = "绕过文档验证";
+
+/* Class = "NSTabViewItem"; label = "Global Scope"; ObjectID = "dVh-ne-Gcl"; */
+"dVh-ne-Gcl.label" = "全局范围";
+
+/* Class = "NSButtonCell"; title = "Use sampled preview source"; ObjectID = "toQ-8C-99W"; */
+"toQ-8C-99W.title" = "使用采样预览源";
+
+/* Class = "NSButtonCell"; title = "jsMode"; ObjectID = "u4M-xj-hdc"; */
+"u4M-xj-hdc.title" = "jsMode";
+

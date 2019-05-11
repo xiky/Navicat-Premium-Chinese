@@ -1,0 +1,65 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>角色设计器</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>角色设计器</h1>
+	<div class="alert">
+		<p><span class="note">【注意】</span>角色仅适用于 PostgreSQL 8.1 或以上。</p>
+	</div>
+	<h2>常规属性</h2>
+	<p><span class="term">角色名</span></p>
+	<p>定义角色的名。</p>
+	<p><span class="term">角色 ID</span></p>
+	<p>指定角色的 ID。</p>
+	<p><span class="term">可以登录</span></p>
+	<p>如果你想允许角色登录，可勾选这个选项。</p>
+	<p><span class="term">密码</span></p>
+	<p>指定角色的登录密码。</p>
+	<p><span class="term">确认密码</span></p>
+	<p>重新输入登录密码。</p>
+	<p><span class="term">密码加密</span></p>
+	<p>选择密码在系统目录保存为加密（ENCRYPTED）或未加密（UNENCRYPTED）。</p>
+	<p><span class="term">连接限制</span></p>
+	<p>指定角色可以创建多少个并发连接。-1 表示无限制。</p>
+	<p><span class="term">到期日</span></p>
+	<p>设置角色密码将过期的日期时间。如果省略此选项，密码将永远有效。</p>
+	<p><span class="term">可以创建数据库</span></p>
+	<p>如果你想允许角色创建数据库，可勾选这个选项。</p>
+	<p><span class="term">超级用户</span></p>
+	<p>如果你想确定角色是超级用户（superuser），可勾选这个选项。</p>
+	<p><span class="term">可以直接修改目录</span></p>
+	<p>如果你想允许角色更新系统目录，可勾选这个选项。</p>
+	<p><span class="term">继承父角色的权限</span></p>
+	<p>如果你想确定角色继承其所属角色的权限，可勾选这个选项。</p>
+	<p><span class="term">可以创建角色</span></p>
+	<p>如果你想允许角色创建角色，可勾选这个选项。</p>
+	<p><span class="term">可以复制</span></p>
+	<p>如果你想允许角色启动数据流复制或将系统置于和退出备份模式，可勾选这个选项。</p>
+	<p><span class="term">可以绕过 RLS</span></p>
+	<p>如果你想允许角色绕过每个行级安全性（RLS）原则，可勾选这个选项。</p>
+	<h2>成员</h2>
+	<p>在网格中，对照在“<span class="term">成员</span>”列出的角色，勾选“<span class="term">授予</span>”或“<span class="term">管理选项</span>”选项以指定已选择的角色成为此角色的成员。</p>
+	<h2>成员属于</h2>
+	<p>在网格中，对照在“<span class="term">角色名</span>”列出的角色，勾选“<span class="term">授予</span>”或“<span class="term">管理选项</span>”选项以指定此角色成为已选择的角色的成员。</p>
+	<h2>对象权限</h2>
+	<p>如要编辑角色的特定对象权限，点击 <img src="./images/icon_addPrivilege.png" alt="添加权限" class="inlineGraphic" height="16" width="16"/> 以打开窗口并按照下列步骤：</p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在树视图展开节点直至到达目标对象。</p></li>
+		<li><p>勾选对象以显示网格于右侧的窗格。</p></li>
+		<li><p>在网格中，对照在“<span class="term">权限</span>”列出的权限，勾选“<span class="term">授予</span>”或“<span class="term">授予选项</span>”选项以指定此用户有这个权限。若要授予或撤消所有权限，请按住 Control 键并点按网格，然后选择“<span class="term">全部授予</span>”、“<span class="term">全部授予 (含管理选项)</span>”或“<span class="term">全部撤消</span>”。</p></li>
+	</ul>
+</div>

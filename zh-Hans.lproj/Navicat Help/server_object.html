@@ -1,0 +1,26 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>关于服务器对象</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>关于服务器对象</h1>
+	<p>Navicat 提供强大的工具助你管理服务器对象，例如数据库、表、视图、函数等。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>在 Navicat 中开始使用服务器对象前，你要首先创建连接。</p>
+	</div>
+	<p>在对象设计器的“<span class="term">SQL 预览</span>”或“<span class="term">脚本预览</span>”选项卡中，你可以预览创建或编辑对象时所需的 SQL 语句或脚本。对于某些数据库或模式对象，你可以使用底部的下拉式菜单来显示在“<span class="term">文件</span>”菜单中选择“<span class="term">保存</span>”或“<span class="term">另存为</span>”时所运行的 SQL 或脚本。</p>
+	<p>Navicat 可能隐藏了某些服务器对象。这些对象包括系统数据库、系统表等。若要显示隐藏的项目，请从菜单栏中选择“<span class="term">查看</span>”->“<span class="term">显示隐藏项目</span>”。</p>
+</div>

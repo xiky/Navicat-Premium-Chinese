@@ -1,0 +1,24 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>关于自动运行</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>关于自动运行（仅适用于非 Essentials 版）</h1>
+	<p>Navicat 让你在一个或多个固定间隔期自动运行任务。在自动运行中，可以从数据库添加查询、备份、数据传输、数据同步、导入、导出、MongoDump、MongoImport、MongoExport、MapReduce。你可以在一个批处理作业里定义要运行的工作列表，并手动或在指定的时间里运行它。在主窗口中，点击 <img src="./images/icon_automation.png" alt="自动运行" class="inlineGraphic" height="16" width="16"/>“<span class="term">自动运行</span>”来打开自动运行的对象列表。</p>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>批处理作业文件保存于默认的路径，例如：~/Library/Application Support/PremiumSoft CyberTech/Navicat CC/Navicat Premium/Profiles</p>
+	</div>
+</div>

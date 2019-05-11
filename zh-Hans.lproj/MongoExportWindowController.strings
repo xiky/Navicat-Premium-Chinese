@@ -1,0 +1,25 @@
+
+/* Class = "NSWindow"; title = "MongoExport"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "MongoExport";
+
+/* Class = "NSMenuItem"; title = "Save As"; ObjectID = "G39-dD-P4W"; */
+"G39-dD-P4W.title" = "另存为";
+
+/* Class = "NSButtonCell"; title = "Start"; ObjectID = "Hxk-Tf-3YV"; */
+"Hxk-Tf-3YV.title" = "开始";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "Tac-sB-BBZ"; */
+"Tac-sB-BBZ.title" = "关闭";
+
+/* Class = "NSButtonCell"; title = "Load Profile"; ObjectID = "fud-Ov-h8Q"; */
+"fud-Ov-h8Q.title" = "加载配置文件";
+
+/* Class = "NSSegmentedCell"; kEc-aV-NZX.ibShadowedLabels[0] = "Save Profile"; ObjectID = "kEc-aV-NZX"; */
+"kEc-aV-NZX.ibShadowedLabels[0]" = "保存配置文件";
+
+/* Class = "NSSegmentedCell"; kEc-aV-NZX.ibShadowedLabels[1] = "▾"; ObjectID = "kEc-aV-NZX"; */
+"kEc-aV-NZX.ibShadowedLabels[1]" = "▾";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "lxc-EE-I5C"; */
+"lxc-EE-I5C.title" = "保存";
+

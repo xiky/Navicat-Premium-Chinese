@@ -1,0 +1,25 @@
+
+/* Class = "NSTextFieldCell"; title = "Host Name/IP Address:"; ObjectID = "C20-lB-zgF"; */
+"C20-lB-zgF.title" = "主机名或 IP 地址:";
+
+/* Class = "NSTextFieldCell"; title = "Options:"; ObjectID = "Gsr-aV-qtP"; */
+"Gsr-aV-qtP.title" = "选项:";
+
+/* Class = "NSTextFieldCell"; title = "FDW Name:"; ObjectID = "KdT-Wx-pZy"; */
+"KdT-Wx-pZy.title" = "FDW 名:";
+
+/* Class = "NSTextFieldCell"; title = "Owner:"; ObjectID = "TdS-d5-ZkX"; */
+"TdS-d5-ZkX.title" = "拥有者:";
+
+/* Class = "NSTextFieldCell"; title = "Server Version:"; ObjectID = "c9f-We-aq5"; */
+"c9f-We-aq5.title" = "服务器版本:";
+
+/* Class = "NSTextFieldCell"; title = "Database Name:"; ObjectID = "ewu-3K-x9C"; */
+"ewu-3K-x9C.title" = "数据库名:";
+
+/* Class = "NSTextFieldCell"; title = "Server Type:"; ObjectID = "hU4-Sw-GSn"; */
+"hU4-Sw-GSn.title" = "服务器类型:";
+
+/* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "zfZ-uv-Ecr"; */
+"zfZ-uv-Ecr.title" = "端口:";
+

@@ -1,0 +1,58 @@
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "0kh-WZ-asN"; */
+"0kh-WZ-asN.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "2gA-5x-eGY"; */
+"2gA-5x-eGY.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "7pr-3J-h7J"; */
+"7pr-3J-h7J.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "BSON Type"; ObjectID = "7wp-R8-2Pp"; */
+"7wp-R8-2Pp.headerCell.title" = "BSON 类型";
+
+/* Class = "NSTableColumn"; headerCell.title = "Title"; ObjectID = "A3v-Jm-pyl"; */
+"A3v-Jm-pyl.headerCell.title" = "标题";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JXA-US-qy8"; */
+"JXA-US-qy8.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "NO6-IN-Fe2"; */
+"NO6-IN-Fe2.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "OYo-cV-y4S"; */
+"OYo-cV-y4S.headerCell.title" = "名";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Phb-eq-N38"; */
+"Phb-eq-N38.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "R23-eL-VGT"; */
+"R23-eL-VGT.title" = "Text Cell";
+
+/* Class = "NSTabViewItem"; label = "Root Schema"; ObjectID = "VwK-0X-8xY"; */
+"VwK-0X-8xY.label" = "根模式";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "WC8-T4-z2U"; */
+"WC8-T4-z2U.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "eMs-uE-pSh"; */
+"eMs-uE-pSh.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "fig-DA-xP2"; */
+"fig-DA-xP2.title" = "Text Cell";
+
+/* Class = "NSTabViewItem"; label = "Properties"; ObjectID = "jMk-Uk-Plo"; */
+"jMk-Uk-Plo.label" = "属性";
+
+/* Class = "NSTableColumn"; headerCell.title = "Required"; ObjectID = "jsh-5R-IcN"; */
+"jsh-5R-IcN.headerCell.title" = "必需";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "kf7-xb-JVf"; */
+"kf7-xb-JVf.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Description"; ObjectID = "knA-JC-Jh8"; */
+"knA-JC-Jh8.headerCell.title" = "描述";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "pn5-R9-Cr5"; */
+"pn5-R9-Cr5.title" = "Table View Cell";
+

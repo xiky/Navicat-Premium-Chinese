@@ -1,0 +1,55 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>SQL 创建工具</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>SQL 创建工具（仅适用于非 Essentials 版本）</h1>
+	<p>Navicat 提供 SQL 创建工具让你视觉化地创建查询。它让你不需具有 SQL 知识就能轻松创建和编辑查询。数据库对象显示在左侧窗格。而在右侧窗格分为两部分： 上面的“<span class="term">图表设计</span>”窗格和下面的“<span class="term">准则选择</span>”窗格。</p>
+	<p>在查询设计器中，点击 <img src="./images/icon_sqlBuilder.png" alt="SQL 创建工具" class="inlineGraphic" height="16" width="16"/> 按钮来打开视觉化的 SQL 创建工具。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>SQL 创建工具只支持 SELECT 语句。请使用查询编辑器来创建复杂的查询。</p>
+	</div>
+	<p>若要添加表或视图到查询，简单地从左侧窗格拖曳它到图表设计窗格或双击它。若要在查询包含字段，请在图表设计窗格中勾选字段名的左侧方格。若要包含全部字段，请勾选对象标题的左侧方格。若要包含全部字段，请点击“*”复选框。</p>
+	<p>若要从图表设计窗格移除对象，请点击在对象标题的交叉按钮。</p>
+	<p>若要添加表或视图别名，简单地在图表设计窗格双击表或视图名并输入别名。</p>
+	<figure>
+		<a href="./images/queryBuilder.png" target="_blank"><img src="./images/queryBuilder.png"/></a>
+	</figure>
+	<h2>设置字段关系</h2>
+	<p>若要将数据库对象用两个字段联系起来，只需从一个对象拖曳一个字段到另一个，链接的字段之间将出现一条线条。</p>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>若要删除对象的一个链接，请按住 Control 键并点按链接，然后选择“<span class="term">删除</span>”。</p>
+	</div>
+	<p>若要更改链接的关系，请按住 Control 键并点按链接，然后在弹出式菜单中选择属性项目。你可以更改“<span class="term">保留</span>”。</p>
+	<p><span class="term">仅交集</span></p>
+	<p>选择两个对象中两个链接字段之间匹配的所有行。</p>
+	<p><span class="term">对象_1 的全部项目以及在 对象_2 匹配的项目</span></p>
+	<p>选择 对象_1 的全部行，以及在 对象_2 匹配的行。</p>
+	<h2>设置输出字段</h2>
+	<p>你在图表设计窗格选择的字段将会显示在“<span class="term">SELECT</span>”窗格，让你设置它们的显示顺序和编辑查询的输出字段。</p>
+	<p><span class="term">实际字段名</span></p>
+	<p>假设你在图表设计窗格中打开一个表，你可以点击字段的复选框来添加字段到 SELECT 窗格。</p>
+	<p><span class="term">字段别名</span></p>
+	<p>字段别名将会显示在查询结果的网格中。你可以在此输入字段的别名。</p>
+	<h2>设置准则</h2>
+	<p>你可以从图表设计中拖放一个字段到“<span class="term">WHERE</span>”窗格。若要定义你的准则，在窗格中输入 SQL 条件语句。它将被嵌入在你的查询的 WHERE 部分。</p>
+	<h2>设置组</h2>
+	<p>你可以从图表设计中拖放一个字段到“<span class="term">GROUP BY</span>”窗格。若要定义你的准则，在窗格中输入 SQL 条件语句。条件将包含在当前查询的 GROUP BY 语句。</p>
+	<h2>设置组准则</h2>
+	<p>你可以从图表设计中拖放一个字段到“<span class="term">HAVING</span>”窗格。若要定义你的准则，在窗格中输入 SQL 条件语句。条件将包含在当前查询的 HAVING 语句。</p>
+	<h2>设置排序准则</h2>
+	<p>你可以设置排序查询结果的条件。若要设置排序顺序，你可以在“<span class="term">ORDER BY</span>”窗格中更改“<span class="term">排序顺序</span>”。</p>
+</div>

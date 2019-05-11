@@ -1,0 +1,229 @@
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "0Yw-wm-Hax"; */
+"0Yw-wm-Hax.title" = "0";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Grid View"; ObjectID = "26V-oG-7f8"; */
+"26V-oG-7f8.ibShadowedToolTip" = "网格视图";
+
+/* Class = "NSMenuItem"; title = "Add Record"; ObjectID = "35Y-zb-OCZ"; */
+"35Y-zb-OCZ.title" = "添加记录";
+
+/* Class = "NSMenuItem"; title = "Sort"; ObjectID = "3UA-a3-7nM"; */
+"3UA-a3-7nM.title" = "排序";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Previous Page"; ObjectID = "5ib-5E-8Bc"; */
+"5ib-5E-8Bc.ibShadowedToolTip" = "上一页";
+
+/* Class = "NSMenuItem"; title = "Clear"; ObjectID = "5zo-jp-vmh"; */
+"5zo-jp-vmh.title" = "清除";
+
+/* Class = "NSButton"; ibShadowedToolTip = "First Page"; ObjectID = "63n-Wi-gk3"; */
+"63n-Wi-gk3.ibShadowedToolTip" = "第一页";
+
+/* Class = "NSMenuItem"; title = "Show"; ObjectID = "6EM-v4-W1Z"; */
+"6EM-v4-W1Z.title" = "显示";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Tree View"; ObjectID = "6hB-mW-HN9"; */
+"6hB-mW-HN9.ibShadowedToolTip" = "树视图";
+
+/* Class = "NSMenu"; title = "Filter"; ObjectID = "7hO-qf-7RM"; */
+"7hO-qf-7RM.title" = "筛选";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "7lW-Bh-8z6"; */
+"7lW-Bh-8z6.title" = "Menu";
+
+/* Class = "NSMenuItem"; title = "Filter"; ObjectID = "8Jq-6Y-1CR"; */
+"8Jq-6Y-1CR.title" = "筛选";
+
+/* Class = "NSMenuItem"; title = "Go to Record…"; ObjectID = "AK7-bE-HF3"; */
+"AK7-bE-HF3.title" = "前往记录…";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "Afa-q5-3KJ"; */
+"Afa-q5-3KJ.title" = "全选";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Refresh"; ObjectID = "Afe-Tg-Vg1"; */
+"Afe-Tg-Vg1.ibShadowedToolTip" = "刷新";
+
+/* Class = "NSMenuItem"; title = "Deselect All"; ObjectID = "CVy-Ti-R6a"; */
+"CVy-Ti-R6a.title" = "取消全选";
+
+/* Class = "NSMenuItem"; title = "Filter"; ObjectID = "Cgu-bM-jpS"; */
+"Cgu-bM-jpS.title" = "筛选";
+
+/* Class = "NSTextFieldCell"; title = "records per page"; ObjectID = "Dba-Wt-tCQ"; */
+"Dba-Wt-tCQ.title" = "条记录（每页）";
+
+/* Class = "NSMenuItem"; title = "Tab Separated Values (Field Name and Data)"; ObjectID = "FCk-Mc-DUm"; */
+"FCk-Mc-DUm.title" = "制表符分隔值（字段名和数据）";
+
+/* Class = "NSMenuItem"; title = "Clear"; ObjectID = "Fb2-zs-Cqp"; */
+"Fb2-zs-Cqp.title" = "清除";
+
+/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "GQ0-CV-BIm"; */
+"GQ0-CV-BIm.title" = "升序";
+
+/* Class = "NSMenuItem"; title = "Update Statement"; ObjectID = "H6p-9D-r5G"; */
+"H6p-9D-r5G.title" = "Update 语句";
+
+/* Class = "NSMenuItem"; title = "Tab Separated Values (Field Name only)"; ObjectID = "IqS-Rr-bmo"; */
+"IqS-Rr-bmo.title" = "制表符分隔值（字段名）";
+
+/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "J9J-ow-5ud"; */
+"J9J-ow-5ud.title" = "降序";
+
+/* Class = "NSMenuItem"; title = "Tab Separated Values (Field Name and Data)"; ObjectID = "JRo-B0-7cd"; */
+"JRo-B0-7cd.title" = "制表符分隔值（字段名和数据）";
+
+/* Class = "NSMenuItem"; title = "Tab Separated Values (Data only)"; ObjectID = "JVK-Cz-N7c"; */
+"JVK-Cz-N7c.title" = "制表符分隔值（数据）";
+
+/* Class = "NSMenuItem"; title = "Advanced…"; ObjectID = "KJS-nW-YC9"; */
+"KJS-nW-YC9.title" = "高级…";
+
+/* Class = "NSMenu"; title = "Filter"; ObjectID = "LYc-Uh-HKb"; */
+"LYc-Uh-HKb.title" = "筛选";
+
+/* Class = "NSMenu"; title = "Sort"; ObjectID = "LYx-F7-j5E"; */
+"LYx-F7-j5E.title" = "排序";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Discard Changes"; ObjectID = "Lzp-FM-ZQO"; */
+"Lzp-FM-ZQO.ibShadowedToolTip" = "放弃更改";
+
+/* Class = "NSMenuItem"; title = "Insert Statement"; ObjectID = "MK6-p0-11L"; */
+"MK6-p0-11L.title" = "Insert 语句";
+
+/* Class = "NSMenuItem"; title = "Set Row Height…"; ObjectID = "Mob-oi-5dZ"; */
+"Mob-oi-5dZ.title" = "设置行高…";
+
+/* Class = "NSButtonCell"; title = "Limit"; ObjectID = "Nvk-8S-Tfg"; */
+"Nvk-8S-Tfg.title" = "限制";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Next Page"; ObjectID = "P7A-Vl-3y3"; */
+"P7A-Vl-3y3.ibShadowedToolTip" = "下一页";
+
+/* Class = "NSMenuItem"; title = "Tab Separated Values (Data only)"; ObjectID = "PJX-XW-smL"; */
+"PJX-XW-smL.title" = "制表符分隔值（数据）";
+
+/* Class = "NSButton"; ibShadowedToolTip = "First Page"; ObjectID = "QOo-co-azX"; */
+"QOo-co-azX.ibShadowedToolTip" = "第一页";
+
+/* Class = "NSMenuItem"; title = "Clear"; ObjectID = "Qft-kv-0NG"; */
+"Qft-kv-0NG.title" = "清除";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Last Page"; ObjectID = "TMx-qn-ZTE"; */
+"TMx-qn-ZTE.ibShadowedToolTip" = "最后一页";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Next Page"; ObjectID = "Ta0-gl-YgT"; */
+"Ta0-gl-YgT.ibShadowedToolTip" = "下一页";
+
+/* Class = "NSMenuItem"; title = "Refresh"; ObjectID = "UWT-ch-z3X"; */
+"UWT-ch-z3X.title" = "刷新";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Delete Records"; ObjectID = "Vm3-7h-WsL"; */
+"Vm3-7h-WsL.ibShadowedToolTip" = "删除记录";
+
+/* Class = "NSMenuItem"; title = "Go to Record…"; ObjectID = "Wd2-IL-eWy"; */
+"Wd2-IL-eWy.title" = "前往记录…";
+
+/* Class = "NSMenu"; title = "Copy As"; ObjectID = "Wgl-wE-CrY"; */
+"Wgl-wE-CrY.title" = "复制为";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add Record"; ObjectID = "Wqg-Gw-QI9"; */
+"Wqg-Gw-QI9.ibShadowedToolTip" = "添加记录";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "Y5C-24-kPX"; */
+"Y5C-24-kPX.title" = "Menu";
+
+/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "ZnD-VF-Ndt"; */
+"ZnD-VF-Ndt.title" = "升序";
+
+/* Class = "NSMenuItem"; title = "Sort"; ObjectID = "a8G-w7-e8s"; */
+"a8G-w7-e8s.title" = "排序";
+
+/* Class = "NSMenuItem"; title = "Deselect All"; ObjectID = "aJr-bH-ORl"; */
+"aJr-bH-ORl.title" = "取消全选";
+
+/* Class = "NSMenuItem"; title = "Tab Separated Values (Field Name only)"; ObjectID = "bAO-hc-gtQ"; */
+"bAO-hc-gtQ.title" = "制表符分隔值（字段名）";
+
+/* Class = "NSMenuItem"; title = "Copy As"; ObjectID = "cIH-fp-B3c"; */
+"cIH-fp-B3c.title" = "复制为";
+
+/* Class = "NSButton"; ibShadowedToolTip = "JSON View"; ObjectID = "czJ-Q8-Jb6"; */
+"czJ-Q8-Jb6.ibShadowedToolTip" = "JSON 视图";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Previous Page"; ObjectID = "dE2-O4-Jqc"; */
+"dE2-O4-Jqc.ibShadowedToolTip" = "上一页";
+
+/* Class = "NSMenuItem"; title = "Insert Statement"; ObjectID = "dYg-nJ-4JC"; */
+"dYg-nJ-4JC.title" = "Insert 语句";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "dim-9o-Xbx"; */
+"dim-9o-Xbx.title" = "Text Cell";
+
+/* Class = "NSMenu"; title = "Sort"; ObjectID = "eZX-Pt-alw"; */
+"eZX-Pt-alw.title" = "排序";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "f5i-Nk-IRP"; */
+"f5i-Nk-IRP.title" = "Menu";
+
+/* Class = "NSMenuItem"; title = "Delete Record"; ObjectID = "fHC-ef-r0k"; */
+"fHC-ef-r0k.title" = "删除记录";
+
+/* Class = "NSMenuItem"; title = "Show"; ObjectID = "g83-ZC-yeU"; */
+"g83-ZC-yeU.title" = "显示";
+
+/* Class = "NSMenuItem"; title = "Clear"; ObjectID = "heq-3W-pSj"; */
+"heq-3W-pSj.title" = "清除";
+
+/* Class = "NSMenuItem"; title = "Show/Hide Columns…"; ObjectID = "k2y-ye-uko"; */
+"k2y-ye-uko.title" = "显示或隐藏列…";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Stop"; ObjectID = "kk9-xV-hog"; */
+"kk9-xV-hog.ibShadowedToolTip" = "停止";
+
+/* Class = "NSMenuItem"; title = "Set Column Width…"; ObjectID = "krL-na-lsX"; */
+"krL-na-lsX.title" = "设置列宽…";
+
+/* Class = "NSMenuItem"; title = "Show/Hide Columns…"; ObjectID = "m39-h2-zvz"; */
+"m39-h2-zvz.title" = "显示或隐藏列…";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "mwh-ik-6Ll"; */
+"mwh-ik-6Ll.title" = "全选";
+
+/* Class = "NSMenuItem"; title = "Update Statement"; ObjectID = "qGy-Ow-xlT"; */
+"qGy-Ow-xlT.title" = "Update 语句";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Apply Changes"; ObjectID = "qdj-KM-Nrt"; */
+"qdj-KM-Nrt.ibShadowedToolTip" = "应用更改";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Last Page"; ObjectID = "qy9-p0-7hE"; */
+"qy9-p0-7hE.ibShadowedToolTip" = "最后一页";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Grid View"; ObjectID = "tTB-75-QSq"; */
+"tTB-75-QSq.ibShadowedToolTip" = "网格视图";
+
+/* Class = "NSMenuItem"; title = "Copy As"; ObjectID = "tY5-pw-eU7"; */
+"tY5-pw-eU7.title" = "复制为";
+
+/* Class = "NSMenu"; title = "Copy As"; ObjectID = "uYN-ef-QtP"; */
+"uYN-ef-QtP.title" = "复制为";
+
+/* Class = "NSMenuItem"; title = "Advanced…"; ObjectID = "ukX-rm-z79"; */
+"ukX-rm-z79.title" = "高级…";
+
+/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "uza-ha-wxs"; */
+"uza-ha-wxs.title" = "降序";
+
+/* Class = "NSMenuItem"; title = "Refresh"; ObjectID = "wQO-jJ-QbX"; */
+"wQO-jJ-QbX.title" = "刷新";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Setting"; ObjectID = "xIm-RR-Jr5"; */
+"xIm-RR-Jr5.ibShadowedToolTip" = "设置";
+
+/* Class = "NSTextFieldCell"; title = "1000"; ObjectID = "xlU-0F-1pv"; */
+"xlU-0F-1pv.title" = "1000";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Form View"; ObjectID = "yCv-Xd-RpJ"; */
+"yCv-Xd-RpJ.ibShadowedToolTip" = "表单视图";
+

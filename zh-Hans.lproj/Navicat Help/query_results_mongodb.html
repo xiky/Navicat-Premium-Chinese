@@ -1,0 +1,27 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>查询结果</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>查询结果</h1>
+	<p>你可以在任何的服务器运行查询。在工具栏的下拉式列表中选择目标服务器和数据库。然后点击 <img src="./images/icon_run.png" alt="运行" class="inlineGraphic" height="16" width="16"/>。如果该查询语句是正确的，它将被运行。如果该查询应该返回数据，“<span class="term">结果</span>”选项卡会打开并显示返回的数据。如果运行查询时发生错误，运行会停止并显示相应的错误信息。</p>
+	<p>“<span class="term">结果</span>”选项卡以网格显示查询返回的结果数据。数据可以用三种模式显示：网格视图、树视图和 JSON 视图。详细信息请参阅<a href="#/data_viewer">数据查看器</a>。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>Navicat 仅返回最后的结果数据。</p>
+	</div>
+	<p>你可以通过选择“<span class="term">查看</span>”->“<span class="term">结果</span>”->“<span class="term">显示在编辑器下面</span>”或“<span class="term">显示在新页</span>”来选择在编辑器下面显示结果或显示结果为一个新的选项卡。</p>
+	<p>你可以运行部分已选择的查询，只需在编辑器中高亮显示脚本并点击 <img src="./images/icon_run.png" alt="运行" class="inlineGraphic" height="16" width="16"/>。</p>
+</div>

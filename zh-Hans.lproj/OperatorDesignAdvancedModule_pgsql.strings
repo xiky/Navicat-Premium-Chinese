@@ -1,0 +1,31 @@
+
+/* Class = "NSTextFieldCell"; title = "Negator:"; ObjectID = "5HI-Hr-6h1"; */
+"5HI-Hr-6h1.title" = "否定符:";
+
+/* Class = "NSTextFieldCell"; title = "Join Function:"; ObjectID = "5uw-0q-9TG"; */
+"5uw-0q-9TG.title" = "联接函数:";
+
+/* Class = "NSTextFieldCell"; title = "Less Than Operator:"; ObjectID = "Db9-FR-tNj"; */
+"Db9-FR-tNj.title" = "小于运算符:";
+
+/* Class = "NSTextFieldCell"; title = "Left Sort Operator:"; ObjectID = "Fda-SV-mZo"; */
+"Fda-SV-mZo.title" = "左排序运算符:";
+
+/* Class = "NSButtonCell"; title = "Hash Join"; ObjectID = "Ola-mS-GvQ"; */
+"Ola-mS-GvQ.title" = "哈希联接";
+
+/* Class = "NSButtonCell"; title = "Merge Join"; ObjectID = "P6R-nI-vgg"; */
+"P6R-nI-vgg.title" = "合并联接";
+
+/* Class = "NSTextFieldCell"; title = "Greater Than Operator"; ObjectID = "mBI-6E-JWB"; */
+"mBI-6E-JWB.title" = "大于运算符";
+
+/* Class = "NSTextFieldCell"; title = "Restrict Function:"; ObjectID = "qeu-vd-5cv"; */
+"qeu-vd-5cv.title" = "限制函数:";
+
+/* Class = "NSTextFieldCell"; title = "Right Sort Operator:"; ObjectID = "yDL-LM-bI4"; */
+"yDL-LM-bI4.title" = "右排序运算符:";
+
+/* Class = "NSTextFieldCell"; title = "Commutator:"; ObjectID = "zKZ-G9-gDZ"; */
+"zKZ-G9-gDZ.title" = "交换符:";
+

@@ -1,0 +1,37 @@
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "1VN-2A-FIn"; */
+"1VN-2A-FIn.title" = "密码:";
+
+/* Class = "NSButtonCell"; title = "Not be made"; ObjectID = "4vK-fI-6hm"; */
+"4vK-fI-6hm.title" = "不建造";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ANe-9d-vD2"; */
+"ANe-9d-vD2.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "FRF-jL-Udt"; */
+"FRF-jL-Udt.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "For a login not defined in the list above, connection will:"; ObjectID = "HKM-jO-V1e"; */
+"HKM-jO-V1e.title" = "对于一个上述列表中没有定义的登录，连接会:";
+
+/* Class = "NSButtonCell"; title = "Be made using the login's current security context"; ObjectID = "Jex-qS-8he"; */
+"Jex-qS-8he.title" = "建造使用登录的当前安全内容";
+
+/* Class = "NSButtonCell"; title = "Be made without using a security context"; ObjectID = "NSJ-0D-5uN"; */
+"NSJ-0D-5uN.title" = "建造不使用安全内容";
+
+/* Class = "NSButtonCell"; title = "Be made using the following security context:"; ObjectID = "akS-St-eIk"; */
+"akS-St-eIk.title" = "建造使用下列的安全内容:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "aye-iR-M9k"; */
+"aye-iR-M9k.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Remote Login:"; ObjectID = "g2a-Jt-0RY"; */
+"g2a-Jt-0RY.title" = "远程登录:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "jB4-rc-r6z"; */
+"jB4-rc-r6z.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Local server login to remote server login mappings:"; ObjectID = "n0z-fL-wEa"; */
+"n0z-fL-wEa.title" = "本地服务器登录到远程服务器登录映射:";
+

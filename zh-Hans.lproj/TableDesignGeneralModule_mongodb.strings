@@ -1,0 +1,19 @@
+
+/* Class = "NSButtonCell"; title = "No Padding"; ObjectID = "F3n-Q1-fTC"; */
+"F3n-Q1-fTC.title" = "没有填充";
+
+/* Class = "NSTextFieldCell"; title = "Max Size (Bytes):"; ObjectID = "Xct-Sj-S8E"; */
+"Xct-Sj-S8E.title" = "最大大小（字节）:";
+
+/* Class = "NSButtonCell"; title = "Auto Index Id"; ObjectID = "aqW-GH-CWR"; */
+"aqW-GH-CWR.title" = "自动索引 ID";
+
+/* Class = "NSButtonCell"; title = "Capped Collection"; ObjectID = "b8Z-Pk-i6q"; */
+"b8Z-Pk-i6q.title" = "固定集合";
+
+/* Class = "NSButtonCell"; title = "Use Power of 2 Sizes"; ObjectID = "gcw-tk-IOp"; */
+"gcw-tk-IOp.title" = "使用 2 的次方的大小";
+
+/* Class = "NSTextFieldCell"; title = "Max No. of Documents:"; ObjectID = "lB3-RM-RjW"; */
+"lB3-RM-RjW.title" = "最大文档数量:";
+

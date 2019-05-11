@@ -1,0 +1,130 @@
+
+/* Class = "NSTabViewItem"; label = "Comment"; ObjectID = "90"; */
+"90.label" = "注释";
+
+/* Class = "NSTabViewItem"; label = "Fields"; ObjectID = "91"; */
+"91.label" = "字段";
+
+/* Class = "NSTabViewItem"; label = "Indexes"; ObjectID = "92"; */
+"92.label" = "索引";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "110"; */
+"110.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "132"; */
+"132.title" = "Text Cell";
+
+/* Class = "NSSegmentedCell"; 139.ibShadowedLabels[0] = "Fields"; ObjectID = "139"; */
+"139.ibShadowedLabels[0]" = "字段";
+
+/* Class = "NSSegmentedCell"; 139.ibShadowedLabels[1] = "Indexes"; ObjectID = "139"; */
+"139.ibShadowedLabels[1]" = "索引";
+
+/* Class = "NSSegmentedCell"; 139.ibShadowedLabels[2] = "Foreign Keys"; ObjectID = "139"; */
+"139.ibShadowedLabels[2]" = "外键";
+
+/* Class = "NSSegmentedCell"; 139.ibShadowedLabels[3] = "Uniques"; ObjectID = "139"; */
+"139.ibShadowedLabels[3]" = "唯一键";
+
+/* Class = "NSSegmentedCell"; 139.ibShadowedLabels[4] = "Checks"; ObjectID = "139"; */
+"139.ibShadowedLabels[4]" = "检查";
+
+/* Class = "NSSegmentedCell"; 139.ibShadowedLabels[5] = "Triggers"; ObjectID = "139"; */
+"139.ibShadowedLabels[5]" = "触发器";
+
+/* Class = "NSSegmentedCell"; 139.ibShadowedLabels[6] = "Comment"; ObjectID = "139"; */
+"139.ibShadowedLabels[6]" = "注释";
+
+/* Class = "NSSegmentedCell"; 139.ibShadowedLabels[7] = "Option"; ObjectID = "139"; */
+"139.ibShadowedLabels[7]" = "选项";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "140"; */
+"140.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "141"; */
+"141.title" = "取消";
+
+/* Class = "NSTabViewItem"; label = "Foreign Keys"; ObjectID = "169"; */
+"169.label" = "外键";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "182"; */
+"182.title" = "Text Cell";
+
+/* Class = "NSTabViewItem"; label = "Options"; ObjectID = "206"; */
+"206.label" = "选项";
+
+/* Class = "NSTabViewItem"; label = "Uniques"; ObjectID = "270"; */
+"270.label" = "唯一键";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "295"; */
+"295.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Schema Name:"; ObjectID = "413"; */
+"413.title" = "模式名:";
+
+/* Class = "NSTextFieldCell"; title = "Collation:"; ObjectID = "5Dy-ky-VtO"; */
+"5Dy-ky-VtO.title" = "排序规则:";
+
+/* Class = "NSTabViewItem"; label = "Expression"; ObjectID = "6XP-Q0-S92"; */
+"6XP-Q0-S92.label" = "表达式";
+
+/* Class = "NSTextFieldCell"; title = "Primary Key ON CONFLICT:"; ObjectID = "97a-HU-RW1"; */
+"97a-HU-RW1.title" = "主键 ON CONFLICT:";
+
+/* Class = "NSTextFieldCell"; title = "Default Value:"; ObjectID = "ACp-uq-bvm"; */
+"ACp-uq-bvm.title" = "默认值:";
+
+/* Class = "NSTabViewItem"; label = "Triggers"; ObjectID = "BFB-k3-x6N"; */
+"BFB-k3-x6N.label" = "触发器";
+
+/* Class = "NSSegmentedCell"; CVj-3N-FZL.ibShadowedLabels[0] = "Body"; ObjectID = "CVj-3N-FZL"; */
+"CVj-3N-FZL.ibShadowedLabels[0]" = "主体";
+
+/* Class = "NSSegmentedCell"; CVj-3N-FZL.ibShadowedLabels[1] = "Advanced"; ObjectID = "CVj-3N-FZL"; */
+"CVj-3N-FZL.ibShadowedLabels[1]" = "高级";
+
+/* Class = "NSButtonCell"; title = "Deferred"; ObjectID = "EJG-q0-9XE"; */
+"EJG-q0-9XE.title" = "延迟";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "FeF-8X-QtR"; */
+"FeF-8X-QtR.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "HXY-Qu-AiJ"; */
+"HXY-Qu-AiJ.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "WITHOUT ROWID"; ObjectID = "OHN-gJ-fbg"; */
+"OHN-gJ-fbg.title" = "WITHOUT ROWID";
+
+/* Class = "NSTextFieldCell"; title = "When:"; ObjectID = "RNn-iz-fLd"; */
+"RNn-iz-fLd.title" = "当:";
+
+/* Class = "NSTabViewItem"; label = "Body"; ObjectID = "Up2-sS-4Y5"; */
+"Up2-sS-4Y5.label" = "主体";
+
+/* Class = "NSSegmentedCell"; VR9-X0-PGz.ibShadowedLabels[0] = "Expression"; ObjectID = "VR9-X0-PGz"; */
+"VR9-X0-PGz.ibShadowedLabels[0]" = "表达式";
+
+/* Class = "NSTextFieldCell"; title = "ON CONFLICT:"; ObjectID = "X60-yD-2P8"; */
+"X60-yD-2P8.title" = "ON CONFLICT:";
+
+/* Class = "NSTabViewItem"; label = "Advanced"; ObjectID = "a9L-bB-fpJ"; */
+"a9L-bB-fpJ.label" = "高级";
+
+/* Class = "NSTextFieldCell"; title = "Not Null ON CONFLICT:"; ObjectID = "csD-Nl-yam"; */
+"csD-Nl-yam.title" = "不是 null ON CONFLICT:";
+
+/* Class = "NSTextFieldCell"; title = "Auto Increment:"; ObjectID = "oUx-Wh-O7z"; */
+"oUx-Wh-O7z.title" = "自动递增:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "qPe-eH-6IG"; */
+"qPe-eH-6IG.title" = "Text Cell";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "vEd-jw-WUt"; */
+"vEd-jw-WUt.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Auto Increment"; ObjectID = "voh-Gq-C8H"; */
+"voh-Gq-C8H.title" = "自动递增";
+
+/* Class = "NSTabViewItem"; label = "Checks"; ObjectID = "ydr-oj-kxH"; */
+"ydr-oj-kxH.label" = "检查";
+

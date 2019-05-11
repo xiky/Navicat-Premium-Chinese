@@ -1,0 +1,31 @@
+
+/* Class = "NSWindow"; title = "Unlock Features"; ObjectID = "1"; */
+"1.title" = "解除锁定功能";
+
+/* Class = "NSButtonCell"; title = "Restore Purchases"; ObjectID = "237"; */
+"237.title" = "恢复购买";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "344"; */
+"344.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "347"; */
+"347.title" = "名";
+
+/* Class = "NSTextFieldCell"; title = "Description"; ObjectID = "358"; */
+"358.title" = "描述";
+
+/* Class = "NSTextFieldCell"; title = "Price"; ObjectID = "360"; */
+"360.title" = "价格";
+
+/* Class = "NSButtonCell"; title = "Buy"; ObjectID = "362"; */
+"362.title" = "购买";
+
+/* Class = "NSTextFieldCell"; title = "Unlock Features"; ObjectID = "394"; */
+"394.title" = "解除锁定功能";
+
+/* Class = "NSTextFieldCell"; title = "Problem with network connection."; ObjectID = "404"; */
+"404.title" = "网络连接问题。";
+
+/* Class = "NSTextFieldCell"; title = "Purchased"; ObjectID = "MAp-HE-KkZ"; */
+"MAp-HE-KkZ.title" = "已购买";
+

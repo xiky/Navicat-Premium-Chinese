@@ -1,0 +1,43 @@
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2qB-aG-Z34"; */
+"2qB-aG-Z34.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "3oz-U0-vEV"; */
+"3oz-U0-vEV.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "4D6-Pi-gyv"; */
+"4D6-Pi-gyv.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "73Y-by-yWA"; */
+"73Y-by-yWA.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "7kd-2c-KkX"; */
+"7kd-2c-KkX.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Filegroups:"; ObjectID = "Cip-SP-kVJ"; */
+"Cip-SP-kVJ.title" = "文件组:";
+
+/* Class = "NSTextFieldCell"; title = "FILESTREAM Filegroups:"; ObjectID = "IhS-03-fLc"; */
+"IhS-03-fLc.title" = "文件流文件组:";
+
+/* Class = "NSTableColumn"; headerCell.title = "File Type"; ObjectID = "Ncb-3C-0Po"; */
+"Ncb-3C-0Po.headerCell.title" = "文件类型";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "ZQq-1D-1e0"; */
+"ZQq-1D-1e0.headerCell.title" = "名";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "ZTf-9A-ZI2"; */
+"ZTf-9A-ZI2.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ZTo-UT-hcj"; */
+"ZTo-UT-hcj.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "dKD-vO-sEI"; */
+"dKD-vO-sEI.headerCell.title" = "名";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "h04-de-Dr9"; */
+"h04-de-Dr9.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "File Type"; ObjectID = "jl1-18-3eZ"; */
+"jl1-18-3eZ.headerCell.title" = "文件类型";
+

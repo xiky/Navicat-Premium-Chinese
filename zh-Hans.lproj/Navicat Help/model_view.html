@@ -1,0 +1,79 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>添加视图</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>添加视图</h1>
+	<p>若要添加一个新的视图，点击工具栏的 <img src="./images/icon_modelAddView.png" alt="新建视图" class="inlineGraphic" height="16" width="16"/> 按钮，并点击画布的任意位置。你可以从浏览器的模型选项卡添加一个现有的视图，简单地从模型选项卡拖放视图到画布。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>如果你按住 Control 键并点按视图连接器，你可以选择添加或删除顶点，以及更改它的颜色，或者前往源视图和目标表。</p>
+	</div>
+	<p>在画布中视图对象的弹出式菜单选项包括：</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>选项</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>设计视图</p></td>
+			<td width="75%"><p>在视图设计器中编辑视图结构。设计器内的选项卡和选项是根据你所选择的图表数据库类型而有所不同。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>添加关联的对象</p></td>
+			<td width="75%"><p>添加全部关联的表或视图到选择的视图。</p></td>
+		</tr>
+			<tr class="tableRoll">
+			<td width="25%"><p>剪切</p></td>
+			<td width="75%"><p>从图表移除视图并放它在剪贴板。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>复制</p></td>
+			<td width="75%"><p>从图表复制视图到剪贴板。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>粘贴</p></td>
+			<td width="75%"><p>将剪贴板的内容贴到图表。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>选择全部视图</p></td>
+			<td width="75%"><p>在图表中选择全部视图。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>删除</p></td>
+			<td width="75%"><p>从图表或从图表和模型中删除视图。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>重命名</p></td>
+			<td width="75%"><p>更改视图的名。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>颜色</p></td>
+			<td width="75%"><p>更改视图的颜色。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>调整适合大小</p></td>
+			<td width="75%"><p>自动调整视图的大小以适合其内容。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>置于顶层</p></td>
+			<td width="75%"><p>将视图提到顶层。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p>置于底层</p></td>
+			<td width="75%"><p>移动视图到底层。</p></td>
+		</tr>
+	</table>
+</div>

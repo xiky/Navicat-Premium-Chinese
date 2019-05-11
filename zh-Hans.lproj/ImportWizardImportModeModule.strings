@@ -1,0 +1,52 @@
+
+/* Class = "NSButtonCell"; title = "Append: add records to the destination table"; ObjectID = "1W8-aW-CoD"; */
+"1W8-aW-CoD.title" = "追加：添加记录到目标表";
+
+/* Class = "NSTextFieldCell"; title = "Please select a desired import mode."; ObjectID = "4V0-my-DaG"; */
+"4V0-my-DaG.title" = "请选择一个所需的导入模式。";
+
+/* Class = "NSTextFieldCell"; title = "Choose Import Mode (7/8)"; ObjectID = "5nR-Jr-y58"; */
+"5nR-Jr-y58.title" = "Choose Import Mode (7/8)";
+
+/* Class = "NSButtonCell"; title = "Use foreign key constraint"; ObjectID = "7Ac-DJ-VEz"; */
+"7Ac-DJ-VEz.title" = "使用外键约束";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "DL4-VT-fEE"; */
+"DL4-VT-fEE.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "Copy: delete all records in destination, repopulate from the source"; ObjectID = "H0K-IC-qSM"; */
+"H0K-IC-qSM.title" = "复制：删除目标全部记录，并从源重新导入";
+
+/* Class = "NSButtonCell"; title = "Continue on error"; ObjectID = "NA2-1f-hJT"; */
+"NA2-1f-hJT.title" = "遇到错误时继续";
+
+/* Class = "NSButtonCell"; title = "Use empty string as NULL"; ObjectID = "Pya-y7-uGH"; */
+"Pya-y7-uGH.title" = "使用 NULL 取代空白字符串";
+
+/* Class = "NSButtonCell"; title = "Append/Update: if records exist in destination, update it. Otherwise, add it"; ObjectID = "QUP-Q4-D8e"; */
+"QUP-Q4-D8e.title" = "追加或更新：如果目标存在相同记录，更新它。否则，添加它";
+
+/* Class = "NSButtonCell"; title = "Update: update records in the destination with matching records from source"; ObjectID = "RpQ-ty-uPR"; */
+"RpQ-ty-uPR.title" = "更新：更新目标和源记录相符的记录";
+
+/* Class = "NSBox"; title = "Import Mode"; ObjectID = "b8y-hR-SAo"; */
+"b8y-hR-SAo.title" = "导入模式";
+
+/* Class = "NSWindow"; title = "Advanced"; ObjectID = "ibo-aH-sf6"; */
+"ibo-aH-sf6.title" = "高级";
+
+/* Class = "NSButtonCell"; title = "Run multiple queries in each execution"; ObjectID = "j8v-Pa-TK2"; */
+"j8v-Pa-TK2.title" = "在每个运行中运行多个查询";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "oQb-hl-Usw"; */
+"oQb-hl-Usw.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Delete: delete records in destination that match records in source"; ObjectID = "seh-2x-ns2"; */
+"seh-2x-ns2.title" = "删除：删除目标中和源记录相符的记录";
+
+/* Class = "NSBox"; title = "Advanced Settings"; ObjectID = "xuE-gI-wUP"; */
+"xuE-gI-wUP.title" = "高级设置";
+
+/* Class = "NSButtonCell"; title = "Advanced…"; ObjectID = "yIV-8r-NTP"; */
+"yIV-8r-NTP.title" = "高级…";
+

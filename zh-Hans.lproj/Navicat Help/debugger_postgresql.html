@@ -1,0 +1,58 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>PostgreSQL PL/pgSQL 调试器</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>PostgreSQL PL/pgSQL 调试器</h1>
+	<p>PostgreSQL PL/pgSQL 调试器能指导你一步一步调试 PL/pgSQL 函数。若要启动调试器，请点击函数设计器内的 <img src="./images/icon_debug.png" alt="调试" class="inlineGraphic" height="16" width="16"/> 按钮。</p>
+	<figure>
+		<a href="./images/debuggerPGSQL.png" target="_blank"><img src="./images/debuggerPGSQL.png"/></a>
+	</figure>
+	<p>你可以使用工具栏或菜单运行最常用的调试动作：</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>按钮</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_execute.png" alt="运行" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>开始在调试模式下运行代码。如有需要，输入参数。调试器会运行你的代码直到代码结束或到达下一个断点。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_stop.png" alt="停止" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>停止逐步运行代码。运行将停止，并且无法恢复。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_stepOverDebug.png" alt="逐过程" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>恢复运行。当前的行将被运行。如果该行是一个函数调用，它会绕过函数。计数器将移动到下一行的代码。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_stepInDebug.png" alt="逐语句" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>恢复运行。当前的行将被运行。如果该行是一个函数调用，计数器会移动到函数的第一句语句。否则，计数器将移动到下一行的代码。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_stepOutDebug.png" alt="跳过" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>恢复运行。当前的函数中余下的代码将被运行。随后，计数器会跳到函数调用者之后的行。</p></td>
+		</tr>
+	</table>
+	<p>“<span class="term">代码</span>”窗格显示函数的代码。你可以在语句旁的灰色范围点击 <img src="./images/togBreakPt.png" alt="断点" class="inlineGraphic" height="16" width="16"/> 来为调试添加或移除断点。</p>
+	<p>“<span class="term">断点</span>”窗格显示全部断点。</p>
+	<p>“<span class="term">调用堆栈</span>”窗格显示一个依调用次序排列的函数的列表。若要跳至一个函数，请按住 Control 键并点按函数，然后选择“<span class="term">跳至</span>”。</p>
+	<p>“<span class="term">本地变量</span>”窗格显示全部本地变量和其值。若要添加一个变量到监看列表，请按住 Control 键并点按变量，然后选择“<span class="term">添加到监看列表</span>”。</p>
+	<p>“<span class="term">参数</span>”窗格显示输入的参数。若要添加一个参数到监看列表，请按住 Control 键并点按参数，然后选择“<span class="term">添加到监看列表</span>”。</p>
+	<p>“<span class="term">监看列表</span>”窗格显示被监看的变量的信息，让你删除或编辑监看变量。若要编辑一个监看变量的值，请按住 Control 键并点按监看变量，然后选择“<span class="term">设置值</span>”。若要删除一个监看变量，请按住 Control 键并点按变量，然后选择“<span class="term">移除变量</span>”。</p>
+	<p>“<span class="term">日志</span>”窗格显示调试代码时的信息日志和函数完成运行后的结果。</p>
+</div>

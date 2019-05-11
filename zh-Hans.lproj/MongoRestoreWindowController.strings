@@ -1,0 +1,112 @@
+
+/* Class = "NSTextFieldCell"; title = "N/A"; ObjectID = "2BC-O8-Z5r"; */
+"2BC-O8-Z5r.title" = "无";
+
+/* Class = "NSButtonCell"; title = "..."; ObjectID = "2fa-aD-DOJ"; */
+"2fa-aD-DOJ.title" = "...";
+
+/* Class = "NSButtonCell"; title = "Drop before restore"; ObjectID = "4Dm-Xs-bBW"; */
+"4Dm-Xs-bBW.title" = "还原前删除";
+
+/* Class = "NSButtonCell"; title = "Skip restoring collection options"; ObjectID = "6dc-x8-jmb"; */
+"6dc-x8-jmb.title" = "跳过还原集合选项";
+
+/* Class = "NSMenuItem"; title = "Save As"; ObjectID = "8Gh-hr-zMu"; */
+"8Gh-hr-zMu.title" = "另存为";
+
+/* Class = "NSButtonCell"; title = "Restore user and role definitions for database"; ObjectID = "9vd-3I-fSJ"; */
+"9vd-3I-fSJ.title" = "还原数据库的用户和角色定义";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "AaD-1e-sUN"; */
+"AaD-1e-sUN.title" = "关闭";
+
+/* Class = "NSButtonCell"; title = "Show more details in message log"; ObjectID = "Cnq-Ag-dqc"; */
+"Cnq-Ag-dqc.title" = "在信息日志中显示更多详细信息";
+
+/* Class = "NSWindow"; title = "MongoRestore"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "MongoRestore";
+
+/* Class = "NSButtonCell"; title = "Set the number of insertion workers"; ObjectID = "GVm-am-egw"; */
+"GVm-am-egw.title" = "设置插入工作进程数";
+
+/* Class = "NSButtonCell"; title = "Skip restoring and building indexes"; ObjectID = "LmT-Vo-hQd"; */
+"LmT-Vo-hQd.title" = "跳过还原和构建索引";
+
+/* Class = "NSButtonCell"; title = "Skip the message log"; ObjectID = "MEg-xC-UZX"; */
+"MEg-xC-UZX.title" = "跳过信息日志";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "NNM-7g-5rH"; */
+"NNM-7g-5rH.title" = "保存";
+
+/* Class = "NSTextFieldCell"; title = "Time:"; ObjectID = "SAI-Og-wqx"; */
+"SAI-Og-wqx.title" = "时间:";
+
+/* Class = "NSSegmentedCell"; SM5-r5-TJ9.ibShadowedLabels[0] = "Save Profile"; ObjectID = "SM5-r5-TJ9"; */
+"SM5-r5-TJ9.ibShadowedLabels[0]" = "保存配置文件";
+
+/* Class = "NSSegmentedCell"; SM5-r5-TJ9.ibShadowedLabels[1] = "▾"; ObjectID = "SM5-r5-TJ9"; */
+"SM5-r5-TJ9.ibShadowedLabels[1]" = "▾";
+
+/* Class = "NSButtonCell"; title = "Restore from a single archive file"; ObjectID = "TyV-bu-dkP"; */
+"TyV-bu-dkP.title" = "从单个存档文件还原";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "abf-NB-c6m"; */
+"abf-NB-c6m.label" = "常规";
+
+/* Class = "NSButtonCell"; title = "Start"; ObjectID = "azs-CX-lsa"; */
+"azs-CX-lsa.title" = "开始";
+
+/* Class = "NSTextFieldCell"; title = "Input:"; ObjectID = "dPO-FH-1BK"; */
+"dPO-FH-1BK.title" = "输入:";
+
+/* Class = "NSButtonCell"; title = "Load Profile"; ObjectID = "dtG-Lr-mjJ"; */
+"dtG-Lr-mjJ.title" = "加载配置文件";
+
+/* Class = "NSButtonCell"; title = "Stop on error"; ObjectID = "g2A-x4-Ogu"; */
+"g2A-x4-Ogu.title" = "发生错误时停止";
+
+/* Class = "NSButtonCell"; title = "Set the number of parallel export"; ObjectID = "gcE-m5-75X"; */
+"gcE-m5-75X.title" = "设置并行导出数";
+
+/* Class = "NSButtonCell"; title = "Bypass document validation"; ObjectID = "h32-tp-2Hm"; */
+"h32-tp-2Hm.title" = "绕过文档验证";
+
+/* Class = "NSTextFieldCell"; title = "0s"; ObjectID = "jfm-De-PfN"; */
+"jfm-De-PfN.title" = "0s";
+
+/* Class = "NSButtonCell"; title = "Inserts documents in the same order as input source"; ObjectID = "kNu-Oy-yTg"; */
+"kNu-Oy-yTg.title" = "以与输入源相同的之排序插入文档";
+
+/* Class = "NSButtonCell"; title = "Validate before insert"; ObjectID = "klh-ae-kXe"; */
+"klh-ae-kXe.title" = "插入前验证";
+
+/* Class = "NSTabViewItem"; label = "Advanced"; ObjectID = "lnf-ZG-QcL"; */
+"lnf-ZG-QcL.label" = "高级";
+
+/* Class = "NSButtonCell"; title = "Compressed files"; ObjectID = "pMZ-nt-qa0"; */
+"pMZ-nt-qa0.title" = "已压缩文件";
+
+/* Class = "NSTabViewItem"; label = "Message Log"; ObjectID = "qgg-gQ-7JY"; */
+"qgg-gQ-7JY.label" = "信息日志";
+
+/* Class = "NSTextFieldCell"; title = "Server:"; ObjectID = "sCr-JA-ytN"; */
+"sCr-JA-ytN.title" = "服务器:";
+
+/* Class = "NSTextFieldCell"; title = "N/A"; ObjectID = "tDH-f2-uL0"; */
+"tDH-f2-uL0.title" = "无";
+
+/* Class = "NSButtonCell"; title = "Test run without actually restore"; ObjectID = "tut-D2-qbd"; */
+"tut-D2-qbd.title" = "没有实际还原的测试运行";
+
+/* Class = "NSTextFieldCell"; title = "Database:"; ObjectID = "vRc-Ce-A7t"; */
+"vRc-Ce-A7t.title" = "数据库:";
+
+/* Class = "NSTextFieldCell"; title = "N/A"; ObjectID = "x5Y-DZ-PsA"; */
+"x5Y-DZ-PsA.title" = "无";
+
+/* Class = "NSTextFieldCell"; title = "Collection:"; ObjectID = "xQD-9r-fMD"; */
+"xQD-9r-fMD.title" = "集合:";
+
+/* Class = "NSButtonCell"; title = "Upgrade the index to the latest version"; ObjectID = "zAv-Wz-YdN"; */
+"zAv-Wz-YdN.title" = "将索引升级到最新版本";
+

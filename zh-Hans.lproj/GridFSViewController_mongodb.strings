@@ -1,0 +1,40 @@
+
+/* Class = "NSButton"; ibShadowedToolTip = "Last Page"; ObjectID = "KsB-1k-xdz"; */
+"KsB-1k-xdz.ibShadowedToolTip" = "最后一页";
+
+/* Class = "NSButtonCell"; title = "Limit"; ObjectID = "MhM-Lb-ofN"; */
+"MhM-Lb-ofN.title" = "限制";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "RH7-aS-gUu"; */
+"RH7-aS-gUu.title" = "Table View Cell";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Previous Page"; ObjectID = "UA4-Of-y6F"; */
+"UA4-Of-y6F.ibShadowedToolTip" = "上一页";
+
+/* Class = "NSTextFieldCell"; title = "records per page"; ObjectID = "Vpa-Ph-eLF"; */
+"Vpa-Ph-eLF.title" = "条记录（每页）";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Next Page"; ObjectID = "anz-7p-tf7"; */
+"anz-7p-tf7.ibShadowedToolTip" = "下一页";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "csT-lL-yMk"; */
+"csT-lL-yMk.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "dfS-kJ-QkE"; */
+"dfS-kJ-QkE.title" = "0";
+
+/* Class = "NSButton"; ibShadowedToolTip = "First Page"; ObjectID = "djS-Rz-PQ4"; */
+"djS-Rz-PQ4.ibShadowedToolTip" = "第一页";
+
+/* Class = "NSTextFieldCell"; title = "1000"; ObjectID = "goW-iF-wMx"; */
+"goW-iF-wMx.title" = "1000";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "nNY-Bd-i45"; */
+"nNY-Bd-i45.title" = "Table View Cell";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Setting"; ObjectID = "pJl-4f-voY"; */
+"pJl-4f-voY.ibShadowedToolTip" = "设置";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "pOQ-lF-QKk"; */
+"pOQ-lF-QKk.title" = "Text Cell";
+

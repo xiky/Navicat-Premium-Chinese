@@ -1,0 +1,73 @@
+
+/* Class = "NSComboBoxCell"; 1O8-O3-jNS.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "1O8-O3-jNS"; */
+"1O8-O3-jNS.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; 1O8-O3-jNS.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "1O8-O3-jNS"; */
+"1O8-O3-jNS.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; 1O8-O3-jNS.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "1O8-O3-jNS"; */
+"1O8-O3-jNS.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Index Method:"; ObjectID = "8X1-Uv-nbz"; */
+"8X1-Uv-nbz.title" = "索引方法:";
+
+/* Class = "NSButtonCell"; title = "Default operator class"; ObjectID = "Hou-Gu-Zuc"; */
+"Hou-Gu-Zuc.title" = "默认运算符类别";
+
+/* Class = "NSTextFieldCell"; title = "Data Type:"; ObjectID = "SpD-ZQ-wew"; */
+"SpD-ZQ-wew.title" = "数据类型:";
+
+/* Class = "NSTextFieldCell"; title = "Owner:"; ObjectID = "UII-Uv-Jft"; */
+"UII-Uv-Jft.title" = "拥有者:";
+
+/* Class = "NSComboBoxCell"; bSo-LD-BJj.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "bSo-LD-BJj"; */
+"bSo-LD-BJj.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; bSo-LD-BJj.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "bSo-LD-BJj"; */
+"bSo-LD-BJj.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; bSo-LD-BJj.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "bSo-LD-BJj"; */
+"bSo-LD-BJj.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSComboBoxCell"; cYc-EA-mtz.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "cYc-EA-mtz"; */
+"cYc-EA-mtz.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; cYc-EA-mtz.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "cYc-EA-mtz"; */
+"cYc-EA-mtz.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; cYc-EA-mtz.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "cYc-EA-mtz"; */
+"cYc-EA-mtz.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Operator Family:"; ObjectID = "pgV-9o-7ut"; */
+"pgV-9o-7ut.title" = "运算符家族:";
+
+/* Class = "NSComboBoxCell"; rWo-72-tb0.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "rWo-72-tb0"; */
+"rWo-72-tb0.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; rWo-72-tb0.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "rWo-72-tb0"; */
+"rWo-72-tb0.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; rWo-72-tb0.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "rWo-72-tb0"; */
+"rWo-72-tb0.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Storage Type:"; ObjectID = "sLW-OZ-26Y"; */
+"sLW-OZ-26Y.title" = "存储类型:";
+
+/* Class = "NSComboBoxCell"; tya-II-A2z.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "tya-II-A2z"; */
+"tya-II-A2z.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; tya-II-A2z.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "tya-II-A2z"; */
+"tya-II-A2z.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; tya-II-A2z.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "tya-II-A2z"; */
+"tya-II-A2z.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSComboBoxCell"; xri-7Q-TxV.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "xri-7Q-TxV"; */
+"xri-7Q-TxV.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; xri-7Q-TxV.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "xri-7Q-TxV"; */
+"xri-7Q-TxV.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; xri-7Q-TxV.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "xri-7Q-TxV"; */
+"xri-7Q-TxV.ibShadowedObjectValues[2]" = "Item 3";
+

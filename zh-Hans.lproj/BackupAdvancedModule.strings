@@ -1,0 +1,10 @@
+
+/* Class = "NSButtonCell"; title = "Use specified file name"; ObjectID = "0Mp-dY-A5M"; */
+"0Mp-dY-A5M.title" = "使用指定的文件名";
+
+/* Class = "NSButtonCell"; title = "Lock all tables"; ObjectID = "3vB-mU-J3C"; */
+"3vB-mU-J3C.title" = "锁定全部表";
+
+/* Class = "NSButtonCell"; title = "Use single transaction (InnoDB only)"; ObjectID = "rej-iP-Z8P"; */
+"rej-iP-Z8P.title" = "使用单一事务（只限 InnoDB）";
+

@@ -1,0 +1,28 @@
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1QA-HT-Chz"; */
+"1QA-HT-Chz.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "81f-pK-qOU"; */
+"81f-pK-qOU.title" = "标签";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Cc6-5L-rbF"; */
+"Cc6-5L-rbF.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Admin Option"; ObjectID = "Ff8-hs-dOF"; */
+"Ff8-hs-dOF.headerCell.title" = "管理选项";
+
+/* Class = "NSTableColumn"; headerCell.title = "Default"; ObjectID = "Kdw-Aw-qT1"; */
+"Kdw-Aw-qT1.headerCell.title" = "默认";
+
+/* Class = "NSTableColumn"; headerCell.title = "Privilege"; ObjectID = "LHp-EX-X24"; */
+"LHp-EX-X24.headerCell.title" = "权限";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Wdp-Ss-YbL"; */
+"Wdp-Ss-YbL.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Grant"; ObjectID = "myp-kS-gZ7"; */
+"myp-kS-gZ7.headerCell.title" = "授予";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "zKW-8I-Wgf"; */
+"zKW-8I-Wgf.title" = "Text Cell";
+

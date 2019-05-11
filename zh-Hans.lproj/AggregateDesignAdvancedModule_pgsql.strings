@@ -1,0 +1,37 @@
+
+/* Class = "NSTextFieldCell"; title = "Initial Condition:"; ObjectID = "AKo-B9-31T"; */
+"AKo-B9-31T.title" = "初始条件:";
+
+/* Class = "NSTextFieldCell"; title = "Parallel:"; ObjectID = "EQl-Lj-s5e"; */
+"EQl-Lj-s5e.title" = "并行:";
+
+/* Class = "NSTextFieldCell"; title = "Combine Function:"; ObjectID = "KhZ-OS-Tfz"; */
+"KhZ-OS-Tfz.title" = "组合函数:";
+
+/* Class = "NSButtonCell"; title = "Final Function Extra"; ObjectID = "NJm-rq-pob"; */
+"NJm-rq-pob.title" = "最终函数额外";
+
+/* Class = "NSTextFieldCell"; title = "Final Function:"; ObjectID = "OW1-ow-LLG"; */
+"OW1-ow-LLG.title" = "最终函数:";
+
+/* Class = "NSTextFieldCell"; title = "Moving Mode"; ObjectID = "YbK-C1-98X"; */
+"YbK-C1-98X.title" = "移动模式";
+
+/* Class = "NSTextFieldCell"; title = "State Function:"; ObjectID = "ZKn-A3-ib0"; */
+"ZKn-A3-ib0.title" = "状态函数:";
+
+/* Class = "NSTextFieldCell"; title = "Serial Function:"; ObjectID = "lUD-3T-C7g"; */
+"lUD-3T-C7g.title" = "序列化函数:";
+
+/* Class = "NSTextFieldCell"; title = "Inverse Function:"; ObjectID = "lzJ-S1-wKE"; */
+"lzJ-S1-wKE.title" = "反向函数:";
+
+/* Class = "NSTextFieldCell"; title = "State Data Size:"; ObjectID = "m8c-fr-rNb"; */
+"m8c-fr-rNb.title" = "状态数据大小:";
+
+/* Class = "NSTextFieldCell"; title = "Deserial Function:"; ObjectID = "sTw-v2-h84"; */
+"sTw-v2-h84.title" = "反序列化函数:";
+
+/* Class = "NSTextFieldCell"; title = "State Type:"; ObjectID = "ww0-KI-NoO"; */
+"ww0-KI-NoO.title" = "状态类型:";
+

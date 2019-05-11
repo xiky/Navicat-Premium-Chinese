@@ -1,0 +1,46 @@
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "7Z4-h0-diC"; */
+"7Z4-h0-diC.title" = "密码:";
+
+/* Class = "NSButtonCell"; title = "New SQLite 2"; ObjectID = "EDc-v7-y5f"; */
+"EDc-v7-y5f.title" = "新建 SQLite 2";
+
+/* Class = "NSButtonCell"; title = "New SQLite 3"; ObjectID = "Kpi-xL-9Un"; */
+"Kpi-xL-9Un.title" = "新建 SQLite 3";
+
+/* Class = "NSMenuItem"; title = "<New Project...>"; ObjectID = "MH1-pL-UTk"; */
+"MH1-pL-UTk.title" = "<New Project...>";
+
+/* Class = "NSTextFieldCell"; title = "Add to:"; ObjectID = "NjC-5V-rSd"; */
+"NjC-5V-rSd.title" = "添加到:";
+
+/* Class = "NSButtonCell"; title = "Existing Database File"; ObjectID = "OHY-em-xEN"; */
+"OHY-em-xEN.title" = "现有的数据库文件";
+
+/* Class = "NSMenuItem"; title = "My Connections"; ObjectID = "QyC-HO-qmd"; */
+"QyC-HO-qmd.title" = "我的连接";
+
+/* Class = "NSTextFieldCell"; title = "* All passwords will not be saved to Navicat Cloud"; ObjectID = "TVQ-TG-5LB"; */
+"TVQ-TG-5LB.title" = "* 所有密码不会保存到 Navicat Cloud";
+
+/* Class = "NSTextFieldCell"; title = "Connection Name:"; ObjectID = "dXm-8R-PSI"; */
+"dXm-8R-PSI.title" = "连接名:";
+
+/* Class = "NSTextFieldCell"; title = "Database File:"; ObjectID = "itb-Y8-1E7"; */
+"itb-Y8-1E7.title" = "数据库文件:";
+
+/* Class = "NSButtonCell"; title = "Edit Password:"; ObjectID = "r4C-Pt-abP"; */
+"r4C-Pt-abP.title" = "编辑密码:";
+
+/* Class = "NSTextFieldCell"; title = "Username:"; ObjectID = "tTn-ij-jBg"; */
+"tTn-ij-jBg.title" = "用户名:";
+
+/* Class = "NSButtonCell"; title = "Existing Database File"; ObjectID = "v1o-d3-kej"; */
+"v1o-d3-kej.title" = "现有的数据库文件";
+
+/* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "v9C-Xj-jwH"; */
+"v9C-Xj-jwH.title" = "类型:";
+
+/* Class = "NSButtonCell"; title = "Save password"; ObjectID = "vqe-en-MYW"; */
+"vqe-en-MYW.title" = "保存密码";
+

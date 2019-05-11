@@ -1,0 +1,94 @@
+
+/* Class = "NSTextFieldCell"; title = "Next:"; ObjectID = "0OR-uY-hWi"; */
+"0OR-uY-hWi.title" = "下一步:";
+
+/* Class = "NSTextFieldCell"; title = "Build Type:"; ObjectID = "1I5-Wt-oHj"; */
+"1I5-Wt-oHj.title" = "构建类型:";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "2Pl-Ro-n2W"; */
+"2Pl-Ro-n2W.title" = "Item 2";
+
+/* Class = "NSTextFieldCell"; title = "When:"; ObjectID = "2SS-Wh-eIu"; */
+"2SS-Wh-eIu.title" = "当:";
+
+/* Class = "NSTextFieldCell"; title = "Cache:"; ObjectID = "45Q-A2-tz8"; */
+"45Q-A2-tz8.title" = "缓存:";
+
+/* Class = "NSButtonCell"; title = "Local:"; ObjectID = "5q4-bt-ItR"; */
+"5q4-bt-ItR.title" = "本地:";
+
+/* Class = "NSButtonCell"; title = "Master:"; ObjectID = "98B-f0-zXq"; */
+"98B-f0-zXq.title" = "主:";
+
+/* Class = "NSTextFieldCell"; title = "Parallel:"; ObjectID = "E69-h2-Ymc"; */
+"E69-h2-Ymc.title" = "并行:";
+
+/* Class = "NSTextFieldCell"; title = "Logging:"; ObjectID = "EJ7-Oo-KCf"; */
+"EJ7-Oo-KCf.title" = "记录:";
+
+/* Class = "NSButtonCell"; title = "Enable query rewrite"; ObjectID = "FFp-x3-KML"; */
+"FFp-x3-KML.title" = "启用查询重写";
+
+/* Class = "NSMenuItem"; title = "LOGGING"; ObjectID = "IC1-eD-arU"; */
+"IC1-eD-arU.title" = "LOGGING";
+
+/* Class = "NSButtonCell"; title = "For update"; ObjectID = "IP3-O1-CVS"; */
+"IP3-O1-CVS.title" = "供更新";
+
+/* Class = "NSTextFieldCell"; title = "Using Index Clause"; ObjectID = "Iy2-Fz-yzI"; */
+"Iy2-Fz-yzI.title" = "使用索引子句";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "LIF-n1-6Hb"; */
+"LIF-n1-6Hb.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "LYr-SM-GWR"; */
+"LYr-SM-GWR.title" = "Item 3";
+
+/* Class = "NSButtonCell"; title = "Physical Attributes"; ObjectID = "Md2-96-KQa"; */
+"Md2-96-KQa.title" = "实体属性";
+
+/* Class = "NSTextFieldCell"; title = "Materialized View Options"; ObjectID = "Nzi-fM-vus"; */
+"Nzi-fM-vus.title" = "实体化视图选项";
+
+/* Class = "NSTextFieldCell"; title = "Start With:"; ObjectID = "QeV-mq-LOY"; */
+"QeV-mq-LOY.title" = "开始于:";
+
+/* Class = "NSTextFieldCell"; title = "Constraint:"; ObjectID = "TOX-ez-yO0"; */
+"TOX-ez-yO0.title" = "约束:";
+
+/* Class = "NSTextFieldCell"; title = "Method:"; ObjectID = "dpT-Tf-UU7"; */
+"dpT-Tf-UU7.title" = "方法:";
+
+/* Class = "NSMenuItem"; title = "NOLOGGING"; ObjectID = "e2M-TC-nWH"; */
+"e2M-TC-nWH.title" = "NOLOGGING";
+
+/* Class = "NSTextFieldCell"; title = "Tablespace:"; ObjectID = "jHW-ys-YA9"; */
+"jHW-ys-YA9.title" = "表空间:";
+
+/* Class = "NSTextFieldCell"; title = "Tablespace:"; ObjectID = "my6-IH-tD9"; */
+"my6-IH-tD9.title" = "表空间:";
+
+/* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "n74-j9-yew"; */
+"n74-j9-yew.title" = "类型:";
+
+/* Class = "NSTextFieldCell"; title = "Prebuilt Option:"; ObjectID = "nky-9Z-dAx"; */
+"nky-9Z-dAx.title" = "预建选项:";
+
+/* Class = "NSTextFieldCell"; title = "Compress:"; ObjectID = "rfC-TP-EQ6"; */
+"rfC-TP-EQ6.title" = "压缩:";
+
+/* Class = "NSTextFieldCell"; title = "Create Option"; ObjectID = "vki-p7-auf"; */
+"vki-p7-auf.title" = "创建选项";
+
+/* Class = "NSButtonCell"; title = "No Index"; ObjectID = "woI-Pd-SFU"; */
+"woI-Pd-SFU.title" = "没有索引";
+
+/* Class = "NSButtonCell"; title = "Physical Attributes"; ObjectID = "y27-ZQ-gHf"; */
+"y27-ZQ-gHf.title" = "实体属性";
+
+/* Class = "NSTextFieldCell"; title = "With Degree:"; ObjectID = "zZf-eS-QeF"; */
+"zZf-eS-QeF.title" = "含度数:";
+
+/* Class = "NSTextFieldCell"; title = "Refresh Options"; ObjectID = "zdJ-Qz-wIE"; */
+"zdJ-Qz-wIE.title" = "刷新选项";
+

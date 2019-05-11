@@ -1,0 +1,106 @@
+
+/* Class = "NSButton"; ibShadowedToolTip = "Setting"; ObjectID = "0hx-1K-v7a"; */
+"0hx-1K-v7a.ibShadowedToolTip" = "设置";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Apply Changes"; ObjectID = "20T-06-NRX"; */
+"20T-06-NRX.ibShadowedToolTip" = "应用更改";
+
+/* Class = "NSMenuItem"; title = "Set Row Height…"; ObjectID = "2pS-a4-oC7"; */
+"2pS-a4-oC7.title" = "设置行高…";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Last Page"; ObjectID = "4jp-gM-Vlc"; */
+"4jp-gM-Vlc.ibShadowedToolTip" = "最后一页";
+
+/* Class = "NSButton"; ibShadowedToolTip = "First Page"; ObjectID = "5bn-np-65K"; */
+"5bn-np-65K.ibShadowedToolTip" = "第一页";
+
+/* Class = "NSMenuItem"; title = "Set All Columns Width…"; ObjectID = "6Ur-vd-C9E"; */
+"6Ur-vd-C9E.title" = "设置全部列宽…";
+
+/* Class = "NSMenuItem"; title = "Tab Separated Values (Field Name and Data)"; ObjectID = "6fr-sn-Q51"; */
+"6fr-sn-Q51.title" = "制表符分隔值（字段名和数据）";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Discard Changes"; ObjectID = "86B-jI-Cs1"; */
+"86B-jI-Cs1.ibShadowedToolTip" = "放弃更改";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Tree View"; ObjectID = "BPU-BV-sWs"; */
+"BPU-BV-sWs.ibShadowedToolTip" = "树视图";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Next Page"; ObjectID = "CKX-Ur-zw6"; */
+"CKX-Ur-zw6.ibShadowedToolTip" = "下一页";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Delete Records"; ObjectID = "H8P-9i-i0q"; */
+"H8P-9i-i0q.ibShadowedToolTip" = "删除记录";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Previous Page"; ObjectID = "JpG-YA-T8p"; */
+"JpG-YA-T8p.ibShadowedToolTip" = "上一页";
+
+/* Class = "NSMenuItem"; title = "Insert Statement"; ObjectID = "NTV-3J-DUZ"; */
+"NTV-3J-DUZ.title" = "Insert 语句";
+
+/* Class = "NSMenuItem"; title = "Copy As"; ObjectID = "Ofw-sD-XMn"; */
+"Ofw-sD-XMn.title" = "复制为";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Grid View"; ObjectID = "P9q-RY-Las"; */
+"P9q-RY-Las.ibShadowedToolTip" = "网格视图";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "QxH-iJ-8WJ"; */
+"QxH-iJ-8WJ.title" = "全选";
+
+/* Class = "NSMenuItem"; title = "Set Column Width…"; ObjectID = "RKE-4B-QCi"; */
+"RKE-4B-QCi.title" = "设置列宽…";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add Record"; ObjectID = "TMk-Xt-D8K"; */
+"TMk-Xt-D8K.ibShadowedToolTip" = "添加记录";
+
+/* Class = "NSButton"; ibShadowedToolTip = "JSON View"; ObjectID = "Ttc-XQ-UtW"; */
+"Ttc-XQ-UtW.ibShadowedToolTip" = "JSON 视图";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Grid View"; ObjectID = "Twx-eO-2FE"; */
+"Twx-eO-2FE.ibShadowedToolTip" = "网格视图";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Last Page"; ObjectID = "Wnh-HT-SkS"; */
+"Wnh-HT-SkS.ibShadowedToolTip" = "最后一页";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "ZOc-5t-jo6"; */
+"ZOc-5t-jo6.title" = "Menu";
+
+/* Class = "NSTextFieldCell"; title = "1000"; ObjectID = "bx1-h0-E45"; */
+"bx1-h0-E45.title" = "1000";
+
+/* Class = "NSMenuItem"; title = "Deselect All"; ObjectID = "dWM-NY-dWv"; */
+"dWM-NY-dWv.title" = "取消全选";
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "fvz-Ed-LFN"; */
+"fvz-Ed-LFN.title" = "0";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Form View"; ObjectID = "gHp-Ov-Arg"; */
+"gHp-Ov-Arg.ibShadowedToolTip" = "表单视图";
+
+/* Class = "NSMenuItem"; title = "Tab Separated Values (Field Name only)"; ObjectID = "gJm-UV-IQu"; */
+"gJm-UV-IQu.title" = "制表符分隔值（字段名）";
+
+/* Class = "NSMenuItem"; title = "Update Statement"; ObjectID = "gP2-NI-xwh"; */
+"gP2-NI-xwh.title" = "Update 语句";
+
+/* Class = "NSMenuItem"; title = "Go to Record…"; ObjectID = "itD-60-vZq"; */
+"itD-60-vZq.title" = "前往记录…";
+
+/* Class = "NSTextFieldCell"; title = "documents per page"; ObjectID = "sNr-cv-ynb"; */
+"sNr-cv-ynb.title" = "个文档（每页）";
+
+/* Class = "NSMenuItem"; title = "Tab Separated Values (Data only)"; ObjectID = "sp8-0r-NMt"; */
+"sp8-0r-NMt.title" = "制表符分隔值（数据）";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Previous Page"; ObjectID = "tbj-Au-Pzn"; */
+"tbj-Au-Pzn.ibShadowedToolTip" = "上一页";
+
+/* Class = "NSMenu"; title = "Copy As"; ObjectID = "w6M-LN-sl7"; */
+"w6M-LN-sl7.title" = "复制为";
+
+/* Class = "NSButton"; ibShadowedToolTip = "First Page"; ObjectID = "yhU-vb-eJN"; */
+"yhU-vb-eJN.ibShadowedToolTip" = "第一页";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Next Page"; ObjectID = "zwQ-8l-Nuc"; */
+"zwQ-8l-Nuc.ibShadowedToolTip" = "下一页";
+

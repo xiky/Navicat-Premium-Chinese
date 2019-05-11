@@ -1,0 +1,43 @@
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "8gy-oM-UTF"; */
+"8gy-oM-UTF.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Show Preset Snippets"; ObjectID = "BL2-PY-Sw3"; */
+"BL2-PY-Sw3.title" = "显示预设的片段";
+
+/* Class = "NSMenuItem"; title = "Comment"; ObjectID = "Cod-yU-5O8"; */
+"Cod-yU-5O8.title" = "注释";
+
+/* Class = "NSMenuItem"; title = "New Snippet…"; ObjectID = "HAj-dW-gki"; */
+"HAj-dW-gki.title" = "新建片段…";
+
+/* Class = "NSMenuItem"; title = "Show Snippets For Other Database Type"; ObjectID = "J5J-JM-aZx"; */
+"J5J-JM-aZx.title" = "显示其他数据库类型的段";
+
+/* Class = "NSMenuItem"; title = "Edit Snippet…"; ObjectID = "J5q-ox-eRs"; */
+"J5q-ox-eRs.title" = "编辑片段…";
+
+/* Class = "NSMenuItem"; title = "Duplicate Snippet…"; ObjectID = "Jh5-6v-s6c"; */
+"Jh5-6v-s6c.title" = "复制片段…";
+
+/* Class = "NSTextFieldCell"; title = "Snippet"; ObjectID = "OGH-5M-Cty"; */
+"OGH-5M-Cty.title" = "Snippet";
+
+/* Class = "NSMenuItem"; title = "Delete Snippet"; ObjectID = "Pwf-pN-Wm2"; */
+"Pwf-pN-Wm2.title" = "删除片段";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Search"; ObjectID = "X4l-yS-hkV"; */
+"X4l-yS-hkV.placeholderString" = "搜索";
+
+/* Class = "NSMenuItem"; title = "General"; ObjectID = "iFY-8r-DzJ"; */
+"iFY-8r-DzJ.title" = "常规";
+
+/* Class = "NSMenuItem"; title = "DML"; ObjectID = "oV1-zj-S0F"; */
+"oV1-zj-S0F.title" = "DML";
+
+/* Class = "NSMenuItem"; title = "All Labels"; ObjectID = "rsf-ai-d4n"; */
+"rsf-ai-d4n.title" = "全部标签";
+
+/* Class = "NSMenuItem"; title = "DDL"; ObjectID = "sh6-Z8-9Uo"; */
+"sh6-Z8-9Uo.title" = "DDL";
+

@@ -1,0 +1,94 @@
+
+/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "6xw-Sc-q0q"; */
+"6xw-Sc-q0q.headerCell.title" = "类型";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "7Bl-mh-gff"; */
+"7Bl-mh-gff.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Av2-1s-tIx"; */
+"Av2-1s-tIx.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "BJU-TW-HlF"; */
+"BJU-TW-HlF.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Project Owner Navicat ID"; ObjectID = "EUA-rP-zak"; */
+"EUA-rP-zak.headerCell.title" = "项目拥有者 Navicat ID";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "FdU-ro-KEa"; */
+"FdU-ro-KEa.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "HYv-dx-dJf"; */
+"HYv-dx-dJf.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "I6W-c6-8Wo"; */
+"I6W-c6-8Wo.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Jqk-8f-L6f"; */
+"Jqk-8f-L6f.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "RHi-yk-MJt"; */
+"RHi-yk-MJt.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "RjJ-oL-seA"; */
+"RjJ-oL-seA.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "SxX-iY-A53"; */
+"SxX-iY-A53.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Available Job"; ObjectID = "Us6-t8-eil"; */
+"Us6-t8-eil.headerCell.title" = "可用的工作";
+
+/* Class = "NSTableColumn"; headerCell.title = "Selected Job"; ObjectID = "XFt-lW-Tfo"; */
+"XFt-lW-Tfo.headerCell.title" = "已选择的工作";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "add-mv-sCV"; */
+"add-mv-sCV.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Project Name"; ObjectID = "bcX-LC-Rik"; */
+"bcX-LC-Rik.headerCell.title" = "项目名";
+
+/* Class = "NSTableColumn"; headerCell.title = "Connection Type"; ObjectID = "eeP-hI-53z"; */
+"eeP-hI-53z.headerCell.title" = "连接类型";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "f2i-Bb-klW"; */
+"f2i-Bb-klW.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "fGI-4e-kiI"; */
+"fGI-4e-kiI.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "fJA-I8-QCJ"; */
+"fJA-I8-QCJ.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "fVp-PC-uXa"; */
+"fVp-PC-uXa.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "iEs-iv-ohh"; */
+"iEs-iv-ohh.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "ihu-mu-CFY"; */
+"ihu-mu-CFY.headerCell.title" = "类型";
+
+/* Class = "NSTableColumn"; headerCell.title = "Database"; ObjectID = "jm7-XA-94e"; */
+"jm7-XA-94e.headerCell.title" = "数据库";
+
+/* Class = "NSTableColumn"; headerCell.title = "Connection"; ObjectID = "mG2-d4-VTL"; */
+"mG2-d4-VTL.headerCell.title" = "连接";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "md5-D5-BaA"; */
+"md5-D5-BaA.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "nUE-xF-EmU"; */
+"nUE-xF-EmU.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "pQj-3U-fW9"; */
+"pQj-3U-fW9.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Schema"; ObjectID = "qY5-wP-0N6"; */
+"qY5-wP-0N6.headerCell.title" = "模式";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "syJ-05-ohB"; */
+"syJ-05-ohB.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "yf8-Lm-kKX"; */
+"yf8-Lm-kKX.title" = "Text Cell";
+

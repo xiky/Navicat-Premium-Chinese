@@ -1,0 +1,74 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>SQL Server 备份</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+
+<div class="manual_content_container">
+	<h1>SQL Server 备份</h1>
+	<p>在运行备份前，点击“<span class="term">生成 SQL</span>”按钮来检查 SQL 语句。然后，你可以点击“<span class="term">开始</span>”按钮来运行备份进程。</p>
+	<p>你可以将备份设置保存为一个配置文件以供将来使用。备份配置文件（.nbakmssql）保存于<a href="#/con_adv_settings">设置位置</a>。</p>
+	<p>若要显示隐藏的选项卡（高级选项），请勾选“<span class="term">显示高级选项</span>”选项。</p>
+	<h2>常规属性</h2>
+	<p><span class="term">备份集名</span></p>
+	<p>指定备份集的名。</p>
+	<p><span class="term">描述</span></p>
+	<p>指定备份集的描述。</p>
+	<p><span class="term">备份类型</span></p>
+	<p>选择你想运行的备份类型：完整备份、差异备份、事务日志备份。</p>
+	<p><span class="term">仅复制</span></p>
+	<p>如果你想指定备份为“仅复制备份”（Copy-Only Backup），可勾选这个选项。</p>
+	<p><span class="term">新介质集</span></p>
+	<p>为此备份创建一个新的介质集。若要添加备份设备或文件到列表，请点击“<span class="term">添加设备</span>”按钮。</p>
+	<p><span class="term">现有的介质集</span></p>
+	<p>为备份选择一个现有的介质集。</p>
+	<h2>组件</h2>
+	<p>在此选项卡，你可以选择备份整个数据库、部分数据库或指定的文件或组。</p>
+	<h2>高级属性</h2>
+	<p><span class="term">永不过期</span></p>
+	<p>指定备份集永不过期。</p>
+	<p><span class="term">在此之后过期</span></p>
+	<p>指定必须经过多少天之后才能覆盖此备份介质集。</p>
+	<p><span class="term">在此过期</span></p>
+	<p>指定备份集何时到期并可以覆盖。</p>
+	<p><span class="term">密码</span></p>
+	<p>输入备份集的密码。</p>
+	<p><span class="term">格式化介质集</span></p>
+	<p>如果你想指定要创建新的介质集，可勾选这个选项。</p>
+	<p><span class="term">新建名</span></p>
+	<p>输入新介质集的名。</p>
+	<p><span class="term">描述</span></p>
+	<p>指定介质集的描述。</p>
+	<p><span class="term">覆盖全部备份</span></p>
+	<p>如果你想指定覆盖所有备份集，但保留介质标头，可勾选这个选项。</p>
+	<p><span class="term">检查介质名和备份集是否过期</span></p>
+	<p>如果你想在覆盖介质上的备份集之前先检查备份集的到期日和时间，可勾选这个选项。</p>
+	<p><span class="term">介质集名</span></p>
+	<p>指定整个备份介质集的介质名。</p>
+	<p><span class="term">密码</span></p>
+	<p>输入介质集的密码。</p>
+	<p><span class="term">截断事务日志</span></p>
+	<p>如果你想截断事务日志，可勾选这个选项。</p>
+	<p><span class="term">备份日志尾部，并使数据库处于恢复状态</span></p>
+	<p>如果你想备份日志的尾部，并将数据库保留在 RESTORING 状态，可勾选这个选项。</p>
+	<p><span class="term">验证备份</span></p>
+	<p>如果你想验证备份，可勾选这个选项。</p>
+	<p><span class="term">执行校验和</span></p>
+	<p>如果你想启用备份校验和，可勾选这个选项。</p>
+	<p><span class="term">遇到错误时继续</span></p>
+	<p>在备份时忽略遇到的错误（例如无效的校验和或页撕裂）。</p>
+	<p><span class="term">压缩</span></p>
+	<p>选择是否对此备份进行备份压缩。</p>
+</div>

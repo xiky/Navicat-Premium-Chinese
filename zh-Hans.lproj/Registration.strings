@@ -1,0 +1,37 @@
+
+/* Class = "NSWindow"; title = "Registration"; ObjectID = "5"; */
+"5.title" = "注册";
+
+/* Class = "NSTextFieldCell"; title = "Please enter the registration key below."; ObjectID = "70"; */
+"70.title" = "请在下面输入注册码。";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "71"; */
+"71.title" = "名:";
+
+/* Class = "NSTextFieldCell"; title = "N/A"; ObjectID = "72"; */
+"72.title" = "无";
+
+/* Class = "NSTextFieldCell"; title = "Organization:"; ObjectID = "73"; */
+"73.title" = "组织:";
+
+/* Class = "NSTextFieldCell"; title = "N/A"; ObjectID = "74"; */
+"74.title" = "无";
+
+/* Class = "NSTextFieldCell"; title = "Registration Key:"; ObjectID = "75"; */
+"75.title" = "注册码:";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "81"; */
+"81.title" = "关闭";
+
+/* Class = "NSButtonCell"; title = "Buy Now"; ObjectID = "83"; */
+"83.title" = "立即购买";
+
+/* Class = "NSTextFieldCell"; title = "* NFRExpireWarning"; ObjectID = "85"; */
+"85.title" = "* NFRExpireWarning";
+
+/* Class = "NSButtonCell"; title = "Activate"; ObjectID = "88"; */
+"88.title" = "激活";
+
+/* Class = "NSButtonCell"; title = "Deactivate"; ObjectID = "93"; */
+"93.title" = "取消激活";
+

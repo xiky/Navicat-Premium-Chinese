@@ -1,0 +1,45 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>数据库</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>数据库</h1>
+	<p>若要开始使用服务器对象，你应该创建并打开一个连接。在连接窗口常规选项卡中设置的数据库文件名为“<span class="term">main</span>”数据库。</p>
+	<p><span class="term">附加一个数据库文件</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在导航窗格中，按住 Control 键并点按连接，然后选择“<span class="term">附加数据库</span>”。</p></li>
+		<li><p>在弹出的窗口中输入数据库属性。</p></li>
+	</ul>
+	<p><span class="term">分离一个数据库</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在导航窗格中，按住 Control 键并点按已附加的数据库，然后选择“<span class="term">分离数据库</span>”。</p></li>
+	</ul>
+	<p><span class="term">加密 main 数据库</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在导航窗格中，按住 Control 键并点按 main 数据库，然后选择“<span class="term">加密数据库</span>”。</p></li>
+		<li><p>在弹出的窗口中输入密码。</p></li>
+	</ul>
+	<p><span class="term">解密 main 数据库</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在导航窗格中，按住 Control 键并点按 main 数据库，然后选择“<span class="term">解密数据库</span>”。</p></li>
+		<li><p>在对话窗口中确认解密。</p></li>
+	</ul>
+	<p><span class="term">查看 sqlite_master 表</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在导航窗格中，按住 Control 键并点按数据库，然后选择“<span class="term">查看主表</span>”。</p></li>
+		<li><p>sqlite_master 表打开于数据查看器中。</p></li>
+	</ul>
+</div>

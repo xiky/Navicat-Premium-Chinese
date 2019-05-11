@@ -1,0 +1,43 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>安装</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>安装</h1>
+	<p>我们强烈建议你关闭所有已打开的应用程序。这将有助于确保顺利安装。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>Navicat 安装不包含服务器。如有需要，请自行下载并安装服务器。</p>
+	</div>
+	<p><span class="term">安装下载版</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>下载 Navicat  macOS 版本。</p></li>
+		<li><p>打开“<span class="term">.dmg</span>”文件。</p></li>
+		<li><p>拖曳 Navicat 到你的应用程序文件夹来安装。</p></li>
+	</ul>
+	<p><span class="term">迁移 Navicat 到新的电脑</span></p>
+	<ul class="ListBullet ListBullet_num">
+		<li><p>在 Navicat，选择“<span class="term">文件</span>”->“<span class="term">导出连接</span>”。导出的文件（.ncx）包含所有连接设置。</p></li>
+		<li><p>备份已导出的文件（.ncx）。</p></li>
+		<li><p>在 Navicat，选择“<span class="term">Navicat XXX</span>”->“<span class="term">注册</span>”并点击“<span class="term">取消激活</span>”来在线取消激活许可证密钥，或点击“<span class="term">退出</span>”来退出你的 Navicat ID。</p></li>
+		<li><p>在现有的电脑解除安装 Navicat。</p></li>
+		<li><p>在新的电脑重新安装 Navicat。</p></li>
+		<li><p>在新的电脑打开 Navicat，并选择“<span class="term">文件</span>”->“<span class="term">导入连接</span>”。</p></li>
+	</ul>
+	<p>当创建一个新的连接，Navicat 将在<a href="#/con_adv_settings">设置位置</a>创建一个子文件夹。大部分文件都保存于该子文件夹。若要查找该路径，请按住 Control 键并点按连接，然后选择“<span class="term">编辑连接</span>”->“<span class="term">高级</span>”->“<span class="term">设置位置</span>”。</p>
+	<p><span class="term">升级 Navicat</span></p>
+	<p>如果你想升级已安装的 Navicat 副本到最新版本，请选择“<span class="term">Navicat XXX</span>”->“<span class="term">检查更新</span>”来启动更新程序。它将会自动检查你已安装的版本。如果有新版本，简单依照更新程序的步骤来升级你的 Navicat。它将会替换你之前的 Navicat，而你当前的设置将会维持不变。</p>
+	<p>或者，你可以用你的注册电子邮箱登录<a href="https://customer.navicat.com/cht/" target="_blank">客户服务中心</a>，下载最新版本的安装程序。</p>
+</div>

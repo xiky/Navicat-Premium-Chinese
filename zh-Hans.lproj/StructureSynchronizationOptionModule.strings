@@ -1,0 +1,79 @@
+
+/* Class = "NSMenuItem"; title = "Case Insensitive"; ObjectID = "1Qe-Fm-0GJ"; */
+"1Qe-Fm-0GJ.title" = "不区分大小写";
+
+/* Class = "NSButtonCell"; title = "Compare primary keys"; ObjectID = "2Ge-Ib-hLD"; */
+"2Ge-Ib-hLD.title" = "比对主键";
+
+/* Class = "NSButtonCell"; title = "Compare rules"; ObjectID = "2vJ-cl-h30"; */
+"2vJ-cl-h30.title" = "比对规则";
+
+/* Class = "NSButtonCell"; title = "Compare tables"; ObjectID = "5PL-My-dqM"; */
+"5PL-My-dqM.title" = "比对表";
+
+/* Class = "NSButtonCell"; title = "Compare tablespace and physical attributes"; ObjectID = "6kt-fm-x0a"; */
+"6kt-fm-x0a.title" = "比对表空间及实体属性";
+
+/* Class = "NSButtonCell"; title = "Compare events"; ObjectID = "AXM-kG-UW2"; */
+"AXM-kG-UW2.title" = "比对事件";
+
+/* Class = "NSButtonCell"; title = "Compare excludes"; ObjectID = "Boq-vi-SHv"; */
+"Boq-vi-SHv.title" = "比对排除";
+
+/* Class = "NSButtonCell"; title = "Compare auto increment value"; ObjectID = "KM7-z2-AeV"; */
+"KM7-z2-AeV.title" = "比对自动递增值";
+
+/* Class = "NSButtonCell"; title = "Compare partitions"; ObjectID = "KMI-xh-fIy"; */
+"KMI-xh-fIy.title" = "比对分区";
+
+/* Class = "NSMenuItem"; title = "Default"; ObjectID = "Kqu-EU-kNu"; */
+"Kqu-EU-kNu.title" = "默认";
+
+/* Class = "NSButtonCell"; title = "Compare table options"; ObjectID = "N7H-ab-Uyk"; */
+"N7H-ab-Uyk.title" = "比对表选项";
+
+/* Class = "NSButtonCell"; title = "Compare character set"; ObjectID = "NCJ-v9-UAq"; */
+"NCJ-v9-UAq.title" = "比对字符集";
+
+/* Class = "NSMenuItem"; title = "Case Sensitive"; ObjectID = "PHh-3h-G7z"; */
+"PHh-3h-G7z.title" = "大小写相关";
+
+/* Class = "NSButtonCell"; title = "Compare foreign keys"; ObjectID = "Rn8-s5-gYN"; */
+"Rn8-s5-gYN.title" = "比对外键";
+
+/* Class = "NSButtonCell"; title = "Compare views"; ObjectID = "XOW-nW-O21"; */
+"XOW-nW-O21.title" = "比对视图";
+
+/* Class = "NSButtonCell"; title = "Compare triggers"; ObjectID = "XkE-Tc-m8F"; */
+"XkE-Tc-m8F.title" = "比对触发器";
+
+/* Class = "NSTextFieldCell"; title = "Compare Options"; ObjectID = "ZDR-Qw-rhg"; */
+"ZDR-Qw-rhg.title" = "比对选项";
+
+/* Class = "NSButtonCell"; title = "Compare uniques"; ObjectID = "ZWo-2h-TSx"; */
+"ZWo-2h-TSx.title" = "比对唯一键";
+
+/* Class = "NSButtonCell"; title = "Compare sequences"; ObjectID = "dD6-JP-Pth"; */
+"dD6-JP-Pth.title" = "比对序列";
+
+/* Class = "NSButtonCell"; title = "Compare functions"; ObjectID = "hQO-O1-0DD"; */
+"hQO-O1-0DD.title" = "比对函数";
+
+/* Class = "NSButtonCell"; title = "Drop with CASCADE"; ObjectID = "hfr-c5-0gp"; */
+"hfr-c5-0gp.title" = "用级联删除";
+
+/* Class = "NSButtonCell"; title = "Compare definers"; ObjectID = "jDi-fB-qr6"; */
+"jDi-fB-qr6.title" = "比对定义者";
+
+/* Class = "NSButtonCell"; title = "Compare indexes"; ObjectID = "maa-pa-UeX"; */
+"maa-pa-UeX.title" = "比对索引";
+
+/* Class = "NSButtonCell"; title = "Compare checks"; ObjectID = "mbB-gR-JPM"; */
+"mbB-gR-JPM.title" = "比对检查";
+
+/* Class = "NSButtonCell"; title = "Compare indexes"; ObjectID = "t7R-hZ-dzI"; */
+"t7R-hZ-dzI.title" = "比对索引";
+
+/* Class = "NSTextFieldCell"; title = "Identifier Case Sensitivity:"; ObjectID = "xQX-oU-aZr"; */
+"xQX-oU-aZr.title" = "识别符大小写相关:";
+

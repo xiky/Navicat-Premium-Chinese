@@ -1,0 +1,34 @@
+
+/* Class = "NSComboBoxCell"; 6np-RX-F4A.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "6np-RX-F4A"; */
+"6np-RX-F4A.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; 6np-RX-F4A.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "6np-RX-F4A"; */
+"6np-RX-F4A.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; 6np-RX-F4A.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "6np-RX-F4A"; */
+"6np-RX-F4A.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSButtonCell"; title = "Append"; ObjectID = "FDz-6M-HcO"; */
+"FDz-6M-HcO.title" = "追加";
+
+/* Class = "NSButtonCell"; title = "Not for replication"; ObjectID = "JhQ-a4-9hX"; */
+"JhQ-a4-9hX.title" = "不适用于复制";
+
+/* Class = "NSButtonCell"; title = "Encrypted"; ObjectID = "aoV-fQ-A4Y"; */
+"aoV-fQ-A4Y.title" = "已加密";
+
+/* Class = "NSButtonCell"; title = "Owner"; ObjectID = "iM4-aN-gAc"; */
+"iM4-aN-gAc.title" = "拥有者";
+
+/* Class = "NSButtonCell"; title = "Self"; ObjectID = "mh1-ky-K3E"; */
+"mh1-ky-K3E.title" = "自己";
+
+/* Class = "NSButtonCell"; title = "Caller"; ObjectID = "pQ9-fA-1hw"; */
+"pQ9-fA-1hw.title" = "调用方";
+
+/* Class = "NSButtonCell"; title = "User"; ObjectID = "qMY-eC-OHs"; */
+"qMY-eC-OHs.title" = "用户";
+
+/* Class = "NSTextFieldCell"; title = "Execute As:"; ObjectID = "y1j-BD-q13"; */
+"y1j-BD-q13.title" = "运行由:";
+

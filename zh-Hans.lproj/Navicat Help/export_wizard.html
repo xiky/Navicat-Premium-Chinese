@@ -1,0 +1,24 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>关于导出向导</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>关于导出向导</h1>
+	<p>“<span class="term">导出向导</span>”让你从表、集合、视图或查询结果导出数据到任何可用的格式。你可以将设置保存为一个配置文件以供将来使用或用作设置<a href="#/automation">自动运行任务</a>。若要打开导出向导窗口，请在对象工具栏点击 <img src="./images/icon_exportTable.png" alt="导出表" class="inlineGraphic" height="16" width="16"/>、<img src="./images/icon_exportView.png" alt="导出视图" class="inlineGraphic" height="16" width="16"/> 或 <img src="./images/icon_exportQuery.png" alt="导出查询" class="inlineGraphic" height="16" width="16"/>。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>Navicat Essentials 版只支持导出纯文本格式的文件，例如 TXT、CSV、HTML、XML、SQL 和 JSON。</p>
+	</div>
+</div>

@@ -1,0 +1,151 @@
+
+/* Class = "NSTextFieldCell"; placeholderString = "?"; ObjectID = "18d-Mc-dVu"; */
+"18d-Mc-dVu.placeholderString" = "?";
+
+/* Class = "NSMenuItem"; title = "Delete Profile"; ObjectID = "1wr-wx-bzA"; */
+"1wr-wx-bzA.title" = "删除配置文件";
+
+/* Class = "NSMenuItem"; title = "Toggle Negator"; ObjectID = "20c-Dw-2c9"; */
+"20c-Dw-2c9.title" = "切换否定符";
+
+/* Class = "NSMenuItem"; title = "Toggle Negator"; ObjectID = "2MM-xa-Sug"; */
+"2MM-xa-Sug.title" = "切换否定符";
+
+/* Class = "NSMenuItem"; title = "Move Down"; ObjectID = "4Qm-Gs-fKs"; */
+"4Qm-Gs-fKs.title" = "下移";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "5R6-LI-gkT"; */
+"5R6-LI-gkT.title" = "删除";
+
+/* Class = "NSMenu"; title = "Delete Profile"; ObjectID = "5Tg-oB-vAy"; */
+"5Tg-oB-vAy.title" = "删除配置文件";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "B8j-E9-NJh"; */
+"B8j-E9-NJh.title" = "删除";
+
+/* Class = "NSMenuItem"; title = "Add"; ObjectID = "E7Z-4D-XpK"; */
+"E7Z-4D-XpK.title" = "添加";
+
+/* Class = "NSTextFieldCell"; placeholderString = "<field>"; ObjectID = "G2S-BV-0aT"; */
+"G2S-BV-0aT.placeholderString" = "<field>";
+
+/* Class = "NSTextFieldCell"; title = "and"; ObjectID = "IUi-ug-jiL"; */
+"IUi-ug-jiL.title" = "和";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "?"; ObjectID = "Ial-bn-h0I"; */
+"Ial-bn-h0I.ibShadowedIsNilPlaceholder" = "?";
+
+/* Class = "NSMenuItem"; title = "Load Profile"; ObjectID = "JIs-aH-Mea"; */
+"JIs-aH-Mea.title" = "加载配置文件";
+
+/* Class = "NSTextFieldCell"; title = "NOT"; ObjectID = "MpA-NV-3ag"; */
+"MpA-NV-3ag.title" = "非";
+
+/* Class = "NSMenuItem"; title = "Save Profile"; ObjectID = "NHc-Lp-cjD"; */
+"NHc-Lp-cjD.title" = "保存配置文件";
+
+/* Class = "NSMenuItem"; title = "Group with Bracket"; ObjectID = "OdM-K1-DFZ"; */
+"OdM-K1-DFZ.title" = "使用括号分组";
+
+/* Class = "NSTextFieldCell"; placeholderString = "?"; ObjectID = "P1m-PM-Ebp"; */
+"P1m-PM-Ebp.placeholderString" = "?";
+
+/* Class = "NSMenuItem"; title = "Move Up"; ObjectID = "PNg-Rk-Rb1"; */
+"PNg-Rk-Rb1.title" = "上移";
+
+/* Class = "NSMenu"; title = "Delete"; ObjectID = "PcM-ci-3nb"; */
+"PcM-ci-3nb.title" = "删除";
+
+/* Class = "NSMenuItem"; title = "Move Down"; ObjectID = "QSD-mv-7Wn"; */
+"QSD-mv-7Wn.title" = "下移";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "RWC-WM-HYe"; */
+"RWC-WM-HYe.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "NOT"; ObjectID = "SHH-w3-QMj"; */
+"SHH-w3-QMj.title" = "非";
+
+/* Class = "NSTextFieldCell"; title = "("; ObjectID = "SaE-7W-WZY"; */
+"SaE-7W-WZY.title" = "(";
+
+/* Class = "NSMenuItem"; title = "Save Profile As…"; ObjectID = "TdA-4Z-oc6"; */
+"TdA-4Z-oc6.title" = "另存配置文件为…";
+
+/* Class = "NSMenuItem"; title = "Save Profile"; ObjectID = "Tua-Ot-ERy"; */
+"Tua-Ot-ERy.title" = "保存配置文件";
+
+/* Class = "NSMenuItem"; title = "Save Profile"; ObjectID = "UCz-iw-H1s"; */
+"UCz-iw-H1s.title" = "保存配置文件";
+
+/* Class = "NSTextFieldCell"; placeholderString = "<criteria>"; ObjectID = "ZFg-4p-18D"; */
+"ZFg-4p-18D.placeholderString" = "<criteria>";
+
+/* Class = "NSTextFieldCell"; placeholderString = "<or>"; ObjectID = "Zy3-Bq-PB5"; */
+"Zy3-Bq-PB5.placeholderString" = "<or>";
+
+/* Class = "NSMenuItem"; title = "Move Up"; ObjectID = "aTJ-KZ-dV0"; */
+"aTJ-KZ-dV0.title" = "上移";
+
+/* Class = "NSTextFieldCell"; placeholderString = "<or>"; ObjectID = "aac-Yl-Y1V"; */
+"aac-Yl-Y1V.placeholderString" = "<or>";
+
+/* Class = "NSMenuItem"; title = "Clear All"; ObjectID = "aue-ks-3x1"; */
+"aue-ks-3x1.title" = "全部清除";
+
+/* Class = "NSMenu"; title = "Delete Profile"; ObjectID = "bj6-dF-vfM"; */
+"bj6-dF-vfM.title" = "删除配置文件";
+
+/* Class = "NSTextFieldCell"; placeholderString = "<Field Type>"; ObjectID = "c3a-JQ-Ja1"; */
+"c3a-JQ-Ja1.placeholderString" = "<Field Type>";
+
+/* Class = "NSMenuItem"; title = "Delete Bracket and Condition"; ObjectID = "dG0-cp-Oer"; */
+"dG0-cp-Oer.title" = "Delete Bracket and Condition";
+
+/* Class = "NSTextFieldCell"; placeholderString = "<and>"; ObjectID = "dv4-gi-Mol"; */
+"dv4-gi-Mol.placeholderString" = "<and>";
+
+/* Class = "NSMenuItem"; title = "Add"; ObjectID = "eI6-jK-Lvz"; */
+"eI6-jK-Lvz.title" = "添加";
+
+/* Class = "NSMenuItem"; title = "Clear All"; ObjectID = "g0E-CP-x4c"; */
+"g0E-CP-x4c.title" = "全部清除";
+
+/* Class = "NSTextFieldCell"; placeholderString = "<and>"; ObjectID = "gJ2-Zt-aHG"; */
+"gJ2-Zt-aHG.placeholderString" = "<and>";
+
+/* Class = "NSMenuItem"; title = "Load Profile"; ObjectID = "kxh-6b-mTH"; */
+"kxh-6b-mTH.title" = "加载配置文件";
+
+/* Class = "NSTextFieldCell"; title = ")"; ObjectID = "p7J-dX-LEd"; */
+"p7J-dX-LEd.title" = ")";
+
+/* Class = "NSMenuItem"; title = "Delete Profile"; ObjectID = "q8h-Ih-gJP"; */
+"q8h-Ih-gJP.title" = "删除配置文件";
+
+/* Class = "NSMenuItem"; title = "Delete Bracket"; ObjectID = "rqt-bp-Can"; */
+"rqt-bp-Can.title" = "删除括号";
+
+/* Class = "NSMenuItem"; title = "Save Profile As…"; ObjectID = "u4t-xn-Jgy"; */
+"u4t-xn-Jgy.title" = "另存配置文件为…";
+
+/* Class = "NSMenuItem"; title = "Load Profile"; ObjectID = "uS5-II-ZM0"; */
+"uS5-II-ZM0.title" = "加载配置文件";
+
+/* Class = "NSMenuItem"; title = "Delete Profile"; ObjectID = "vRm-8H-ueu"; */
+"vRm-8H-ueu.title" = "删除配置文件";
+
+/* Class = "NSMenu"; title = "Delete Profile"; ObjectID = "vWt-Bc-wSm"; */
+"vWt-Bc-wSm.title" = "删除配置文件";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "?"; ObjectID = "xwf-tQ-70E"; */
+"xwf-tQ-70E.ibShadowedIsNilPlaceholder" = "?";
+
+/* Class = "NSMenuItem"; title = "Save Profile As…"; ObjectID = "y5H-Ce-hzy"; */
+"y5H-Ce-hzy.title" = "另存配置文件为…";
+
+/* Class = "NSMenuItem"; title = "Insert"; ObjectID = "zlS-7d-KLX"; */
+"zlS-7d-KLX.title" = "插入";
+
+/* Class = "NSMenuItem"; title = "Clear All"; ObjectID = "zzA-jO-clO"; */
+"zzA-jO-clO.title" = "全部清除";
+

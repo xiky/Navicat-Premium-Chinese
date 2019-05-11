@@ -1,0 +1,22 @@
+
+/* Class = "NSComboBoxCell"; 08g-Gl-h13.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "08g-Gl-h13"; */
+"08g-Gl-h13.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; 08g-Gl-h13.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "08g-Gl-h13"; */
+"08g-Gl-h13.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; 08g-Gl-h13.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "08g-Gl-h13"; */
+"08g-Gl-h13.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "窗口";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "WTP-fa-F5i"; */
+"WTP-fa-F5i.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "ffF-yV-a1t"; */
+"ffF-yV-a1t.title" = "确定";
+
+/* Class = "NSTextFieldCell"; title = "Collection/View:"; ObjectID = "j2r-dB-NYh"; */
+"j2r-dB-NYh.title" = "集合或视图:";
+

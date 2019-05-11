@@ -1,0 +1,46 @@
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "0hR-z2-KVc"; */
+"0hR-z2-KVc.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "1Ru-da-hwY"; */
+"1Ru-da-hwY.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2DC-v7-9tR"; */
+"2DC-v7-9tR.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "To"; ObjectID = "3E6-Hm-8SM"; */
+"3E6-Hm-8SM.headerCell.title" = "收件人";
+
+/* Class = "NSTextFieldCell"; title = "Partition Type:"; ObjectID = "5Lf-6g-tZG"; */
+"5Lf-6g-tZG.title" = "分区类型:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "7PC-Rh-n2J"; */
+"7PC-Rh-n2J.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "In"; ObjectID = "8qL-2P-ORc"; */
+"8qL-2P-ORc.headerCell.title" = "在";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "9qW-2z-Gnp"; */
+"9qW-2z-Gnp.headerCell.title" = "名";
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "CQa-sJ-wPO"; */
+"CQa-sJ-wPO.title" = "文本";
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "Prn-PH-XYH"; */
+"Prn-PH-XYH.title" = "文本";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Ue5-lw-1Lg"; */
+"Ue5-lw-1Lg.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "r6D-hg-fvL"; */
+"r6D-hg-fvL.title" = "文本";
+
+/* Class = "NSTableColumn"; headerCell.title = "From"; ObjectID = "u9D-yM-SKh"; */
+"u9D-yM-SKh.headerCell.title" = "发件人";
+
+/* Class = "NSTextFieldCell"; title = "Partition:"; ObjectID = "xDF-f7-2mQ"; */
+"xDF-f7-2mQ.title" = "分区:";
+
+/* Class = "NSTextFieldCell"; title = "Partition Keys:"; ObjectID = "yPA-Pe-VGX"; */
+"yPA-Pe-VGX.title" = "分区键:";
+

@@ -1,0 +1,49 @@
+
+/* Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "36"; */
+"36.headerCell.title" = "键";
+
+/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "37"; */
+"37.headerCell.title" = "类型";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "39"; */
+"39.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "67"; */
+"67.headerCell.title" = "值";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "68"; */
+"68.title" = "Text Cell";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "76"; */
+"76.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Null"; ObjectID = "77"; */
+"77.title" = "Null";
+
+/* Class = "NSMenuItem"; title = "Unsigned Integer"; ObjectID = "81"; */
+"81.title" = "Unsigned Integer";
+
+/* Class = "NSMenuItem"; title = "Double"; ObjectID = "82"; */
+"82.title" = "Double";
+
+/* Class = "NSMenuItem"; title = "String"; ObjectID = "83"; */
+"83.title" = "字符串";
+
+/* Class = "NSMenuItem"; title = "DateTime"; ObjectID = "85"; */
+"85.title" = "日期时间";
+
+/* Class = "NSMenuItem"; title = "Date"; ObjectID = "86"; */
+"86.title" = "日期";
+
+/* Class = "NSMenuItem"; title = "Time"; ObjectID = "87"; */
+"87.title" = "时间";
+
+/* Class = "NSMenuItem"; title = "Dynamic Column"; ObjectID = "88"; */
+"88.title" = "动态列";
+
+/* Class = "NSMenuItem"; title = "Integer"; ObjectID = "cM7-wg-jvZ"; */
+"cM7-wg-jvZ.title" = "整数";
+
+/* Class = "NSMenuItem"; title = "Decimal"; ObjectID = "ohG-Gf-77M"; */
+"ohG-Gf-77M.title" = "小数点";
+

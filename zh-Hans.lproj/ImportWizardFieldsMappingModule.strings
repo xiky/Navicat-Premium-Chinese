@@ -1,0 +1,43 @@
+
+/* Class = "NSMenuItem"; title = "Ordinally Match All"; ObjectID = "5NP-2t-mOi"; */
+"5NP-2t-mOi.title" = "按次序匹配全部字段";
+
+/* Class = "NSMenuItem"; title = "Unmatch All"; ObjectID = "6ea-3F-WuC"; */
+"6ea-3F-WuC.title" = "全部取消匹配";
+
+/* Class = "NSMenuItem"; title = "Invert Selection"; ObjectID = "9mV-sY-Yg1"; */
+"9mV-sY-Yg1.title" = "反转选择";
+
+/* Class = "NSTableColumn"; headerCell.title = "Source Field"; ObjectID = "STn-8u-70P"; */
+"STn-8u-70P.headerCell.title" = "源字段";
+
+/* Class = "NSTableColumn"; headerCell.title = "Primary Key"; ObjectID = "TGn-0s-cgs"; */
+"TGn-0s-cgs.headerCell.title" = "主键";
+
+/* Class = "NSTextFieldCell"; title = "Map Fields (6/8)"; ObjectID = "bzb-gV-wet"; */
+"bzb-gV-wet.title" = "Map Fields (6/8)";
+
+/* Class = "NSTableColumn"; headerCell.title = "Target Field"; ObjectID = "eBS-hY-bzq"; */
+"eBS-hY-bzq.headerCell.title" = "目标字段";
+
+/* Class = "NSTableColumn"; headerCell.title = "Length"; ObjectID = "fN8-uc-DPJ"; */
+"fN8-uc-DPJ.headerCell.title" = "长度";
+
+/* Class = "NSTextFieldCell"; title = "The wizard has made some guesses on your table structure and you can make adjustments now."; ObjectID = "i43-cx-fH4"; */
+"i43-cx-fH4.title" = "这个向导已对表结构进行一些猜测，现在你可以进行调整。";
+
+/* Class = "NSTableColumn"; headerCell.title = "Scale"; ObjectID = "nut-N8-DH2"; */
+"nut-N8-DH2.headerCell.title" = "比例";
+
+/* Class = "NSMenuItem"; title = "Smart Match All"; ObjectID = "oi5-Fb-KSJ"; */
+"oi5-Fb-KSJ.title" = "智慧匹配全部字段";
+
+/* Class = "NSMenuItem"; title = "Deselect All"; ObjectID = "rHP-nH-1xu"; */
+"rHP-nH-1xu.title" = "取消全选";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "rnS-5V-4i2"; */
+"rnS-5V-4i2.title" = "全选";
+
+/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "sIr-Re-5fT"; */
+"sIr-Re-5fT.headerCell.title" = "类型";
+

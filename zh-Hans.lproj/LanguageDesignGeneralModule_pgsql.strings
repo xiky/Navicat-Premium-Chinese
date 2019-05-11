@@ -1,0 +1,46 @@
+
+/* Class = "NSTextFieldCell"; title = "Schema of Validator:"; ObjectID = "6Qn-De-rdT"; */
+"6Qn-De-rdT.title" = "验证符的模式:";
+
+/* Class = "NSButtonCell"; title = "Trusted"; ObjectID = "DuS-fw-ZBf"; */
+"DuS-fw-ZBf.title" = "信任";
+
+/* Class = "NSComboBoxCell"; FaL-d0-VKF.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "FaL-d0-VKF"; */
+"FaL-d0-VKF.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; FaL-d0-VKF.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "FaL-d0-VKF"; */
+"FaL-d0-VKF.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; FaL-d0-VKF.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "FaL-d0-VKF"; */
+"FaL-d0-VKF.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSComboBoxCell"; Py9-Ss-sXa.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "Py9-Ss-sXa"; */
+"Py9-Ss-sXa.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; Py9-Ss-sXa.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "Py9-Ss-sXa"; */
+"Py9-Ss-sXa.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; Py9-Ss-sXa.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "Py9-Ss-sXa"; */
+"Py9-Ss-sXa.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSComboBoxCell"; Yde-kT-IIG.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "Yde-kT-IIG"; */
+"Yde-kT-IIG.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; Yde-kT-IIG.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "Yde-kT-IIG"; */
+"Yde-kT-IIG.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; Yde-kT-IIG.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "Yde-kT-IIG"; */
+"Yde-kT-IIG.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Validator:"; ObjectID = "hIs-lS-WX8"; */
+"hIs-lS-WX8.title" = "验证符:";
+
+/* Class = "NSTextFieldCell"; title = "Schema of Handler:"; ObjectID = "jEz-rB-eAk"; */
+"jEz-rB-eAk.title" = "操作符的模式:";
+
+/* Class = "NSTextFieldCell"; title = "Owner:"; ObjectID = "ydz-gr-4Qw"; */
+"ydz-gr-4Qw.title" = "拥有者:";
+
+/* Class = "NSTextFieldCell"; title = "Handler:"; ObjectID = "zah-cC-HY7"; */
+"zah-cC-HY7.title" = "操作符:";
+

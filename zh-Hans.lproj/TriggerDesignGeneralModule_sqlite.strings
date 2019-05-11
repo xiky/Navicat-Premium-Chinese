@@ -1,0 +1,46 @@
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "29C-Dr-GFz"; */
+"29C-Dr-GFz.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "7on-u1-OOn"; */
+"7on-u1-OOn.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "Delete"; ObjectID = "Agx-Sb-WDA"; */
+"Agx-Sb-WDA.title" = "删除";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "BvQ-Ff-bi5"; */
+"BvQ-Ff-bi5.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "Insert"; ObjectID = "PRp-Qw-ISL"; */
+"PRp-Qw-ISL.title" = "插入";
+
+/* Class = "NSButtonCell"; title = "Select All"; ObjectID = "RIh-KI-1Uo"; */
+"RIh-KI-1Uo.title" = "全选";
+
+/* Class = "NSButtonCell"; title = "Deselect All"; ObjectID = "VvA-hT-mC5"; */
+"VvA-hT-mC5.title" = "取消全选";
+
+/* Class = "NSTextFieldCell"; title = "Event:"; ObjectID = "Zrx-yz-RgN"; */
+"Zrx-yz-RgN.title" = "事件:";
+
+/* Class = "NSTextFieldCell"; title = "Fire:"; ObjectID = "ag0-1l-qvk"; */
+"ag0-1l-qvk.title" = "触发:";
+
+/* Class = "NSButtonCell"; title = "Update"; ObjectID = "bZQ-mV-A7i"; */
+"bZQ-mV-A7i.title" = "更新";
+
+/* Class = "NSTextFieldCell"; title = "When Clause:"; ObjectID = "chu-21-WAH"; */
+"chu-21-WAH.title" = "当子句:";
+
+/* Class = "NSTextFieldCell"; title = "Update of Fields:"; ObjectID = "ej7-ce-nSB"; */
+"ej7-ce-nSB.title" = "更新字段:";
+
+/* Class = "NSTextFieldCell"; title = "Table Name:"; ObjectID = "sDd-wS-EJ2"; */
+"sDd-wS-EJ2.title" = "表名:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "tmA-CA-pgb"; */
+"tmA-CA-pgb.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Trigger Type:"; ObjectID = "yqy-I9-zYW"; */
+"yqy-I9-zYW.title" = "触发器类型:";
+

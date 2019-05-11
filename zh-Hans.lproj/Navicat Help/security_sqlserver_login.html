@@ -1,0 +1,62 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>登录设计器</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>登录设计器</h1>
+	<div class="alert">
+		<p><span class="note">【注意】</span>下列选项和选项卡会根据服务器版本和验证类型而有所不同。</p>
+	</div>
+	<h2>常规属性</h2>
+	<p><span class="term">用户名</span></p>
+	<p>定义登录的名。</p>
+	<p><span class="term">验证类型</span></p>
+	<p>选择登录的验证类型。</p>
+	<p><span class="term">密码</span></p>
+	<p>指定登录的密码。</p>
+	<p><span class="term">确认密码</span></p>
+	<p>重新输入登录密码。</p>
+	<p><span class="term">指定旧密码</span></p>
+	<p>如果你想在编辑登录时输入此帐号使用的旧密码，可勾选这个选项。</p>
+	<p><span class="term">强制密码策略</span></p>
+	<p>如果你想强制密码遵循 SQL Server 的密码策略，可勾选这个选项。</p>
+	<p><span class="term">强制密码过期</span></p>
+	<p>如果你想强制密码具有到期日，可勾选这个选项。</p>
+	<p><span class="term">用户必须在下次登录时更改密码</span></p>
+	<p>如果你想强制用户在每次登录时更改密码，可勾选这个选项。</p>
+	<p><span class="term">默认数据库</span></p>
+	<p>选择登录时的默认数据库。</p>
+	<p><span class="term">默认语言</span></p>
+	<p>选择登录时的默认显示语言。</p>
+	<p><span class="term">证书名</span></p>
+	<p>选择要用于登录的证书。</p>
+	<p><span class="term">非对称密钥名</span></p>
+	<p>选择要用于登录的非对称密钥。</p>
+	<p><span class="term">凭据</span></p>
+	<p>选择映射到登录的凭据。</p>
+	<p><span class="term">已启用</span></p>
+	<p>如果你想启用登录，可勾选这个选项。</p>
+	<h2>用户映射</h2>
+	<p>在网格中，勾选“<span class="term">数据库</span>”以及输入“<span class="term">用户</span>”和“<span class="term">默认模式</span>”以创建登录到数据库的用户，并指定服务器搜索的第一个模式。</p>
+	<h2>角色</h2>
+	<p>在列表里，指定此服务器登录成为已选择的服务器角色的成员。</p>
+	<h2>服务器权限</h2>
+	<p>在网格中，对照在“<span class="term">权限</span>”列出的服务器权限，勾选“<span class="term">授予</span>”、“<span class="term">授予选项</span>”或“<span class="term">拒绝</span>”选项以指定此登录有这个权限。若要授予、拒绝或撤消所有权限，请按住 Control 键并点按网格，然后选择“<span class="term">全部授予</span>”、“<span class="term">全部授予 (含管理选项)</span>”、“<span class="term">全部拒绝</span>”或“<span class="term">全部撤消</span>”。</p>
+	<h2>登录权限</h2>
+	<p>在网格中，对照在“<span class="term">登录</span>”列出的登录，勾选权限以指定此登录有这个登录权限。按两次复选框以含授予选项授予该权限。按三次复选框以拒绝该权限。</p>
+	<h2>端点权限</h2>
+	<p>在网格中，对照在“<span class="term">端点</span>”列出的端点，勾选权限以指定此登录有这个端点权限。按两次复选框以含授予选项授予该权限。按三次复选框以拒绝该权限。</p>
+</div>

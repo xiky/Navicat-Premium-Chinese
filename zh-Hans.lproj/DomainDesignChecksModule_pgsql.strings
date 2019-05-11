@@ -1,0 +1,25 @@
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "2Gq-Ts-vZ9"; */
+"2Gq-Ts-vZ9.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "RRj-E0-XAd"; */
+"RRj-E0-XAd.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Comment"; ObjectID = "WzO-35-u16"; */
+"WzO-35-u16.headerCell.title" = "注释";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "aRl-Eb-Ec7"; */
+"aRl-Eb-Ec7.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "kj1-qS-oH9"; */
+"kj1-qS-oH9.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Expression"; ObjectID = "pz9-CZ-xoW"; */
+"pz9-CZ-xoW.headerCell.title" = "表达式";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "wMu-be-3QF"; */
+"wMu-be-3QF.headerCell.title" = "名";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "x9U-DH-cL0"; */
+"x9U-DH-cL0.title" = "Text Cell";
+

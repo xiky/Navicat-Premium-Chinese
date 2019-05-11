@@ -1,0 +1,34 @@
+
+/* Class = "NSTextFieldCell"; title = "Records:"; ObjectID = "5j3-pN-643"; */
+"5j3-pN-643.title" = "记录:";
+
+/* Class = "NSTextFieldCell"; title = "Grid:"; ObjectID = "BXV-9n-hkO"; */
+"BXV-9n-hkO.title" = "网格:";
+
+/* Class = "NSBox"; title = "Grid Font"; ObjectID = "GcA-Uc-IW1"; */
+"GcA-Uc-IW1.title" = "网格字体";
+
+/* Class = "NSTextFieldCell"; title = "records per page"; ObjectID = "I37-lb-oTI"; */
+"I37-lb-oTI.title" = "条记录（每页）";
+
+/* Class = "NSButtonCell"; title = "Enable batch update mode"; ObjectID = "J2m-n0-9El"; */
+"J2m-n0-9El.title" = "启用批处理更新模式";
+
+/* Class = "NSButtonCell"; title = "Use default font"; ObjectID = "Mgw-Au-gnX"; */
+"Mgw-Au-gnX.title" = "使用默认字体";
+
+/* Class = "NSButtonCell"; title = "Synchronize record after modifying"; ObjectID = "W9Y-t0-4Vy"; */
+"W9Y-t0-4Vy.title" = "修改后同步记录";
+
+/* Class = "NSTextFieldCell"; title = "Font:"; ObjectID = "fDX-cY-ot8"; */
+"fDX-cY-ot8.title" = "字体:";
+
+/* Class = "NSButtonCell"; title = "Trigger editing by single click"; ObjectID = "mqY-ka-v8D"; */
+"mqY-ka-v8D.title" = "单击以编辑";
+
+/* Class = "NSButtonCell"; title = "Limit records"; ObjectID = "pvj-DN-es1"; */
+"pvj-DN-es1.title" = "限制记录";
+
+/* Class = "NSButtonCell"; title = "Auto begin transaction"; ObjectID = "qPA-8j-vBK"; */
+"qPA-8j-vBK.title" = "自动开始事务";
+

@@ -1,0 +1,34 @@
+
+/* Class = "NSTextFieldCell"; title = "Processed Records:"; ObjectID = "3g2-vJ-AE1"; */
+"3g2-vJ-AE1.title" = "已处理记录:";
+
+/* Class = "NSTextFieldCell"; title = "Errors:"; ObjectID = "6t3-7k-MF5"; */
+"6t3-7k-MF5.title" = "错误:";
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "7zS-gX-aiK"; */
+"7zS-gX-aiK.title" = "0";
+
+/* Class = "NSTextFieldCell"; title = "Message Log:"; ObjectID = "HNj-Vz-kxL"; */
+"HNj-Vz-kxL.title" = "信息日志:";
+
+/* Class = "NSTextFieldCell"; title = "Objects:"; ObjectID = "aha-x1-hwp"; */
+"aha-x1-hwp.title" = "对象:";
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "iQ6-En-pg7"; */
+"iQ6-En-pg7.title" = "0";
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "kyj-om-X30"; */
+"kyj-om-X30.title" = "0";
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "tEv-Km-4Ti"; */
+"tEv-Km-4Ti.title" = "0";
+
+/* Class = "NSTextFieldCell"; title = "Transferred Records:"; ObjectID = "vMm-0x-Yci"; */
+"vMm-0x-Yci.title" = "已传输记录:";
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "xRm-LO-aKI"; */
+"xRm-LO-aKI.title" = "0";
+
+/* Class = "NSTextFieldCell"; title = "Time:"; ObjectID = "xc6-0p-5gl"; */
+"xc6-0p-5gl.title" = "时间:";
+

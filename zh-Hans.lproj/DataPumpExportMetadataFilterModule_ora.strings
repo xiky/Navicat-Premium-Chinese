@@ -1,0 +1,13 @@
+
+/* Class = "NSButtonCell"; title = "Exclude"; ObjectID = "82M-I5-DX9"; */
+"82M-I5-DX9.title" = "排除";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "A6j-mF-mG0"; */
+"A6j-mF-mG0.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "Include"; ObjectID = "CSd-pq-l7M"; */
+"CSd-pq-l7M.title" = "包含";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "U78-cq-wt8"; */
+"U78-cq-wt8.title" = "Text Cell";
+

@@ -1,0 +1,13 @@
+
+/* Class = "NSTextFieldCell"; title = "Deferrable:"; ObjectID = "MZU-qb-HLW"; */
+"MZU-qb-HLW.title" = "可延迟:";
+
+/* Class = "NSButtonCell"; title = "Constraint"; ObjectID = "Th3-Py-dCv"; */
+"Th3-Py-dCv.title" = "约束";
+
+/* Class = "NSTextFieldCell"; title = "Deferred:"; ObjectID = "sLu-tg-i16"; */
+"sLu-tg-i16.title" = "延迟:";
+
+/* Class = "NSTextFieldCell"; title = "Referenced Table:"; ObjectID = "tuM-jV-YPn"; */
+"tuM-jV-YPn.title" = "参考表:";
+

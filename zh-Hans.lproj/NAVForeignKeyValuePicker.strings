@@ -1,0 +1,55 @@
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "16"; */
+"16.title" = "Menu";
+
+/* Class = "NSMenuItem"; title = "Grid Cell"; ObjectID = "17"; */
+"17.title" = "网格";
+
+/* Class = "NSMenu"; title = "Grid Cell"; ObjectID = "18"; */
+"18.title" = "网格";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "19"; */
+"19.title" = "查找下一个";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "21"; */
+"21.title" = "查找…";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Refresh"; ObjectID = "32"; */
+"32.ibShadowedToolTip" = "刷新";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Show All"; ObjectID = "36"; */
+"36.ibShadowedToolTip" = "全部显示";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Filter"; ObjectID = "81"; */
+"81.placeholderString" = "筛选";
+
+/* Class = "NSTextFieldCell"; title = "Showing first %d records"; ObjectID = "83"; */
+"83.title" = "显示首 %d 条记录";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "95"; */
+"95.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "96"; */
+"96.title" = "确定";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "5LR-YZ-XSy"; */
+"5LR-YZ-XSy.title" = "全选";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "BNQ-lM-aLM"; */
+"BNQ-lM-aLM.title" = "Menu";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Show/Hide Columns"; ObjectID = "VjF-by-cOl"; */
+"VjF-by-cOl.ibShadowedToolTip" = "显示或隐藏列";
+
+/* Class = "NSMenuItem"; title = "Deselect All"; ObjectID = "XLP-Cw-jgP"; */
+"XLP-Cw-jgP.title" = "取消全选";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "hDJ-xg-HC1"; */
+"hDJ-xg-HC1.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "iCD-sz-Vrh"; */
+"iCD-sz-Vrh.title" = "Text Cell";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "m36-o1-B2O"; */
+"m36-o1-B2O.title" = "窗口";
+

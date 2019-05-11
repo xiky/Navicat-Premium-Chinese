@@ -1,0 +1,28 @@
+
+/* Class = "NSButtonCell"; title = "Limit connection sessions:"; ObjectID = "0j9-al-Q1g"; */
+"0j9-al-Q1g.title" = "限制连接会话:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "240"; ObjectID = "6gm-yA-xax"; */
+"6gm-yA-xax.placeholderString" = "240";
+
+/* Class = "NSTextFieldCell"; title = "Client Character Set:"; ObjectID = "6xI-lF-wNy"; */
+"6xI-lF-wNy.title" = "客户端字符集:";
+
+/* Class = "NSButtonCell"; title = "Keepalive interval (sec):"; ObjectID = "95s-i9-VJb"; */
+"95s-i9-VJb.title" = "保持连接间隔（秒）:";
+
+/* Class = "NSTextFieldCell"; title = "Settings Location:"; ObjectID = "Z1C-To-ka1"; */
+"Z1C-To-ka1.title" = "设置位置:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "10"; ObjectID = "cSq-W9-aaa"; */
+"cSq-W9-aaa.placeholderString" = "10";
+
+/* Class = "NSTextFieldCell"; title = "Encoding:"; ObjectID = "d3E-uo-bhC"; */
+"d3E-uo-bhC.title" = "编码:";
+
+/* Class = "NSButtonCell"; title = "Auto connect"; ObjectID = "fXa-PY-Gmz"; */
+"fXa-PY-Gmz.title" = "自动连接";
+
+/* Class = "NSMenuItem"; title = "Auto"; ObjectID = "r4y-1W-wna"; */
+"r4y-1W-wna.title" = "自动";
+

@@ -1,0 +1,118 @@
+
+/* Class = "NSTextFieldCell"; title = "% Free:"; ObjectID = "0iU-ND-9tQ"; */
+"0iU-ND-9tQ.title" = "% 可用:";
+
+/* Class = "NSBox"; title = "Storage"; ObjectID = "13U-bD-BNM"; */
+"13U-bD-BNM.title" = "存储";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "15z-NQ-3kL"; */
+"15z-NQ-3kL.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "2J7-oh-cuO"; */
+"2J7-oh-cuO.title" = "Item 1";
+
+/* Class = "NSTextFieldCell"; title = "% Used:"; ObjectID = "4Ab-qA-NIR"; */
+"4Ab-qA-NIR.title" = "% 已使用:";
+
+/* Class = "NSButtonCell"; title = "Null"; ObjectID = "636-gW-ICa"; */
+"636-gW-ICa.title" = "Null";
+
+/* Class = "NSTextFieldCell"; title = "Next:"; ObjectID = "6jk-jg-0zK"; */
+"6jk-jg-0zK.title" = "下一步:";
+
+/* Class = "NSTextFieldCell"; title = "Min Extents:"; ObjectID = "7u9-kq-RaF"; */
+"7u9-kq-RaF.title" = "最小扩展区:";
+
+/* Class = "NSTextFieldCell"; title = "Initial Transactions:"; ObjectID = "AbR-qj-Uw2"; */
+"AbR-qj-Uw2.title" = "初始事务:";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "Adf-Rj-4DC"; */
+"Adf-Rj-4DC.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "Bvk-ac-4lP"; */
+"Bvk-ac-4lP.title" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Initial:"; ObjectID = "C1Z-R5-TFb"; */
+"C1Z-R5-TFb.title" = "初始:";
+
+/* Class = "NSWindow"; title = "Physical Attributes"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "实体属性";
+
+/* Class = "NSTextFieldCell"; title = "Freelists:"; ObjectID = "FGF-kI-qTo"; */
+"FGF-kI-qTo.title" = "可用列表:";
+
+/* Class = "NSTextFieldCell"; title = "Flash Cache:"; ObjectID = "L7U-xu-fR8"; */
+"L7U-xu-fR8.title" = "快闪缓存:";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "PmK-dN-sLL"; */
+"PmK-dN-sLL.title" = "Item 2";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "Q0N-J1-Vm1"; */
+"Q0N-J1-Vm1.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "Unlimited"; ObjectID = "Rlo-1Q-OVM"; */
+"Rlo-1Q-OVM.title" = "无限制";
+
+/* Class = "NSComboBoxCell"; Rzc-DF-63l.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "Rzc-DF-63l"; */
+"Rzc-DF-63l.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; Rzc-DF-63l.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "Rzc-DF-63l"; */
+"Rzc-DF-63l.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; Rzc-DF-63l.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "Rzc-DF-63l"; */
+"Rzc-DF-63l.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Max Extents:"; ObjectID = "UkO-ub-KDI"; */
+"UkO-ub-KDI.title" = "最大扩展区:";
+
+/* Class = "NSTextFieldCell"; title = "Maximum Transactions:"; ObjectID = "VkU-wA-CGd"; */
+"VkU-wA-CGd.title" = "最大事务:";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "XbR-BS-M8F"; */
+"XbR-BS-M8F.title" = "Item 3";
+
+/* Class = "NSComboBoxCell"; Yvb-k4-pot.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "Yvb-k4-pot"; */
+"Yvb-k4-pot.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; Yvb-k4-pot.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "Yvb-k4-pot"; */
+"Yvb-k4-pot.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; Yvb-k4-pot.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "Yvb-k4-pot"; */
+"Yvb-k4-pot.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Freelist Groups:"; ObjectID = "cpm-P6-xRl"; */
+"cpm-P6-xRl.title" = "可用列表组:";
+
+/* Class = "NSComboBoxCell"; crm-eW-FO6.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "crm-eW-FO6"; */
+"crm-eW-FO6.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; crm-eW-FO6.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "crm-eW-FO6"; */
+"crm-eW-FO6.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; crm-eW-FO6.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "crm-eW-FO6"; */
+"crm-eW-FO6.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Optimal:"; ObjectID = "cyo-Xt-ZyN"; */
+"cyo-Xt-ZyN.title" = "优化:";
+
+/* Class = "NSTextFieldCell"; title = "Max Size:"; ObjectID = "ddE-Ac-FgZ"; */
+"ddE-Ac-FgZ.title" = "最大大小:";
+
+/* Class = "NSTextFieldCell"; title = "% Increase:"; ObjectID = "ddq-LR-pAL"; */
+"ddq-LR-pAL.title" = "% 增加:";
+
+/* Class = "NSComboBoxCell"; e7F-ns-w9H.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "e7F-ns-w9H"; */
+"e7F-ns-w9H.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; e7F-ns-w9H.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "e7F-ns-w9H"; */
+"e7F-ns-w9H.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; e7F-ns-w9H.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "e7F-ns-w9H"; */
+"e7F-ns-w9H.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSButtonCell"; title = "Unlimited"; ObjectID = "ojI-SH-ED3"; */
+"ojI-SH-ED3.title" = "无限制";
+
+/* Class = "NSTextFieldCell"; title = "Buffer Pool:"; ObjectID = "xqm-h4-A52"; */
+"xqm-h4-A52.title" = "缓冲池:";
+

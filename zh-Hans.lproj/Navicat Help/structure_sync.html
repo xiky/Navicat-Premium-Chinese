@@ -1,0 +1,28 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>关于结构同步</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>关于结构同步（仅适用于非 Essentials 版）</h1>
+	<p>Navicat 让你以详细分析的进程比对和修改表的结构和其他对象。换句话说，Navicat 能比对两个数据库和/或模式之间的对象并显示其结构的差异处。若要打开结构同步窗口，请从菜单栏选择“<span class="term">工具</span>”->“<span class="term">结构同步</span>”。</p>
+	<p>你可以将设置保存为一个配置文件以供将来使用。若要打开一个已保存的配置文件，请点击“<span class="term">加载配置文件</span>”按钮并从列表中选择。</p>
+	<div class="alert">
+		<p><span class="hint">【提示】</span>配置文件保存于默认的路径，例如：~/Library/Application Support/PremiumSoft CyberTech/Navicat CC/Common/Profiles</p>
+	</div>
+	<div class="alert">
+		<p><span class="note">【注意】</span>仅适用于 MySQL、Oracle、PostgreSQL、SQL Server 和 MariaDB。Navicat Premium 和 Navicat for MySQL 均支持 MySQL 与 MariaDB 之间的同步。</p>
+	</div>
+</div>

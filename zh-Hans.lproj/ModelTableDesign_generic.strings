@@ -1,0 +1,76 @@
+
+/* Class = "NSTabViewItem"; label = "Comment"; ObjectID = "90"; */
+"90.label" = "注释";
+
+/* Class = "NSTabViewItem"; label = "Attributes"; ObjectID = "91"; */
+"91.label" = "属性";
+
+/* Class = "NSTabViewItem"; label = "Indexes"; ObjectID = "92"; */
+"92.label" = "索引";
+
+/* Class = "NSTextFieldCell"; title = "Comment:"; ObjectID = "102"; */
+"102.title" = "注释:";
+
+/* Class = "NSButtonCell"; title = "…"; ObjectID = "103"; */
+"103.title" = "…";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "110"; */
+"110.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Default Value:"; ObjectID = "124"; */
+"124.title" = "默认值:";
+
+/* Class = "NSTextFieldCell"; title = "Comment:"; ObjectID = "125"; */
+"125.title" = "注释:";
+
+/* Class = "NSButtonCell"; title = "…"; ObjectID = "126"; */
+"126.title" = "…";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "132"; */
+"132.title" = "Text Cell";
+
+/* Class = "NSSegmentedCell"; 139.ibShadowedLabels[0] = "Attributes"; ObjectID = "139"; */
+"139.ibShadowedLabels[0]" = "属性";
+
+/* Class = "NSSegmentedCell"; 139.ibShadowedLabels[1] = "Indexes"; ObjectID = "139"; */
+"139.ibShadowedLabels[1]" = "索引";
+
+/* Class = "NSSegmentedCell"; 139.ibShadowedLabels[2] = "Relations"; ObjectID = "139"; */
+"139.ibShadowedLabels[2]" = "关系";
+
+/* Class = "NSSegmentedCell"; 139.ibShadowedLabels[3] = "Uniques"; ObjectID = "139"; */
+"139.ibShadowedLabels[3]" = "唯一键";
+
+/* Class = "NSSegmentedCell"; 139.ibShadowedLabels[4] = "Comment"; ObjectID = "139"; */
+"139.ibShadowedLabels[4]" = "注释";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "140"; */
+"140.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "141"; */
+"141.title" = "取消";
+
+/* Class = "NSTabViewItem"; label = "Relations"; ObjectID = "169"; */
+"169.label" = "关系";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "182"; */
+"182.title" = "Text Cell";
+
+/* Class = "NSTabViewItem"; label = "Uniques"; ObjectID = "270"; */
+"270.label" = "唯一键";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "295"; */
+"295.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "…"; ObjectID = "305"; */
+"305.title" = "…";
+
+/* Class = "NSTextFieldCell"; title = "Comment:"; ObjectID = "306"; */
+"306.title" = "注释:";
+
+/* Class = "NSButtonCell"; title = "…"; ObjectID = "337"; */
+"337.title" = "…";
+
+/* Class = "NSTextFieldCell"; title = "Comment:"; ObjectID = "338"; */
+"338.title" = "注释:";
+

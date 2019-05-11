@@ -1,0 +1,220 @@
+
+/* Class = "NSWindow"; title = "Synchronize to Database"; ObjectID = "3"; */
+"3.title" = "同步到数据库";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "16"; */
+"16.title" = "继续";
+
+/* Class = "NSButtonCell"; title = "Go Back"; ObjectID = "17"; */
+"17.title" = "返回";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "20"; */
+"20.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Options"; ObjectID = "21"; */
+"21.title" = "选项";
+
+/* Class = "NSButtonCell"; title = "Objects"; ObjectID = "22"; */
+"22.title" = "对象";
+
+/* Class = "NSButtonCell"; title = "Connection"; ObjectID = "24"; */
+"24.title" = "连接";
+
+/* Class = "NSButtonCell"; title = "Level"; ObjectID = "25"; */
+"25.title" = "级别";
+
+/* Class = "NSTabViewItem"; label = "Options"; ObjectID = "26"; */
+"26.label" = "选项";
+
+/* Class = "NSTabViewItem"; label = "Connection"; ObjectID = "27"; */
+"27.label" = "连接";
+
+/* Class = "NSTabViewItem"; label = "Objects"; ObjectID = "28"; */
+"28.label" = "对象";
+
+/* Class = "NSTabViewItem"; label = "Level"; ObjectID = "29"; */
+"29.label" = "级别";
+
+/* Class = "NSTextFieldCell"; title = "Select Synchronization Type"; ObjectID = "36"; */
+"36.title" = "选择同步类型";
+
+/* Class = "NSTextFieldCell"; title = "You can select \"Sync with selected schemas\" or \"Sync with selected objects\" for synchronization."; ObjectID = "37"; */
+"37.title" = "你可以为同步选择“同步已选择的模式”或“同步已选择的对象”。";
+
+/* Class = "NSTextFieldCell"; title = "Choose <sth>"; ObjectID = "126"; */
+"126.title" = "Choose <sth>";
+
+/* Class = "NSTextFieldCell"; title = "Please select the <sth> to be synchronized."; ObjectID = "127"; */
+"127.title" = "Please select the <sth> to be synchronized.";
+
+/* Class = "NSButtonCell"; title = "Select All"; ObjectID = "128"; */
+"128.title" = "全选";
+
+/* Class = "NSButtonCell"; title = "Unselect All"; ObjectID = "129"; */
+"129.title" = "取消全选";
+
+/* Class = "NSTextFieldCell"; title = "Select Target Connection"; ObjectID = "142"; */
+"142.title" = "选择目标连接";
+
+/* Class = "NSTextFieldCell"; title = "Sync Options"; ObjectID = "154"; */
+"154.title" = "同步选项";
+
+/* Class = "NSButtonCell"; title = "Compare"; ObjectID = "161"; */
+"161.title" = "比对";
+
+/* Class = "NSTabViewItem"; label = "Compare"; ObjectID = "165"; */
+"165.label" = "比对";
+
+/* Class = "NSTextFieldCell"; title = "Please select the connection you want to sync with."; ObjectID = "263"; */
+"263.title" = "请选择你要同步的连接。";
+
+/* Class = "NSBox"; title = "Compare Options"; ObjectID = "264"; */
+"264.title" = "比对选项";
+
+/* Class = "NSBox"; title = "Execution Options"; ObjectID = "265"; */
+"265.title" = "运行选项";
+
+/* Class = "NSTextFieldCell"; title = "Comparison Result"; ObjectID = "267"; */
+"267.title" = "比对结果";
+
+/* Class = "NSTextFieldCell"; title = "Define the default schema name for comparison:"; ObjectID = "339"; */
+"339.title" = "定义比对的默认模式名:";
+
+/* Class = "NSTextFieldCell"; title = "The comparison is in progress..."; ObjectID = "341"; */
+"341.title" = "比对正在进行中 …";
+
+/* Class = "NSBox"; title = "Result"; ObjectID = "375"; */
+"375.title" = "结果";
+
+/* Class = "NSButtonCell"; title = "Select All"; ObjectID = "377"; */
+"377.title" = "全选";
+
+/* Class = "NSButtonCell"; title = "Unselect All"; ObjectID = "379"; */
+"379.title" = "取消全选";
+
+/* Class = "NSButtonCell"; title = "Invert"; ObjectID = "381"; */
+"381.title" = "反转";
+
+/* Class = "NSButtonCell"; title = "Run Queries"; ObjectID = "391"; */
+"391.title" = "运行查询";
+
+/* Class = "NSTabViewItem"; label = "Run"; ObjectID = "392"; */
+"392.label" = "运行";
+
+/* Class = "NSTextFieldCell"; title = "The wizard is ready to run the queries you have selected."; ObjectID = "396"; */
+"396.title" = "向导已准备运行你所选择的查询。";
+
+/* Class = "NSTextFieldCell"; title = "Run Selected Queries"; ObjectID = "397"; */
+"397.title" = "运行已选择的查询";
+
+/* Class = "NSTextFieldCell"; title = "You can change options for comparison and execution here. "; ObjectID = "399"; */
+"399.title" = "你可以在此更改比对和运行的选项。";
+
+/* Class = "NSButtonCell"; title = "Compare in case sensitive"; ObjectID = "417"; */
+"417.title" = "用大小写相关比对";
+
+/* Class = "NSButtonCell"; title = "Compare primary keys"; ObjectID = "419"; */
+"419.title" = "比对主键";
+
+/* Class = "NSButtonCell"; title = "Compare foreign keys"; ObjectID = "421"; */
+"421.title" = "比对外键";
+
+/* Class = "NSButtonCell"; title = "Compare indexes"; ObjectID = "423"; */
+"423.title" = "比对索引";
+
+/* Class = "NSButtonCell"; title = "Compare character set"; ObjectID = "425"; */
+"425.title" = "比对字符集";
+
+/* Class = "NSButtonCell"; title = "SQL for objects to be created"; ObjectID = "427"; */
+"427.title" = "创建对象的 SQL";
+
+/* Class = "NSButtonCell"; title = "SQL for objects to be changed"; ObjectID = "429"; */
+"429.title" = "更改对象的 SQL";
+
+/* Class = "NSButtonCell"; title = "SQL for objects to be dropped"; ObjectID = "431"; */
+"431.title" = "删除对象的 SQL";
+
+/* Class = "NSButtonCell"; title = "Continue on error"; ObjectID = "433"; */
+"433.title" = "遇到错误时继续";
+
+/* Class = "NSButtonCell"; title = "Compare uniques"; ObjectID = "435"; */
+"435.title" = "比对唯一键";
+
+/* Class = "NSButtonCell"; title = "Compare collation"; ObjectID = "437"; */
+"437.title" = "比对排序规则";
+
+/* Class = "NSButtonCell"; title = "Compare auto increment value"; ObjectID = "482"; */
+"482.title" = "比对自动递增值";
+
+/* Class = "NSTextFieldCell"; title = "Press the Compare button to start comparison."; ObjectID = "491"; */
+"491.title" = "按比对按钮来启动比对。";
+
+/* Class = "NSTextFieldCell"; title = "Press the run button to start the process."; ObjectID = "493"; */
+"493.title" = "按运行按钮来启动进程。";
+
+/* Class = "NSTextFieldCell"; title = "Items Altered"; ObjectID = "531"; */
+"531.title" = "已修改項目";
+
+/* Class = "NSTextFieldCell"; title = "New Items"; ObjectID = "532"; */
+"532.title" = "新建项目";
+
+/* Class = "NSButtonCell"; title = "Connection"; ObjectID = "555"; */
+"555.title" = "连接";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "560"; */
+"560.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Database Objects"; ObjectID = "612"; */
+"612.title" = "数据库对象";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "617"; */
+"617.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "624"; */
+"624.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Model Objects"; ObjectID = "625"; */
+"625.title" = "模型对象";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "4Pf-ek-pVA"; */
+"4Pf-ek-pVA.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Compare tables"; ObjectID = "EjV-mh-u8o"; */
+"EjV-mh-u8o.title" = "比对表";
+
+/* Class = "NSButtonCell"; title = "Compare excludes"; ObjectID = "HXV-OH-HUb"; */
+"HXV-OH-HUb.title" = "比对排除";
+
+/* Class = "NSTextFieldCell"; title = "Database:"; ObjectID = "JzZ-JC-sjD"; */
+"JzZ-JC-sjD.title" = "数据库:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "PWK-j0-GXK"; */
+"PWK-j0-GXK.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Compare rules"; ObjectID = "UCD-sI-ZQr"; */
+"UCD-sI-ZQr.title" = "比对规则";
+
+/* Class = "NSButtonCell"; title = "Compare views"; ObjectID = "ckm-Wd-NfG"; */
+"ckm-Wd-NfG.title" = "比对视图";
+
+/* Class = "NSButtonCell"; title = "Compare definers"; ObjectID = "gN3-ZI-yMH"; */
+"gN3-ZI-yMH.title" = "比对定义者";
+
+/* Class = "NSButtonCell"; title = "Compare triggers"; ObjectID = "hqw-ZX-UZp"; */
+"hqw-ZX-UZp.title" = "比对触发器";
+
+/* Class = "NSButtonCell"; title = "Compare rules"; ObjectID = "ilS-48-85U"; */
+"ilS-48-85U.title" = "比对规则";
+
+/* Class = "NSComboBoxCell"; lHt-kO-kO1.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "lHt-kO-kO1"; */
+"lHt-kO-kO1.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; lHt-kO-kO1.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "lHt-kO-kO1"; */
+"lHt-kO-kO1.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; lHt-kO-kO1.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "lHt-kO-kO1"; */
+"lHt-kO-kO1.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSButtonCell"; title = "Compare checks"; ObjectID = "toZ-bp-KkR"; */
+"toZ-bp-KkR.title" = "比对检查";
+

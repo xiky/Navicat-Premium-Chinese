@@ -1,0 +1,28 @@
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "2AY-4f-EId"; */
+"2AY-4f-EId.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Grant All"; ObjectID = "2CX-Fl-SDs"; */
+"2CX-Fl-SDs.title" = "全部授予";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "3et-eZ-fYX"; */
+"3et-eZ-fYX.title" = "Table View Cell";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "F5y-gX-wVd"; */
+"F5y-gX-wVd.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "M6F-Jk-MZP"; */
+"M6F-Jk-MZP.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "euh-7J-Lo3"; */
+"euh-7J-Lo3.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "fhk-ze-vzG"; */
+"fhk-ze-vzG.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "jg7-xw-jjk"; */
+"jg7-xw-jjk.title" = "确定";
+
+/* Class = "NSMenuItem"; title = "Revoke All"; ObjectID = "r32-wr-olT"; */
+"r32-wr-olT.title" = "全部撤消";
+

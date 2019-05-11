@@ -1,0 +1,10 @@
+
+/* Class = "NSBox"; title = "Import Data Format"; ObjectID = "P1g-sq-GY5"; */
+"P1g-sq-GY5.title" = "导入数据格式";
+
+/* Class = "NSTextFieldCell"; title = "Choose File Format (1/8)"; ObjectID = "Ruh-qT-Mkp"; */
+"Ruh-qT-Mkp.title" = "Choose File Format (1/8)";
+
+/* Class = "NSTextFieldCell"; title = "This wizard allows you to specify details on how should import your data. Which import data format would you like?"; ObjectID = "bxv-TQ-fHL"; */
+"bxv-TQ-fHL.title" = "这个向导允许你指定如何导入数据。你要选择哪种数据导入格式？";
+

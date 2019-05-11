@@ -1,0 +1,28 @@
+
+/* Class = "NSTextFieldCell"; title = "Location:"; ObjectID = "0Zi-r9-pED"; */
+"0Zi-r9-pED.title" = "位置:";
+
+/* Class = "NSTextFieldCell"; title = "Server Type:"; ObjectID = "66L-aw-qE6"; */
+"66L-aw-qE6.title" = "服务器类型:";
+
+/* Class = "NSTextFieldCell"; title = "Provider String:"; ObjectID = "8SA-ra-SuO"; */
+"8SA-ra-SuO.title" = "提供程序字符串:";
+
+/* Class = "NSTextFieldCell"; title = "Product Name:"; ObjectID = "Ej0-Ad-HDE"; */
+"Ej0-Ad-HDE.title" = "产品名:";
+
+/* Class = "NSTextFieldCell"; title = "Data Source:"; ObjectID = "GNc-eu-hfs"; */
+"GNc-eu-hfs.title" = "数据源:";
+
+/* Class = "NSButtonCell"; title = "SQL Server"; ObjectID = "Nes-Yu-nX4"; */
+"Nes-Yu-nX4.title" = "SQL Server";
+
+/* Class = "NSTextFieldCell"; title = "Catalog:"; ObjectID = "ZWE-Yr-6W7"; */
+"ZWE-Yr-6W7.title" = "目录:";
+
+/* Class = "NSTextFieldCell"; title = "Provider:"; ObjectID = "dgL-Ut-iKH"; */
+"dgL-Ut-iKH.title" = "提供程序:";
+
+/* Class = "NSButtonCell"; title = "Other data source"; ObjectID = "j66-5C-rjF"; */
+"j66-5C-rjF.title" = "其他数据源";
+

@@ -1,0 +1,85 @@
+
+/* Class = "NSWindow"; title = "Export SQL"; ObjectID = "1"; */
+"1.title" = "导出 SQL";
+
+/* Class = "NSSegmentedCell"; 144.ibShadowedLabels[0] = "General"; ObjectID = "144"; */
+"144.ibShadowedLabels[0]" = "常规";
+
+/* Class = "NSSegmentedCell"; 144.ibShadowedLabels[1] = "Advanced"; ObjectID = "144"; */
+"144.ibShadowedLabels[1]" = "高级";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "145"; */
+"145.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "146"; */
+"146.title" = "确定";
+
+/* Class = "NSTabViewItem"; label = "Advanced"; ObjectID = "147"; */
+"147.label" = "高级";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "148"; */
+"148.label" = "常规";
+
+/* Class = "NSTextFieldCell"; title = "Select objects to export:"; ObjectID = "158"; */
+"158.title" = "选择要导出的对象:";
+
+/* Class = "NSButtonCell"; title = "Select All"; ObjectID = "166"; */
+"166.title" = "全选";
+
+/* Class = "NSTextFieldCell"; title = "Export to File:"; ObjectID = "167"; */
+"167.title" = "导出到文件:";
+
+/* Class = "NSButtonCell"; title = "…"; ObjectID = "169"; */
+"169.title" = "…";
+
+/* Class = "NSButtonCell"; title = "Unselect All"; ObjectID = "170"; */
+"170.title" = "取消全选";
+
+/* Class = "NSTextFieldCell"; title = "Server Version:"; ObjectID = "187"; */
+"187.title" = "服务器版本:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "189"; */
+"189.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Default Schema Name:"; ObjectID = "194"; */
+"194.title" = "默认模式名:";
+
+/* Class = "NSButtonCell"; title = "Include schema name"; ObjectID = "195"; */
+"195.title" = "包含模式名";
+
+/* Class = "NSButtonCell"; title = "Include primary keys"; ObjectID = "199"; */
+"199.title" = "包含主键";
+
+/* Class = "NSButtonCell"; title = "Include foreign keys"; ObjectID = "200"; */
+"200.title" = "包含外键";
+
+/* Class = "NSButtonCell"; title = "Include indexes"; ObjectID = "201"; */
+"201.title" = "包含索引";
+
+/* Class = "NSButtonCell"; title = "Include character set"; ObjectID = "202"; */
+"202.title" = "包含字符集";
+
+/* Class = "NSButtonCell"; title = "Include uniques"; ObjectID = "203"; */
+"203.title" = "包含唯一键";
+
+/* Class = "NSButtonCell"; title = "Include Drop SQL"; ObjectID = "204"; */
+"204.title" = "包含删除 SQL";
+
+/* Class = "NSButtonCell"; title = "Drop with CASCADE"; ObjectID = "230"; */
+"230.title" = "用级联删除";
+
+/* Class = "NSButtonCell"; title = "Include auto increment"; ObjectID = "245"; */
+"245.title" = "包含自动递增";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1jw-yD-pQY"; */
+"1jw-yD-pQY.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Server Edition:"; ObjectID = "DWr-7N-OvJ"; */
+"DWr-7N-OvJ.title" = "服务器版本:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "EEv-4l-QFF"; */
+"EEv-4l-QFF.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "KVB-L7-I4Y"; */
+"KVB-L7-I4Y.title" = "Text Cell";
+

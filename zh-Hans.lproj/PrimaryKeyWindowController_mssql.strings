@@ -1,0 +1,16 @@
+
+/* Class = "NSWindow"; title = "Primary Key Properties"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "主键属性";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "MNF-4P-s76"; */
+"MNF-4P-s76.title" = "名:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "eBG-PK-2ku"; */
+"eBG-PK-2ku.title" = "确定";
+
+/* Class = "NSTextFieldCell"; title = "Fill Factor (%):"; ObjectID = "hgs-1B-sIM"; */
+"hgs-1B-sIM.title" = "填充因子（%）:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "zO3-MG-6PX"; */
+"zO3-MG-6PX.title" = "取消";
+

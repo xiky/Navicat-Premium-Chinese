@@ -1,0 +1,64 @@
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "2kv-lt-JBl"; */
+"2kv-lt-JBl.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "7NO-mx-PmD"; */
+"7NO-mx-PmD.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "AuS-hE-Aoz"; */
+"AuS-hE-Aoz.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Language Override:"; ObjectID = "CEF-Ss-kSa"; */
+"CEF-Ss-kSa.title" = "语言覆盖:";
+
+/* Class = "NSComboBoxCell"; Kw6-NU-6LB.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "Kw6-NU-6LB"; */
+"Kw6-NU-6LB.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; Kw6-NU-6LB.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "Kw6-NU-6LB"; */
+"Kw6-NU-6LB.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; Kw6-NU-6LB.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "Kw6-NU-6LB"; */
+"Kw6-NU-6LB.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Default Language:"; ObjectID = "LOl-di-KYP"; */
+"LOl-di-KYP.title" = "默认语言:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Qgq-W5-YjK"; */
+"Qgq-W5-YjK.title" = "Text Cell";
+
+/* Class = "NSTabViewItem"; label = "Weight"; ObjectID = "S3g-2e-kAF"; */
+"S3g-2e-kAF.label" = "权重";
+
+/* Class = "NSTableColumn"; headerCell.title = "Field"; ObjectID = "WIm-gw-oE1"; */
+"WIm-gw-oE1.headerCell.title" = "字段";
+
+/* Class = "NSComboBoxCell"; afL-xD-8V9.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "afL-xD-8V9"; */
+"afL-xD-8V9.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; afL-xD-8V9.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "afL-xD-8V9"; */
+"afL-xD-8V9.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; afL-xD-8V9.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "afL-xD-8V9"; */
+"afL-xD-8V9.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTableColumn"; headerCell.title = "Weight"; ObjectID = "gr9-ia-Jxa"; */
+"gr9-ia-Jxa.headerCell.title" = "权重";
+
+/* Class = "NSTextFieldCell"; title = "Index Version:"; ObjectID = "mmu-cc-Euf"; */
+"mmu-cc-Euf.title" = "索引版本:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "qKf-jN-Hoy"; */
+"qKf-jN-Hoy.title" = "Text Cell";
+
+/* Class = "NSComboBoxCell"; zh8-FQ-sU8.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "zh8-FQ-sU8"; */
+"zh8-FQ-sU8.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; zh8-FQ-sU8.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "zh8-FQ-sU8"; */
+"zh8-FQ-sU8.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; zh8-FQ-sU8.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "zh8-FQ-sU8"; */
+"zh8-FQ-sU8.ibShadowedObjectValues[2]" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "znF-4y-qGM"; */
+"znF-4y-qGM.title" = "Table View Cell";
+

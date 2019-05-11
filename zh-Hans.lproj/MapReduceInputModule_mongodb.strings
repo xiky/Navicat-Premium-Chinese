@@ -1,0 +1,22 @@
+
+/* Class = "NSTextFieldCell"; title = "Limit:"; ObjectID = "Q8i-Ub-2o8"; */
+"Q8i-Ub-2o8.title" = "限制:";
+
+/* Class = "NSTextFieldCell"; title = "Collection:"; ObjectID = "UUP-97-wAZ"; */
+"UUP-97-wAZ.title" = "集合:";
+
+/* Class = "NSTextFieldCell"; title = "Sort:"; ObjectID = "eJh-Fu-3bi"; */
+"eJh-Fu-3bi.title" = "排序:";
+
+/* Class = "NSTextFieldCell"; title = "Query:"; ObjectID = "lLT-w1-4SD"; */
+"lLT-w1-4SD.title" = "查询:";
+
+/* Class = "NSComboBoxCell"; zOk-4e-fT7.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "zOk-4e-fT7"; */
+"zOk-4e-fT7.ibShadowedObjectValues[0]" = "Item 1";
+
+/* Class = "NSComboBoxCell"; zOk-4e-fT7.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "zOk-4e-fT7"; */
+"zOk-4e-fT7.ibShadowedObjectValues[1]" = "Item 2";
+
+/* Class = "NSComboBoxCell"; zOk-4e-fT7.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "zOk-4e-fT7"; */
+"zOk-4e-fT7.ibShadowedObjectValues[2]" = "Item 3";
+

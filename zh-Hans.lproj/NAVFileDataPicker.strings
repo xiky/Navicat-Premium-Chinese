@@ -1,0 +1,16 @@
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "S8w-uo-JQt"; */
+"S8w-uo-JQt.title" = "取消";
+
+/* Class = "NSWindow"; title = "File Selection"; ObjectID = "Ywj-ok-JDL"; */
+"Ywj-ok-JDL.title" = "文件选择";
+
+/* Class = "NSTextFieldCell"; title = "Directory:"; ObjectID = "bFS-Vv-PWE"; */
+"bFS-Vv-PWE.title" = "目录:";
+
+/* Class = "NSTextFieldCell"; title = "File Name:"; ObjectID = "dCN-lb-CcB"; */
+"dCN-lb-CcB.title" = "文件名:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "oPh-su-HtT"; */
+"oPh-su-HtT.title" = "确定";
+

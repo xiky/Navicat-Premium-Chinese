@@ -1,0 +1,28 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>过程或函数</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>过程或函数</h1>
+	<p>过程和函数（存储例程）由 MySQL 5.0 开始支持。存储例程是一组保存在服务器上的 SQL 语句。在主窗口中，点击 <img src="./images/icon_function.png" alt="函数" class="inlineGraphic" height="16" width="16"/>“<span class="term">函数</span>”来打开函数的对象列表。</p>
+	<h2>函数设计器</h2>
+	<p>“<span class="term">函数设计器</span>”是一个用于设计过程或函数的 Navicat 基本工具。你可以在“<span class="term">定义</span>”选项卡中输入有效的 SQL 语句。这可以是一个简单的语句，如 SELECT 或 INSERT，或它可以是一个用 BEGIN 和 END 写的复合语句。复合语句可以包含声明循环和其它控制结构语句。若要自定义编辑器并查看更多 SQL 编辑功能，请参阅 <a href="#/query_editor">SQL 编辑器</a>。</p>
+	<h2>结果</h2>
+	<p>若要运行过程或函数，请在工具栏点击 <img src="./images/icon_run.png" alt="运行" class="inlineGraphic" height="16" width="16"/>。如果 SQL 语句是正确的，该语句将被运行，以及如果该语句应该返回数据，“<span class="term">结果</span>”选项卡会打开显示返回的数据。如果运行过程或函数时发生错误，运行会停止并显示相应的错误信息。如果过程或函数需要输入参数，“<span class="term">输入参数</span>对话框将弹出。如勾选“<span class="term">原始模式</span>”选项，将不会在传递输入值到过程或函数时添加引号。</p>
+	<div class="alert">
+		<p><span class="note">【注意】</span>Navicat 支持返回 10 个结果集。</p>
+	</div>
+</div>

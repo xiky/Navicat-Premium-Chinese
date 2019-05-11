@@ -1,0 +1,52 @@
+﻿<head>
+	<link href="./tools/css/style.css" rel="stylesheet" type="text/css" />
+	<style>body, html{background-image:none !important;}</style>
+	<script>
+		var url = window.location.href;
+		if (url.indexOf(".html")>0){
+			if (url.indexOf("index.html")<0){
+				document.writeln('<script src="./tools/js/jquery183.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/js/jquery191.js" type="text/javascript"></sc'+'ript>');
+				document.writeln('<script src="./tools/function_single_page.js" type="text/javascript"></sc'+'ript>');
+			}
+		}
+	</script>	
+	<title>查看结构比对结果（步骤二）</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+</head>
+<div class="manual_content_container">
+	<h1>查看结构比对结果（步骤二）</h1>
+	<p>比对结构后，树视图显示源和目标数据库和/或模式之间的不同之处。在默认情况下，树视图内的所有对象均已勾选。你可以取消勾选你不想应用于目标的对象。你可以展开表对象以查看详细的结构。</p>
+	<figure>
+		<a href="./images/structSyncList.png" target="_blank"><img src="./images/structSyncList.png"/></a>
+	</figure>
+	<p>你可以选择 “<span class="term">按对象类型分组</span>”或“<span class="term">按操作分组</span>”来以对象类型或操作为树视图内的对象进行分组。</p>
+	<table>
+		<tr class="tableHeadingRoll">
+			<td width="25%"><p>操作</p></td>
+			<td width="75%"><p>描述</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_objModify.png" alt="修改" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>对象存在于源和目标数据库或模式中，但具有不同的定义。目标对象将根据源对象进行修改。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_objCreate.png" alt="创建" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>对象不存在于目标数据库或模式中。将在目标创建它。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_objDelete.png" alt="删除" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>对象不存在于源数据库或模式中。目标对象将被删除。</p></td>
+		</tr>
+		<tr class="tableRoll">
+			<td width="25%"><p><img src="./images/icon_objNoOperation.png" alt="没有操作" class="inlineGraphic" height="16" width="16"/></p></td>
+			<td width="75%"><p>对象存在于源和目标数据库或模式中，并具有相同的定义。将不执行任何操作。</p></td>
+		</tr>
+	</table>
+	<p>当你在树视图中选择一个对象时，“<span class="term">DDL 比对</span>”选项卡会显示源和目标对象的 DDL 语句，而“<span class="term">部署脚本</span>”选项卡则显示将在目标数据库运行的对象的详细 SQL 语句。</p>
+	<figure>
+		<a href="./images/structSyncDDL.png" target="_blank"><img src="./images/structSyncDDL.png"/></a>
+	</figure>
+	<p>点击“<span class="term">部署</span>”按钮来显示所有已选择的对象的脚本。</p>
+</div>

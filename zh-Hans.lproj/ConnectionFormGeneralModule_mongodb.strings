@@ -1,0 +1,118 @@
+
+/* Class = "NSMenuItem"; title = "Secondary Preferred"; ObjectID = "1EB-rr-eic"; */
+"1EB-rr-eic.title" = "Secondary Preferred";
+
+/* Class = "NSMenuItem"; title = "SCRAM-SHA-1 "; ObjectID = "2Ug-jx-mlZ"; */
+"2Ug-jx-mlZ.title" = "SCRAM-SHA-1 ";
+
+/* Class = "NSTextFieldCell"; title = "Connection:"; ObjectID = "4sL-AU-y1e"; */
+"4sL-AU-y1e.title" = "连接:";
+
+/* Class = "NSButtonCell"; title = "Use canonicalized host name"; ObjectID = "61Y-lf-u3g"; */
+"61Y-lf-u3g.title" = "使用规范化主机名";
+
+/* Class = "NSTextFieldCell"; title = "Authentication Database:"; ObjectID = "6hj-U7-meR"; */
+"6hj-U7-meR.title" = "验证数据库:";
+
+/* Class = "NSButtonCell"; title = "Sync User Name with Navicat Cloud"; ObjectID = "8ep-om-jFF"; */
+"8ep-om-jFF.title" = "与 Navicat Cloud 同步用户名";
+
+/* Class = "NSTextFieldCell"; title = "Host:"; ObjectID = "9sw-qv-7JG"; */
+"9sw-qv-7JG.title" = "主机:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add Member"; ObjectID = "A6A-sd-KSA"; */
+"A6A-sd-KSA.ibShadowedToolTip" = "添加成员";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "BUA-co-lK2"; */
+"BUA-co-lK2.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "My Connections"; ObjectID = "EeJ-uM-YXb"; */
+"EeJ-uM-YXb.title" = "我的连接";
+
+/* Class = "NSTextFieldCell"; title = "User Name:"; ObjectID = "EpP-nS-jat"; */
+"EpP-nS-jat.title" = "用户名:";
+
+/* Class = "NSMenuItem"; title = "MONGODB-CR"; ObjectID = "FEZ-eC-EBx"; */
+"FEZ-eC-EBx.title" = "MONGODB-CR";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JhZ-Br-kkQ"; */
+"JhZ-Br-kkQ.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Edit Password:"; ObjectID = "KKU-cF-WBQ"; */
+"KKU-cF-WBQ.title" = "编辑密码:";
+
+/* Class = "NSTextFieldCell"; title = "* All passwords will not be saved to Navicat Cloud"; ObjectID = "Ktu-CR-ioG"; */
+"Ktu-CR-ioG.title" = "* 所有密码不会保存到 Navicat Cloud";
+
+/* Class = "NSTextFieldCell"; title = "Member:"; ObjectID = "L1m-BI-eyX"; */
+"L1m-BI-eyX.title" = "成员:";
+
+/* Class = "NSMenuItem"; title = "Nearest"; ObjectID = "L9Z-KX-8w5"; */
+"L9Z-KX-8w5.title" = "Nearest";
+
+/* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "NE0-xn-WGC"; */
+"NE0-xn-WGC.title" = "端口:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "27017"; ObjectID = "PwM-St-7hn"; */
+"PwM-St-7hn.placeholderString" = "27017";
+
+/* Class = "NSTextFieldCell"; title = "Add To:"; ObjectID = "Q6O-wd-6Mb"; */
+"Q6O-wd-6Mb.title" = "添加到:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Status"; ObjectID = "V0a-Wo-mMY"; */
+"V0a-Wo-mMY.headerCell.title" = "状态";
+
+/* Class = "NSTextFieldCell"; title = "Service Name:"; ObjectID = "VeO-QZ-lxX"; */
+"VeO-QZ-lxX.title" = "服务名:";
+
+/* Class = "NSButtonCell"; title = "Save password"; ObjectID = "aIR-b0-8BM"; */
+"aIR-b0-8BM.title" = "保存密码";
+
+/* Class = "NSTextFieldCell"; title = "Replica Set:"; ObjectID = "bFy-YH-z1i"; */
+"bFy-YH-z1i.title" = "复制集:";
+
+/* Class = "NSMenuItem"; title = "Primary"; ObjectID = "bRb-u6-N2g"; */
+"bRb-u6-N2g.title" = "Primary";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Member"; ObjectID = "btK-td-JLg"; */
+"btK-td-JLg.ibShadowedToolTip" = "移除成员";
+
+/* Class = "NSTableColumn"; headerCell.title = "Port"; ObjectID = "cbq-T9-c4T"; */
+"cbq-T9-c4T.headerCell.title" = "端口";
+
+/* Class = "NSMenuItem"; title = "Primary Preferred"; ObjectID = "dzL-Ux-bE4"; */
+"dzL-Ux-bE4.title" = "Primary Preferred";
+
+/* Class = "NSTextFieldCell"; title = "Read Preference:"; ObjectID = "fD8-6B-gbr"; */
+"fD8-6B-gbr.title" = "读偏好:";
+
+/* Class = "NSButtonCell"; title = "SRV record"; ObjectID = "fXA-rP-QFY"; */
+"fXA-rP-QFY.title" = "SRV 记录";
+
+/* Class = "NSMenuItem"; title = "Secondary"; ObjectID = "knR-pS-AYX"; */
+"knR-pS-AYX.title" = "第二";
+
+/* Class = "NSMenuItem"; title = "<New Project...>"; ObjectID = "l01-9Q-6YC"; */
+"l01-9Q-6YC.title" = "<New Project...>";
+
+/* Class = "NSTextFieldCell"; title = "Principal:"; ObjectID = "llX-WE-USR"; */
+"llX-WE-USR.title" = "主体:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Discover"; ObjectID = "nqz-r3-KeH"; */
+"nqz-r3-KeH.ibShadowedToolTip" = "发现";
+
+/* Class = "NSTableColumn"; headerCell.title = "Host"; ObjectID = "qNh-cw-1Vl"; */
+"qNh-cw-1Vl.headerCell.title" = "主机";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "tUM-G4-RH8"; */
+"tUM-G4-RH8.title" = "密码:";
+
+/* Class = "NSTextFieldCell"; title = "Connection Name:"; ObjectID = "vEs-5o-gVG"; */
+"vEs-5o-gVG.title" = "连接名:";
+
+/* Class = "NSTextFieldCell"; title = "Authentication:"; ObjectID = "whc-9O-MIb"; */
+"whc-9O-MIb.title" = "验证:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "xiI-Fg-vIy"; */
+"xiI-Fg-vIy.title" = "Text Cell";
+

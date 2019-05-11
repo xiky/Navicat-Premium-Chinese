@@ -1,0 +1,31 @@
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1fN-gg-3HD"; */
+"1fN-gg-3HD.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Retention Guarantee"; ObjectID = "BiG-co-fLy"; */
+"BiG-co-fLy.title" = "保证保留";
+
+/* Class = "NSButtonCell"; title = "Offline"; ObjectID = "DmY-YG-VNo"; */
+"DmY-YG-VNo.title" = "离线";
+
+/* Class = "NSTextFieldCell"; title = "Flashback:"; ObjectID = "GC0-Ma-nxT"; */
+"GC0-Ma-nxT.title" = "闪回:";
+
+/* Class = "NSTextFieldCell"; title = "Tablespace Group:"; ObjectID = "Ghm-nm-3fs"; */
+"Ghm-nm-3fs.title" = "表空间组:";
+
+/* Class = "NSButtonCell"; title = "Force Logging"; ObjectID = "Ras-DJ-1fI"; */
+"Ras-DJ-1fI.title" = "强制记录";
+
+/* Class = "NSBox"; title = "Encryption"; ObjectID = "hbY-i1-mOo"; */
+"hbY-i1-mOo.title" = "加密";
+
+/* Class = "NSTextFieldCell"; title = "Algorithm:"; ObjectID = "nnY-6C-qLr"; */
+"nnY-6C-qLr.title" = "算法:";
+
+/* Class = "NSTextFieldCell"; title = "Logging:"; ObjectID = "r1S-sZ-Ocl"; */
+"r1S-sZ-Ocl.title" = "记录:";
+
+/* Class = "NSButtonCell"; title = "Use encryption"; ObjectID = "zDs-NK-q1k"; */
+"zDs-NK-q1k.title" = "使用加密";
+
